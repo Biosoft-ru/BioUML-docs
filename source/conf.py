@@ -32,7 +32,8 @@ import sys, os
 # ones.
 extensions = [
     'recommonmark',
-    'sphinx_markdown_tables'
+    'sphinx_markdown_tables',
+    'sphinx_simplepdf'
     ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -43,6 +44,9 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+simplepdf_vars = {
+#    'cover-bg': 'url(../_images/biouml.png) no-repeat center / 10% '
+}
 
 # -- Internationalization ----------------------------------------------------
 
