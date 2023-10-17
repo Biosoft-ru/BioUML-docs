@@ -35,11 +35,17 @@ You can open in the browser generated html files fro 'target' directory.
 <br/>```make gettext```
 
 2. Create or update po files for English.
-<br/>```sphinx-intl update -p build/gettext -l en```
+<br/>```sphinx-intl update -p build/gettext -l ru```
 
 3. Translate in Weblate
 
-4. 
+4. To create translated vesrion
+<br/>```make -e SPHINXOPTS="-D language='ru'" html```
+
+<br/> For Windows cmd.exe, run:
+<br/>```set SPHINXOPTS=-D language=ru```
+<br/>```make html```
+
 
 ### References 
 
