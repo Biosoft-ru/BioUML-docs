@@ -1,5 +1,5 @@
 # BioUML-docs
-The BioUML platform documnetation in Rnglish and Russian
+The BioUML platform documnetation in Еnglish and Russian
 
 ## For developer
 
