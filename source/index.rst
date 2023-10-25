@@ -12,7 +12,13 @@ BioUML platform
 
 .. toctree::
    :maxdepth: 2
+   :caption: Getting started with BioUML
 
    intro.rst
+   user_interface.rst
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Modelling
 
+   modelling.rst
