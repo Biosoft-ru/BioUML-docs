@@ -1,7 +1,7 @@
-BioUML user interface
-=====================
+Пользовательный интерфейс BioUML
+================================
 
-Both in the BioUML workbench and BioUML web edition the following areas can be found:
+Интерфейс BioUML состоит из следующих областей:
 
 .. figure:: images/interface/user_interface.png
    :width: 100%
@@ -11,17 +11,14 @@ Both in the BioUML workbench and BioUML web edition the following areas can be f
    BioUML web edition interface
 
 
-**A** - The **Work Space**, which is the main part of the window, contents of projects and databases are viewed and handled. There can be as many tabs in the pane as there are diagrams, workflows, tables etc. opened in the workbench at the moment.
+**A** - **Рабочее пространство** является основной частью окна и позволяет просматривать и обрабатывать содержимое проектов и баз данных. На панели может быть столько вкладок, сколько диаграмм, рабочих процессов, таблиц и т. д. открыто в рабочей среде в данный момент.
 
-**B** - The **General Control Panel** (on top of the Work Space), showing a context-dependent set of icons for the available operations.
+**B** - **Общая панель управления** (сверху от рабочей области) с контекстно-зависимым набором иконок для доступных операций.
 
-**C** - The **Repository Pane Toolbar** (to the left of the Work Space), containing a set of icons for the available operations depending on the item selected in the tree structure of the navigation pane.
+**C** - **Панель инструментов репозитория** (слева от рабочей области), содержащая набор значков для доступных операций в зависимости от элемента, выбранного в древовидной структуре панели навигации.
 
-**D** - The **Repository Tree** (below the Repository Pane Toolbar), where you find a collection of Databases, the uploaded Data files and the available Analyses methods (under the corresponding tabs), organized in a hierarchical tree structure.
+**D** - **Репозиторий** (под панелью инструментов репозитория) содержит коллекцию баз данных, загруженных файлов данных и доступных методов анализа (на соответствующих вкладках), организованных в иерархическую древовидную структуру.
 
-**E** - The **Information Box** (in the left lower part), where you can select the data
-resource to Search in, or where you will get Information about the data file or
-analysis method that you select with a single click in the Tree Area.
+**E** - **Информационное окно** (в левой нижней части) дает информацию о файле или методе анализа, который вы выбираете одним щелчком мыши в репозитории. 
 
-**F** - The **Operations Field** (right lower part), providing a number of
-options under the different tabs in a context-dependent manner.
+**F** - **Поле операций** (правая нижняя часть) предоставляет ряд опций на разных вкладках в зависимости от типа данных, анализа и т.д.
