@@ -19,6 +19,45 @@ BioUML platform
 
 .. toctree::
    :maxdepth: 2
-   :caption: Моделирование
+   :caption: Оcновы моделирования в BioUML
 
-   modelling.rst
+   basics of visual modeling.rst
+   types of diagrams.rst  
+
+.. toctree:: 
+   :maxdepth: 2
+   :caption: Принципы работы с диаграммами
+   
+   first steps in working with a diagram.rst
+   working with diagram elements.rst
+   
+.. toctree:: 
+   :maxdepth: 2
+   :caption: SBGN модели
+   
+   sbgn model.rst
+   sbgn elements.rst
+   new sbgn elements.rst
+   process creation.rst
+   
+.. toctree:: 
+   :maxdepth: 2
+   :caption: Математическая модель
+   
+   mathematical model.rst
+   
+.. toctree:: 
+   :maxdepth: 2
+   :caption: Иерархические модели
+   
+   modular models.rst
+   
+.. toctree:: 
+   :maxdepth: 2
+   :caption: Численный рассчет модели
+   
+   model calculations.rst
+   
+   
+   
+  
