@@ -23,6 +23,13 @@ BioUML platform
 
    basics of visual modeling.rst
    types of diagrams.rst  
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Этапы создания моделей
+
+   sbgn model.rst
+   modular sbgn model.rst
 
 .. toctree:: 
    :maxdepth: 2
@@ -35,7 +42,6 @@ BioUML platform
    :maxdepth: 2
    :caption: SBGN модели
    
-   sbgn model.rst
    sbgn elements.rst
    new sbgn elements.rst
    process creation.rst
