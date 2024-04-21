@@ -115,64 +115,64 @@
     </tr>
     <tr>
         <td>Сохранение текущей версии диаграммы</td>
-        <td><img src="_images/save.gif" alt="Сохранение диаграммы"></td>
+        <td><img src="../../source/images/icons/save.gif" alt="Сохранение диаграммы"></td>
     </tr>
     <tr>
         <td>Сохранение копии диаграммы</td>
-        <td><img src="_images/saveas.gif" alt="Сохранение копии диаграммы"></td>
+        <td><img src="../../source/images/icons/saveas.gif" alt="Сохранение копии диаграммы"></td>
     </tr>
     <tr>
         <td>Восстановление сохраненной версии диаграммы</td>
-        <td><img src="_images/revert_save.gif" alt="Восстановление сохраненной версии диаграммы"></td>
+        <td><img src="../../source/images/icons/revert_save.gif" alt="Восстановление сохраненной версии диаграммы"></td>
     </tr>
     <tr>
         <td>Экспорт диаграммы</td>
-        <td><img src="_images/export.png" alt="Экспорт диаграммы"></td>
+        <td><img src="../../source/images/icons/export.png" alt="Экспорт диаграммы"></td>
     </tr>
     <tr>
         <td>Импорт диаграммы</td>
-        <td><img src="_images/import.gif" alt="Импорт диаграммы"></td>
+        <td><img src="../../source/images/icons/import.gif" alt="Импорт диаграммы"></td>
     </tr>
     <tr>
         <td>Изменить тип диаграммы</td>
-        <td><img src="_images/convert_to_type.png" alt="Изменить тип диаграммы"></td>
+        <td><img src="../../source/images/icons/convert_to_type.png" alt="Изменить тип диаграммы"></td>
     </tr>    
     <tr>
 	    <th colspan="2">Операции отмены и повтора действий</th>
     </tr>
     <tr>
         <td>Отмена действия</td>
-        <td><img src="_images/undo.gif" alt="Отмена действия"></td>
+        <td><img src="../../source/images/icons/undo.gif" alt="Отмена действия"></td>
     </tr>
     <tr>
         <td>Повтор действия</td>
-        <td><img src="_images/redo.gif" alt="Шина"></td>
+        <td><img src="../../source/images/icons/redo.gif" alt="Шина"></td>
     </tr>
     <tr>
         <th colspan="2">Операции масштабирования диаграммы</th>
     </tr>
     <tr>
         <td>Уменьшить масштаб диаграммы</td>
-        <td><img src="_images/zoom_out.png" alt="Уменьшить масштаб диаграммы"></td>
+        <td><img src="../../source/images/icons/zoom_out.png" alt="Уменьшить масштаб диаграммы"></td>
     </tr>
     <tr>
         <td>Увеличить масштаб диаграммы</td>
-        <td><img src="_images/zoom_in.png" alt="Увеличить масштаб диаграммы"></td>
+        <td><img src="../../source/images/icons/zoom_in.png" alt="Увеличить масштаб диаграммы"></td>
     </tr>
     <tr>
         <td>Отобразить полноразмерный вид диаграммы</td>
-        <td><img src="_images/fit_to_screen.png" alt="Отобразить полноразмерный вид диаграммы"></td>
+        <td><img src="../../source/images/icons/fit_to_screen.png" alt="Отобразить полноразмерный вид диаграммы"></td>
 	</tr>
 	<tr>
         <th colspan="2">Опции отображения диаграмм</th>
     </tr>
 	<tr>
         <td>Автоматическая расстановка ребер при перемещении узлов диаграммы</td>
-        <td><img src="_images/set_auto_layout.gif" alt="Автоматическая расстановка ребер при перемещении узлов диаграммы"></td>
+        <td><img src="../../source/images/icons/set_auto_layout.gif" alt="Автоматическая расстановка ребер при перемещении узлов диаграммы"></td>
     </tr>
 	<tr>
         <td>Настройки визуального отображения диаграммы</td>
-        <td><img src="_images/options.gif" alt="Настройки визуального отображения диаграммы"></td>
+        <td><img src="../../source/images/icons/options.gif" alt="Настройки визуального отображения диаграммы"></td>
     </tr>
 	<tr>
 	 <th colspan="2">Удаление и копирование элементов диаграммы</th>
@@ -182,11 +182,11 @@
     </tr>
 	<tr>
         <td>Удаление элемента/элементов диаграммы</td>
-        <td><img src="_images/remove.png" alt="Удаление элемента/элементов диаграммы"></td>
+        <td><img src="../../source/images/icons/remove.png" alt="Удаление элемента/элементов диаграммы"></td>
     </tr>
 	<tr>
         <td>Копирование элемента/элементов диаграммы в новую диаграмму</td>
-        <td><img src="_images/copy.png" alt="Копирование элемента/элементов диаграммы в новую диаграмму"></td>
+        <td><img src="../../source/images/icons/copy.png" alt="Копирование элемента/элементов диаграммы в новую диаграмму"></td>
     </tr>
 	<tr>
 	 <th colspan="2">Опции выравнивания диаграммы</th>
@@ -196,76 +196,76 @@
     </tr>
 	<tr>
        <td>Выравнивание по верхнему краю</td>
-       <td><img src="_images/align_up.png" alt="Выравнивание по верхнему краю"></td>
+       <td><img src="../../source/images/icons/align_up.png" alt="Выравнивание по верхнему краю"></td>
     </tr>	
     <tr>
        <td>Выравнивание по середине</td>
-       <td><img src="_images/align_middle.png" alt="Выравнивание по середине"></td>
+       <td><img src="../../source/images/icons/align_middle.png" alt="Выравнивание по середине"></td>
     </tr>
     <tr>
        <td>Выравнивание по нижнему краю</td>
-       <td><img src="_images/align_down.png" alt="Выравнивание по нижнему краю"></td>
+       <td><img src="../../source/images/icons/align_down.png" alt="Выравнивание по нижнему краю"></td>
     </tr>
     <tr>
        <td>Выравнивание по левому краю</td>
-       <td><img src="_images/align_left.png" alt="Выравнивание по левому краю"></td>
+       <td><img src="../../source/images/icons/align_left.png" alt="Выравнивание по левому краю"></td>
     </tr>
     <tr>
        <td>Выравнивание по центру</td>
-       <td><img src="_images/align_center.png" alt="Выравнивание по центру"></td>
+       <td><img src="../../source/images/icons/align_center.png" alt="Выравнивание по центру"></td>
     </tr>
     <tr>
        <td>Выравнивание по правому краю</td>
-       <td><img src="_images/align_right.png" alt="Выравнивание по правому краю"></td>
+       <td><img src="../../source/images/icons/align_right.png" alt="Выравнивание по правому краю"></td>
     </tr>
 	<tr>
        <td>Горизонтальное выравнивание</td>
-       <td><img src="_images/distribute_horizontally.png" alt="Горизонтальное выравнивание"></td>
+       <td><img src="../../source/images/icons/distribute_horizontally.png" alt="Горизонтальное выравнивание"></td>
     </tr>
 	<tr>
        <td>Вертикальное выравнивание</td>
-       <td><img src="_images/distribute_vertically.png" alt="Вертикальное выравнивание"></td>
+       <td><img src="../../source/images/icons/distribute_vertically.png" alt="Вертикальное выравнивание"></td>
     </tr>
 	<tr>
 	 <th colspan="2">Add upstream/downstream</th>
     </tr>
 	<tr>
        <td>Add upstream</td>
-       <td><img src="_images/distribute_vertically.png" alt="Add upstream"></td>
+       <td><img src="../../source/images/icons/distribute_vertically.png" alt="Add upstream"></td>
     </tr>
 	<tr>
        <td>Add downstream</td>
-       <td><img src="_images/distribute_vertically.png" alt="Add downstream"></td>
+       <td><img src="../../source/images/icons/distribute_vertically.png" alt="Add downstream"></td>
     </tr>
 	<tr>
 	 <th colspan="2">Опции модульного моделирования</th>
     </tr>
 	<tr>
        <td>Смена порта</td>
-       <td><img src="_images/change_port.png" alt="Смена порта"></td>
+       <td><img src="../../source/images/icons/change_port.png" alt="Смена порта"></td>
     </tr>
 	<tr>
        <td>Смена подмодуля</td>
-       <td><img src="_images/change_subdiagram.png" alt="Смена подмодуля"></td>
+       <td><img src="../../source/images/icons/change_subdiagram.png" alt="Смена подмодуля"></td>
     </tr>	
 	<tr>
        <td>Разделение диаграммы на подмодули</td>
-       <td><img src="_images/split_diagram.png" alt="Разделение диаграммы на подмодули"></td>
+       <td><img src="../../source/images/icons/split_diagram.png" alt="Разделение диаграммы на подмодули"></td>
     </tr>	
     <tr>
        <td>Отобразить изменения в подмоделях на модульной диаграмме</td>
-       <td><img src="_images/update_submodel.png" alt="Отобразить изменения в подмоделях на модульной диаграмме"></td>
+       <td><img src="../../source/images/icons/update_submodel.png" alt="Отобразить изменения в подмоделях на модульной диаграмме"></td>
     </tr>
     <tr>
 	 <th colspan="2">Опции клонирования сущностей</th>
     </tr>
 	<tr>
        <td>Создание клона сущности</td>
-       <td><img src="_images/clone_node.png" alt="Создание клона сущности"></td>
+       <td><img src="../../source/images/icons/clone_node.png" alt="Создание клона сущности"></td>
     </tr>
 	<tr>
        <td>Объединение клонов сущностей</td>
-       <td><img src="_images/merge_node.png" alt="Объединение клонов сущностей"></td>
+       <td><img src="../../source/images/icons/merge_node.png" alt="Объединение клонов сущностей"></td>
     </tr>
    </table>
 
@@ -329,7 +329,7 @@ Layout
 Model
 ~~~~~
 
-Вкладка :guilabel:`Model` содержит горизонтальные вкладки, соответвующие добавленным типам элементов на диаграмму :ref:`(Рисунок 7) <Pic.7_3>`.
+Вкладка :guilabel:`Model` содержит горизонтальные вкладки, соответствующие добавленным типам элементов на диаграмму :ref:`(Рисунок 7) <Pic.7_3>`.
 
 .. _Pic.7_3:
 
@@ -361,10 +361,10 @@ Model
 |icon_plus| - удаление параметра: ажмите на строку, cоответствующую выбранному параметру, либо
 на несколько строк, зажимая Ctrl, чтобы они подсветились синим, и затем нажмите на иконку операции;
 
-|set_values| - добавление значений параметров: нажмите на иконку операции и затем выберите табличный файл, содержаший идентификатор параметра (Name) идентификатор
+|set_values| - добавление значений параметров: нажмите на иконку операции и затем выберите табличный файл, содержащий идентификатор параметра (Name) 
 и численное значение (Initial Value);
 
-|edit| - изменение единицы изменения: доступно во вкладке Units, сначала нажмите на строку, соответствующую выбранной
+|edit| - изменение единицы измерения: доступно во вкладке Units, сначала нажмите на строку, соответствующую выбранной
 единице измерения, а затем на иконку операции;
 
 |remove| - удаление единицы измерения. 
@@ -512,7 +512,7 @@ Model
 
 **Ports (порты)**
 
-:ref:`Порты <ports>` используются при модульном моделировании и осуществляют передачу сигналов между модулями.
+:ref:`Порты <ports>` используются при :doc:`модульном моделировании <modular models>` и осуществляют передачу сигналов между модулями.
 
 -   В столбце Port type указан :ref:`тип порта <port_types>`;
 -   :ref:`Тип доступности порта <port_access_types>` указывается в столбце Access Type;

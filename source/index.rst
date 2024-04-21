@@ -60,7 +60,7 @@ BioUML platform
    
 .. toctree:: 
    :maxdepth: 2
-   :caption: Численный рассчет модели
+   :caption: Численный анализ модели
    
    model calculations.rst
    
