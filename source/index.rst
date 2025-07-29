@@ -63,7 +63,15 @@ BioUML platform
    :caption: Численный анализ модели
    
    model calculations.rst
+
+.. toctree:: 
+   :maxdepth: 2
+   :caption: Physicell модели
    
-   
-   
+   Physicell_model_creation.rst
+   Physicell_model_development.rst
+   Physicell_cell_properties.rst
+   Physicell_microenvironment.rst
+   Physicell_simulation.rst
+   Physicell_simulation_result.rst
   
