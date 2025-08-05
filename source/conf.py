@@ -21,7 +21,7 @@ project = 'BioUML'
 copyright = '2023, Biosoft.Ru Ltd.'
 author = 'Biosoft.Ru Ltd.'
 
-language = 'en'
+language = 'ru'
 
 import sys, os
 
