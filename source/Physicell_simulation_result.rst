@@ -143,7 +143,7 @@
          <li><u>Grid</u> - отметьте ☑, если хотите отображать сетку при просмотре симуляции.</li>
       </ul>
       </li>
-      <li><b>Options 3D</b>: опции просмотра модели в трех измерениях (<span style="color: red;">доступно, только если НЕ выбрана опция 2D</span>):
+      <li><b>Options 3D</b>: <a class="reference internal" href="#physicell-simulation-result-options-3d">опции</a> просмотра модели в трех измерениях (<span style="color: red;">доступно, только если НЕ выбрана опция 2D</span>):
       <ul>
          <li><u>Heading</u> - угол поворота вокруг оси Y,</li>
          <li><u>Pitch</u> - угол поворота вокруг оси X,</li>
@@ -153,13 +153,13 @@
          <li><u>Density XY plane</u> - отметьте ☑, если хотите отображать субстраты в плоскости XY,</li>
          <li><u>Density XZ plane</u> - отметьте ☑, если хотите отображать субстраты в плоскости XZ,</li>
          <li><u>Density YZ plane</u> - отметьте ☑, если хотите отображать субстраты в плоскости YZ,</li>
-         <li><u>Spheres quality</u> - .</li>
+         <li><u>Spheres quality</u> - <a class="reference internal" href="#physicell-simulation-result-spheres-quality">качество рендеринга</a> трехмерных сфер (клеток).</li>
       </ul>
       </li>
       <li><b>Statistics</b>: отметьте ☑, если хотите, чтобы в левом верхнем углу изображения модели указывалось <a class="reference internal" href="#physicell-simulation-result-statistics">модельное время, количество клеток и срез по оси Z</a>,</li>
       <li><b>Axes</b>: отметьте ☑, если хотите, чтобы на изображении модели отрисовывались <a class="reference internal" href="#physicell-simulation-result-axes">оси</a>,</li>
       <li><b>Cells</b>: отметьте ☑, если хотите, чтобы на изображении модели отрисовывались <a class="reference internal" href="#physicell-simulation-result-cells">клетки</a>,</li>
-      <li><b>Draw nuclei</b>: отметьте ☑, если хотите, чтобы на изображении модели в клетках отрисовывались ядра,</li>
+      <li><b>Draw nuclei</b>: отметьте ☑, если хотите, чтобы на изображении модели в клетках отрисовывались <a class="reference internal" href="#physicell-simulation-result-draw-nuclei">ядра</a>,</li>
       <li><b>Substrate name</b>: название <a class="reference internal" href="#physicell-simulation-result-substrate">субстрата</a>,</li>
       <li><b>Substrate</b>: отметьте ☑, если хотите отображать <a class="reference internal" href="#physicell-simulation-result-substrate">субстрат</a>, выбранный в поле Substrate name, на изображении модели (<span style="color: red;">проверьте, что при запуске симуляции было отмечено поле Save density, иначе субстраты не будут отображаться</span>),</li>
       <li><b>Density Color</b>: цвет, с помощью которого <a class="reference internal" href="#physicell-simulation-result-substrate">субстрат</a>, выбранный в поле Substrate name, быдет вырисовываться на изображении модели,</li>
@@ -197,7 +197,31 @@
 
 По умолчанию значение поля |icon_option| **Time step** будет равным параметру **Image interval**, указываемому при настройке :ref:`симуляции модели <Physicell_simulation>`.
 
-Следует учесть, что если **Time step** будет меньше, чем **Image interval**, то воспроизведение симуляции будет идти с шагом, указанным в **Image interval**.
+Если задать значение **Time step**, неравное значению **Image interval**, то на каждом шаге Time step будет отрисовываться Image interval с наибольшей временной точкой, которая не превышает значение текущего Time step. Поясним это на примере ниже.
+
+.. code-block:: text
+   :caption: Пример
+
+   Max Time = 100 (симуляция длится 100 модельных временных единиц).
+   Image interval = 10 (изображения модели сохранялись каждые 10 модельных временных единиц).
+
+   Таким образом, имеются изображения модели для следующих временных точек:
+
+   0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 (назовем ее последовательность x).
+
+   Предположим, установлен Time step = 5. В таком случае, логика вывода изображений будет следующая:
+
+   Первый шаг: 5 -> отрисовывается изображение в момент времени 0, т.к. в последовательности x только 0 не превышает 5;
+   Второй шаг: 10 -> отрисовывается изображение в момент времени 10, т.к. в последовательности x 10 является наибольшим числом, не превыщающем 10 (из 0 и 10);
+   Третий шаг: 15 -> отрисовывается изображение в момент времени 10, т.к. в последовательности x 10 является наибольшим числом, не превыщающем 15 (из 0 и 10);
+   и т.д.
+
+   Предположим, установлен Time step = 15. В таком случае, логика вывода изображений будет следующая:
+
+   Первый шаг: 15 -> отрисовывается изображение в момент времени 10, т.к. в последовательности x 10 является наибольшим числом, не превыщающем 15 (из 0 и 10);
+   Второй шаг: 30 -> отрисовывается изображение в момент времени 30, т.к. в последовательности x 30 является наибольшим числом, не превыщающем 30 (из 0, 10, 20 и 30);
+   Третий шаг: 45 -> отрисовывается изображение в момент времени 40, т.к. в последовательности x 40 является наибольшим числом, не превыщающем 45 (из 0, 10, 20, 30 и 40);
+   и т.д.
 
 .. _Physicell_simulation_result_2D:
 
@@ -224,59 +248,100 @@
 - передвинуть курсор в новое место,
 - отпустить ЛКМ.
 
+.. _Physicell_simulation_result_Options_3D:
+
+Опции просмотра модели в трех измерениях (Options 3D)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. _Physicell_simulation_result_Spheres_quality:
+
+Качество рендеринга трехмерных сфер - клеток (Spheres quality)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Чтобы выбрать качество рендеринга трехмерного изображения клеток, нужно нажать ЛКМ справа от поля |icon_option| **Spheres quality** и из раскрывающегося списка выбрать одно из доступных значений.
+
+Всего доступно 2 значения:
+
+- **Poor**: quality = 2,
+- **Good**: quality = 3.
+
+Значение quality используется для определения количества полигонов в каждой отрисованной клетке. Оно вычисляется по следующей формуле:
+
+.. math::
+
+   Num_{polygons} = 4^{(quality \, + \, 1)}.
+
 .. _Physicell_simulation_result_Statistics:
 
 Указание модельного времени, количества клеток и среза по оси Z (Statistics)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Если поле |icon_option| **Statistics** отмечено, то на изображении модели выводятся значения модельного времени, количества клеток и среза по оси Z (срез по оси Z указывается, только если модель :ref:`двумерная <Physicell_simulation_result_2D>`) :ref:`(Рисунок xА) <Physicell_simulation_result_Pic.x>`.
+Если поле |icon_option| **Statistics** отмечено, то на изображении модели выводятся значения модельного времени, количества клеток и среза по оси Z (срез по оси Z указывается, только если модель :ref:`двумерная <Physicell_simulation_result_2D>`) :ref:`(Рисунок 9А) <Physicell_simulation_result_Pic.9>`.
 
-Если поле |icon_option| **Statistics** не отмечено, то такая статистика указываться не будет :ref:`(Рисунок xБ) <Physicell_simulation_result_Pic.x>`.
+Если поле |icon_option| **Statistics** не отмечено, то такая статистика указываться не будет :ref:`(Рисунок 9Б) <Physicell_simulation_result_Pic.9>`.
 
-.. _Physicell_simulation_result_Pic.x:
+.. _Physicell_simulation_result_Pic.9:
 
 .. figure:: images/Physicell/Physicell_simulation_result/Statistics_yes_no.png
    :width: 100%
    :alt: Statistics_yes_no
    :align: center
 
-   Рисунок 8. Модельное время, количество клеток и срез по оси Z отображаются, если опция Statistics включена (А), в противном случае такая статистика отсутствует (Б).
+   Рисунок 9. Модельное время, количество клеток и срез по оси Z отображаются, если опция Statistics включена (А), в противном случае такая статистика отсутствует (Б).
 
 .. _Physicell_simulation_result_Axes:
 
 Изображение осей (Axes)
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Если поле |icon_option| **Axes** отмечено, то на изображении модели отрисовываются оси :ref:`(Рисунок x1А) <Physicell_simulation_result_Pic.x1>`.
+Если поле |icon_option| **Axes** отмечено, то на изображении модели отрисовываются оси :ref:`(Рисунок 10А) <Physicell_simulation_result_Pic.10>`.
 
-Если поле |icon_option| **Axes** не отмечено, то оси отображаться не будут :ref:`(Рисунок x1Б) <Physicell_simulation_result_Pic.x1>`.
+Если поле |icon_option| **Axes** не отмечено, то оси отображаться не будут :ref:`(Рисунок 10Б) <Physicell_simulation_result_Pic.10>`.
 
-.. _Physicell_simulation_result_Pic.x1:
+.. _Physicell_simulation_result_Pic.10:
 
 .. figure:: images/Physicell/Physicell_simulation_result/Axes_yes_no.png
    :width: 100%
    :alt: Axes_yes_no
    :align: center
 
-   Рисунок 8. Изображение осей, если опция Axes включена (А), в противном случае оси отсутствуют (Б).
+   Рисунок 10. Изображение осей, если опция Axes включена (А), в противном случае оси отсутствуют (Б).
 
 .. _Physicell_simulation_result_Cells:
 
 Изображение клеток (Cells)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Если поле |icon_option| **Cells** отмечено, то на изображении модели отрисовываются клетки :ref:`(Рисунок x2А) <Physicell_simulation_result_Pic.x2>`.
+Если поле |icon_option| **Cells** отмечено, то на изображении модели отрисовываются клетки :ref:`(Рисунок 11А) <Physicell_simulation_result_Pic.11>`.
 
-Если поле |icon_option| **Cells** не отмечено, то клетки отображаться не будут :ref:`(Рисунок x2Б) <Physicell_simulation_result_Pic.x2>`.
+Если поле |icon_option| **Cells** не отмечено, то клетки отображаться не будут :ref:`(Рисунок 11Б) <Physicell_simulation_result_Pic.11>`.
 
-.. _Physicell_simulation_result_Pic.x2:
+.. _Physicell_simulation_result_Pic.11:
 
 .. figure:: images/Physicell/Physicell_simulation_result/Cells_yes_no.png
    :width: 100%
    :alt: Cells_yes_no
    :align: center
 
-   Рисунок 8. Изображение клеток, если опция Cells включена (А), в противном случае клетки отсутствуют (Б).
+   Рисунок 11. Изображение клеток, если опция Cells включена (А), в противном случае клетки отсутствуют (Б).
+
+.. _Physicell_simulation_result_Draw_nuclei:
+
+Изображение ядер в клетках (Draw nuclei)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Если поле |icon_option| **Draw nuclei** отмечено, то на изображении модели в клетках будут отрисовываться ядра :ref:`(Рисунок 12А) <Physicell_simulation_result_Pic.12>`.
+
+Если поле |icon_option| **Draw nuclei** не отмечено, то ядра в клетках отображаться не будут :ref:`(Рисунок 12Б) <Physicell_simulation_result_Pic.12>`.
+
+.. _Physicell_simulation_result_Pic.12:
+
+.. figure:: images/Physicell/Physicell_simulation_result/Nuclei_yes_no.png
+   :width: 100%
+   :alt: Nuclei_yes_no
+   :align: center
+
+   Рисунок 12. Изображение ядер в клетках, если опция Draw nuclei включена (А), в противном случае ядра в клетках не отрисовываются (Б).
 
 .. _Physicell_simulation_result_Substrate:
 
@@ -303,30 +368,30 @@
 Координаты окна, в котором указывается модельное время, количество клеток и срез по оси Z (Statistics X, Statistics Y)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Все окно, в котором отображается модель, имеет свою систему координат, состоящую из двух осей - X и Y :ref:`(Рисунок x3) <Physicell_simulation_result_Pic.x3>`.
+Все окно, в котором отображается модель, имеет свою систему координат, состоящую из двух осей - X и Y :ref:`(Рисунок 13) <Physicell_simulation_result_Pic.13>`.
 
-.. _Physicell_simulation_result_Pic.x3:
+.. _Physicell_simulation_result_Pic.13:
 
 .. figure:: images/Physicell/Physicell_simulation_result/Window_general_X_Y.png
    :width: 100%
    :alt: Model_window_axes
    :align: center
 
-   Рисунок 8. Система координат окна, в котором отображается модель.
+   Рисунок 13. Система координат окна, в котором отображается модель.
 
 .. warning::
    Не путать с системой координат, в которой располагаются клетки!
 
-Изменяя значения полей |icon_option| **Statistics X** и |icon_option| **Statistics Y**, можно регулировать расположение легенды на изображении модели :ref:`(Рисунок x4) <Physicell_simulation_result_Pic.x4>`.
+Изменяя значения полей |icon_option| **Statistics X** и |icon_option| **Statistics Y**, можно регулировать расположение легенды на изображении модели :ref:`(Рисунок 14) <Physicell_simulation_result_Pic.14>`.
 
-.. _Physicell_simulation_result_Pic.x4:
+.. _Physicell_simulation_result_Pic.14:
 
 .. figure:: images/Physicell/Physicell_simulation_result/Different_statistics_X_Y.png
    :width: 100%
    :alt: Different_statistics_X_Y
    :align: center
 
-   Рисунок 8. Изменение положения легенды с помощью параметров Statistics X и Statistics Y.
+   Рисунок 14. Изменение положения легенды с помощью параметров Statistics X и Statistics Y.
 
 .. _Physicell_simulation_result_Video:
 
@@ -338,16 +403,16 @@
 - нажать ЛКМ на |icon_option| **(select element)** справа от |icon_option| **Result video path**,
 - в появившемся окне нажать ЛКМ справа от поля **Collection:** и выбрать директорию для сохранения видео,
 - справа от поля **Name:** указать название видео,
-- нажать ЛКМ на кнопку **Ok** :ref:`(Рисунок x5) <Physicell_simulation_result_Pic.x5>`.
+- нажать ЛКМ на кнопку **Ok** :ref:`(Рисунок 15) <Physicell_simulation_result_Pic.15>`.
 
-.. _Physicell_simulation_result_Pic.x5:
+.. _Physicell_simulation_result_Pic.15:
 
 .. figure:: images/Physicell/Physicell_simulation_result/Select_video_path.png
    :width: 100%
    :alt: Select_video_path
    :align: center
 
-   Рисунок 8. Выбор директории для сохранения видео.
+   Рисунок 15. Выбор директории для сохранения видео.
 
 Также нужно выбрать количество кадров, показываемых за 1 секунду (FPS, frame per second), в видео. Для этого укажите нужное вам значение справа от поля |icon_option| **Frame per second**.
 

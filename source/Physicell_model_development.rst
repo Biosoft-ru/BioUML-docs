@@ -7,6 +7,31 @@
 .. role:: raw-html(raw)
    :format: html
 
+.. raw:: html
+
+    <style>
+       table {
+           border-collapse: collapse;
+           width: 100%;
+		   background-color: white;
+       }
+       th, td {
+           border: 1px solid #dddddd;
+           text-align: left;
+           padding: 8px;
+       }
+       tr:nth-child(even) {
+           background-color: white;
+       }
+       th {
+           background-color: #2980B9;
+           color: white;
+       }
+	   .table-bottom-margin {
+           margin-top: 20px;
+       }
+   </style>
+
 .. |icon_Type_Diagram| image:: /images/icons/Type-Diagram-icon.png
 .. |icon_opened_folder| image:: /images/icons/Physicell/opened_folder.png
 .. |icon_cell_definition| image:: /images/icons/Physicell/cell_definition.png
@@ -50,79 +75,44 @@
 
    Рисунок 3. Набор инструментов для построения модели типа Physicell.
 
-Выбрать тот или иной инструмент можно нажатием на соответствующую иконку ЛКМ. Описание каждого инструмента представлено в :raw-html:`<a href="#Physicell_model_development_Tbl.1">таблице 1</a>`.
+Выбрать тот или иной инструмент можно нажатием на соответствующую иконку ЛКМ. Описание каждого инструмента представлено в :ref:`таблице 1 <Physicell_model_development_Tbl.1>`.
 
-.. raw:: html
+.. _Physicell_model_development_Tbl.1:
 
-    <a id="Physicell_model_development_Tbl.1"></a>
-    <style>
-       table {
-           border-collapse: collapse;
-           width: 100%;
-		   background-color: white;
-       }
-       th, td {
-           border: 1px solid #dddddd;
-           text-align: left;
-           padding: 8px;
-       }
-       tr:nth-child(even) {
-           background-color: white;
-       }
-       th {
-           background-color: #2980B9;
-           color: white;
-       }
-	   .table-bottom-margin {
-           margin-top: 20px;
-       }
-   </style>
-   
-   <table style="table-layout: fixed; width: 100%; word-wrap: break-word;">
-   <caption>Таблица 1. Элементы панели управления, используемой при работе с Physicell моделями</caption>
-   <tr>
-        <th>Обозначение</th>
-        <th>Описание</th>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/cursor.png" alt="курсор"></td>
-        <td>Выбор элемента на диаграмме</td>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/cell_definition.png" alt="клетка"></td>
-        <td>Клетки</td>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/substrate.png" alt="субстрат"></td>
-        <td>Субстрат</td>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/event.png" alt="событие"></td>
-        <td>Событие</td>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/note.png" alt="записка"></td>
-        <td>Примечание</td>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/secretion.png" alt="секреция"></td>
-        <td>Секреция</td>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/chemotaxis.png" alt="хемотаксис"></td>
-        <td>Хемотаксис</td>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/interaction.png" alt="взаимодействие"></td>
-        <td>Взаимодействие</td>
-    </tr>
-    <tr>
-        <td><img src="../../source/images/icons/Physicell/transformation.png" alt="трансформация"></td>
-        <td>Трансформация</td>
-    </tr>
-    </table>
+.. list-table:: Таблица 1. Элементы панели управления, используемой при работе с Physicell моделями
+   :header-rows: 1
 
-:raw-html:`<br>`
+   * - Обозначение
+     - Описание
+
+   * - .. image:: images/icons/Physicell/cursor.png
+          :alt: курсор
+     - Выбор элемента на диаграмме
+   * - .. image:: images/icons/Physicell/cell_definition.png
+          :alt: клетка
+     - Клетки
+   * - .. image:: images/icons/Physicell/substrate.png
+          :alt: субстрат
+     - Субстрат
+   * - .. image:: images/icons/Physicell/event.png
+          :alt: событие
+     - Событие
+   * - .. image:: images/icons/Physicell/note.png
+          :alt: примечание
+     - Примечание
+   * - .. image:: images/icons/Physicell/secretion.png
+          :alt: секреция
+     - Секреция
+   * - .. image:: images/icons/Physicell/chemotaxis.png
+          :alt: хемотаксис
+     - Хемотаксис
+   * - .. image:: images/icons/Physicell/interaction.png
+          :alt: взаимодействие
+     - Взаимодействие
+   * - .. image:: images/icons/Physicell/transformation.png
+          :alt: трансформация
+     - Трансформация
+
 Основными участниками Physicell модели являются клетки (|icon_cell_definition|) и субстраты (|icon_substrate|).
 
 Между ними возможно 4 типа взаимодействий:
@@ -158,6 +148,11 @@
 - **Gradient**: отметьте ☑, если необходимо применить градиент к выбранному цвету,
 - **Comment**: можете оставить любые комментарии для клеток данного типа.
 
+.. note::
+   При указании цвета в данном окне будет считаться, что все внутреннее содержимое клетки будет иметь выбранный цвет, контур клетки будет черным, а ядро отрисовываться не будет.
+
+   Для более детальной настройки цвета следует воспользоваться вкладкой :ref:`Visualizer <Physicell_microenvironment_Visualizer>` или полем Custom Visualizer во вкладке :ref:`Model Report <Physicell_microenvironment_Model_Report>`.
+
 .. _Physicell_model_development_Pic.5:
 
 .. figure:: images/Physicell/Physicell_model_development/Cell_parameters.png
@@ -187,7 +182,7 @@
 Чтобы удалить клетки из модели, необходимо нажать на них ЛКМ и нажать клавишу **Delete** на клавиатуре.
 
 .. note::
-   Все клетки в модели отображаются в виде кругов синего цвета.
+   Все типы клеток на диаграмме модели отображаются в виде кругов синего цвета.
 
 .. _Physicell_model_development_Substrate_creation:
 
@@ -199,7 +194,7 @@
 После этого в появившемся окне необходимо задать параметры создаваемого субстрата :ref:`(Рисунок 7) <Physicell_model_development_Pic.7>`:
 
 - **Name**: название субстрата,
-- **Initial condition**: начальная концентрация вещества,
+- **Initial condition**: исходное количество вещества в каждой :ref:`ячейке среды <Physicell_microenvironment_Domain>`,
 - **Decay rate**: скорость разложения вещества в среде,
 - **Diffusion coefficient**: скорость диффузии вещества в среде,
 - **X min**: :raw-html:`граничное условие для концентрации вещества на границе среды X = X<sub>min</sub>`,
@@ -296,7 +291,10 @@
 - **Secretiom Rate**: скорость секреции вещества,
 - **Secretiom Target**: значение «насыщения» при котором прекращается секреция,
 - **Uptake Rate**: скорость потребления вещества,
-- **Net export rate**: скорость экспорта.
+- **Net export rate**: постоянный уровень секреции/потребления субстрата, не зависящий от объема клетки.
+
+.. warning::
+   Положительные значения параметра Net export rate соответствуют постоянной секреции, а отрицательные - постоянному потреблению.
 
 .. _Physicell_model_development_Pic.12:
 
@@ -308,6 +306,28 @@
    Рисунок 12. Параметры реакции секреции.
 
 После того, как заданы все параметры нажмите на **Ok**.
+
+Ниже представлена формула расчета изменения плотности вещества в трехмерной ячейке решетки одной клеткой за единицу времени dt:
+
+.. math::
+
+   p_{\mathrm{new}} = \frac{p + D * (V_{\mathrm{cell}} / V) * S * T}{1 + D * (V_{\mathrm{cell}} / V) * (S + U)} \, + \, D \, * \frac{E}{V},
+
+где:
+
+- D - Diffusion dt из настроек :ref:`симуляции <Physicell_simulation>`,
+- :raw-html:`V<sub>cell</sub>` - :ref:`объем клетки <Physicell_cell_properties_Volume>`,
+- V - :ref:`объем ячейки среды <Physicell_microenvironment_Domain>`,
+- S - скорость секреции вещества (Secretion Rate),
+- T - значение «насыщения» при котором прекращается секреция (Secretiom Target),
+- U - скорость потребления вещества (Uptake Rate),
+- E  - постоянный уровень секреции/потребления субстрата, не зависящий от объема клетки (Net export rate).
+
+В случаях, когда все параметры реакции секреции кроме **Net export rate** (S, T и U) имеют нулевые значения, то формулу можно упростить до следующего вида:
+
+.. math::
+
+   p_{\mathrm{new}} = p + \, dt \, * \frac{E}{V}.
 
 .. _Physicell_model_development_Chemotaxis:
 
@@ -408,8 +428,11 @@
 - **Comment**: комментарий,
 - **Cell type**: название типа клеток, над которыми совершается действие (:raw-html:`<span style="color: red;">не изменяется!</span>`),
 - **Attack rate**: интенсивность атаки,
-- **Fuse rate**: интенсивность поглощения,
+- **Fuse rate**: интенсивность слияния двух клеток,
 - **Phagocytosis rate**: интенсивность фагоцитоза.
+
+.. note::
+   При слияния двух клеток у результирующей клетки имеется 2 ядра.
 
 .. _Physicell_model_development_Pic.18:
 
