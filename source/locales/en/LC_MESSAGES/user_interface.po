@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/user_interface.rst:2 166b0c87f3cd4a20a1d425d971d8df3b
+msgid "Пользовательный интерфейс BioUML"
+msgstr ""
+
+#: ../../source/user_interface.rst:4 802646cbee6340fc9393172422e46c25
+msgid "Интерфейс BioUML состоит из следующих областей:"
+msgstr ""
+
+#: ../../source/user_interface.rst:11 430e565852194e7c85a96beaf1de0d46
+msgid "BioUML web edition interface"
+msgstr ""
+
+#: ../../source/user_interface.rst:11 43ee62a28ed24216ab454a999c6de253
+msgid "Рисунок 1. Пользовательский интерфейс веб-версии BioUML"
+msgstr ""
+
+#: ../../source/user_interface.rst:14 02df399d84344737bfdd3d2ee10f8a19
+msgid ""
+"**A** - **Рабочее пространство** является основной частью окна и "
+"позволяет просматривать и обрабатывать содержимое проектов и баз данных. "
+"На панели может быть столько вкладок, сколько диаграмм, рабочих "
+"процессов, таблиц и т. д. открыто в рабочей среде в данный момент."
+msgstr ""
+
+#: ../../source/user_interface.rst:16 427a8c1767f3462a8352bac0dc22c8fd
+msgid ""
+"**B** - **Общая панель управления** (сверху от рабочей области) с "
+"контекстно-зависимым набором иконок для доступных операций."
+msgstr ""
+
+#: ../../source/user_interface.rst:18 3356b2291ade45b6930dbff521a27b62
+msgid ""
+"**C** - **Панель инструментов репозитория** (слева от рабочей области), "
+"содержащая набор значков для доступных операций в зависимости от "
+"элемента, выбранного в древовидной структуре панели навигации."
+msgstr ""
+
+#: ../../source/user_interface.rst:20 eefa4506ed034b55aff04ad28a1ef78b
+msgid ""
+"**D** - **Репозиторий** (под панелью инструментов репозитория) содержит "
+"коллекцию баз данных, загруженных файлов данных и доступных методов "
+"анализа (на соответствующих вкладках), организованных в иерархическую "
+"древовидную структуру."
+msgstr ""
+
+#: ../../source/user_interface.rst:22 d73c3f3f0fab481c9774ab9210f56eae
+msgid ""
+"**E** - **Информационное окно** (в левой нижней части) дает информацию о "
+"файле или методе анализа, который вы выбираете одним щелчком мыши в "
+"репозитории."
+msgstr ""
+
+#: ../../source/user_interface.rst:24 97392ec2809e414c9cd757841af6d6be
+msgid ""
+"**F** - **Поле операций** (правая нижняя часть) предоставляет ряд опций "
+"на разных вкладках в зависимости от типа данных, анализа и т.д."
+msgstr ""
+

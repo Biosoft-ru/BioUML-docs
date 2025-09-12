@@ -1,0 +1,372 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/new b5dc644a72c74bd4ad66b4a6b7941a11 elements.rst:2 sbgn
+msgid "Расширенная нотация SBGN в BioUML"
+msgstr ""
+
+#: ../../source/new 313460241e724346a4c41761bf0b66c9 elements.rst:14 sbgn
+msgid ""
+"SBGN нотация, используемая в BioUML, была расширена *дополнительными "
+"элементами* для полного представления моделей SBML. Графическая нотация "
+"SBGN совместима с SBML, хотя она больше полагается на пути, состоящих из "
+"сущностей и процессов между ними. Таким образом, она не охватывает каждый"
+" отдельный объект в моделях SBML. В частности, нет визуального "
+"представления «математических» объектов: уравнений, функций, событий и "
+"т.п."
+msgstr ""
+
+#: ../../source/new bc7aca6e15aa4e558d78af557e782d9e elements.rst:17 sbgn
+msgid ""
+"Дополнительной мотивацией для добавления новых элементов является тот "
+"факт, что существует множество математических объектов моделей "
+"биологических систем (в частности - физиологических моделей), которые не "
+"представлены сетью биохимических реакций, а содержат набор уравнений ОДУ."
+msgstr ""
+
+#: ../../source/new 3cd9235671cb4556930e33655117e970 elements.rst:98 sbgn
+msgid "Уравнения и зависимости"
+msgstr ""
+
+#: ../../source/new ea6ff7d38e384b6993c0f164a98cb2b0 elements.rst:108 sbgn
+msgid ""
+"В BioUML была введена графическая нотация для **уравнений**, которые "
+"включают следуюшие типы :ref:`(Рисунок 1) <Pic.1_6>`:"
+msgstr ""
+
+#: ../../source/new 165419c741a648788425d89040d015be
+#: 7932bb1e35184cd5b2bf3b390d77d4f6 86c08de27c3d4668bdd4394e61c1d83f
+#: elements.rst:117 elements.rst:144 elements.rst:168 sbgn
+msgid "Уравнения"
+msgstr ""
+
+#: ../../source/new 27d8b444154842eb9a26d260ec8451af elements.rst:117 sbgn
+msgid "Рисунок 1. Элемент уравнений в BioUML"
+msgstr ""
+
+#: ../../source/new 40b4becfbe2e43e0ae43923a841be342 elements.rst:119 sbgn
+msgid ""
+"**Обыкновенное дифференциальное уравнение** задает динамику некоторой "
+"переменной x зависимостью вида: |ode_equation| Вместе с начальными "
+"условиями эти уравнения формирует задачу Коши, которая может быть "
+"численно решена одним из методов, встроенных в BioUML."
+msgstr ""
+
+#: ../../source/new 161a0b8072f9423faaa748d531f3a990 elements.rst:102 sbgn
+msgid "ode_equation"
+msgstr ""
+
+#: ../../source/new ad9cf9c3a14a4349bb25a914fefb6f31 elements.rst:120 sbgn
+msgid ""
+"**Алгебраическое уравнение** задает зависимости между переменными модели,"
+" которые должны быть выполнены в процессе расчета модели. В частности, "
+"это могут быть различные законы сохранения. Общий вид зависимости: "
+"|alg_equation| Формируют систему (в общем случае нелинейных) "
+"алгебраических уравнений."
+msgstr ""
+
+#: ../../source/new 7de9cd0ec5584b73ac516ece4b1ac833 elements.rst:100 sbgn
+msgid "alg_equation"
+msgstr ""
+
+#: ../../source/new 373a2e9a73d64949904caaa7084c18e2 elements.rst:121 sbgn
+msgid ""
+"**Правило присваивания** напрямую выражают значения одних переменных "
+"через другие уравнениями вида: |assignment_equation| Присваивания делятся"
+" на два типа: присваивания, которые выполняются один раз в начальный "
+"момент времени (начальное присваивание) и присваивания, выражающие "
+"зависимости, которые должны быть выполнены в течение всего времени "
+"функционирования модели. Поскольку присваивания первого типа просто "
+"задают начальные значения переменных системы, в дальнейшем будем говорить"
+" только о присваиваниях второго типа."
+msgstr ""
+
+#: ../../source/new 0e8a773438b941d3a5a9c2ef84159ce4 elements.rst:104 sbgn
+msgid "assignment_equation"
+msgstr ""
+
+#: ../../source/new 2fd14c5793b643fb95054a937f1a814d elements.rst:123 sbgn
+msgid ""
+"Для того, чтобы *создать уравнение*, нажмите на иконку |math_equation|, "
+"расположенную на :ref:`панели инструментов <panel>` и затем на диаграмму,"
+" где планируется разместить уравнение."
+msgstr ""
+
+#: ../../source/new a9432c2357b3483d80892ed121c92c7e elements.rst:106 sbgn
+msgid "math_equation"
+msgstr ""
+
+#: ../../source/new 7b092f8aca154c7196011a68ec02f650 elements.rst:125 sbgn
+msgid ""
+"После создания уравнения на диаграмме, нажмите на него правой кнопкой "
+"мыши и выберите |edit| Edit. В поле |option| Type выберите *тип "
+"уравнения*: обыкновенное дифференциальное уравнение (rate), "
+"алгебраическое уравнение (algebraic), правило присваивания (initial "
+"assignment) и скалярное (scalar). Для всех типов уравнений, кроме "
+"алгебраического, в поле :guilabel:`Variable` введите *имя переменной* "
+"(кроме алгебраических уравнений), для которой будет определена "
+"зависимость. В поле |option| Equation вводится *формула*."
+msgstr ""
+
+#: ../../source/new 6dd79007c14648e897e367e000d1cbad
+#: 73cc800640e04a40b1d90c70bdc32050 be791ebb74f54fb6b91fccad09d456b8
+#: elements.rst:12 sbgn
+msgid "edit"
+msgstr ""
+
+#: ../../source/new 1f4959e096844b628d13f84364e6aca5
+#: 2bdfadf035364f2b85166dd310acb4a0 3f0af42ca6b74d8f8c952af13d41307f
+#: 7b462578f5184e97b80c75943df1f55b 905bee0d46a94d9a8f65f066afeb4676
+#: 9b7b49475b38454ba88bf5f035459f18 a970c09d5afb46219e154aebb260e368
+#: b6e884d3ca014a859fb3ac70657f2ff3 ec9c151076954f89b6299489e6f88fad
+#: ef53502069524f9fac608cda1261a736 elements.rst:11 sbgn
+msgid "option"
+msgstr ""
+
+#: ../../source/new 4c89aa6d5f2a45e5b7aca738b4eaac32 elements.rst:133 sbgn
+msgid ""
+"Добавленные уравнения отображаются в области :doc:`поля операций "
+"</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
+"и в открывшемся окне на вертикальной панели во вкладке "
+":guilabel:`Equations` :ref:`(Рисунок 2) <Pic.2_6>`. В строке, "
+"соответствующей уравнению, возможно измененить переменную в столбце "
+"Variable, формулу в Equation и тип уравнения в Type, и так же можно "
+"добавить описание для уравнения в столбце Comment."
+msgstr ""
+
+#: ../../source/new 3af0ff56345040e682247b2a60a452fb elements.rst:144 sbgn
+msgid "Рисунок 2. Вкладка Equations в поле операций"
+msgstr ""
+
+#: ../../source/new 3e1630c7314d4ebd8c159d16657a753a elements.rst:146 sbgn
+msgid ""
+"**Зависимости** между уравнениями генерируются автоматически и описывают,"
+" как переменная, рассчитанная в одном уравнении, влияет на переменную, "
+"рассчитанную в другом уравнении. Существует три типа зависимостей:"
+msgstr ""
+
+#: ../../source/new a9eb9180ff48429cbe0de53b1a787dc7 elements.rst:-1 sbgn
+msgid "Зависимости"
+msgstr ""
+
+#: ../../source/new 99d1c976fd3a4625b3d20044f3709b06 elements.rst:153 sbgn
+msgid ""
+"Например, заданы два уравнения, где в 1-ом уравнении, переменная v2 "
+"влияет на значение переменной v1: v1 = f1(v2, ...) v2 = f2(x, y, z)"
+msgstr ""
+
+#: ../../source/new efd90d2cbf71471cb0fa2bd7b03a7972 elements.rst:157 sbgn
+msgid ""
+"Тогда переменные v2 и в v1 связаны: -   положительной связью, если "
+"увеличение v2 вызывает увеличение v1; -   отрицательной связью, если "
+"увеличение v2  вызывает уменьшение v1; -   неопределенной связью – "
+"изменение v2 не влияет на v1, при фиксированных остальных значениях и "
+"заданных начальных значениях всей модели."
+msgstr ""
+
+#: ../../source/new 5a71d1598a854546877d958a8e2f7acc elements.rst:168 sbgn
+msgid ""
+"Рисунок 3. Модель артериальной системы, состоящей на основе уравнений и "
+"зависимостей между ними"
+msgstr ""
+
+#: ../../source/new 25200262f68248e5a55a28979c6b4dd7
+#: 90850312796c4ba6802a94079bad0923 d60add31befb4d9b98ac34d1be457cda
+#: elements.rst:173 elements.rst:188 elements.rst:212 sbgn
+msgid "Событие"
+msgstr ""
+
+#: ../../source/new 84293584448640729a68aaedae7501d8 elements.rst:177 sbgn
+msgid ""
+"**Событие** заключается в скачкообразном изменении значений переменных "
+"модели при выполнении определенного условия (например, в определенный "
+"момент времени или при заданном соотношении между переменными) "
+":ref:`(Рисунок 4) <Pic.4_6>`."
+msgstr ""
+
+#: ../../source/new 990a826af1444c0992b09f1dc72864cc elements.rst:188 sbgn
+msgid "Рисунок 4. Элемент события в BioUML"
+msgstr ""
+
+#: ../../source/new dc21c5dfa0ba4f539534d6f464c5544a elements.rst:190 sbgn
+msgid ""
+"Чтобы *добавить событие* нажмите на иконку |event_icon|, расположенную на"
+" :ref:`панели инструментов <panel>` и затем на диаграмму, где планируется"
+" разместить событие. После создания события, нажмите на него правой "
+"кнопкой мыши и выберите поле |edit| Edit. В опциях |folder| Role в поле "
+"|option| Trigger устанавливается *триггер* - условие для запуска события."
+" В поле |option| Delay задается *время*, через которое происходит "
+"выполнение события. *Приоритет* указывает на порядок, в котором должны "
+"быть выполнены события в том случае, если их времена выполнения "
+"совпадают, и указывается в поле |option| Priority. В опциях |folder| "
+"Assignments в полях |option| Variable и |option| Expression указывается "
+"переменная, к которой будет применено событие и формула, соответственно."
+msgstr ""
+
+#: ../../source/new 08ad4affed8640e7b15a7bb9ed7604db elements.rst:175 sbgn
+msgid "event_icon"
+msgstr ""
+
+#: ../../source/new 1b5de39556c94453bcf116c93cac5c53
+#: 72053b76ebf44613a1e01f225c62db12 8ff88da622414c04a1c1724ac7a5fb3a
+#: elements.rst:10 sbgn
+msgid "folder"
+msgstr ""
+
+#: ../../source/new dbd17e7bd5694d7b9c5c11b09e62e1c9 elements.rst:200 sbgn
+msgid ""
+"дополнить про индикаторы (Use trigger time values и др). примеры "
+"использования событий"
+msgstr ""
+
+#: ../../source/new 29bed252207644b8a57fa5228c5c6c89 elements.rst:202 sbgn
+msgid ""
+"Добавленные события отображаются в области :doc:`поля операций "
+"</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
+"и в открывшемся окне на вертикальной панели во вкладке :guilabel:`Events`"
+" :ref:`(Рисунок 5) <Pic.5_6>`."
+msgstr ""
+
+#: ../../source/new 0d08d6085f2e4c868c41b2d382bb879e elements.rst:212 sbgn
+msgid "Рисунок 5. Вкладка Events в поле операций"
+msgstr ""
+
+#: ../../source/new 2d23aa9eaf4d4da7a317c9044b62e0e1
+#: 57dfd2be2f9e4c7db117ee6686994d75 de9dcee4bb99443aa676f81f64db25bf
+#: elements.rst:217 elements.rst:230 elements.rst:251 sbgn
+msgid "Функция"
+msgstr ""
+
+#: ../../source/new 65850f308add46b3bfbae9d6ee78be25 elements.rst:221 sbgn
+msgid ""
+"**Функция** может использоваться в уравнениях или реакциях модели "
+":ref:`(Рисунок 6) <Pic.6_6>`."
+msgstr ""
+
+#: ../../source/new 0086220307164e65a317e150d25b5b06 elements.rst:230 sbgn
+msgid "Рисунок 6. Элемент функции в BioUML"
+msgstr ""
+
+#: ../../source/new 3e3f0d7696ff4a56b11ae04fcb96af89 elements.rst:232 sbgn
+msgid ""
+"Для *добавления функции* нажмите иконку |function_icon|, расположенную на"
+" :ref:`панели инструментов <panel>` и затем на диаграмму, где планируется"
+" разместить функцию. После создания функции, нажмите на нее правой "
+"кнопкой мыши и выберите поле |edit| Edit. В опциях |folder| Role в поле "
+"|option| Right Hand Side введите *правую часть уравнения*. В поле "
+"|option| Formula вводится функция, соответствующая следующему образцу: "
+"``function function_name(a1, ..., an) = Right Hand Side``, где "
+"function_name - заданный *идентификатор функции* в поле |option| Name; "
+"a1, ... , an - *аргументы функции*."
+msgstr ""
+
+#: ../../source/new 8817542015a9430dbe6fa37f7b2acc16 elements.rst:219 sbgn
+msgid "function_icon"
+msgstr ""
+
+#: ../../source/new ac3f9606b8604c8d94a51f96547bd776 elements.rst:239 sbgn
+msgid ""
+"При использовании функции в уравнении или реакции пишется только левая "
+"часть функции, включающая ее название и аргументы."
+msgstr ""
+
+#: ../../source/new da93d8cd304c4db493621fc64a1c5d89 elements.rst:241 sbgn
+msgid ""
+"Добавленные функции отображаются в области :doc:`поля операций "
+"</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
+"и в открывшемся окне на вертикальной панели во вкладке "
+":guilabel:`Functions` :ref:`(Рисунок 7) <Pic.7_6>`."
+msgstr ""
+
+#: ../../source/new e47a182fc4b948f39324b6ab2a24db2b elements.rst:251 sbgn
+msgid "Рисунок 7. Вкладка Functions в поле операций"
+msgstr ""
+
+#: ../../source/new ed7e150c6d954b6e9619d4cc7cb21a57 elements.rst:256 sbgn
+msgid "Ограничение"
+msgstr ""
+
+#: ../../source/new 2c84249f55f04cc3a17f4202aed83989 elements.rst:260 sbgn
+msgid ""
+"**Ограничение** - это условие, которое проверяется во время "
+"моделирования. Если условие нарушается, то либо выдается сообщение об "
+"ошибке, либо моделирование останавливается в зависимости от опций "
+"симулятора :ref:`(Рисунок 8) <Pic.8_6>`."
+msgstr ""
+
+#: ../../source/new 2289e2291f5f47cfa9414af5e2e61958 elements.rst:271 sbgn
+msgid "Элемент ограничения в BioUML"
+msgstr ""
+
+#: ../../source/new 4f57d5357a624ad1bf532ba03d28b5f1 elements.rst:271 sbgn
+msgid "Рисунок 8. Элемент ограничения в BioUML"
+msgstr ""
+
+#: ../../source/new cb67bfd4e77747abbdaf5c01da73a724 elements.rst:273 sbgn
+msgid ""
+"Для *добавления ограничения* нажмите иконку |math_сonstraint|, "
+"расположенную на :ref:`панели инструментов <panel>` и затем на диаграмму,"
+" где планируется разместить ограничение."
+msgstr ""
+
+#: ../../source/new befdc585f59d4f4ab85a49f37ff77ab2 elements.rst:258 sbgn
+msgid "math_сonstraint"
+msgstr ""
+
+#: ../../source/new b138098364064e0ab769a0d29f58a308 elements.rst:277 sbgn
+msgid "добавить описание для ограничений, их использование и опции."
+msgstr ""
+
+#: ../../source/new 4e506f8733de43469cea6c9f71b71bcb elements.rst:279 sbgn
+msgid ""
+"Добавленные ограничения отображаются в области :doc:`поля операций "
+"</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
+"и в открывшемся окне на вертикальной панели во вкладке "
+":guilabel:`Сonstraints` :ref:`(Рисунок 9) <Pic.9_6>`."
+msgstr ""
+
+#: ../../source/new elements.rst:290 f30b994a46b5410c929f245b82af881e sbgn
+msgid "Вкладка Сonstraints в поле операций"
+msgstr ""
+
+#: ../../source/new a3d55bb2dac54bb0bbbab464106926c1 elements.rst:290 sbgn
+msgid "Рисунок 9. Вкладка Сonstraints в поле операций"
+msgstr ""
+
+#: ../../source/new ee087524ee7e4adbb1a5e89730d9b577 elements.rst:295 sbgn
+msgid "Табличный элемент"
+msgstr ""
+
+#: ../../source/new 74891587a5c0437c8d5adeebc21e043c elements.rst:299 sbgn
+msgid ""
+"Чтобы *добавить табличный элемент* нажмите иконку |table|, расположенную "
+"на :ref:`панели инструментов <panel>` и затем на диаграмму, где "
+"планируется разместить таблицу."
+msgstr ""
+
+#: ../../source/new 62b92ba56a8b4ce1941890a82f9da80f elements.rst:297 sbgn
+msgid "table"
+msgstr ""
+
+#: ../../source/new 7c1c1e27aa374c69a992d8d5ec4279cd elements.rst:302 sbgn
+msgid "добавить описание для табличного элемента, их использование и опции."
+msgstr ""
+

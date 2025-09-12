@@ -1,0 +1,636 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/sbgn d7a9044c74504eb9b9fb5430184c005c elements.rst:2
+msgid "Элементы SBGN нотации в BioUML"
+msgstr ""
+
+#: ../../source/sbgn bcb6acab55c94fe9ba7f7103825a2727
+#: da4135cda33c4c22b1433655c642083f elements.rst:10 elements.rst:28
+msgid "Сущности"
+msgstr ""
+
+#: ../../source/sbgn 79e11f5cd99442588b5b248e3588d471 elements.rst:15
+msgid ""
+"**Сущности** - это элементы графической нотации SBGN, описывающие "
+"компоненты биологической системы, участвующие в процессах :ref:`(Рисунок "
+"1) <Pic.1_5>`. В BioUML доступны все типы сущностей нотации SBGN, которые"
+" разделяются на два класса:"
+msgstr ""
+
+#: ../../source/sbgn d74f4ffe6e4a4db3b950edb9dc5a11bb elements.rst:18
+msgid ""
+"**материальные**: макромолекула, простое химическое вещество, нуклеиновая"
+" кислота, неопределенная сущность, мультимер и комплекс;"
+msgstr ""
+
+#: ../../source/sbgn e6d2bd3a7fa94d89b4857a15f80c6383 elements.rst:19
+msgid "**концептуальные**: пустое множество и возмущающий агент."
+msgstr ""
+
+#: ../../source/sbgn a75531628e9a4bd3b56640f83c587945 elements.rst:28
+msgid "Рисунок 1. Сущности SBGN нотации"
+msgstr ""
+
+#: ../../source/sbgn 7c952811d9d54827b0ea05e0c160f801 elements.rst:98
+msgid ""
+"Некоторые типы сущностей могут опционально содержать "
+":ref:`вспомогательные единицы <units>`. При этом одной сущности может "
+"соответствовать несколько вспомогательных единиц."
+msgstr ""
+
+#: ../../source/sbgn c36df274cf224eb2b693227963c55fca elements.rst:100
+msgid ""
+"**Макромолекула (macromolecule)**, **простое химическое вещество (simple "
+"chemical)**, **нуклеиновая кислота (nucleic acid feature)**, "
+"**неопределенная сущность (unspecified)**, **возмущающий агент "
+"(perturbing agent)** и **комплекс (complex)** добавляется на диаграмму "
+"засчет выбора иконки |entity| на панели инструментов и нажатия на место "
+"на диаграмме, где планируется разместить сущность. Выбор нужного типа "
+"сущности осуществляется в открывшемся окне в поле |option| sbgb:enityType"
+" :ref:`(Рисунок 2) <Pic.2_5>`."
+msgstr ""
+
+#: ../../source/sbgn 2be06341bde740c898c924b5f6c0dcb5 elements.rst:13
+msgid "entity"
+msgstr ""
+
+#: ../../source/sbgn b041933c47354bc78d21c26547f6343e
+#: b3431f5ac0cb47dd8878f30732c93d28 elements.rst:5
+msgid "option"
+msgstr ""
+
+#: ../../source/sbgn 4d7ee4ec42fb42e3aa5cca002392d979 elements.rst:112
+msgid "Создание сущности в веб-версии BioUML"
+msgstr ""
+
+#: ../../source/sbgn 64899b469f43425ba3bcde8b4c2919af elements.rst:112
+msgid "Рисунок 2. Создание сущности в веб-версии BioUML"
+msgstr ""
+
+#: ../../source/sbgn d3cbab077e9c423e9be10a42401d7c33 elements.rst:114
+msgid ""
+"**Комплекс** может быть создан также путем выбора иконки |complex| на "
+"панели инструментров. Для того, чтобы поместить в комплекс другие "
+"объекты, необходимо зажать их левой кнопкой мыши и поместить внутрь него."
+msgstr ""
+
+#: ../../source/sbgn elements.rst:12 f3bc87bb347a4742880b5688b1dd8c18
+msgid "complex"
+msgstr ""
+
+#: ../../source/sbgn 7168aabf416d4f8397ba079986e690a2 elements.rst:116
+msgid ""
+"**Мультимер** создается засчет указания в поле |option| sbgn:multimer "
+"количества субъединиц, входяших в его состав. Мультимер можеть быть "
+"создан для всех типов упомянутых выше сущностей, за исключением "
+"возмущающего агента и неопределенной сущности. Cозданный мультимер будет "
+"содержать :ref:`единицу информации <units>` вида N:n, где n - количество "
+"субъединиц в составе мультимера."
+msgstr ""
+
+#: ../../source/sbgn 5015547cc6da45c8b6f57492ff56193d
+#: 8ccf7894a1cd4bcfaa745ea8d55aae78 elements.rst:122 elements.rst:135
+msgid "Компартмент"
+msgstr ""
+
+#: ../../source/sbgn 80ae06ceb4fa435cb3e731ab88147abb elements.rst:126
+msgid ""
+"**Компартмент** является отдельным элементом диаграммы, в составе "
+"которого могут находиться сущности :ref:`(Рисунок 3) <Pic.3_5>`. "
+"Компартмент создается с помощью нажаться на иконку |compartment|, "
+"расположенную на панели инструментов."
+msgstr ""
+
+#: ../../source/sbgn d22067f3a73d44b9985f8f878a02561e elements.rst:124
+msgid "compartment"
+msgstr ""
+
+#: ../../source/sbgn af4eeb3b3a284c31ba03111b4c4cbd20 elements.rst:135
+msgid "Рисунок 3. Компартмент"
+msgstr ""
+
+#: ../../source/sbgn 78c32567e3654b03851032ece66883b6 elements.rst:138
+msgid ""
+"Отдельная сущность может принадлежать только одному компартменту. Таким "
+"образом, «одни и те же» биохимические компоненты, находящиеся в двух "
+"разных компартментах, на самом деле представляют собой две разных "
+"сущности. После того, как сущность будет перемещена в компартмент, "
+"название этой переменной будет изменено путем добавления названия "
+"компартмента перед названием сущности. Например, $compartment.entity."
+msgstr ""
+
+#: ../../source/sbgn 6d736f54d72b44bfb1e45f7652136168 elements.rst:146
+msgid "SBGN диаграмма сигналинга IGF-1"
+msgstr ""
+
+#: ../../source/sbgn 6ee572275cb847db9be09936dc7191e6 elements.rst:146
+#, python-format
+msgid ""
+"Рисунок 4. `SBGN диаграмма сигналинга IGF-1 "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/IGF%20signaling>`_ , содержащая два компартмента - внеклеточное"
+" пространство (extracellular) и цитозоль (cytosol)"
+msgstr ""
+
+#: ../../source/sbgn 99474d503db24a92a8dd6729c7fa5165 elements.rst:148
+msgid ""
+"Добавленные компартменты отображаются в :doc:`поля операций "
+"</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
+"и в открывшемся окне на вертикальной панели во вкладке "
+":guilabel:`Compartments` :ref:`(Рисунок 5) <Pic.5_5>`. Для добавленного "
+"компартмента можно изменить его *заголовок* в поле Title, указать "
+"*численное значение* в столбце *Initial value*. Флаг *константы* ставится"
+" в столбце Constant и определяет является ли численное значение "
+"переменной константы постоянной и может ли быть изменено. В столбце "
+"*Units* из выпадающего списка выбирается единица измерения."
+msgstr ""
+
+#: ../../source/sbgn 75a987dc6cb74615913fe815a5d66ddc elements.rst:162
+msgid "Вкладка Compartments в поле операций"
+msgstr ""
+
+#: ../../source/sbgn 42b66cbdaa8c41e897f9e195f3843ebe elements.rst:162
+msgid "Рисунок 5. Вкладка Compartments в поле операций"
+msgstr ""
+
+#: ../../source/sbgn 390ed8a0723f422b8e1cd5ba9d5e1b16
+#: 4221b579d7704365b803f4f4d1822cfd elements.rst:167 elements.rst:184
+msgid "Вспомогательные единицы"
+msgstr ""
+
+#: ../../source/sbgn 8e5a8e2c7f5f48b284bd9e9bef6f8a13 elements.rst:174
+msgid ""
+"В BioUML доступны все типы **вспомогательных единиц**, описанной в "
+"нотации SBGN: единицы информации, переменные состояния и маркеры "
+"клонирования :ref:`(Рисунок 6) <Pic.6_5>`. Каждой сущности может "
+"соответсвовать несколько вспомогательных единиц как одного типа, так и "
+"нескольких."
+msgstr ""
+
+#: ../../source/sbgn 50cb10783bcd4ec7825a2bdead762885 elements.rst:184
+msgid "Рисунок 6. Вспомогательные единицы"
+msgstr ""
+
+#: ../../source/sbgn 8e11eb9e307c424d8f6008b4286f8548 elements.rst:186
+msgid ""
+"**Единица информации** используется для добавления дополнительной "
+"информации к сущности. Для определенных типов информации, нотация SBGN "
+"определяет конкретные префиксы. С более подробной информацией о префиксах"
+" можно ознакомиться по ссылке (https://sbgn.github.io/)."
+msgstr ""
+
+#: ../../source/sbgn d7a8e22ee70f4313886555b2985989d4 elements.rst:189
+msgid ""
+"pt - физические характеристики, такие как температура (pc:T), pH (pc:pH) "
+"и др. Предполагается, что они будут использоваться для описания характера"
+" возмущающего воздействия агента или фенотипа."
+msgstr ""
+
+#: ../../source/sbgn cb50a0361055415db39137312213f0df elements.rst:191
+msgid ""
+"mt - биологический тип сущности, такие как ДНК (mt:dna), РНК (mt:rna), "
+"ион (mt:ion) и др."
+msgstr ""
+
+#: ../../source/sbgn elements.rst:192 fac5423a3b044e0883f7c365fc079691
+msgid ""
+"ct - концептуальные типы сущности, такие как ген (ct:gene), сайт "
+"транскрипции (ct:tss) и др."
+msgstr ""
+
+#: ../../source/sbgn abeb25b55a0549cf9e96607eff967fdd elements.rst:199
+#: elements.rst:217 f967f5005fcf46b6807a0ffb3f81fdb9
+msgid "Регуляция экспрессии гена"
+msgstr ""
+
+#: ../../source/sbgn 5c3b2c4defa54e7b93e4be3aba484e66 elements.rst:199
+#, python-format
+msgid ""
+"Рисунок 7. Пример использования единиц информации при создании "
+"`диаграммы, описывающей процесс регуляции экспрессии гена "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Gene%20expression%20regulation>`_"
+msgstr ""
+
+#: ../../source/sbgn a3cce1ee93d14d6d843e4266d123cdc4 elements.rst:201
+msgid ""
+"Для того, чтобы добавить вспомогательную единицу к сущности, нажмите на "
+"иконку |unit_of_information|, расположенную на :ref:`панели инструментов "
+"<panel>` и затем на выбранную сущность."
+msgstr ""
+
+#: ../../source/sbgn 077432b2c9b84fb9a352e2ca6aa6c282 elements.rst:169
+msgid "unit_of_information"
+msgstr ""
+
+#: ../../source/sbgn 59f1e764e2074f07aa19d8eccb1409c9 elements.rst:203
+msgid ""
+"**Переменные состояния** используются для описания изменения физического "
+"состояния биологического объекта. Обычно, переменная состояния строится "
+"из двух подстрок, разделенных символом \"@\", первая из которых "
+"идентифицирует значение переменной состояния, а вторая — ее имя. "
+"Например, при описании процесса фосфорилирования белка, для "
+"нефосфорилированной формы может использоваться переменная состояния "
+"\"@S122\" либо пустое состояние, обозначающая позицию фосфорилирования, и"
+" для фосфорилированной формы - \"P@S122\", где P - остаток фосфорной "
+"кислоты. Символ \"@\" опускается, если переменная состояния не имеет "
+"имени, как например, при обозначении активной и неактивной формы белка."
+msgstr ""
+
+#: ../../source/sbgn b3342f3f167e4ef78d2d5292bd8742db elements.rst:208
+msgid ""
+"Для некоторых переменных состояния, отображающих ковалентные модификации "
+"макромолекул, существуют определенные идентификаторы. Например, "
+"фосфорилирование (P), ацетилирование (Ac), метиилирование (Me) и др."
+msgstr ""
+
+#: ../../source/sbgn 75b43a479ae140d6b01f0c0204cfa439 elements.rst:210
+msgid ""
+"Для того, чтобы добавить переменную состоянию к сущности, нажмите на "
+"иконку |variable|, расположенную на :ref:`панели инструментов <panel>` и "
+"затем на выбранную сущность."
+msgstr ""
+
+#: ../../source/sbgn 97ac300b8eed47659d01aaa4e564e587 elements.rst:170
+msgid "variable"
+msgstr ""
+
+#: ../../source/sbgn 8775668615134201b390e282aa3e403e elements.rst:217
+msgid ""
+"Рисунок 8. Пример использования переменных состояния при создании "
+"`диаграммы, описывающей процесс фосфорилирования белка  "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Protein%20phosphorylation>`_"
+msgstr ""
+
+#: ../../source/sbgn a9a747c3a7a24528b6d0524c0a535cfe elements.rst:219
+msgid ""
+"**Маркеры клонирования** используются при дублировании сущности на "
+"диаграмме."
+msgstr ""
+
+#: ../../source/sbgn 55c0afd7fab4428aa97cb59b843f0d70 elements.rst:221
+msgid ""
+"Для создания клона нажмите на сущность, которую хотите клонировать и "
+"затем на иконку |clone_node|, расположенную на :doc:`общей панели "
+"управления </user_interface>`. Чтобы объединить клоны, нажмите на клон и "
+"затем на иконку |merge_node|."
+msgstr ""
+
+#: ../../source/sbgn ae200aa8d6314832a38b75b080906974 elements.rst:171
+msgid "clone_node"
+msgstr ""
+
+#: ../../source/sbgn 8b377faba5fe430ea4dd04b4906ebca0 elements.rst:172
+msgid "merge_node"
+msgstr ""
+
+#: ../../source/sbgn 3ceebd28fdc14e9f908e7a1b770ad781 elements.rst:230
+msgid "Гликолиз"
+msgstr ""
+
+#: ../../source/sbgn c1ecfb68a7c2427cad77bda35d1bab3e elements.rst:230
+msgid ""
+"Рисунок 9. Пример использования маркеров клонирования при создании "
+"`диаграммы, описывающей процесс гликолиза "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Glycolysis>`_. АТФ и АДФ встречаются в этом пути 4 раза, "
+"поэтому оба идентифицируются с помощью клон-маркера."
+msgstr ""
+
+#: ../../source/sbgn c2fe3a6a782d400a9cc9f12218c52d2b
+#: ed27bb0f3c974c81945974d7b20a724c elements.rst:233 elements.rst:249
+#: elements.rst:259 fb9f772065514ef8a3b7df8373aa421b
+msgid "Заметка"
+msgstr ""
+
+#: ../../source/sbgn 6bdf5e0c868b40e890e9e062f8bf4fa0 elements.rst:238
+msgid ""
+"**Заметка** используется для добавления дополнительной информации, "
+"например, детального описания молекулярных механизмов, отображенных на "
+"диаграмме :ref:`(Рисунок 10) <Pic.10_5>`. Аннотация может быть "
+"представлена как отдельный элемент на диаграмме, так и быть связанной с "
+"сущностью при помоши **ребра заметки**."
+msgstr ""
+
+#: ../../source/sbgn 3b8c433a37b14011b930b967fb8b3415 elements.rst:249
+msgid "Рисунок 10. Заметка"
+msgstr ""
+
+#: ../../source/sbgn 0f4727a274f2453f8605dc7748754e41 elements.rst:251
+msgid ""
+"Для того, чтобы создать заметку, нажмите на иконку |note|, расположенную "
+"на :ref:`панели инструментов <panel>`. Затем, вы можете связать ее с "
+"сущностью, создав ребро заметки, нажав на иконку |note_link|, и соединив "
+"этим ребром сущность и аннотацию."
+msgstr ""
+
+#: ../../source/sbgn e8992e63e21e40c3aec881d552ffefc1 elements.rst:235
+msgid "note"
+msgstr ""
+
+#: ../../source/sbgn 6104df0f673f44e8ab83f28893e97d04 elements.rst:236
+msgid "note_link"
+msgstr ""
+
+#: ../../source/sbgn 16a404f3779045d896474638642a2cda elements.rst:259
+msgid "Рисунок 11. Пример использования заметки, связанной с сущностью."
+msgstr ""
+
+#: ../../source/sbgn 66ba8a9b7903428bb019ebdbd5a21e7a
+#: a8ef1a52970549458d85f22ec99216eb elements.rst:264 elements.rst:283
+msgid "Процессы"
+msgstr ""
+
+#: ../../source/sbgn 1df46bc6a4bd4f92945ebbf74d7b5809 elements.rst:266
+msgid ""
+"**Процессы** преобразуют один или несколько пулов сущностей в один или "
+"несколько пулов сущностей, идентичных или разных. На диаграмме процессы "
+"отображаются в виде круга или квадрата, которые соединены с небольшими "
+"дугами (ребрами), прикрепленными к центрам противоположных сторон фигуры "
+"процесса :ref:`(Рисунок 12) <Pic.12_5>`."
+msgstr ""
+
+#: ../../source/sbgn c062e11d97ac4227a5c91c0e67069f10 elements.rst:270
+msgid ""
+"Создание реакций с использованием описанных элементов диаграммы будет "
+"обсуждаться в разделе :ref:`\"Визуальное моделирование процесса\" "
+"<process_creation>`."
+msgstr ""
+
+#: ../../source/sbgn 6e0e42d7a00b48c9be1150696e848703 elements.rst:272
+msgid ""
+"Согласно нотации SBGN существует один общий тип - *базовый процесс "
+"(process)*, а также пять типов специфических процессов: *пропущенный "
+"процесс (omitted process)*, *неопределенный процесс (uncertain process)*,"
+" *ассоциация (association)*, *диссоциация (dissociation)* и *фенотип "
+"(phenotype)*."
+msgstr ""
+
+#: ../../source/sbgn bd76a80d625649e1b8ff4c02f45fa0c9 elements.rst:283
+msgid "Рисунок 12. Процессы"
+msgstr ""
+
+#: ../../source/sbgn a5896e7206f64fd6b56ae953469fc976
+#: a5ec014daccc493b89a8ed96018e3ce1 elements.rst:320 elements.rst:347
+msgid "Ребра"
+msgstr ""
+
+#: ../../source/sbgn 2ac301a2bad248e6a77bc38bb5f6630c elements.rst:322
+msgid ""
+"По нотации SBGN выделяется четыре типа ребер - *ребра потоков*, *ребра "
+"модуляции*, :ref:`логическое ребро <logical arc>` и *ребро аннотации*."
+msgstr ""
+
+#: ../../source/sbgn 062894d9eb094c8788845e41823d5692 elements.rst:324
+msgid ""
+"*Ребра потоков* позволяют представить, какие пулы сущностей потребляются "
+"и производятся процессом. Ребра **потребления** связывают процессы с "
+"реагентами, а ребра **производства** связывают процессы с продуктами "
+":ref:`(Рисунок 13) <Pic.13_5>`. При создании реакции в BioUML эти ребра "
+"создаются автоматически."
+msgstr ""
+
+#: ../../source/sbgn 27ad42ae544747bdb3d58f739b781ce5 elements.rst:334
+msgid "Транслокация"
+msgstr ""
+
+#: ../../source/sbgn aebe3003dbf84434a980498bae012bf8 elements.rst:334
+msgid ""
+"Рисунок 13 `Диаграмма, описывающая транспорт иона Ca2+ "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Ca2%2B%20transport>`_. В реакции траслокации тип "
+"использованного процесса - базовый процесс, с ребрами потребления и "
+"продукции."
+msgstr ""
+
+#: ../../source/sbgn 77d5725c3ff7470684f793edebd91a4b elements.rst:340
+msgid ""
+"*Ребра модуляции* представляют собой влияние пулов сущностей на процессы."
+" Выделяется пять видов ребер: *модуляция*, *стимуляция*, *катализ*, "
+"*ингибирование* и *необходимая стимуляция* :ref:`(Рисунок 14) "
+"<Pic.14_5>`."
+msgstr ""
+
+#: ../../source/sbgn 10af7aca31674609ae4535e716b47ff2 elements.rst:347
+msgid "Рисунок 14. Ребра"
+msgstr ""
+
+#: ../../source/sbgn 6c7b8bc4628c4230955e4e0dff9ea6b2 elements.rst:349
+msgid ""
+"**Модуляция** используется, когда неизвестно точное направление процесса "
+"- положительное или отрицательное воздействие, которое может зависеть, "
+"например, от концентрации реактантов. Примером модуляции может служить "
+"влияние никотина на конформацию никотинового рецептора ацетилхолина "
+":ref:`(Рисунок 15) <Pic.15_5>`. Высокие концентрации никотина открывают "
+"рецептор, тогда как низкие концентрации могут снизить его "
+"чувствительность, не открывая его."
+msgstr ""
+
+#: ../../source/sbgn b792a942794c47ba9f175f16ae21149f elements.rst:360
+msgid "Модуляция"
+msgstr ""
+
+#: ../../source/sbgn 3274090870ff41f981bef71f19f4fd2c elements.rst:360
+#, python-format
+msgid ""
+"Рисунок 15. `Диаграмма модуляции открытия никотиновых рецепторов "
+"никотином <https://ict.biouml.org/bioumlweb/#de=data/Collaboration"
+"/BioUML-docs/Data/Modulation%20of%20nicotinic%20receptor%20opening>`_"
+msgstr ""
+
+#: ../../source/sbgn 8f238cd6a33b4790bf481c01257d7a67 elements.rst:362
+msgid ""
+"**Стимуляция** положительно влияет на поток процесса, представленного "
+"целевым процессом. Эта стимуляция может представлять собой, например, "
+"катализ или положительную аллостерическую регуляцию. Однако, катализ "
+"существует независимо в SBGN нотации."
+msgstr ""
+
+#: ../../source/sbgn be8cc4f46a1c4e4cafaed8bb7663f7a8 elements.rst:369
+msgid "Стимуляция"
+msgstr ""
+
+#: ../../source/sbgn d54a2c4c75044e7fa98125c69d446207 elements.rst:369
+#, python-format
+msgid ""
+"Рисунок 16. `Диаграмма противоположного влияния агонистов и обратных "
+"агонистов на рецептор GPCR "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Opposing%20effects%20of%20agonists%20and%20inverse%20agonists>`_."
+" При создании реакций были использованы ребра стимуляции"
+msgstr ""
+
+#: ../../source/sbgn 9d8dd784a15b48ed80c7fa46cddc1671 elements.rst:371
+msgid ""
+"**Катализ** — это частный случай стимуляции, при котором эффектор "
+"положительно влияет на поток процесса, представленного целевым процессом."
+" Положительное влияние на процесс обусловлено снижением энергии активации"
+" реакции."
+msgstr ""
+
+#: ../../source/sbgn 8546b5f7e0b347a0ac364e96f825d39a elements.rst:378
+msgid "Катализ"
+msgstr ""
+
+#: ../../source/sbgn 4a8753c022ee4478a6bca2ad60cd43f5 elements.rst:378
+#, python-format
+msgid ""
+"Рисунок 17. `Диаграмма, отображающая процесс катализации фосфорилирования"
+" МАРК киназой MAPKK "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/MAPKK%20kinase%20catalyzes%20MAPK%20phosphorylation>`_"
+msgstr ""
+
+#: ../../source/sbgn e018f4c32656499faf8938454ff46ed9 elements.rst:380
+msgid ""
+"**Ингибирование** отрицательно влияет на поток процесса, представленного "
+"целевым процессом. Ингибирование может быть, например, конкурентным "
+"ингибированием или аллостерическим ингибированием."
+msgstr ""
+
+#: ../../source/sbgn 06ecc1eb3b3f4fc08a6a9fff23d6ae79 elements.rst:387
+msgid "Ингибирование"
+msgstr ""
+
+#: ../../source/sbgn 677c4ca9788d4c0bbcf65433000d4672 elements.rst:387
+#, python-format
+msgid ""
+"Рисунок 18. `Диаграмма, отображающая процесс ингибирования превращения "
+"АТФ в цАМФ с помощью белка Gαi "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Protein%20inhibits%20the%20conversion%20of%20ATP%20to%20cAMP>`_"
+msgstr ""
+
+#: ../../source/sbgn cd420d4f9410498688a1ed262d9969b5 elements.rst:389
+msgid ""
+"**Необходимая стимуляция** – это стимуляция, необходимая для того, чтобы "
+"процесс состоялся."
+msgstr ""
+
+#: ../../source/sbgn 8233745c947a4211867ca9575f243e44 elements.rst:396
+msgid "Трансляция"
+msgstr ""
+
+#: ../../source/sbgn a81ca66915734d939d1b9df47a1c8cef elements.rst:396
+#, python-format
+msgid ""
+"Рисунок 19. `Диаграмма, отображающая транскрипцию гена и последующую "
+"трансляцию <https://ict.biouml.org/bioumlweb/#de=data/Collaboration"
+"/BioUML-"
+"docs/Data/Gene%20transcription%20and%20subsequent%20translation>`_"
+msgstr ""
+
+#: ../../source/sbgn 3f443ac3177f4296a4b12d4987ce5da9
+#: d86b82c6d2634a89a5794b84b4da90a9 elements.rst:399 elements.rst:411
+msgid "Логические операторы"
+msgstr ""
+
+#: ../../source/sbgn 43b9c0f7e5ce4dada6921b422602cde7 elements.rst:401
+msgid ""
+"*Логические операторы* обозначают механизм совместного действия пула или "
+"нескольких пулов сущностей. Выделяются три типа логических операторов: "
+"\"И\", \"ИЛИ\", \"НЕ\" :ref:`(Рисунок 20) <Pic.20_5>`."
+msgstr ""
+
+#: ../../source/sbgn 7849c5be7e3943ef90d359f59f6157d4 elements.rst:411
+msgid "Рисунок 20. Логические операторы"
+msgstr ""
+
+#: ../../source/sbgn abe468d03f8848e6a49686731a6adbd4 elements.rst:414
+msgid ""
+"Добавление логических операторов в реакцию обсуждается в разделе "
+":ref:`Визуальное моделирование реакций <logical_operator>`"
+msgstr ""
+
+#: ../../source/sbgn ec0de7d1c70049e7a9ad64e62ea545fd elements.rst:418
+msgid ""
+"**Логическое ребро** создается автоматические при использовании "
+"логического оператора и соединяет пул сущностей и логический оператор."
+msgstr ""
+
+#: ../../source/sbgn 303a5a34b2c844319136a85b521bf672 elements.rst:420
+msgid ""
+"**Логический оператор \"И\"** используется для обозначения того, что все "
+"узлы, связанные как входные, необходимы для получения выходных данных. "
+"Примером использования этого логического оператора заключается в синтезе "
+"мРНК IRF1, для которого необходимы как ген IRF1, так и комплекс, "
+"образованный белком STAT1 и регуляторной областью гена IRF1-GAS. Таким "
+"образом, логический оператор \"И\" связывает оба компонента, стимулируя "
+"процесс, который приводит к синтезу мРНК IRF1 :ref:`(Рисунок 21) "
+"<Pic.21_5>`."
+msgstr ""
+
+#: ../../source/sbgn 79619c9c920d49b59c6a8869ce190a0c elements.rst:431
+msgid "И"
+msgstr ""
+
+#: ../../source/sbgn 5103803d4fd74c46a1c5199dc95fe42b elements.rst:431
+#, python-format
+msgid ""
+"Рисунок 21. `Пример использования логического оператора \"И\" "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Logical%20operator%20AND>`_"
+msgstr ""
+
+#: ../../source/sbgn 9f3061e4a9c44625908add4ebc62fe44 elements.rst:433
+msgid ""
+"**Логический оператор \"ИЛИ\"** используется для обозначения того, что "
+"любой узел, связанный как входной, достаточен для получения выходных "
+"данных. В следующем примере показана транскрипция мРНК SDH2-3, "
+"активируемая пулом комплексов транскрипционных факторов, каждый из "
+"которых способен в одиночку активировать транскрипцию :ref:`(Рисунок 22) "
+"<Pic.22_5>`."
+msgstr ""
+
+#: ../../source/sbgn 1369967a3f3d4e1c8dfeb9b12d1a27d0 elements.rst:444
+msgid "ИЛИ"
+msgstr ""
+
+#: ../../source/sbgn elements.rst:444 faa65cfff46b4fe594e33bea9f123e37
+#, python-format
+msgid ""
+"Рисунок 22. `Пример использования логического оператора \"ИЛИ\" "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Logical%20operator%20OR>`_"
+msgstr ""
+
+#: ../../source/sbgn 5eddda4ed47d4bdc99de0c83651ded8a elements.rst:446
+msgid ""
+"**Логический оператор \"НЕ\"** используется для обозначения того, что "
+"выходные данные получаются только при отсутствии определенных входных "
+"данных. Следующий пример показывает, что продукция комплекса циклин-CDK "
+"не стимулируется белком p21 :ref:`(Рисунок 23) <Pic.23_5>`."
+msgstr ""
+
+#: ../../source/sbgn 8854e243f3454337886e7265ee2f54c4 elements.rst:456
+msgid "НЕ"
+msgstr ""
+
+#: ../../source/sbgn 43b7d325778a4add825fb4c7c6bc5054 elements.rst:456
+#, python-format
+msgid ""
+"Рисунок 23. `Пример использования логического оператора \"НЕ\" "
+"<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
+"docs/Data/Logical%20operator%20NOT>`_"
+msgstr ""
+

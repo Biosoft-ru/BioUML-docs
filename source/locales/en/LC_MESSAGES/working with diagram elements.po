@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/working 07e245bf387b466d8f6d778d9d9170be diagram elements.rst:2
+#: with
+msgid "Общие принципы работы с элементами диаграммы"
+msgstr ""
+
+#: ../../source/working 3b6679f640b845578cb8627337bfc2e5 diagram
+#: elements.rst:12 with
+msgid ""
+"Для того, чтобы *создать новый элемент* на диаграмме, необходимо нажать "
+"на его иконку, расположенную на панели инструментов в верхней части "
+":doc:`рабочего пространства </user_interface>` :ref:`(Рисунок 1) "
+"<panel>`. После этого выберите место в рабочем пространстве, где "
+"планируете разместить новый элемент."
+msgstr ""
+
+#: ../../source/working 663a09c6a5f44184b0437d32f49c3220 diagram
+#: elements.rst:22 with
+msgid "Панель инструментов"
+msgstr ""
+
+#: ../../source/working 140db1fc40c148f6abf394412b2d1019 diagram
+#: elements.rst:22 with
+msgid "Рисунок 1. Панель инструментов"
+msgstr ""
+
+#: ../../source/working cfbf4eddc2cf48ec829f1563e3c783b5 diagram
+#: elements.rst:24 with
+msgid ""
+"При создании нового элемента в открывшемся окне можно редактировать "
+"*свойства элемента*. Также необходимо дать *идентификатор* и присвоить "
+"*заголовок* элементу в полях |option| name и |option| title, "
+"соответственно."
+msgstr ""
+
+#: ../../source/working 16e648dc70694ecc948886d1ae4444d6
+#: 57025238d1ce4706b5d984f0054eb701 70509ef8174c4f818af5df21f67b1331
+#: 81a86ab012404e93b536ebcdda93abcb diagram elements.rst:5 with
+msgid "option"
+msgstr ""
+
+#: ../../source/working cc3ee24606574d04b32464f8f6ceb4b3 diagram
+#: elements.rst:29 with
+msgid ""
+"*Заголовок* будет отображаться на диаграмме и может не соответствовать "
+"идентификатору элемента. После того, как сущность создана, заголовок "
+"подлежит изменению, а *идентификатор* нет."
+msgstr ""
+
+#: ../../source/working 12b98ece794d4a7ab1d47dbd1f93db55 diagram
+#: elements.rst:32 with
+msgid ""
+"Нажатие на отдельный узел диаграммы позволяет отобразить *информацию об "
+"этом компоненте*, отображаемой на вкладке :guilabel:`Info` (инспектор "
+"свойств) в области :doc:`информационного окна </user_interface>`. Двойной"
+" щелчок по узлу активирует ссылку на справочную информацию на внешнем "
+"веб-сайте, если таковая имеется."
+msgstr ""
+
+#: ../../source/working 0ff77668070c486aa134dd828b4d5015 diagram
+#: elements.rst:37 with
+msgid ""
+"Нажав правой кнопкой мыши на созданный элемент на диаграмме, в "
+"открывшемся меню поле |edit| Edit позволяет изменять *дополнительные "
+"свойства элемента* :ref:`(Рисунок 2) <Pic.2_4>`. С помощью |fix_node| Fix"
+" node и |unfix_node| Unfix node можно *зафиксировать элемент  на "
+"диаграмме* и сделать свободным в перемещении, соответственно. Чтобы "
+"*удалить элемент*, нужно нажать на кнопку |remove| Remove. Для того, "
+"чтобы *скопировать элемент*, нажмите кнопку |save_as| Copy."
+msgstr ""
+
+#: ../../source/working 4550f4138b7b437693ff2123086f8c9b diagram elements.rst:6
+#: with
+msgid "edit"
+msgstr ""
+
+#: ../../source/working 9058c9df5fda4284978f28009b5a87e4 diagram elements.rst:9
+#: with
+msgid "fix_node"
+msgstr ""
+
+#: ../../source/working 812289b790d5460381614d3f16312619 diagram
+#: elements.rst:10 with
+msgid "unfix_node"
+msgstr ""
+
+#: ../../source/working 773e1124a8d548aba8546a0ac2cc0de4 diagram elements.rst:8
+#: with
+msgid "remove"
+msgstr ""
+
+#: ../../source/working ba163a4d9a524eb984c867f4ee9327f2 diagram elements.rst:7
+#: with
+msgid "save_as"
+msgstr ""
+
+#: ../../source/working d3152c31f4714ed8b4f5d6c1f4fe88a3 diagram
+#: elements.rst:44 with
+msgid ""
+"Скопированный элемент диаграммы будет иметь тот же заголовок и название с"
+" добавлением суффикса \"_1\"."
+msgstr ""
+
+#: ../../source/working 91703f97d82d4dac9e1337273b614385 diagram
+#: elements.rst:60 with
+msgid "Опции элемента диаграммы"
+msgstr ""
+
+#: ../../source/working a3e7a2e2108d402b9a9acff5271f1e76 diagram
+#: elements.rst:60 with
+msgid "Рисунок 2. Опции элемента диаграммы"
+msgstr ""
+
+#: ../../source/working 022c0d480d464bd98bf9d789f0835506 diagram
+#: elements.rst:62 with
+msgid ""
+"*Месторасположение элементов* на диаграмме можно изменять посредством "
+"зажатия элемента левой кнопкой мыши и перемещением в другое место на "
+"полотне."
+msgstr ""
+
+#: ../../source/working 46c86fce25264a6db372010824cb6ab8 diagram
+#: elements.rst:64 with
+msgid ""
+"У созданного элемента на диаграмме, представленного в виде геометрической"
+" фигуры, можно *изменить размер* засчет его выделения и "
+"растяжения/сужения, нажав на его углы или стороны. Размер фигуры также "
+"можно изменить в дополнительных свойствах элемента, задав его размеры в "
+"полях |option| Width и |option| Height."
+msgstr ""
+

@@ -1,0 +1,813 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/Physicell_simulation_result.rst:2
+#: 5ec6bb59cbdf4e7d8997e8412d2e5ae8
+msgid "Работа с результатами симуляции модели"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:24
+#: d287d386f137431abad5aa4800f4f11e
+msgid "Чтобы более детально изучить результат симуляции модели нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:26
+#: 18702164bc604708a60ce519d33393ed
+msgid ""
+"нажать ПКМ на папку с результатом симуляции (та, в которой находятся "
+"файлы info.txt, log.txt и model.txt),"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:27
+#: 28aad376d8d841b7b9965ae9e3aa8710
+msgid ""
+"в раскрывающемся списке нажать ЛКМ на **Open physicell result** "
+":ref:`(Рисунок 1) <Physicell_simulation_result_Pic.1>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:30
+#: 328e4f213c964b238f7397a9c7f046f3
+msgid ""
+"Проверьте, что при запуске симуляции опция **Save cells data** включена, "
+"иначе не получится открыть результат симуляции через **Open physicell "
+"result**."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:39
+#: ac15d41c3c5f48b8868944cb655ae23a
+msgid "Open_physicell_result"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:39
+#: a5c57da97b434165b625a22c1d9a9eb4
+msgid "Рисунок 1. Открытие результата симуляции модели."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:41
+#: 5edea16a7a8e48808d9bf8feec9746e4
+msgid ""
+"После этого в правой верхней части экрана появится изображение вашей "
+"модели :ref:`(Рисунок 2) <Physicell_simulation_result_Pic.2>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:50
+#: 77c4210336814bf6bf8a7973ad23e285
+msgid "Opened_physicell_result"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:50
+#: ce3162143c884e7e8211d6aa54e59a4a
+msgid "Рисунок 2. Изображение модели."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:52
+#: 7b763bf39323417586fbe53c1b93d892
+msgid ""
+"На ней обозначены клетки, оси, а также модельное время, количество клеток"
+" и срез по оси Z :ref:`(Рисунок 3) <Physicell_simulation_result_Pic.3>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:61
+#: 3b9213c792cc460ab295373a312f8f40
+msgid "Model_visualization"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:61
+#: 4b26b49030834292b0ea1b634dadc62c
+msgid ""
+"Рисунок 3. На изображении модели обозначены клетки, оси, модельное время,"
+" количество клеток и срез по оси Z."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:63
+#: cd3d90988c5742748235ded3c7f5cba0
+msgid ""
+"Чтобы просмотреть, как модель изменялась в процессе симуляции, нужно "
+"нажать ЛКМ на вкладку **Options**, которая расположена снизу "
+":ref:`(Рисунок 4) <Physicell_simulation_result_Pic.4>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:72
+#: 5117ec25073140899cf41dfa5ac3945a
+msgid "Options_tab"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:72
+#: 61ddc9bedbb145b69115b944c663c765
+msgid "Рисунок 4. Вкладка Options."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:74
+#: 225f037febef4563b7a490d90f9656df
+msgid ""
+"После этого в правой нижней части экрана появится меню, в котором можно "
+"настраивать просмотр симуляции модели :ref:`(Рисунок 5) "
+"<Physicell_simulation_result_Pic.5>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:83
+#: a28fe46375174897a59fd551aea78d11
+msgid "Options_menu"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:83
+#: e281f334574a441d9d97ecca8c77c373
+msgid "Рисунок 5. меню вкладки Options."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:85
+#: cc5b82e5346642d2bde9863a4880a269
+msgid "В этом меню можно выделить 2 части:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:87
+#: 2e372dd5eb354cf2baca920a574f3c28
+msgid ""
+":ref:`кнопки <Physicell_simulation_result_Buttons>` для просмотра "
+"симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:88
+#: c0ccfac7b35d4c299c41f2934e3d23cf
+msgid ""
+":ref:`параметры <Physicell_simulation_result_Parameters>` настройки "
+"просмотра симуляции :ref:`(Рисунок 6) "
+"<Physicell_simulation_result_Pic.6>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:97
+#: 2f3ad6a82d0440d4ba3f83066fa886eb
+msgid "Parts_of_the_options_menu"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:97
+#: 6e73fe5de6a943f8b7ed0448299ff43b
+msgid ""
+"Рисунок 6. Части вкладки Options: А) кнопки для просмотра симуляции и Б) "
+"параметры настройки просмотра симуляции."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:99
+#: 0690af972c25421fa6122eba3f2e2481
+msgid "Ниже разберем каждую из этих частей подробнее."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:104
+#: 05ad894d73894ea7af6aef3417da444f
+msgid "Кнопки для просмотра симуляции"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:106
+#: bd3a98412ace443aabcfd4435075297b
+msgid ""
+"Кнопки для просмотра симуляции располагаются в верхнем левом углу меню "
+"**Options** :ref:`(Рисунок 7) <Physicell_simulation_result_Pic.7>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:115
+#: d078f408aba74949bc6756819839269e
+msgid "Buttons_of_the_options_menu"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:115
+#: 802a95b7d14440439699f317279114a8
+msgid "Рисунок 7. Кнопки для просмотра симуляции."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:117
+#: 32d0a2a7615d4b3495d70f57eb3cecb1
+msgid "Всего имеется 4 кнопки для просмотра симуляции:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:119
+#: b56304f9b9de4f898bd8c41d335c5c05
+msgid ""
+"|icon_play_button| :raw-html:`«<strong><u>Play</u></strong>»`:начать "
+"просмотр симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:17
+#: 44ef29f3bb4c40fcae0ef5d04642b36c 5949ba2f5907473d8aff8c613934f032
+#: a65335643c584fdba7c28d6d84cba2f8
+msgid "icon_play_button"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:120
+#: c20f2ba00b664f468affe89276c4a899
+msgid ""
+"|icon_pause_button| :raw-html:`«<strong><u>Pause</u></strong>»`:поставить"
+" на паузу просмотр симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:18
+#: 20eeb14af58a425d9a31ed757bc30cd4 b55f5e229a6b41df8d65fdf7bd7ba542
+msgid "icon_pause_button"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:121
+#: dd5dda819f9b4183ade0103970699c1c
+msgid ""
+"|icon_stop_button| :raw-html:`«<strong><u>Stop</u></strong>»`:остановить "
+"просмотр симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:19
+#: ab85b4174cbf4c199e6320a655cac114 e1e90e9180d54c1b8155983585004bd7
+msgid "icon_stop_button"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:122
+#: 74add0299b4c475bab33cde6d171f255
+msgid ""
+"|icon_record_button| :raw-"
+"html:`«<strong><u>Record</u></strong>»`:записать просмотр симуляции на "
+"видео."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:20
+#: 119efc508c4a4d92b4caf9144eb5c091 44cf741520e442ccb90e69925124f1d2
+#: 5e8b50a3346a46488ede6796bf89ff62 d8873d417a774142ac16c3f5e2204089
+msgid "icon_record_button"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:124
+#: 78d8ee0b3e374a579d08c7ed8d431e5e
+msgid ""
+"Наведя курсор на любую из этих кнопок, можно получить подсказку о ее "
+"назначении."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:129
+#: f41fb9c60083493e85b0608ae7bdc161
+msgid "Параметры настройки просмотра симуляции"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:131
+#: fb8b34fd24944eec90f90c3739a5aad6
+msgid "Редактировать можно следующие параметры просмотра симуляции:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:172
+#: 58fdada3fe2444619d08cc60c38bcfc0
+msgid "Разберем некоторые из этих параметров более подробно."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:177
+#: 830ff6b943ce4749bf1076509ddf8c57
+msgid "Модельное время симуляции (Time)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:179
+#: b2202a8fd32d48649a004cf3a2a985f6
+msgid "Чтобы вывести изображение модели в любой момент времени симуляции, нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:181
+#: fb8f6f0c204d405d854f028c25587acb
+msgid "справа от |icon_option| **Time** ввести любое значение модельного времени,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:7
+#: 009d1b03e3174a9495033d41a910f02c 095765d0787747f585cd023699711fea
+#: 0f78aa4c213a4f0badd178116bdeff15 30db5ca94a3f4f58afbdb6fc3e268ace
+#: 3103cfccea4d404e8ae23b41814ee793 311d2066cd8040f6ba7aca2dedc6fbc4
+#: 3f792ee749d64e01afa1dea7b733f7c3 43fe1cdd6e7d42b89c682dba8d67eb64
+#: 4f9e44cf37234bae9d7e1c435a033d45 5038102d2f914fbca7b092f67b6e8c7e
+#: 5d3905868e7842abb18e4df728e906b6 6121dc8fb14d4cd59b43c169d64a3233
+#: 7ce1582b2aa647789dc50519eafbb023 8759486df0da4cb5bf229a94541ebb92
+#: a01e48fe5269494fb7a59d307b34bab5 b9800ac62310435294086e43372e9324
+#: bc66543d9aba4630be590323be3ffc08 bd4bd03bdb2c4bdb9272ae6579224373
+#: bdad8ac58be34549a719718d69a8a110 c05e69d36b5c49bf90ec6e6d573859f2
+#: dd531032a15a4223ad899801d50e3799 f781e8f4ea65455dbc0212cf96f49e61
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:182
+#: a851d9414599454f9179e0cd19b32e35
+msgid "нажать **Enter**."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:184
+#: d766ff10985c432f983afdcba25c057a
+msgid ""
+"Также можно воспроизвести симуляцию модели с любого момента. Для этого "
+"нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:186
+#: 47f0239a4e794a7c872152688c185de8
+msgid ""
+"справа от |icon_option| **Time** ввести значение модельного времени, "
+"начиная с которого вы хотите воспроизвести симуляцию,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:187
+#: e2b45ae822fa48dc8936734de2aa6322
+msgid "нажать ЛКМ кнопку |icon_play_button|."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:189
+#: 405d40434f774bc490ccc16e172268b9
+msgid ""
+"В любой момент воспроизведения симуляции вы можете его остановить, нажав "
+"ЛКМ кнопку |icon_pause_button|. Для продолжения воспроизведения нужно "
+"снова нажать ЛКМ кнопку |icon_play_button|."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:191
+#: 961e0fe93e804781a8d1a3f393aecf85
+msgid ""
+"Чтобы остановить воспроизведение симуляции, нужно нажать ЛКМ кнопку "
+"|icon_stop_button| (Значение |icon_option| **Time** станет равным 0)."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:196
+#: 3d0360502595498d93eeb3bc8c6d54e1
+msgid "Шаг модельного времени симуляции (Time step)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:198
+#: a533ad43c48e4664afe731c5aa01167d
+msgid ""
+"По умолчанию значение поля |icon_option| **Time step** будет равным "
+"параметру **Image interval**, указываемому при настройке :ref:`симуляции "
+"модели <Physicell_simulation>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:200
+#: d928f6eb61fa48819113b2942e88ff38
+msgid ""
+"Если задать значение **Time step**, неравное значению **Image interval**,"
+" то на каждом шаге Time step будет отрисовываться Image interval с "
+"наибольшей временной точкой, которая не превышает значение текущего Time "
+"step. Поясним это на примере ниже."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:202
+#: 0e63dad2e492406ea60b2e27355becfd
+msgid "Пример"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:229
+#: 2a3952cbf3ab48838bf6e9458468a3ff
+msgid "Изображение модели в двух измерениях (2D)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:231
+#: 35668100e2674ecdbe5beb0a56b4de1d
+msgid ""
+"Если поле |icon_option| **2D** отмечено, то изображение модели выводится "
+"в 2-ух измерениях :ref:`(Рисунок 8А) "
+"<Physicell_simulation_result_Pic.8>`, если нет - в 3-ех :ref:`(Рисунок "
+"8Б) <Physicell_simulation_result_Pic.8>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:240
+#: 5b7b532cd4de40cb9eaf3f74b43ef040
+msgid "2D_3D_model"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:240
+#: fe18b69fc8e44a88a419144864558686
+msgid "Рисунок 8. Изображение модели в 2-ух (А) и 3-ех (Б) измерениях."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:242
+#: 94c9e22fbf3642c3b9cc68ba954b90d8
+msgid ""
+"При выводе изображения в 3-ех измерениях мы смотрим на модель в "
+"пространстве, а не на срезе, поэтому значение среза по оси Z в правом "
+"верхнем углу отсутствует :ref:`(Рисунок 8Б) "
+"<Physicell_simulation_result_Pic.8>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:244
+#: ab39bd9035c54201a167ea8f3ffd8248
+msgid "Вы также можете вручную \"вращать\" модель. Для этого нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:246
+#: eaf25871735548bda4359b2448f8ab17
+msgid "навести курсор в любое место изображения модели,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:247
+#: a1aeaf57c46442e3afc6a468e388bc24
+msgid "зажать ЛКМ,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:248
+#: bd6c3bdbc9e542209c5bd566413db684
+msgid "передвинуть курсор в новое место,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:249
+#: 82ca99dbea134587943bbf0488f565de
+msgid "отпустить ЛКМ."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:254
+#: 09dfe62641634169920153e3a7538c47
+msgid "Опции просмотра модели в трех измерениях (Options 3D)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:259
+#: 161b62d884144c11a33bb95e32068f63
+msgid "Качество рендеринга трехмерных сфер - клеток (Spheres quality)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:261
+#: aa921c9d192d412abe784e7e5dcedc24
+msgid ""
+"Чтобы выбрать качество рендеринга трехмерного изображения клеток, нужно "
+"нажать ЛКМ справа от поля |icon_option| **Spheres quality** и из "
+"раскрывающегося списка выбрать одно из доступных значений."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:263
+#: c59fa0040b2944d189579615c53c77f6
+msgid "Всего доступно 2 значения:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:265
+#: 24554aa201194e6c8144dc7429d6ed82
+msgid "**Poor**: quality = 2,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:266
+#: 54ccabb0229842d3a8edaba27f7a1148
+msgid "**Good**: quality = 3."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:268
+#: 53fcb533d010400e8cb43e2af4d9c534
+msgid ""
+"Значение quality используется для определения количества полигонов в "
+"каждой отрисованной клетке. Оно вычисляется по следующей формуле:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:270
+#: 57a0684d0b5645ad8430e16b9eca7c5a
+msgid "Num_{polygons} = 4^{(quality \\, + \\, 1)}."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:277
+#: 4c80b475503d4d67986454d2d1830709
+msgid ""
+"Указание модельного времени, количества клеток и среза по оси Z "
+"(Statistics)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:279
+#: 1c07817785ea454e9a18443a4fbbe1a0
+msgid ""
+"Если поле |icon_option| **Statistics** отмечено, то на изображении модели"
+" выводятся значения модельного времени, количества клеток и среза по оси "
+"Z (срез по оси Z указывается, только если модель :ref:`двумерная "
+"<Physicell_simulation_result_2D>`) :ref:`(Рисунок 9А) "
+"<Physicell_simulation_result_Pic.9>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:281
+#: c6ab2232c5a34f1d99fc2ef3a2d6c661
+msgid ""
+"Если поле |icon_option| **Statistics** не отмечено, то такая статистика "
+"указываться не будет :ref:`(Рисунок 9Б) "
+"<Physicell_simulation_result_Pic.9>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:290
+#: dffd8f1d94674bdf82547850cd7cee7e
+msgid "Statistics_yes_no"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:290
+#: 73a6964c951e4663a718905be7619adf
+msgid ""
+"Рисунок 9. Модельное время, количество клеток и срез по оси Z "
+"отображаются, если опция Statistics включена (А), в противном случае "
+"такая статистика отсутствует (Б)."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:295
+#: 3f9870a3b2a848f59341b70ccd9a415f
+msgid "Изображение осей (Axes)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:297
+#: b41bd07940834600a20378e80faa866a
+msgid ""
+"Если поле |icon_option| **Axes** отмечено, то на изображении модели "
+"отрисовываются оси :ref:`(Рисунок 10А) "
+"<Physicell_simulation_result_Pic.10>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:299
+#: 5385641b62a94594af4c07a17d29e206
+msgid ""
+"Если поле |icon_option| **Axes** не отмечено, то оси отображаться не "
+"будут :ref:`(Рисунок 10Б) <Physicell_simulation_result_Pic.10>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:308
+#: 382c8d179dcd436480d58024daea8625
+msgid "Axes_yes_no"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:308
+#: 21ac3b0768e442ce89b11a49c3bc638b
+msgid ""
+"Рисунок 10. Изображение осей, если опция Axes включена (А), в противном "
+"случае оси отсутствуют (Б)."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:313
+#: 05b88575c3fa43bbbcda11e38daaa0ef
+msgid "Изображение клеток (Cells)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:315
+#: dc11a1fc0cd64e5fa3dd3b619029b87f
+msgid ""
+"Если поле |icon_option| **Cells** отмечено, то на изображении модели "
+"отрисовываются клетки :ref:`(Рисунок 11А) "
+"<Physicell_simulation_result_Pic.11>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:317
+#: 9d93c450766749e4a6c00b035741b984
+msgid ""
+"Если поле |icon_option| **Cells** не отмечено, то клетки отображаться не "
+"будут :ref:`(Рисунок 11Б) <Physicell_simulation_result_Pic.11>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:326
+#: 458cb4609cb745af95ff38932a5fe583
+msgid "Cells_yes_no"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:326
+#: 33137e582b7b478fad42024a0744b4dd
+msgid ""
+"Рисунок 11. Изображение клеток, если опция Cells включена (А), в "
+"противном случае клетки отсутствуют (Б)."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:331
+#: ddda47615977435a8c027e4601b85410
+msgid "Изображение ядер в клетках (Draw nuclei)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:333
+#: b0a652d030ea478199b9805e53c705d0
+msgid ""
+"Если поле |icon_option| **Draw nuclei** отмечено, то на изображении "
+"модели в клетках будут отрисовываться ядра :ref:`(Рисунок 12А) "
+"<Physicell_simulation_result_Pic.12>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:335
+#: 6f73e9aba1f841e99de0ec261229b933
+msgid ""
+"Если поле |icon_option| **Draw nuclei** не отмечено, то ядра в клетках "
+"отображаться не будут :ref:`(Рисунок 12Б) "
+"<Physicell_simulation_result_Pic.12>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:344
+#: 2cf0ae5e2dda4b858461e7f0a3c14844
+msgid "Nuclei_yes_no"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:344
+#: a9d3dfaa3a5a49fe8e394d4f83b773fb
+msgid ""
+"Рисунок 12. Изображение ядер в клетках, если опция Draw nuclei включена "
+"(А), в противном случае ядра в клетках не отрисовываются (Б)."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:349
+#: 0f0abf2a53cf42cda33a8c11c00bdacf
+msgid "Изображение субстратов (Substrate, Substrate name, Density Color)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:352
+#: 507f443dd0a44c649bb73700fe3ebcc3
+msgid ""
+"Одновременно при просмотре симуляции можно отображать только один "
+"субстрат."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:354
+#: c4499eb0b2cc484fbfbfd6ad95a697cd
+msgid ""
+"Чтобы отображать субстрат при просмотре симуляции модели, нужно поставить"
+" ☑ справа от поля |icon_option| **Substrate**."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:356
+#: c54a45b634db43309f0ec95f5f79be99
+msgid ""
+"Чтобы выбрать, какой субстрат будет отрисовываться при симуляции модели, "
+"нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:358
+#: 50ef44aa378f4f2c8627b766fd557d87
+msgid "нажать ЛКМ справа от поля |icon_option| **Substrate name**,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:359
+#: 18396bb1ef2843e797b8de8596213133
+msgid "выбрать из раскрывающегося списка нужный субстрат."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:361
+#: 73f58d1c742c44548c48d9c48241a64c
+msgid ""
+"Чтобы выбрать, каким цветом выбранный субстрат будет отрисовываться при "
+"просмотре симуляции модели, нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:363
+#: ce47f481d5964087922a15a902f0ef31
+msgid "нажать ЛКМ справа от поля |icon_option| **Density Color**,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:364
+#: a3d4d518cd794333ad0f8e6a49b847df
+msgid "выбрать из раскрывающегося списка нужный цвет."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:369
+#: 13e51d0baf9840ea9be5b13dea7dd4b6
+msgid ""
+"Координаты окна, в котором указывается модельное время, количество клеток"
+" и срез по оси Z (Statistics X, Statistics Y)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:371
+#: e86b9d7699eb4bf284392a09302333f4
+msgid ""
+"Все окно, в котором отображается модель, имеет свою систему координат, "
+"состоящую из двух осей - X и Y :ref:`(Рисунок 13) "
+"<Physicell_simulation_result_Pic.13>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:380
+#: 2f367e403bea4058be97e8c14d172636
+msgid "Model_window_axes"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:380
+#: be68b268cdda401296f7554dbae0b6c9
+msgid "Рисунок 13. Система координат окна, в котором отображается модель."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:383
+#: 844ea680b62c4f7dbcaa1a2890686f1b
+msgid "Не путать с системой координат, в которой располагаются клетки!"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:385
+#: 51c6085aeeb043d4a2890c5296c9e3fa
+msgid ""
+"Изменяя значения полей |icon_option| **Statistics X** и |icon_option| "
+"**Statistics Y**, можно регулировать расположение легенды на изображении "
+"модели :ref:`(Рисунок 14) <Physicell_simulation_result_Pic.14>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:394
+#: 36b5a7fade5349b594e76d236a0f8acf
+msgid "Different_statistics_X_Y"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:394
+#: a74a1090384947c4a982def60f4faba2
+msgid ""
+"Рисунок 14. Изменение положения легенды с помощью параметров Statistics X"
+" и Statistics Y."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:399
+#: d7c8de100db84ac49e4e2e351992e36f
+msgid "Запись видео (Frame per second, Result video path)"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:401
+#: 1470d1751dca432082089afd268bde00
+msgid ""
+"Перед тем как начать записывать видео, нужно выбрать директорию, куда оно"
+" будет сохранено. Для этого нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:403
+#: b04dd8851f114e95b24e1da18c32bdc1
+msgid ""
+"нажать ЛКМ на |icon_option| **(select element)** справа от |icon_option| "
+"**Result video path**,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:404
+#: d80d90ff651a4248b4b30f8ea001034a
+msgid ""
+"в появившемся окне нажать ЛКМ справа от поля **Collection:** и выбрать "
+"директорию для сохранения видео,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:405
+#: 2696b293cb7d473689b8de0d6a9dc16e
+msgid "справа от поля **Name:** указать название видео,"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:406
+#: 001311805da44cbc9420e93a60f96afb
+msgid ""
+"нажать ЛКМ на кнопку **Ok** :ref:`(Рисунок 15) "
+"<Physicell_simulation_result_Pic.15>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:415
+#: 054831f3b34f4186bdf53b924e72af8e
+msgid "Select_video_path"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:415
+#: 0733e02662644789b6a46225446d1de9
+msgid "Рисунок 15. Выбор директории для сохранения видео."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:417
+#: 23e6be9132f447ebbd77056ce98a3a3f
+msgid ""
+"Также нужно выбрать количество кадров, показываемых за 1 секунду (FPS, "
+"frame per second), в видео. Для этого укажите нужное вам значение справа "
+"от поля |icon_option| **Frame per second**."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:419
+#: e557e8a232e34284b001825c97ab70a4
+msgid "Теперь можно приступать к записи видео."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:421
+#: f51f3f43afea4a95b866e4c280be3345
+msgid ""
+"Чтобы начать записывать видео, нужно нажать ЛКМ на кнопку "
+"|icon_record_button| на :ref:`панели кнопок "
+"<Physicell_simulation_result_Buttons>`. После этого кнопка "
+"|icon_record_button| станет |icon_recorded_button|, что означает, что "
+"запись видео началась."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:21
+#: 1c5855579385454ea89afb7adf0429c5 8142faadd74e48d59ad92845e3956e8d
+msgid "icon_recorded_button"
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:423
+#: e21a01afe26744f8923d9c6f7e5c2aee
+msgid ""
+"После этого можно проводить любые манипуляции с симуляцией модели "
+"(переводить из 2-ух измерений в 3, визуализировать субстраты, передвигать"
+" легенду и т.д.) - все они будут записаны на видео."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:425
+#: fcfb2cb299fa4570995e8e1f0399ceaf
+msgid ""
+"Для остановки записи видео нужно нажать ЛКМ на кнопку "
+"|icon_recorded_button|. Кнопка станет |icon_record_button|, что означает,"
+" что запись видео завершена."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:427
+#: eed1d03035194b67b806c6edb82c874a
+msgid ""
+"Теперь в выбранной директории появится файл |icon_video| "
+"**[ваше_название].mp4**, в котором записано ваше видео."
+msgstr ""
+
+#: ../../source/Physicell_simulation_result.rst:22
+#: b3d0516aa69f488f878e889cc29a6f70
+msgid "icon_video"
+msgstr ""
+

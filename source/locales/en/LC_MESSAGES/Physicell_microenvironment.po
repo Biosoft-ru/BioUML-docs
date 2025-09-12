@@ -1,0 +1,1314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/Physicell_microenvironment.rst:2
+#: 75a31dff928146ceb87524a26755579f
+msgid "Свойства всей модели"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:44
+#: 8d96e3ba9a6b4b51a7d7e10d3cce19e9
+msgid ""
+"Для редактирования общих свойств всей модели используется вкладка "
+"**Microenvironment** :ref:`(Рисунок 1) "
+"<Physicell_microenvironment_Pic.1>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:53
+#: 3d86e98316744f1990eca7b96a634f9b
+msgid "microenvironment_tab"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:53
+#: 5387b9e03e3a41f4b04b79fc02ac7394
+msgid ""
+"Рисунок 1. Вкладка Microenvironment для редактирования свойств всей "
+"модели."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:55
+#: accc4e353ef548bb9eb08f976d75dceb
+msgid "Чтобы ее открыть, нужно нажать на нее ЛКМ."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:57
+#: 79eac8eba02c486ca97f0a6b8c5abea7
+msgid ""
+"Данная вкладка содержит в себе набор вложенных вкладок, каждая из которых"
+" описывает различные аспекты модели :ref:`(Рисунок 2) "
+"<Physicell_microenvironment_Pic.2>`:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:59
+#: 232bf838d421423d98197fc889c427a2
+msgid "**Domain**: свойства сетки,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:60
+#: 0667bbc556c6400f89971ee587fc2bd6
+msgid "**Substrates**: вещества,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:61
+#: c8bc0a3b9d3b43dba4aa68f7b7c1b648
+msgid "**Cell types**: типы клеток,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:62
+#: ce3313398e894993aaf2e83f8936e9ed
+msgid "**Events**: события,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:63
+#: 811f253f6eb141aabde41a43df3a635d
+msgid "**User Parameters**: пользовательские параметры модели,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:64
+#: 0ce6ac95eb4c48dd8d241a7f6adea2cd
+msgid "**Initial Condition**: начальное расположение клеток,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:65
+#: c3794300c1974ff09b2cfaa504fbacc3
+msgid "**Model Report**: отчет по модели,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:66
+#: cd6b9dcd7b63444dbaa0646572d7e59f
+msgid "**Visualizer**: визуализация клеток,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:67
+#: fb55727139f44ac780bc64f1f5ea7278
+msgid "**Color schemes**: цветовые схемы,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:68
+#: 9c5f114bb2774566a6940ceaccafecbc
+msgid "**Model Options**: другие параметры модели."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:77
+#: 679486b8c5e04b5d93cc9e10f5b8bb31
+msgid "microenvironment_inner_tabs"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:77
+#: 8e9327e233d0482cb79e3aeaeae97f60
+msgid "Рисунок 2. Вложенные вкладки в Microenvironment."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:79
+#: 93590f0ff1104e358db7b35fdbe4ef0c
+msgid "Чтобы открыть любую вкладку, нужно нажать на нее ЛКМ."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:81
+#: 6c5dd05e56f548b7a8b81dd34e054b84
+msgid "Далее отдельно разберем работу с каждой из вкладок."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:86
+#: fb58d7da1f4648e1b07cff6000f9afe5
+msgid "Свойства сетки (Domain)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:88
+#: 5d58e2bfb0e249f4938a68e628fc186f
+msgid ""
+"Во вкладке **Domain** описывается пространство внешней среды, которое "
+"задается прямоугольной сеткой."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:90
+#: c1e53a380099494b93009a4eadba3539
+msgid ""
+"В этой вкладке можно редактировать следующие параметры :ref:`(Рисунок 3) "
+"<Physicell_microenvironment_Pic.3>`:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:92
+#: 32520ab8162948e2a3d784937cabd584
+msgid "**Xmin**: минимальное значение координаты по оси X,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:93
+#: 996f881fa73f42efb50bef883cd5398c
+msgid "**Ymin**: минимальное значение координаты по оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:94
+#: 9a2308d8723d4fa598114866a9e3322c
+msgid "**Zmin**: минимальное значение координаты по оси Z,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:95
+#: 001c526b5c224619ae5239684bf78525
+msgid "**Xmax**: максимальное значение координаты по оси X,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:96
+#: bd2af0ad49ab47189c9eaf6b730e857d
+msgid "**Ymax**: максимальное значение координаты по оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:97
+#: 1e9cc6f10201440db89c213875595a31
+msgid "**Zmax**: максимальное значение координаты по оси Z,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:98
+#: 8e87ff0234f049589b776a59b7c4d230
+msgid "**dx**: шаг сетки по оси X,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:99
+#: 7ce7303035584343baea2cf4bf7f3c9c
+msgid "**dy**: шаг сетки по оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:100
+#: e20b6a32c3964dfeaab26a8e2e749611
+msgid "**dz**: шаг сетки по оси Z,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:101
+#: 8efaba1d470a42abb1d21ccee70adb97
+msgid ""
+"**Use 2D**: отметьте ☑, если хотите, чтобы пространство внешней среды "
+"ограничивалось двумя измерениями (оси X и Y)."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:104
+#: 2d38305fdc3e4b17a00d7e6f0065c1a4
+msgid ""
+"Параметры Zmin, Zmax и dz доступны для редактирования, только если не "
+"выбрано Use 2D."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:113
+#: de5ab6233362402d963c32901917731f
+msgid "Domain_menu"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:113
+#: ff937c32de404dcda03de2b96ea5d14d
+msgid "Рисунок 3. Меню редактирования пространства внешней среды модели."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:115
+#: 6690b6ad838a4cafbe7a2f45c74226c8
+msgid ""
+"Чтобы задать значение любого параметра, нужно нажать ЛКМ справа от "
+"соответствующей иконки и вписать собственное значение."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:117
+#: 6639fe99d8af4f6898101cb125809b55
+msgid ""
+"Пример 2D-сетки с параметрами Xmin = -500, Xmax = 500, dx = 100, Ymin = "
+"-500, Ymax = 500, dy = 100 представлен :ref:`на рисунке 4 "
+"<Physicell_microenvironment_Pic.4>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:126
+#: 06d5104598754729b65d283cf7a36922
+msgid "microenvironment_domain"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:126
+#: 38a49764816041e8a419b92d6486b3dc
+msgid "Рисунок 4. Пример 2D-сетки внешней среды."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:131
+#: 5ec503ad506944889769776f752961c3
+msgid "Вещества (Substrates)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:133
+#: fead6831a4b94ce2a41dcb7cd43e5312
+msgid ""
+"Во вкладке **Substrates** в табличной форме приведен список всех веществ "
+"в модели вместе с их свойствами :ref:`(Рисунок 5) "
+"<Physicell_microenvironment_Pic.5>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:142
+#: 28ce6d38d11f4e1a92e77bb7a296f319
+msgid "Substrates_menu"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:142
+#: 33fb1d8c8cbb41c1b1a6031e34e14e36
+msgid "Рисунок 5. Список всех веществ в модели с их свойствами."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:144
+#: 5b4135bb2f4446e385ea965d1cff56e7
+msgid "На данной вкладке можно редактировать все свойства веществ:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:146
+#: 9333d360be4346358a2db8850c54fc29
+msgid "**Name**: название субстрата,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:147
+#: 6720f95bf2e34855aa53de012ecc5773
+msgid ""
+"**Initial condition**: исходное количество вещества в каждой :ref:`ячейке"
+" среды <Physicell_microenvironment_Domain>`,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:148
+#: a6a24ad2464f4f8b8ebff9b5c0fe5032
+msgid "**Decay rate**: скорость разложения вещества в среде,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:149
+#: 983e18ddd35e461094d578213c30cfe2
+msgid "**Diffusion coefficient**: скорость диффузии вещества в среде,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:150
+#: 3106e6704b92471d8e527405bc044ee2
+msgid ""
+"**X min**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды X = X<sub>min</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:151
+#: 4285ee5a14fc4c85ab0ec8f0c3c480a2
+msgid ""
+"**X max**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды X = X<sub>max</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:152
+#: 6737d65e9dbc439ebfb9c8c3a2df1d4a
+msgid ""
+"**Y min**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды Y = Y<sub>min</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:153
+#: 67d812f9ceb4418fab1da1375efa162e
+msgid ""
+"**Y max**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды Y = Y<sub>max</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:154
+#: d6ec3d1d594f47f8b7ab3dcc09baa838
+msgid ""
+"**Z min**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды Z = Z<sub>min</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:155
+#: 1cbaf8425a304ebc8ef203ab52bc26c1
+msgid ""
+"**Z max**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды Z = Z<sub>max</sub>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:157
+#: ../../source/Physicell_microenvironment.rst:214
+#: 3f31ff0beede46cc8e5f9b3f056e6981 45be4d57a1564f109a48c19a489420f4
+msgid ""
+"Чтобы задать значение любого параметра, нужно нажать ЛКМ в ячейку строки "
+"под соответствующим заголовком и вписать собственное значение."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:159
+#: 14aca559feef4203aad432118f43d56a
+msgid ""
+"Также свойства веществ можно настраивать напрямую на диаграмме: либо при "
+"их :ref:`создании <Physicell_model_development_Substrate_creation>`, либо"
+" :ref:`редактируя <Physicell_model_development_Additional_properties>` "
+"уже созданные."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:162
+#: 3540d1d499054b67a58ad48767b21670
+msgid "Удалять и добавлять новые вещества на данной вкладке нельзя."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:164
+#: 944b9d150308479b9e2b3874ba0e8d1b
+msgid ""
+"На данной вкладке можно сортировать вещества по значениям любой из их "
+"характеристик. Для этого нужно нажать ЛКМ на название того стобца, по "
+"значениям которого вы хотите их отсортировать :ref:`(Рисунок 6) "
+"<Physicell_microenvironment_Pic.6>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:173
+#: 53ce6b78ef864eb8bb7bca2c572ebd59
+msgid "Substrates_sorting"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:173
+#: 0b605c11139f4916aaef7dddb724fac0
+msgid ""
+"Рисунок 6. Сортировка веществ по значениям одной из их характеристик "
+"(показано на примере Decay rate)."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:175
+#: ff0586c23b0d491c9d86160e4c2a781d
+msgid ""
+"После этого рядом с названием выбранной характеристики появится значок "
+"|icon_increase_sorting|, обозначающий сортировку от наименьшего к "
+"наибольшему. Чтобы отсортировать от наибольшего к наименьшему, нужно "
+"нажать ЛКМ на название этой же характеристики еще раз, после чего рядом с"
+" ней появится значок |icon_decrease_sorting|."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:32
+#: 9820f9277ad348fb92d8328c854c2ce5
+msgid "icon_increase_sorting"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:33
+#: f9ba03271f834139a02cc8c725b9ca59
+msgid "icon_decrease_sorting"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:177
+#: 6b2f423b016941cca53141553d03334c
+msgid "Также можно настраивать размер каждой колонки. Для этого нужно:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:179
+#: 3549fae716614f2483e6e102d3f1dc55
+msgid "навести курсор на границу любых двух столбцов,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:180
+#: 2db166fedb2d43bc9f359b0c1179dbc0
+msgid "зажать ЛКМ,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:181
+#: d4352bb81ff442f8b30fe4d2cd300c72
+msgid "передвинуть курсор в новое место таблицы,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:182
+#: 105c09f71db74811b4a36434c00dbbed
+msgid "отпустить ЛКМ :ref:`(Рисунок 7) <Physicell_microenvironment_Pic.7>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:191
+#: 84e70c01b37a44358c7a2fb07444b210
+msgid "Column_edit"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:191
+#: e678a284a4b54dc88c8adcf55d01811a
+msgid "Рисунок 7. Изменение ширины столбцов."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:194
+#: 5cf4fe5cc4fe47109c69fa7544614320
+msgid "Типы клеток (Cell types)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:196
+#: 2d451de964ac44e2b4c666661b4787a7
+msgid ""
+"Во вкладке **Cell types** в табличной форме приведен список всех типов "
+"клеток в модели вместе с их свойствами :ref:`(Рисунок 8) "
+"<Physicell_microenvironment_Pic.8>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:205
+#: 2e0687a51f6943cfb00aa400e4816aa0
+msgid "Cell_types_menu"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:205
+#: b98e318fdf5549de98623f904af48120
+msgid "Рисунок 8. Список всех типов клеток в модели с их свойствами."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:207
+#: 8daa1b69ccef41c28b683a3623de21db
+msgid "На данной вкладке можно редактировать все свойства клеток:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:209
+#: 3660e1fff05c440296a2ab8ac9e842d7
+msgid "**Name**: название типа клеток,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:210
+#: e1656911b43943cf9caca27c7312f737
+msgid "**Initial number**: исходное количество клеток данного типа,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:211
+#: 5586be5468464f7fa6954d2cc0e828e7
+msgid ""
+"**Color**: цвет, с помощью которого клетки данного типа будут "
+"отображаться при симуляции модели,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:212
+#: 67db17ddc081436d9160b22dfa3fd404
+msgid "**Comment**: можете оставить любые комментарии для клеток данного типа."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:216
+#: cfa05a9cac9a41fca82565864b528550
+msgid ""
+"Чтобы выбрать значение параметра **Color**, нужно нажать ЛКМ в ячейку "
+"строки под этим заголовком и из раскрывающегося списка выбрать нужный "
+"цвет :ref:`(Рисунок 9) <Physicell_microenvironment_Pic.9>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:225
+#: 88bcf7d7c1dc404c902cf0c45d405a54
+msgid "Cell_types_color"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:225
+#: bd37d88ebb4d45a49ea95b8ca194f178
+msgid "Рисунок 9. Изменение значения параметра Color."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:227
+#: 44fbb9af172847cf8d8964f90b84b314
+msgid ""
+"Чтобы более детально настроить цвет клеток, нужно в конце раскрывающегося"
+" списка под полем **Color** выбрать **more colors...** :ref:`(Рисунок "
+"10A) <Physicell_microenvironment_Pic.10>` и в появившемся окне задать "
+"нужный цвет :ref:`(Рисунок 10Б) <Physicell_microenvironment_Pic.10>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:236
+#: cfabb9fee9f34281a159a977b99a64d8
+msgid "Cell_types_more_colors"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:236
+#: 05ac55c79e324e498192ce91975ff038
+msgid ""
+"Рисунок 10. Выберите more colors (А) для более детальной настройки цвета "
+"клеток (Б)."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:238
+#: 65596a7776a0476eb51a6c7076e800c2
+msgid ""
+"Также свойства клеток можно настраивать напрямую на диаграмме: либо при "
+"их :ref:`создании <Physicell_model_development_Cell_creation>`, либо "
+":ref:`редактируя <Physicell_model_development_Additional_properties>` уже"
+" созданные."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:241
+#: 5c9f47f99a55457ca6677184dfed56a0
+msgid "Удалять и добавлять новые типы клеток на данной вкладке нельзя."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:243
+#: 990da30ee1d646a7bc3436a5de8c84c4
+msgid ""
+"Сортировка типов клеток по значениям какого-либо из их признаков, а также"
+" изменение размеров любой колонки таблицы со всеми клетками выполняется "
+"также, как и с :ref:`веществами <Physicell_microenvironment_Substrates>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:246
+#: 348a1399f4a14230a83dc6ed1a72a4ab
+msgid "События (Events)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:248
+#: 8e9950c361334e9ba51568bf3cc6588e
+msgid ""
+"Во вкладке **Events** в табличной форме приведен список всех событий "
+"модели вместе с их настройками :ref:`(Рисунок 11) "
+"<Physicell_microenvironment_Pic.11>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:257
+#: af5f3ee93f6a42c784b3d0b17acd3db7
+msgid "Events_menu"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:257
+#: 5f92b2f8932a4792ae333493d4125aed
+msgid "Рисунок 11. Список всех событий модели с их настройками."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:259
+#: 3e431db6efe34143acc278c496e84cc0
+msgid "На данной вкладке можно редактировать все настройки событий:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:261
+#: d7200a912de54811943b5385d2949764
+msgid "**Name**: название события,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:262
+#: 4bd49ba4974346209f1c19e9ec325d05
+msgid ""
+"**Execution time**: модельное время, при достижении которого срабатывает "
+"событие,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:263
+#: ccaef950682d46839c6a463ee6e97ab6
+msgid ""
+"**Custom Execution code**: выберите ☑, чтобы задать путь до Java-кода, "
+"который выполнится при срабатывании события,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:264
+#: dcba591888694d508a41e49ffbc861eb
+msgid ""
+"**Execution code**: путь до Java-кода, который выполняется при "
+"срабатывании события,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:265
+#: 7147d35b16c449c1b0da9be26384d792
+msgid "**Comment**: комментарий,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:266
+#: e6fd990526d54bde918ef6a52d910e09
+msgid ""
+"**Show code**: выберите ☑, если хотите полностью показывать код на "
+"диаграмме модели,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:267
+#: fc00d4bc06124851863edb14d8e5d647
+msgid ""
+"**Format code**: выберите ☑, если хотите форматировать показываемый на "
+"диаграмме модели код."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:269
+#: 54cdba04d6744528890f3f7e26a6d0ef
+msgid ""
+"Чтобы задать значение любого параметра, нужно нажать ЛКМ в ячейку строки "
+"под соответствующим заголовком и вписать собственное значение, указать "
+"путь до нужного файла или отметить ☑."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:271
+#: e9e837a32c014724b22ea22ea22c1ee9
+msgid ""
+"Также настройки событий можно редактировать напрямую на диаграмме: либо "
+"при их :ref:`создании <Physicell_model_development_Event_creation>`, либо"
+" :ref:`редактируя <Physicell_model_development_Additional_properties>` "
+"уже созданные."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:274
+#: 3c272ea4029a4372b59a348921c4b2f7
+msgid "Удалять и добавлять новые события на данной вкладке нельзя."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:276
+#: a2251ce6513b4c76ae276e9ec360e828
+msgid ""
+"Сортировка событий по значениям какой-либо из их настроек, а также "
+"изменение размеров любой колонки таблицы со всеми событиями выполняется "
+"также, как и с :ref:`веществами <Physicell_microenvironment_Substrates>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:279
+#: 59d3d945c4394d47a587ef55d8c474cd
+msgid "Пользовательские параметры модели (User Parameters)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:281
+#: c9a81b4e899546a8a0fcc3b87257dcfb
+msgid ""
+"Пользовательские параметры модели могут быть добавлены для использования "
+"в пользовательском Java-коде, например, при генерации начального "
+"расположения клеток, срабатывания событий или в коде, описывающем "
+"поведение отдельных клеток."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:284
+#: 2c78a71f1e6c4382a1931f2c9730c7e2
+msgid "Начальное расположение клеток (Initial Condition)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:286
+#: 65eef574c6e54537b5134aa3e1218eca
+msgid ""
+"После нажатия на вкладку **Initial Condition** на панели свойств справа у"
+" вас появится меню, в котором нужно поставить ☑ напротив |icon_option| "
+"**Custom condition**, если вы хотите задать определенное начальное "
+"расположение клеток :ref:`(Рисунок 12) "
+"<Physicell_microenvironment_Pic.12>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:34
+#: 04b5d29cc6a34f958b75c34e9285e05b 0845b5655a7c48b58c9e75e1d556504a
+#: 249961022ebb417e98440b818ef18515 2ade967e0ef9485593a0797443ae3d3d
+#: 2eb8634950264bf198b29dca99c94e88 5159e3aaa9fc49209950dbd1b24e1899
+#: 6b3c8beef978484489802afcd5b93ef5 6d8511c4359b4ae4b46bcc07ee20583a
+#: 727159b827ef408f8b7829084be7ba2b 7f71300f6ee94d0b9d80a523dd9067b9
+#: 8044542066aa48769ceaeffab195cb5a 82cd4343031a41abbd6aa00e67818eec
+#: c0a3370725f54c6bb8e0d8af1b4ad0af
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:295
+#: 6e3ac9034b8144459d19e815dade9c8f
+msgid "Initial_condition_menu"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:295
+#: 5426a6e0d9124777939b2a05cb06b0a4
+msgid "Рисунок 12. Настройка для указания начального расположения клеток."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:297
+#: f67f4038057a4ac5b00a3f4a4b3ae66d
+msgid ""
+"Если вы не хотите настраивать определенное начальное расположение клеток "
+"(хотите оставить случайное расположение), то оставьте вкладку **Initial "
+"Condition** без изменений."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:299
+#: 34688efc68a04420912024c493a090b1
+msgid ""
+"При выборе ☑ напротив |icon_option| **Custom condition** у вас появится "
+"меню, в котором можно настроить 2 параметра :ref:`(Рисунок 13) "
+"<Physicell_microenvironment_Pic.13>`:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:301
+#: de6ebb1e64c14930b59bcbdfd1b34a7a
+msgid ""
+"|icon_option| **Custom Java code**: путь до Java-кода в репозитории, "
+"описывающего начальное расположение клеток в модели,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:302
+#: 83b45330ae044e17974863cee2e2cc07
+msgid ""
+"|icon_option| **Custom table**: путь до таблицы в репозитории, "
+"описывающей начальное расположение клеток в модели."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:311
+#: fe0faf5618c1477480ec720e53587371
+msgid "Initial_condition_parameters"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:311
+#: a1580dd585134c8381cb7487425f89f0
+msgid ""
+"Рисунок 13. Параметры Custom Java code и Custom table для указания "
+"определенного начального расположения клеток."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:313
+#: a4f50e1f63d4492bbdde8ea0f06b3446
+msgid ""
+"Чтобы указать путь до Java-кода или таблицы, нужно нажать ЛКМ на "
+"|icon_Java_code| **(select element)** или |icon_table| **(select "
+"element)**, соответственно, и в появившемся окне выбрать нужный файл в "
+"репозитории."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:35
+#: 731c67c3e9494ffc9ce006b1e08eb043 75f0cee60f2e4a238b54668ebfb036af
+msgid "icon_Java_code"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:36
+#: dffcb6634344473a80cdd9dfa213d414
+msgid "icon_table"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:316
+#: 1e316401bceb419a8cb0af9a3b669091
+msgid ""
+"Нельзя одновременно указать и Java-код и таблицу, нужно указать только "
+"что-то одно."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:321
+#: 78b373c697044ca3a4541e01dee5874a
+msgid "Отчет по модели (Model Report)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:323
+#: 24a577815a10447e96171563e4359114
+msgid ""
+"После нажатия на вкладку **Model Report** на панели свойств справа у вас "
+"появится меню, в котором можно редактировать следующие параметры "
+":ref:`(Рисунок 14) <Physicell_microenvironment_Pic.14>`:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:325
+#: ea4b27f13b024d6e9fa708b759cb5faf
+msgid ""
+"|icon_option| **Custom report**: поставьте ☑, если хотите задать "
+"Java-код, по которому будет создаваться отчет по модели в табличной "
+"форме,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:326
+#: b63790e547804b43bf4b2f24eb683b7d
+msgid ""
+"|icon_option| **Custom global report**: поставьте ☑, если хотите задать "
+"Java-код, который будет определять :ref:`вывод логов в консль во время "
+"симуляции модели <Physicell_simulation_Log_Model_report>`,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:327
+#: f3df9a481dc0460da561d9e2abee5322
+msgid ""
+"|icon_option| **Custom visualizer**: поставьте ☑, если хотите задать "
+"Java-код, по которому будет изменяться расцветка клеток при симуляции "
+"модели."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:337
+#: 974d751d2cef4ef7a4c71c18b0a08f38
+msgid "Model_report_menu"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:337
+#: e6c3ea9d4d7f4dcdb339c22d57e98f82
+msgid "Рисунок 14. Меню вкладки Model Report."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:339
+#: 1563adc2cea54d958f8e936d38e93f00
+msgid ""
+"При указании ☑ напротив |icon_option| **Custom report**, |icon_option| "
+"**Custom global report** или |icon_option| **Custom visualizer** ниже "
+"выбранного поля появится новое поле |icon_option| **Report**, "
+"|icon_option| **Global report** или |icon_option| **Visualizer**, "
+"соответственно. Напротив этих полей можно нажать ЛКМ на |icon_Java_code| "
+"**(select element)**, а затем в появившемся окне указать путь до нужного "
+"Java-кода в репозитории :ref:`(Рисунок 15) "
+"<Physicell_microenvironment_Pic.15>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:348
+#: 499a6a6bfb8c4397b2beee3aa1154ad0
+msgid "Choose_appropriate_Java_code"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:348
+#: 7dee0372fa084c5eb7a508b966bbbb63
+msgid "Рисунок 15. Выбор нужного Java-кода (показано на примере Custom report)."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:392
+#: a17607ee6d164cd3bef6c2e9d848f647
+msgid "Визуализация клеток (Visualizer)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:395
+#: 582f72cc7cce45f2a92eb0661d786343
+msgid ""
+"Перед редактированием этой вкладки сначала необходимо настроить вкладку "
+":ref:`Color schemes <Physicell_microenvironment_Color_schemes>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:397
+#: 67b9240c38c3419d9f3caab85d873062
+msgid ""
+"В этом разделе задаются условия, по которым к клетке применяются те или "
+"иные цветовые схемы, заданные во вкладке :ref:`Color schemes "
+"<Physicell_microenvironment_Color_schemes>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:400
+#: 0911c218bbbc4a82a2f60ea9bc6d6abf
+msgid ""
+"Также эти условия можно задавать через Java-код во вкладке :ref:`Model "
+"Report <Physicell_microenvironment_Model_Report>`, выбрав опцию **Custom "
+"visualizer** и указав путь в репозитории до нужного файла."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:402
+#: 3d488c04693b40d7919cba6853259c4b
+msgid ""
+"Для добавления и удаления условий применения цветовых схем используются "
+"кнопки |icon_plus| и |icon_minus|, соответственно (также как и в случае с"
+" самими :ref:`цветовыми схемами "
+"<Physicell_microenvironment_Color_schemes>`)."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:38
+#: 00e5c2fa55f94d0e8212fedd73e8669a 0e823f67dac04f39824b8e1251a3edbb
+msgid "icon_plus"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:39
+#: 0d2a039e22c54810acb28deaf393ed9a c264ae62fff04f90919fb02c83b9e2f9
+msgid "icon_minus"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:404
+#: 6ea1680419a547a5bfccda3e6582157a
+msgid ""
+"Для каждого условия можно настроить следующие параметры :ref:`(Рисунок "
+"16) <Physicell_microenvironment_Pic.16>`:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:406
+#: cb2812eb5d924e91864b3da4eca3f57c
+msgid "**Cell Type**: тип клеток, к которому будет применяться условие,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:407
+#: 8513225b9c3f4fa38d241b4463f1bde7
+msgid "**Priority**: приотритет применения данного условия,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:408
+#: 64a99d538a9240a390215c408e4eb467
+msgid "**Color type**: правило применения цветовой схемы,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:409
+#: 3ca3c7e7fff243d1aa10a52813f9ec42
+msgid "**Signal**: свойство клетки, значения которого применяются в условии,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:410
+#: b4733bc9807f43c188708b7047081ff3
+msgid "**Color 1**: 1-ая цветовая схема,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:411
+#: f28e4f3f32c6432ba93898b5a8192a3c
+msgid "**Color 2**: 2-ая цветовая схема,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:412
+#: c6f16742f5af497eaf8324cac80fd090
+msgid "**Min value**: минимальное значение выбранного свойства клетки (Signal),"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:413
+#: e99f012ed52d40d3805d76adec6eb129
+msgid "**Max value**: максимальное значение выбранного свойства клетки (Signal)."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:422
+#: dd3b4c3c1e4b4b3fb61894d575917a33
+msgid "Add_new_color_scheme_condition"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:422
+#: 8ef80307812845ebb330dd017e274d4d
+msgid "Рисунок 16. Настройка условия применения цветовых схем."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:424
+#: c5a7ff4a613f42c7b334998d08ce322c
+msgid ""
+"Значения полей **Cell Type**, **Color type**, **Signal**, **Color 1** и "
+"**Color 2** выбираются из раскрывающихся списков."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:426
+#: 3b34d77bb78242b5bd1aaa6ea8f0975d
+msgid ""
+"Чтобы задать значений полей **Priority**, **Min value** и **Max value**, "
+"нужно нажать ЛКМ под соответствующим заголовком и вписать собственное "
+"значение."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:428
+#: d51f31298a0646ff9088e5f919e26574
+msgid ""
+"Особое внимание следует уделить правилам применения цветовых схем "
+"(**Color type**). Всего существует 4 таких правила:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:430
+#: 27ce0013e67942f0ac07ecde06238887
+msgid ""
+"**Fixed color**: всегда применяется только одна цветовая схема, заданная "
+"в поле Color 1 (:raw-html:`<span style=\"color: red;\">поле Color 2 при "
+"выборе такого правила становится неактивным</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:431
+#: 595d558b53544659b7aa2e33c08a5503
+msgid ""
+"**Gradient**: цвет клетки изменяется по градиенту от 1-ой цветовой схемы "
+"(Color 1) ко 2-ой (Color 2) в зависимости от значения выбранного свойства"
+" клетки (Signal) относительно минимума (Min value) и максимума (Max "
+"value),"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:432
+#: cdfa991fc5b645919f1dc1312a679de7
+msgid ""
+"**Larger than max**: если значение свойства клетки (Siganl) больше, чем "
+"максимум (Max value), то к клетке применяется 1-ая цветовая схема (Color "
+"1); во всех остальных случаях применяется 2-ая цветовая схема (Color 2),"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:433
+#: 94f52c2a56a248e9ac84436808500aff
+msgid ""
+"**Smaller than min**: если значение свойства клетки (Siganl) меньше, чем "
+"минимум (Min value), то к клетке применяется 1-ая цветовая схема (Color "
+"1); во всех остальных случаях применяется 2-ая цветовая схема (Color 2)."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:436
+#: 1ba4fe0333514b60b7d5b4b60d8666c0
+msgid ""
+"Поле **Priority** используется только для правил *Larger than max* и "
+"*Smaller than min*."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:438
+#: 8636325750074d59ae96866fb852b553
+msgid ""
+"Если в какой-то момент времени к одному и тому же типу клеток применяется"
+" одновременно несколько условий с такими типами правил, то будет "
+"выполняться то из них, которое имеет наименьшее значение в поле Priority."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:440
+#: 22af62bb41b34d2386e4f95b834f55f9
+msgid ""
+"В :ref:`таблице 1 <Physicell_microenvironment_Tbl.1>` показано, как "
+"работают разные правила применения цветовых схем на примере со следующими"
+" настройками:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:442
+#: 1dde924ea2334b0790924686bff2995d
+msgid "**Color 1**: |icon_blue_circle|,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:40
+#: 62ca55dffac145d5b92ef9ab4edc5a37
+msgid "icon_blue_circle"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:443
+#: 4bf47bd5dd994e028d1c6ab6b2f1e86e
+msgid "**Color 2**: |icon_red_circle|,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:41
+#: af957b69a1304dd1819e762f2ed782b7
+msgid "icon_red_circle"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:444
+#: 28707255669f44fa81d6252cbd0d8e3e
+msgid "**Min value**: 10,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:445
+#: f21519dc35b840129973804a6d22b801
+msgid "**Max value**: 100."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:449
+#: 151317ee36824e70a32897fad61290a6
+msgid "Таблица 1. Пример работы различных правил применения цветовых схем"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:452
+#: c039f68e9d604cd382efa5c6979bca93
+msgid "Правило"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:453
+#: 34b2401ab1254428a66614b64fc00eaa
+msgid "Signal = 0"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:454
+#: 6b528a8cb5f34217805a7950dfcefcab
+msgid "Signal = 50"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:455
+#: e57e0bed4ef947a596ada59be5c53322
+msgid "Signal = 200"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:457
+#: ce6019fa8cbf4675aa0e6f6a8ac79bba
+msgid "Fixed color"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst 3bba440381534579b502675a3fff3263
+#: 516b6f50be644513a69eac3142266cfe 708e9dd70c934ba4aa7151e9c2292f6c
+#: 791067deb1af4aa986577ef0462c363b 8f3f91210d6d4032bc666bac497fa1d2
+#: b93baa34c430465c9b15101dfa477fc4
+msgid "синий круг"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:464
+#: 20ee6ea06d934bab94ded444ac3db4e8
+msgid "Gradient"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst 542843c5dcb345348f6a5dd2cc03af4b
+msgid "сине-красный градиентный круг"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst 2235456ea82b422a958bf4a4bb2da1e9
+#: 3e2551f9373549988fb3680d966673fe e7ff8a8767074fedbda5681752445cd6
+#: ec714f2cea644abeab73f8110be9301c fede1e8916ed45628638b62168fc7cc4
+msgid "красный круг"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:471
+#: 06c77b68cec44e69a1d9c01205275f28
+msgid "Larger than max"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:478
+#: 282714c30a1b446e8e236ff873815f43
+msgid "Smaller than min"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:489
+#: 2d6f6e7a23c943df92e1ea7ca78ac3f9
+msgid "Цветовые схемы (Color schemes)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:492
+#: 0a0389f3fa2b4d4c8e1ee721b5de0f14
+msgid ""
+"Пока мы пропустим вкладки **Model Report** и **Visualizer**, потому что "
+"перед их редактированием необходимо настроить параметры вкладки **Color "
+"schemes**."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:495
+#: 9f2579655e1c46e88b95f97596d18036
+msgid "Что такое цветовые схемы?"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:497
+#: 62bebdafd3964f1cb58c1bb655d18a50
+msgid ""
+"Цветовые схемы позволяют настраивать отрисовку клеток одного и того же "
+"типа в различных условиях."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:499
+#: 099d6ba738f346a79b431a9ba8f14a18
+msgid ""
+"Для понимания, в каких случаях может потребоваться использование цветовых"
+" схем, приведем пример."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:501
+#: 99e9b3e8b7ca436f8f3d1b20ad71ee9b
+msgid "Пример использования цветовых схем"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:529
+#: 50cac959500c4bf7b9127a4ef860fa65
+msgid "Настройка цветовых схем в модели"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:531
+#: 61e30a5afbd647cb8b543c02ff64e80b
+msgid ""
+"После нажатия на вкладку **Color schemes** на панели свойств справа у вас"
+" появится меню, в котором, нажав ЛКМ на иконку |icon_plus|, можно "
+"добавить новую цветовую схему :ref:`(Рисунок 17) "
+"<Physicell_microenvironment_Pic.17>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:540
+#: ce126c62ff164a63bf6eff6891dbfaf0
+msgid "Add_new_color_scheme"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:540
+#: 111dc39edbed4970ba98dd21fc4d98c3
+msgid "Рисунок 17. Добавление новой цветовой схемы."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:542
+#: ea4c9868e26c4218a63a8452e3817e44
+msgid ""
+"После этого у вас появится строка, соответствующая одной цветовой схеме "
+":ref:`(Рисунок 18) <Physicell_microenvironment_Pic.18>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:551
+#: 15ef85d5613f49eea3abb143c168b0c7
+msgid "Color_scheme_string"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:551
+#: 69012f5556264f889af17b4027677619
+msgid "Рисунок 18. Одной цветовой схеме соответствует одна строка."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:553
+#: 8c1da63e9b944ac3a2c6aa8b6331d2b2
+msgid "Таким образом можно добавить сколько угодно цветовых схем."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:555
+#: a6c17f1eaa4f45e7a491e250bc78eb83
+msgid "В каждой цветовой схеме можно настраивать следующие параметры:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:557
+#: 1ccb2059f7b845bc83a040b3103a301a
+msgid "**Name**: название цветовой схемы,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:558
+#: 008b1b622fb24d30b2141021fe89cce3
+msgid ""
+"**Inner Color**: цвет, с помощью которого отрисовывается внутреннее "
+"содержимое клетки,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:559
+#: d8342ba18b2446de8d45f6a166f3fadb
+msgid "**Has border**: отметьте ☑, если хотите отрисовывать контур клетки,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:560
+#: 647a907da31e4fbda9cb65898eb09229
+msgid ""
+"**Border color**: цвет, с помощью которого отрисовывается контур клетки "
+"(:raw-html:`<span style=\"color: red;\">не редактируется, если не выбрано"
+" свойство Has border</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:561
+#: 29cffc1c26b84b36906b1444d2d48ae1
+msgid "**Has core**: отметьте ☑, если хотите отрисовывать ядро в клетке,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:562
+#: e1294bdd1daf43cdbb243f4dba3c1448
+msgid ""
+"**Core color**: цвет, с помощью которого отрисовывается внутреннее "
+"содержимое ядра клетки (:raw-html:`<span style=\"color: red;\">не "
+"редактируется, если не выбрано свойство Has core</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:563
+#: 0db7cb227b2d4f719f02a898f90cf0b4
+msgid ""
+"**Core border Color**: цвет, с помощью которого отрисовывается контур "
+"ядра клетки (:raw-html:`<span style=\"color: red;\">не редактируется, "
+"если не выбрано свойство Has core</span>`)."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:565
+#: 3f1efae51fff48ab9474178808d65ebd
+msgid ""
+"Чтобы задать значение любого параметра, нужно нажать ЛКМ в ячейку строки "
+"под соответствующим заголовком и вписать собственное значение, отметить ☑"
+" или выбрать нужный цвет из раскрывающегося списка."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:567
+#: bd941369b5ef439da1ba155fad8300f2
+msgid "Для удаления цветовой схемы нужно:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:569
+#: 861482dda4a944abb95ce6f8ee600b13
+msgid "нажать ЛКМ на строку, соответствующую определенной цветовой схеме,"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:570
+#: 004bfe2e0804440abfab77f364497326
+msgid ""
+"нажать ЛКМ на значок |icon_minus| :ref:`(Рисунок 19) "
+"<Physicell_microenvironment_Pic.19>`."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:579
+#: 42824441222242569f5397d7de6edb12
+msgid "Delete_color_scheme"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:579
+#: da9b2b185c9e48eea1620c011896afa7
+msgid "Рисунок 19. Удаление цветовой схемы."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:582
+#: 92214d861e724aae99a99e87c623cb74
+msgid "Другие параметры модели (Model Options)"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:584
+#: 9eb0ffa9cfed4f6aa0fa2956727fa219
+msgid ""
+"Вкладка **Model Options** содержит все оставшиеся параметры модели, "
+"которые нельзя отнести ни к одной из рассмотренных выше вкладок."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:586
+#: 99a68a843b7e461c94c74390efceb5bc
+msgid ""
+"После нажатия на эту вкладку на панели свойств справа у вас появится "
+"меню, в котором можно редактировать следующие параметры модели "
+":ref:`(Рисунок 20) <Physicell_microenvironment_Pic.20>`:"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:588
+#: 7d76d1e00f1e46f7a5f6381814c7406a
+msgid ""
+"**Disable automated spring adhesion**: поставьте ☑, если хотите включить "
+"автоматическую адгезию клеток."
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:597
+#: bd4a650029594e3099bfc49adbdd3031
+msgid "Model_options_menu"
+msgstr ""
+
+#: ../../source/Physicell_microenvironment.rst:597
+#: bf3121a31b254453a3181b8267389627
+msgid "Рисунок 20. Меню редактирования оставшихся параметров модели."
+msgstr ""
+

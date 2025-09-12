@@ -1,0 +1,1451 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/Physicell_model_development.rst:2
+#: 8ba3ed22438c4801b51d3898fd8a5729
+msgid "Построение Physicell модели"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:5
+#: 2efbd0c7110e4cbd8e7c6acec2e3e9bb
+msgid "Инструменты Physicell модели"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:45
+#: 138497c2f997487f9a3764cc03ddd75e
+msgid ""
+"Чтобы начать работать с моделью, сначала нужно ее открыть. Для этого два "
+"раза ЛКМ нажмите на |icon_Type_Diagram| или нажмите ПКМ на "
+"|icon_Type_Diagram| и в выпадающем списке нажмите ЛКМ на "
+"|icon_opened_folder| **Open** :ref:`(Рисунок 1) "
+"<Physicell_model_development_Pic.1>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:35
+#: 0702bc0e65ad45aa987a5df68ce6de77 75bf68a9f9b141d2a72f86330593f318
+msgid "icon_Type_Diagram"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:36
+#: f98deb514baa4fd1bac87ce3921eb481
+msgid "icon_opened_folder"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:54
+#: ef390035fc004de2af224f39e0393f3d
+msgid "Open_the_diagram"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:54
+#: 5768b8e417fb4992a623e1e1c7f0644b
+msgid "Рисунок 1. Открытие модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:56
+#: 238cd18e488f48058aff6f3ced3dcc41
+msgid ""
+"После этого в левой верхней части экрана появится окно, в котором можно "
+"создавать модель :ref:`(Рисунок 2) <Physicell_model_development_Pic.2>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:65
+#: b609eee6c75644ada407433230f98ab9
+msgid "Diagram_window"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:65
+#: 402d6bed46ae4053ba3fd86df9a03451
+msgid "Рисунок 2. Окно, в котором создается модель."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:67
+#: c613ef036e42481eadc1c2ac75617952
+msgid ""
+"В верхней части этого окна можно видеть панель инструментов, которые "
+"используются для построения Physicell-модели :ref:`(Рисунок 3) "
+"<Physicell_model_development_Pic.3>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:76
+#: 816e099642bc4f0b90f9e486ffc82fb7
+msgid "Diagram_instruments"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:76
+#: 576f27ec71914ea8923888de0ca229b3
+msgid "Рисунок 3. Набор инструментов для построения модели типа Physicell."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:78
+#: b79f21ec65984b27b5a798b98fe0e725
+msgid ""
+"Выбрать тот или иной инструмент можно нажатием на соответствующую иконку "
+"ЛКМ. Описание каждого инструмента представлено в :ref:`таблице 1 "
+"<Physicell_model_development_Tbl.1>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:82
+#: c454c3755dbd464a8b47689124e865da
+msgid ""
+"Таблица 1. Элементы панели управления, используемой при работе с "
+"Physicell моделями"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:85
+#: 5bb5cb5dd9e641d0b5454ef0f2f979de
+msgid "Обозначение"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:86
+#: b3dd730f29a94dfbbd0250e68ffc80e1
+msgid "Описание"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: df3a5e365bad49a1abeb0d1f1b393a7a
+msgid "курсор"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:90
+#: 62d0384af40f41f8831643e7f86aee73
+msgid "Выбор элемента на диаграмме"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: 74308ccf57a24010a0507dd254e5b320
+msgid "клетка"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:93
+#: 9bfb5e9bf63b4a96b758f9995552f033
+msgid "Клетки"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: a40f527ddff14cd19861ab9aaf0cb4b3
+msgid "субстрат"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:96
+#: b7545a22362a445d8d6aaff46981922b
+msgid "Субстрат"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: 1364d8f597ea40d294d1017029447171
+msgid "событие"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:99
+#: f359bc374d8642d5ba2777b3bc86c063
+msgid "Событие"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: 9a93c280068943178fe6b67da08a29c7
+msgid "примечание"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:102
+#: f4430f1873144ba9b65dcd7f94127a40
+msgid "Примечание"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: 06c80d56c2fd493b91a3f0e141c5f9f1
+msgid "секреция"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:105
+#: d3777c930e0d4e4c88461651d26883cf
+msgid "Секреция"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: 085733009dd544c38bd35ac0d7d7b933
+msgid "хемотаксис"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:108
+#: b160ade16f6f483791f0de2b2dc02587
+msgid "Хемотаксис"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: 04e98cb3078d44ef86566dcf42369009
+msgid "взаимодействие"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:111
+#: 9798681954374dcfa1fd691bdde19917
+msgid "Взаимодействие"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst
+#: d831e4745e674a5d98fe69c111400796
+msgid "трансформация"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:114
+#: c72efa068956419090d05575477a444b
+msgid "Трансформация"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:116
+#: 1cd41dbd43b640319529c3270069deef
+msgid ""
+"Основными участниками Physicell модели являются клетки "
+"(|icon_cell_definition|) и субстраты (|icon_substrate|)."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:37
+#: 27f95a939f674c0ebc36c26fe2ca7935 716600d1d53441c29ef909d867f4a445
+msgid "icon_cell_definition"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:38
+#: 138c3059af6f4b169810685de20943cc 54ae3157763b4e1a850480b7d49db5ed
+msgid "icon_substrate"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:118
+#: fa88fb2744814ec799645e799a611a11
+msgid "Между ними возможно 4 типа взаимодействий:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:121
+#: 7ace5f54dccc43b89dadd1095841593e
+msgid "Взаимодействия типа \"клетка-субстрат\":"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:121
+#: a06abf6509094f08b6d1537e02744c3c
+msgid ""
+"Секреция (|icon_secretion|): выделение или поглощение клеткой того или "
+"иного субстрата,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:39
+#: 04e8ea9801884813a574198a6d94f0e6 4d3d1214e9554dd9b74cca4d38a1d41b
+#: 7e942b8ff4c543dd974c6eb3a0de2b4d
+msgid "icon_secretion"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:122
+#: 44a9e38fc7aa4ab889c21b96159e03bd
+msgid ""
+"Хемотаксис (|icon_chemotaxis|): движение клетки к или от определенного "
+"субстрата."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:40
+#: 54382d2a0c554e509e5719a952b5250f dcf311adf73a426f82d518189dbca67e
+#: ead994c6f2d74d7fb41e1418346752ae
+msgid "icon_chemotaxis"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:125
+#: 03be413159034552a8e8f795a094fff0
+msgid "Взаимодействия типа \"клетка-клетка\":"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:124
+#: 33ef0b97a0f149329d023735169c26c3
+msgid ""
+"Взаимодействие (|icon_interaction|): воздействие клеток одного типа на "
+"клетки другого типа,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:41
+#: 44c5efcb10574a559a0dba67f840362a 6d7bdcee56084ac2b36887bf488f33f7
+#: a65f3718a3e9422f847c086f61c0cf01
+msgid "icon_interaction"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:125
+#: a2093e9723a94296812e21004b936fc1
+msgid ""
+"Трансформация (|icon_transformation|): превращение клеток одного типа в "
+"клетки другого типа."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:42
+#: 389060fb006a456abe0e929b0c463c3f 6e8dc921d59442168624a97d3875a511
+#: e305a27a478f4bf59861f7384d6c1559
+msgid "icon_transformation"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:130
+#: 1addb30caba44e9ba97f23e1d2bd3ba4
+msgid "Создание клеток"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:132
+#: 30e1d716cf2c4dfda32b3c5f5039c96d
+msgid ""
+"Чтобы добавить в модель клетки нужно на верхней панели нажать ЛКМ на "
+"|icon_cell_definition|, а затем нажать ЛКМ в любое место под панелью "
+"инструментов :ref:`(Рисунок 4) <Physicell_model_development_Pic.4>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:141
+#: 227058d19862431e85a3942eb6785b23
+msgid "Cell_creation"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:141
+#: 3ef66c170c2540f19fe89e89714a63f3
+msgid "Рисунок 4. Создание клеток."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:143
+#: 986a24f7c1e84c9da21467d728b02c96
+msgid ""
+"После этого в появившемся окне необходимо задать параметры создаваемого "
+"типа клеток :ref:`(Рисунок 5) <Physicell_model_development_Pic.5>`:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:145
+#: dea74684d40d405685fa5d480dbb78fc
+msgid "**Name**: название типа клеток,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:146
+#: d403b1e5e9ad4e3ca0b8ec85fb67ca4c
+msgid "**Initial number**: исходное количество клеток данного типа,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:147
+#: 6fc6d08a31a04edb9fb4331ae6dd97a2
+msgid ""
+"**Color**: цвет, с помощью которого клетки данного типа будут "
+"отображаться при симуляции модели,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:148
+#: b7e2f4a56bd547c0bd2c57cba277e843
+msgid ""
+"**Gradient**: отметьте ☑, если необходимо применить градиент к выбранному"
+" цвету,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:149
+#: b1869209bc41419da907a15befdb533c
+msgid "**Comment**: можете оставить любые комментарии для клеток данного типа."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:152
+#: d62b925930c6407996f302500d99154d
+msgid ""
+"При указании цвета в данном окне будет считаться, что все внутреннее "
+"содержимое клетки будет иметь выбранный цвет, контур клетки будет черным,"
+" а ядро отрисовываться не будет."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:154
+#: 3951b3b3cc384b2390f531695e7b10f2
+msgid ""
+"Для более детальной настройки цвета следует воспользоваться вкладкой "
+":ref:`Visualizer <Physicell_microenvironment_Visualizer>` или полем "
+"Custom Visualizer во вкладке :ref:`Model Report "
+"<Physicell_microenvironment_Model_Report>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:163
+#: 19d464e689fa4ff3b3537bcd8c515b52
+msgid "Cell_parameters"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:163
+#: 2f553f781b984468ba38165a9ee540ad
+msgid "Рисунок 5. Параметры создаваемого типа клеток."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:165
+#: ../../source/Physicell_model_development.rst:220
+#: ../../source/Physicell_model_development.rst:308
+#: ../../source/Physicell_model_development.rst:388
+#: ../../source/Physicell_model_development.rst:446
+#: ../../source/Physicell_model_development.rst:499
+#: ../../source/Physicell_model_development.rst:541
+#: 10271a4c970d439d8a954b30f336e8e4 48ff7ddbd808412b8ee1ca5aa7b7e9b7
+#: 5d56723aa50040c3a8842446751c31fa 6e3dfb33f916428490c09a0a14a46b03
+#: 8ea38e4d8592445ca09c8a0f77be63c3 b2e40749bcb544358c480211b4f48e14
+#: d9740ad54ddd46e8a9c5b9cfd7d76682
+msgid "После того, как заданы все параметры нажмите на **Ok**."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:167
+#: 0ae33e2a69dd4af9913e99b87a12017e
+msgid ""
+"На экране у вас появится обозначение созданного вами типа клеток "
+":ref:`(Рисунок 6) <Physicell_model_development_Pic.6>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:176
+#: 0716c5454afe46e586209fc2f4d31717
+msgid "Cells"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:176
+#: 8205501901af477886a05b6b8207e97b
+msgid "Рисунок 6. Клетки обозначаются синим кружком."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:178
+#: 004b7701886741348f180f6ba9fb9be4
+msgid "Таким образом можно задать любое количество типов клеток в модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:180
+#: 80e330327d1149d69d37610e6521fccf
+msgid ""
+"Чтобы переместить клетки на диаграмме, необходимо зажать ЛКМ клетки, "
+"переместить курсор на новое место и отпустить ЛКМ."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:182
+#: fa5f908a7a4b4ddead784db2ab9e58c6
+msgid ""
+"Чтобы удалить клетки из модели, необходимо нажать на них ЛКМ и нажать "
+"клавишу **Delete** на клавиатуре."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:185
+#: c797a7b479d543458720687d1dcd4be0
+msgid ""
+"Все типы клеток на диаграмме модели отображаются в виде кругов синего "
+"цвета."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:190
+#: 76a0f568497645db83e0a12b4dadcdfa
+msgid "Создание субстрата"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:192
+#: 806c6e17c7be43a1900ffae71b783029
+msgid ""
+"Чтобы создать субстрат, нужно на верхней панели нажать ЛКМ на "
+"|icon_substrate|, а затем нажать ЛКМ в любое место под панелью "
+"инструментов (аналогично созданию клеток)."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:194
+#: c9cc76dcdc5e41b9a3c4a73b58b4e0cf
+msgid ""
+"После этого в появившемся окне необходимо задать параметры создаваемого "
+"субстрата :ref:`(Рисунок 7) <Physicell_model_development_Pic.7>`:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:196
+#: c44ac7b1b74a4d8e9537f8717a4d9179
+msgid "**Name**: название субстрата,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:197
+#: a8cc86d9800340a2aaee6e4180155d08
+msgid ""
+"**Initial condition**: исходное количество вещества в каждой :ref:`ячейке"
+" среды <Physicell_microenvironment_Domain>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:198
+#: c54518b5705e48849b706988b88b9fa3
+msgid "**Decay rate**: скорость разложения вещества в среде,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:199
+#: 0020ea43b4cf4c5f9b4ccc352f391c8e
+msgid "**Diffusion coefficient**: скорость диффузии вещества в среде,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:200
+#: 238aa087888447348dd5c77c034a740e
+msgid ""
+"**X min**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды X = X<sub>min</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:201
+#: 4bd82adcda24445cad7f530b608be3f0
+msgid ""
+"**X max**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды X = X<sub>max</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:202
+#: 85fb713cd65f4e5792e7407e1aa2eeef
+msgid ""
+"**Y min**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды Y = Y<sub>min</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:203
+#: c6c87e4e84d14632b62119bd6da6385b
+msgid ""
+"**Y max**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды Y = Y<sub>max</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:204
+#: 96eeceac4bae40428e912b33714c4579
+msgid ""
+"**Z min**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды Z = Z<sub>min</sub>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:205
+#: 7a72b2a36fa1412ba54afdfdfe2490ff
+msgid ""
+"**Z max**: :raw-html:`граничное условие для концентрации вещества на "
+"границе среды Z = Z<sub>max</sub>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:208
+#: 829de535b7d14271a75773743d73ce1e
+msgid ""
+"Граничное значение означает что на соответствующей границе среды "
+"поддерживается заданное значение концентрации постоянно."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:209
+#: 6b95dd62146f4d4b97afac2e04ff8019
+msgid ""
+"Для отключения соответствующего граничного условия нужно задать значение "
+"-1."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:218
+#: 715038fc660640afbd1beee0026eb4a8
+msgid "Substrate_parameters"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:218
+#: 16a950fc978b4a838081dbd95474817d
+msgid "Рисунок 7. Параметры создаваемого субстрата."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:222
+#: b1668d1f6a00490d96345d6b7b81856a
+msgid ""
+"На экране у вас появится обозначение созданного вами типа субстрата "
+":ref:`(Рисунок 8) <Physicell_model_development_Pic.8>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:231
+#: 5e274231b9174aecb26f6c43a832274c
+msgid "Substrates"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:231
+#: 40ad95b22a224400a145e2c00ea75439
+msgid "Рисунок 8. Субстраты обозначаются красными прямоугольниками."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:233
+#: 55f8d7949d404fb18d758a42b720c680
+msgid "Таким образом можно задать любое количество типов субстратов в модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:235
+#: b408e9e6835e4846ad58d14fb63f5202
+msgid ""
+"Чтобы переместить субстрат на диаграмме, необходимо зажать ЛКМ субстрат, "
+"переместить курсор на новое место и отпустить ЛКМ."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:237
+#: afdde54d24cd4378bbef102035112195
+msgid ""
+"Чтобы удалить субстрат из модели, необходимо нажать на него ЛКМ и нажать "
+"клавишу **Delete** на клавиатуре."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:240
+#: f609a97a80184bd482c96860e80142f6
+msgid "Все субстраты в модели отображаются в виде прямоугольников красного цвета."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:245
+#: fdc89df03abb4ee8bb5857fe78e5193d
+msgid "Создание реакции секреции"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:247
+#: 2ad3dd0a11d94a78b1fc4e1d10f7416b
+msgid ""
+"Реакция секреции (|icon_secretion|) относится к типу взаимодействий "
+"\"клетка-субстрат\"."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:249
+#: 9eaa9be724ad4e7aa8874a7f054d12a1
+msgid "Чтобы создать в модели реакцию секреции необходимо:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:251
+#: 6b0c2d3de4c4494bba301334b9f868d5
+msgid "нажать ЛКМ на значок |icon_secretion| на верхней панели инструментов,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:252
+#: 76cf6abab5af41d9874a2de2028b0a6c
+msgid ""
+"нажать ЛКМ на клетки, которые будут выделять/поглощать определенный "
+"субстрат,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:253
+#: fe2817d8e15e4b4dafb082ef08b09515
+msgid ""
+"нажать ЛКМ на субстрат, который выбранные клетки будут выделять/поглощать"
+" :ref:`(Рисунок 9) <Physicell_model_development_Pic.9>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:262
+#: e2c4674cf0f84c049322b03230462800
+msgid "Secretion_creation"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:262
+#: 852829be0264480385e236eac3ccc68b
+msgid "Рисунок 9. Создание реакции секреции."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:264
+#: 5b93d054f23d476081e2f40740370606
+msgid ""
+"После этого на диаграмме появится стрелочка серого цвета, направленная от"
+" клетки к субстрату :ref:`(Рисунок 10) "
+"<Physicell_model_development_Pic.10>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:273
+#: de2c7b949e79493eac1977f4d4e649fe
+msgid "Secretion_reaction"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:273
+#: 8e6aa42553484a36afadc65f85d3fcd7
+msgid "Рисунок 10. Обозначение реакции секреции на диаграмме модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:275
+#: ee571e25865743de8000040817f84893
+msgid ""
+"Чтобы настроить параметры созданной реакции секреции, нужно нажать ПКМ на"
+" серую стрелку на диаграмме, обозначающую данную реакцию, и в "
+"раскрывающемся списке нажать ЛКМ на кнопку **Edit** :ref:`(Рисунок 11) "
+"<Physicell_model_development_Pic.11>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:284
+#: 0aa2e533265a4b54a485fc343e570276
+msgid "Edit_reaction"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:284
+#: ae32ecd392424151ad7bb1cda421dcdc
+msgid "Рисунок 11. Редактирование реакции."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:286
+#: f478d0ab20074280861bd208d976c0c6
+msgid ""
+"После этого в появившемся окне необходимо задать параметры изменяемой "
+"реакции :ref:`(Рисунок 12) <Physicell_model_development_Pic.12>`:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:288
+#: ../../source/Physicell_model_development.rst:369
+#: ../../source/Physicell_model_development.rst:427
+#: ../../source/Physicell_model_development.rst:485
+#: 2ac4934c8e5949718f0683298b12281e 91b39e15514e4e918bc7d8ce2e4cdce4
+#: d45d1533cc934204b8953368561cf4e6 eed1f3f1f28f47d7924935d0d2bb19fe
+msgid "**Title**: название реакции,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:289
+#: ../../source/Physicell_model_development.rst:370
+#: ../../source/Physicell_model_development.rst:428
+#: ../../source/Physicell_model_development.rst:486
+#: ../../source/Physicell_model_development.rst:528
+#: 2f1ebd03e4a544e2bf241aa7e1ce2543 35e8717108f740a9acc2b8875cb65f1a
+#: 361416a5ceea40478264c13263aa82d3 5fc395d4c90f4b21aa3a69b5cb836b19
+#: 6cd2102ac2204c2e9820cf0125d68c84
+msgid "**Comment**: комментарий,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:290
+#: 2a2fc8dff33a40089931ac759ebb1de9
+msgid ""
+"**Substrate**: название выделяемого/потребляемого субстрата (:raw-"
+"html:`<span style=\"color: red;\">не изменяется!</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:291
+#: a2f442219f0a4e098bf09785915cf071
+msgid "**Secretiom Rate**: скорость секреции вещества,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:292
+#: 3e6013ee618242c4b590e843ab508858
+msgid ""
+"**Secretiom Target**: значение «насыщения» при котором прекращается "
+"секреция,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:293
+#: 455179a20385481e993cf58db6dee303
+msgid "**Uptake Rate**: скорость потребления вещества,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:294
+#: d7e890d6b3874f9083246202797f8efb
+msgid ""
+"**Net export rate**: постоянный уровень секреции/потребления субстрата, "
+"не зависящий от объема клетки."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:297
+#: 3d8b982d285d431c9b69e16209a36054
+msgid ""
+"Положительные значения параметра Net export rate соответствуют постоянной"
+" секреции, а отрицательные - постоянному потреблению."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:306
+#: be5b2a854c1a4f25885726ff40b4ce12
+msgid "Secretion_parameters"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:306
+#: 4fbd7ee37b2a4e028c39bd494ac3b557
+msgid "Рисунок 12. Параметры реакции секреции."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:310
+#: 9d42993b6a354bc68bcf8886f073ef72
+msgid ""
+"Ниже представлена формула расчета изменения плотности вещества в "
+"трехмерной ячейке решетки одной клеткой за единицу времени dt:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:312
+#: d58ee1df1c424cec941982940d0d2ee2
+msgid ""
+"p_{\\mathrm{new}} = \\frac{p + D * (V_{\\mathrm{cell}} / V) * S * T}{1 + "
+"D * (V_{\\mathrm{cell}} / V) * (S + U)} \\, + \\, D \\, * \\frac{E}{V},"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:316
+#: b8ff21e855eb43189eac19adc61e93bc
+msgid "где:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:318
+#: 5f7354943c944b069488fadc332aa4b5
+msgid "D - Diffusion dt из настроек :ref:`симуляции <Physicell_simulation>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:319
+#: 646a78e0680948aeb8c7c8b217933756
+msgid ""
+":raw-html:`V<sub>cell</sub>` - :ref:`объем клетки "
+"<Physicell_cell_properties_Volume>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:320
+#: 94210256b4014f74baea8e4414030262
+msgid "V - :ref:`объем ячейки среды <Physicell_microenvironment_Domain>`,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:321
+#: 907a1a27ac774e8092c44678dbce142d
+msgid "S - скорость секреции вещества (Secretion Rate),"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:322
+#: 11931889e1b14ab8a14e782725f35db0
+msgid ""
+"T - значение «насыщения» при котором прекращается секреция (Secretiom "
+"Target),"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:323
+#: ca37cb44ed7f49928f9d8de5038b4a71
+msgid "U - скорость потребления вещества (Uptake Rate),"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:324
+#: 1007073349e84424a1a40c9bb88a9195
+msgid ""
+"E  - постоянный уровень секреции/потребления субстрата, не зависящий от "
+"объема клетки (Net export rate)."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:326
+#: 65ebabc21a124d88bf318962f3b93ae8
+msgid ""
+"В случаях, когда все параметры реакции секреции кроме **Net export rate**"
+" (S, T и U) имеют нулевые значения, то формулу можно упростить до "
+"следующего вида:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:328
+#: dccfdf138f744c21bb923549fa7ee411
+msgid "p_{\\mathrm{new}} = p + \\, dt \\, * \\frac{E}{V}."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:335
+#: d91f598b65b24faeac559e7c14b66c3f
+msgid "Создание реакции хемотаксиса"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:337
+#: 515f1f562a6a428f8134d38a66375b22
+msgid ""
+"Реакция хемотаксиса (|icon_chemotaxis|) относится к типу взаимодействий "
+"\"клетка-субстрат\"."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:339
+#: 8ea08a1205ae4709ba16e2fe9b9eb4fb
+msgid "Чтобы создать в модели реакцию хемотаксиса необходимо:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:341
+#: 73dc8bbda25c48b9bd4851de98268fb5
+msgid "нажать ЛКМ на значок |icon_chemotaxis| на верхней панели инструментов,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:342
+#: 27260fa814854b799feb39a2de0fcd23
+msgid ""
+"нажать ЛКМ на клетки, которые будут двигаться к/от определенного "
+"субстрата,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:343
+#: 27242bfe937c454d8a1392d0a570cabf
+msgid ""
+"нажать ЛКМ на субстрат, к/от которого выбранные клетки будут двигаться "
+":ref:`(Рисунок 13) <Physicell_model_development_Pic.13>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:352
+#: e5b05e021ced4c8c9dad43539d5fba38
+msgid "Chemotaxis_creation"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:352
+#: 4087a555e5d64c4c9dd6b779ed156012
+msgid "Рисунок 13. Создание реакции хемотаксиса."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:354
+#: 0210c59deed040b5a30e8a3c05af69c7
+msgid ""
+"После этого на диаграмме появится стрелочка фиолетового цвета, "
+"направленная от субстрата к клетке :ref:`(Рисунок 14) "
+"<Physicell_model_development_Pic.14>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:363
+#: bda00c24d48b488b989ca3c5edd7927e
+msgid "Chemotaxis_reaction"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:363
+#: def7b0df728641239a35e3f7456006fe
+msgid "Рисунок 14. Обозначение реакции хемотаксиса на диаграмме модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:365
+#: 6464a30d91ac443991405a08e8599c80
+msgid ""
+"Чтобы настроить параметры созданной реакции хемотаксиса, нужно нажать ПКМ"
+" на фиолетовую стрелку на диаграмме, обозначающую данную реакцию, и в "
+"раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:367
+#: f0418f9639fa46f7b7d4844271f695a3
+msgid ""
+"После этого в появившемся окне необходимо задать параметры изменяемой "
+"реакции :ref:`(Рисунок 15) <Physicell_model_development_Pic.15>`:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:371
+#: 69fd2f33e7df4463bc20999d67fffcd1
+msgid ""
+"**Substrate**: название субстрата (:raw-html:`<span style=\"color: "
+"red;\">не изменяется!</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:372
+#: e2aec66f7e874348885bccbee6a5f749
+msgid "**Sensitivity**: чувствительность к выбранному веществу."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:375
+#: 585bbd3adbfc4feb9edbbdf481d95f90
+msgid ""
+"Положительные значения Sensitivity указывают на то, что клетка будет "
+"двигаться к субстрату, а отрицательные - от субстрата."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:377
+#: d3dc59feffe84397a80309e361362953
+msgid ""
+"Абсолютное значение Sensitivity указывает на \"силу\" движения клетки "
+"к/от определенного субстрата."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:386
+#: 4615de6a88b54191a35db950ad970200
+msgid "Chemotaxis_parameters"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:386
+#: 431e05b6765441d2be12ca2224fee410
+msgid "Рисунок 15. Параметры реакции хемотаксиса."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:393
+#: e88038870c5444bb8fc37fb73e73bf29
+msgid "Создание реакции взаимодействия"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:395
+#: 4bdc1ff25b4b437391cfe230be909dac
+msgid ""
+"Реакция взаимодействия (|icon_interaction|) относится к типу "
+"взаимодействий \"клетка-клетка\"."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:397
+#: fb13931a199840af9392cc98c8912c9e
+msgid "Чтобы создать в модели реакцию взаимодействия необходимо:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:399
+#: 21174c795f33429689d81e9d4c5bbb43
+msgid "нажать ЛКМ на значок |icon_interaction| на верхней панели инструментов,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:400
+#: b7bec423ad2b49d1b24c5b3de616f587
+msgid ""
+"нажать ЛКМ на клетки, которые будут тем или иным образом воздействовать "
+"на другие клетки,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:401
+#: f5e34ae6c79b4d639cc8ebb3b47d289f
+msgid ""
+"нажать ЛКМ на клетки, над которыми будет совершаться то или иное действие"
+" :ref:`(Рисунок 16) <Physicell_model_development_Pic.16>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:410
+#: 3b32f980e31c4e3ea9205f6f2069c5a1
+msgid "Interaction_creation"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:410
+#: a63b66b8a4dc4b69864ce6c262268a26
+msgid "Рисунок 16. Создание реакции взаимодействия."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:412
+#: 60f6dc9b7ab24747be53181f6ae6d483
+msgid ""
+"После этого на диаграмме появится стрелочка красного цвета, направленная "
+"от одного типа клеток, оказывающих воздействие, к другому, над которыми "
+"совершается действие :ref:`(Рисунок 17) "
+"<Physicell_model_development_Pic.17>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:421
+#: a3fe3326c9ef4d92ac42bd63d9f6f03c
+msgid "Interaction_reaction"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:421
+#: 58280e9cb4f54c8eb9992c8a800cc780
+msgid "Рисунок 17. Обозначение реакции взаимодействия на диаграмме модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:423
+#: 7e5f7c7a3db1468bb038106376f68de2
+msgid ""
+"Чтобы настроить параметры созданной реакции взаимодействия, нужно нажать "
+"ПКМ на красную стрелку на диаграмме, обозначающую данную реакцию, и в "
+"раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:425
+#: 016fa44f91e3462ab7bb20e9395ae216
+msgid ""
+"После этого в появившемся окне необходимо задать параметры изменяемой "
+"реакции :ref:`(Рисунок 18) <Physicell_model_development_Pic.18>`:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:429
+#: 48e81fe3a85f4e14a78c06eee4ccddc7
+msgid ""
+"**Cell type**: название типа клеток, над которыми совершается действие "
+"(:raw-html:`<span style=\"color: red;\">не изменяется!</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:430
+#: e45998076c9f48a5ba954bdceeeb1617
+msgid "**Attack rate**: интенсивность атаки,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:431
+#: 15b38f6557044fa29f86972e7ac0d611
+msgid "**Fuse rate**: интенсивность слияния двух клеток,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:432
+#: ed8e4feb39fc4f27b632c30a25a359b4
+msgid "**Phagocytosis rate**: интенсивность фагоцитоза."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:435
+#: 64b8402672664c198659ab9aad5a5ba9
+msgid "При слияния двух клеток у результирующей клетки имеется 2 ядра."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:444
+#: c311b312738144cea5550a2f8e83f766
+msgid "Interaction_parameters"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:444
+#: 14c9194410134ab795f7cfd73a37e195
+msgid "Рисунок 18. Параметры реакции взаимодействия."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:451
+#: 179c28cd9697479c912b60d9a3e9e8ff
+msgid "Создание реакции трансформации"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:453
+#: 2ce26548b93d44c49f368b6b435e6f72
+msgid ""
+"Реакция трансформации (|icon_transformation|) относится к типу "
+"взаимодействий \"клетка-клетка\"."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:455
+#: 1c01c6d132d7409e8d00a34eb2d4830d
+msgid "Чтобы создать в модели реакцию трансформации необходимо:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:457
+#: 7bde43cb37824d1c8abc28c083339208
+msgid "нажать ЛКМ на значок |icon_transformation| на верхней панели инструментов,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:458
+#: 97082130daa4409582a309ea715b5c65
+msgid "нажать ЛКМ на клетки, которые будут трансформированы в другой тип клеток,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:459
+#: 8d36adc17568431188eb8b95c226c09e
+msgid ""
+"нажать ЛКМ на клетки, в которые будет происходить трансформация "
+":ref:`(Рисунок 19) <Physicell_model_development_Pic.19>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:468
+#: 9cd90aad78f040d3a14f11c130008521
+msgid "Transformation_creation"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:468
+#: 25aeb425772f4350b35a862dc68f1dac
+msgid "Рисунок 19. Создание реакции трансформации."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:470
+#: b72b2f033727415da9d3d34479913393
+msgid ""
+"После этого на диаграмме появится стрелочка синего цвета, направленная от"
+" одного типа клеток, которые будут трансформироваться, к другому, в "
+"которые превратятся первые в результате трансформации :ref:`(Рисунок 20) "
+"<Physicell_model_development_Pic.20>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:479
+#: 260e4712c03042d9b2a0aeecbeb5ca02
+msgid "Transformation_reaction"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:479
+#: 7a38f3c4d0c84675a37c0efd01dae7cb
+msgid "Рисунок 20. Обозначение реакции трансформации на диаграмме модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:481
+#: 79f28e69253f4d24adb5524fdc4955d6
+msgid ""
+"Чтобы настроить параметры созданной реакции трансформации, нужно нажать "
+"ПКМ на синию стрелку на диаграмме, обозначающую данную реакцию, и в "
+"раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:483
+#: 870d3944675a4d74b71b25a590c8fbbf
+msgid ""
+"После этого в появившемся окне необходимо задать параметры изменяемой "
+"реакции :ref:`(Рисунок 21) <Physicell_model_development_Pic.21>`:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:487
+#: 2cbdbd6bc01b477491e63a0ac5c02d10
+msgid ""
+"**Cell type**: название типа клеток, которые будут возникать в результате"
+" трансформации (:raw-html:`<span style=\"color: red;\">не "
+"изменяется!</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:488
+#: 0cfdd6878feb4e4cb544ae2181aef635
+msgid "**Transformation rate**: скорость трансформации."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:497
+#: aeaa80b980124518a1863ad54d52633c
+msgid "Transformation_parameters"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:497
+#: 05cf98db94f64d108d4b67408db77566
+msgid "Рисунок 21. Параметры реакции трансормации."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:504
+#: f53c028e15044569b52cd4c88a19a1be
+msgid "Создание события"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:506
+#: cdcc9d5116444001a04ea29b284279d8
+msgid ""
+"Событие - это мгновенное изменение в модели в результате срабатывания "
+"некоего условия (например, достижение заданного значения модельного "
+"времени)."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:508
+#: 3bbf15bb7ca140d3ab55a07a34457de3
+msgid "Чтобы создать в модели событие необходимо:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:510
+#: e3a20793b96a4ffaba38a68326059e98
+msgid "нажать ЛКМ на значок |icon_event| на верхней панели инструментов,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:43
+#: 58612518c1e14a18a756ad7af690cc9d
+msgid "icon_event"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:511
+#: 7dd84711332c4f3ba1bdc3321d249266
+msgid ""
+"нажать ЛКМ на любое пространство рабочей области :ref:`(Рисунок 22) "
+"<Physicell_model_development_Pic.22>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:520
+#: fb4d5b86be9548a38c8397d736c001e1
+msgid "Add_event"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:520
+#: b505d9ecc9484e6ca4f4b0e9c90f90bc
+msgid "Рисунок 22. Создание события."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:522
+#: d2d388796d044b65b93d391a142c4563
+msgid ""
+"После этого в появившемся окне необходимо задать параметры создаваемого "
+"события :ref:`(Рисунок 23) <Physicell_model_development_Pic.23>`:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:524
+#: 8bbf15259b6b4960afbce76295d4c8b9
+msgid "**Name**: название события,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:525
+#: 7cf94da26ab146f8b916810e99740301
+msgid ""
+"**Execution time**: модельное время, при достижении которого срабатывает "
+"событие,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:526
+#: c08d349ab7c749b3939e8a064a37fb94
+msgid ""
+"**Custom Execution code**: выберите ☑, чтобы задать путь до Java-кода, "
+"который выполнится при срабатывании события,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:527
+#: fb90c9ef0d994ab69b2e1035d58a6e21
+msgid ""
+"**Execution code**: путь до Java-кода, который выполняется при "
+"срабатывании события,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:529
+#: 28bba5870c1443e29e9b7e1317599f8a
+msgid ""
+"**Show code**: выберите ☑, если хотите полностью показывать код на "
+"диаграмме модели,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:530
+#: b2cfd6408884473389faa9c3c0f0ee12
+msgid ""
+"**Format code**: выберите ☑, если хотите форматировать показываемый на "
+"диаграмме модели код."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:539
+#: 96811b521f0944fbac6c8d5ee1ca629d
+msgid "Event_parameters"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:539
+#: f0d1d371670741e5b779f3004b4d3c12
+msgid "Рисунок 23. Параметры события."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:543
+#: 5b7daff2cc7242209ae16a2491cc2b95
+msgid ""
+"На экране появится событие в виде полупрозрачного прямоугольника "
+":ref:`(Рисунок 24) <Physicell_model_development_Pic.24>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:552
+#: 90cbc11b1c304514bf855748d401f46e
+msgid "New_event"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:552
+#: 2f4202544a634bd89d1d479f18db3b72
+msgid "Рисунок 24. Обозначение события на диаграмме модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:554
+#: 5a1ce8232c0f49c1a9f3f93dc8788c95
+msgid "Таким образом можно задать любое количество событий в модели."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:556
+#: f14b3f42106f4f918fa6277ba411e652
+msgid ""
+"Чтобы переместить обозначение события на диаграмме, необходимо зажать ЛКМ"
+" это обозначение, переместить курсор на новое место и отпустить ЛКМ."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:558
+#: 792af04fdefe48c7bb8fce7707efbc01
+msgid ""
+"Чтобы удалить событие из модели, необходимо нажать на его обозначение ЛКМ"
+" и нажать клавишу **Delete** на клавиатуре."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:561
+#: 4de7d7d1e4164c84b2630dac50c8c74f
+msgid "Дополнительные свойства реакций"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:563
+#: ff8829d034064a578447d7f21df9e194
+msgid ""
+"Чтобы удалить любую реакцию (секреция, хемотаксис, взаимодействие или "
+"трансформация) из модели, нужно нажать ЛКМ на стрелку на диаграмме, "
+"обозначающую реакцию, и нажать кнопку **Delete** на клавиатуре."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:565
+#: a4075e0cb2eb4cf5bc33a1abc641194b
+msgid ""
+"При большом количестве типов клеток и/или субстратов на диаграмме для "
+"более наглядного представления всех реакций можно добавлять узлы на "
+"стрелки, обозначающие любые реакции. Для этого нажмите ПКМ на стрелку в "
+"том месте, где вы хотите добавить узел, после чего в выпадающем списке "
+"ЛКМ нажмите на **Add vertex** :ref:`(Рисунок 25) "
+"<Physicell_model_development_Pic.25>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:575
+#: cd611249d79249e384596ae16684648e
+msgid "Add_vertex"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:575
+#: 9011327fe26c4d14bfd2abc20f4308a3
+msgid "Рисунок 25. Добавление узла на стрелку, обозначающую реакцию."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:577
+#: ee365160bada46afb799f0b72cad2673
+msgid ""
+"Теперь при нажатии ПКМ на стрелку будет отображаться дополнительный "
+"красный квадратик, обозначающий добавленный узел :ref:`(Рисунок 26) "
+"<Physicell_model_development_Pic.26>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:586
+#: abaa4df03875491b99648b43475806d8
+msgid "New_vertex"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:586
+#: 4a3011a47a644408ab3cb8fd1a7c0e90
+msgid "Рисунок 26. Новый узел."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:588
+#: 2ad0edd0f498475e87570b0e9c189aa4
+msgid ""
+"При изменении положении одного из участников реакции (клетки или "
+"субстрата) стрелка будет иметь изгиб в созданном узле :ref:`(Рисунок 27) "
+"<Physicell_model_development_Pic.27>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:597
+#: 73f3215b16a64cff9d8579a9abc9e09b
+msgid "Turned_arrow"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:597
+#: bda891b5f00c45d08049deebea58fa88
+msgid "Рисунок 27. Изгиб стрелки реакции."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:599
+#: 68615a9b37a5453584c6c8d893fa91cf
+msgid "Таким образом можно добавлять несколько узлов на одну и ту же реакцию."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:601
+#: 3b787d96802443f88ca678a5f9295fd2
+msgid ""
+"Для удаления всех узлов реакции нужно нажать на соответствующую стрелку "
+"ПКМ и в раскрывающемся списке нажать ЛКМ на **Straighten edge** "
+":ref:`(Рисунок 28) <Physicell_model_development_Pic.28>`."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:610
+#: e81a162f6b9c45d78d7d740d198a9844
+msgid "Straighten_edge"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:610
+#: 28aaf5c93197436fbfb8d09b1ded6def
+msgid "Рисунок 28. Удаление всех изгибов реакции."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:615
+#: 977dfd48f93d4fb28fba24ea06600c20
+msgid "Дополнительные свойства клеток, субстратов и событий"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:617
+#: a36d64b2dfc4434f8e066939c6dc70d9
+msgid "Чтобы редактировать уже созданный тип клеток, субстрат или событие, нужно:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:619
+#: 1d4763bc678b42c09dd82845ff425a15
+msgid "нажать ПКМ на соответствующий элемент на диаграмме,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:620
+#: 41e0e69a0e1f4210bb28f18455e9af84
+msgid ""
+"в раскрывающемся списке нажать ЛКМ на кнопку **Edit** (аналогично "
+"реакциям)."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:622
+#: ca8192d5235c403ca6058b2d2e6d8f4f
+msgid ""
+"Здесь для того или иного участника модели можно изменить не только "
+"основные параметры, указываемые при его создании, но и некоторые другие "
+":ref:`(Рисунок 29) <Physicell_model_development_Pic.29>`:"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:624
+#: 0aa2b48715ac4ec9b8c58db748db5bf7
+msgid ""
+"**Show title**: уберите ☑, если хотите, чтобы название выбранного "
+"участника модели не отображалось на диаграмме,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:625
+#: cbc6c66701484efbb3e5720d2bbee5b7
+msgid ""
+"**Width**: ширина изображения (синего круга для клеток, красного "
+"прямоугольника для субстрата и полупрозрачного прямоугольника для "
+"события) выбранного участника на диаграмме,"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:626
+#: 15f3867a1565464a9e9842ea93446afd
+msgid "**Height**: высота изображения выбранного участника на диаграмме."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:635
+#: 1e4d22cf738646b083702e38b5b8f7f5
+msgid "Additional_parameters"
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:635
+#: 7beabad1d2344268a670e941721e64a6
+msgid ""
+"Рисунок 29. Настройка дополнительных параметров клеток, субстратов или "
+"событий (показано на примере субстрата)."
+msgstr ""
+
+#: ../../source/Physicell_model_development.rst:638
+#: 240c29d867f84afe898bf4077b14a296
+msgid ""
+"При изменении имени любого участника модели (клетки, субстраты, события "
+"или реакции) поменяется только его имя, но не ID."
+msgstr ""
+

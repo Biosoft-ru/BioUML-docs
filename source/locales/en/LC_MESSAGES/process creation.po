@@ -1,0 +1,333 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/process c138c17dff694feeae3a59485218c8ec creation.rst:2
+msgid "Создание процесса"
+msgstr ""
+
+#: ../../source/process 6e5a266089344c8cbddf7375314ec3f3 creation.rst:10
+msgid "Визуальное моделирование процесса"
+msgstr ""
+
+#: ../../source/process 045510a5a7d242d8976e9677a8a12d2c creation.rst:16
+msgid ""
+"Для *создания процесса* нажмите на иконку |reaction|, расположенную на "
+":ref:`панели инструментов <panel>`. В открывшемся окне в поле Reaction "
+"name введите *идентификатор реакции*, либо оставьте автоматически "
+"сгенерированный идентификатор типа \"Reaction_n\", где n - порядковый "
+"номер реакции."
+msgstr ""
+
+#: ../../source/process creation.rst:13 d77832a622ca48c4ad74f5d765391163
+msgid "reaction"
+msgstr ""
+
+#: ../../source/process 43e8cfba992e426a872cd7e57b79710d creation.rst:20
+msgid ""
+"*Компоненты реакции* добавляются путем нажатия на ранее созданную "
+"сущность на диаграмме, название которой будет отображено в поле "
+"Component, и выбора ее роли в поле Role. Существует три *роли сущности "
+"реакции* - modifier (модификатор), реактант (reactant) и продукт "
+"(product). После заполнения полей нажмите кнопку :guilabel:`Add`."
+msgstr ""
+
+#: ../../source/process 69e456ab4fae422f857ac5382577b5cd creation.rst:26
+msgid "Одна и та же сущность может играть несколько ролей в одной реакции"
+msgstr ""
+
+#: ../../source/process creation.rst:28 e848c04fd57c47208b047517ceeeabae
+msgid ""
+"При добавлении компонентов в реакцию, *заголовок реакции* будет "
+"автоматически сгенерирован в поле Reaction title, который так же можно "
+"изменить по желанию."
+msgstr ""
+
+#: ../../source/process 66ddd58051df4280b8ac7ce1d54fd198 creation.rst:35
+msgid "Создание новой реакции в BioUML"
+msgstr ""
+
+#: ../../source/process 4a74ad4f7e074b1099a8289981271644 creation.rst:35
+msgid "Рисунок 1. Создание новой реакции в BioUML"
+msgstr ""
+
+#: ../../source/process b92959d7e14543cb9d8846796db7d67c creation.rst:39
+msgid ""
+"После того, как реакция будет создана, можно редактировать "
+"*дополнительные свойства реакции*, путем нажатия правой кнопки мыши на "
+"узел диаграммы, соответствующий :ref:`процессу <process>`, и последующего"
+" выбора поля |edit| Edit. В открывшемся окне в опциях |folder| Species "
+"references перечислены компоненты реакции, для которых можно добавить "
+"*стехиометрию* в поле |option| Stoichiometry и для модификатора указать "
+"его *тип влияния на процесс* в поле |option| Modifier action, т.е "
+"обозначить вид :ref:`ребра модуляции <modulation>`. В опциях |folder| "
+"Attributes в поле |option| sbgn:reactionType указывается тип "
+":ref:`процесса <process>`."
+msgstr ""
+
+#: ../../source/process 32edefbdf9c74adb87628f5e2d91efd0 creation.rst:4
+msgid "edit"
+msgstr ""
+
+#: ../../source/process 036e7ae07bba4e87b3f1f14d3f96b46d
+#: 16d92b692e6d40b3ad4a1aeba24003da 41789517673a4d99951ae766851d6c1d
+#: a702602d4480462fb172e7ab9d495751 creation.rst:12
+msgid "folder"
+msgstr ""
+
+#: ../../source/process 145bd668a33b4a13b3d6f90010314c13
+#: 182bf5b5985b4b0b8922c261a3f4a65c 21e51f98f4a0458a8997f647218c0ace
+#: 4395854ab9594c38abcead65fecc668c 6efb52e768b144ae84be6bd94fbe2d73
+#: 72fb9c762abf40bd82fe20c0c5f4294c 8bcc4969848e4f71badb97552b712bc2
+#: 9dc024273fae4f5faef80372d48f68be a6a968d460694572a17a9578f2cd7e35
+#: creation.rst:5
+msgid "option"
+msgstr ""
+
+#: ../../source/process creation.rst:44 d299c3948f9c4a08ae511f31e236d33f
+msgid ""
+"Нажатие правой кнопкой мыши на :ref:`ребра реакции <edges>` открывает "
+"опции, позволяющие изменять *дополнительные свойства ребер*, также "
+"доступные в дополнительных свойствах реакции, и редактировать "
+"*геометрическую форму ребер* - добавлять новую вершину (Add vertex), "
+"выпрямлять ребро (Straighten edge) и др."
+msgstr ""
+
+#: ../../source/process 254a568cce464f138f55fddfba5cf13c
+#: 820cf377b8824b258269a4a60982d275 creation.rst:54
+msgid "Добавление логического оператора в реакцию в BioUML"
+msgstr ""
+
+#: ../../source/process b9271ccbc1ae42609ddc6b59d6d92ee4 creation.rst:56
+msgid ""
+"Для того, чтобы добавить *логический оператор* в реакцию, создайте "
+"реакцию без добавления модификатора в компоненты реакции. Далее нажмите "
+"на иконку |logical_operator|, расположенную на :ref:`панели инструментов "
+"<panel>`. В открывшемся окне в поле |option| sbgn:logicalOperator "
+"выберите нужный тип оператора, в поле |option| Reaction - ранее созданную"
+" реакцию, и затем укажите также ранее созданные сущности, которые будут в"
+" реакции выполнять роль модификаторов в поле |option| Modifiers, и "
+"укажите тип влияния на процесс в поле |option| Modifier type."
+msgstr ""
+
+#: ../../source/process 1cf37a0ea3784f1a87c5c7a9604e5293 creation.rst:14
+msgid "logical_operator"
+msgstr ""
+
+#: ../../source/process 30782c116cff461ca7489d19c5afb4e8 creation.rst:62
+msgid ""
+"Добавление нескольких модификаторов в реакцию осуществляет с помощью "
+"нажатия Shift и выбор нескольких строк."
+msgstr ""
+
+#: ../../source/process creation.rst:67 e4bd3f8f1961443a93895314f6c00b4d
+msgid "Переменная и параметр"
+msgstr ""
+
+#: ../../source/process 6827dac727c744c9b733c78d87496051 creation.rst:69
+msgid ""
+"При создании :ref:`материальной сущности <entities>` создается "
+"**переменная**. Переменная описывает концентрацию или количество вещества"
+" соответствующей сущности и обладает следующими атрибутами:"
+msgstr ""
+
+#: ../../source/process bf37adffa33f43da8ee27105244deb54 creation.rst:72
+msgid "идентификатор;"
+msgstr ""
+
+#: ../../source/process creation.rst:73 e0fca6dec82f49d7871727424cd73508
+msgid "численное значение;"
+msgstr ""
+
+#: ../../source/process a2156a2b3724419d923d2e7bea57fd7c creation.rst:74
+msgid "тип единицы измерения и единица измерения;"
+msgstr ""
+
+#: ../../source/process 5aa60209c8eb47f3af6fce40f8855d45 creation.rst:75
+msgid ""
+"флаг, обозначающий, является ли численное значение переменной "
+"фиксированным или может меняться."
+msgstr ""
+
+#: ../../source/process 4a78520f446d40aa8a2877cba1137a25 creation.rst:78
+msgid ""
+"У сущности **идентификатор переменной** образуется путем добавления \"$\""
+" перед заданным ранее идентификатором сущности. Если сущность принадлежит"
+" компартменту, то идентификатор переменной будет содержать и "
+"идентификатор компартмента, например, $compartment.entity. Присвоенный "
+"идентификатор переменной будет указан во вкладке :guilabel:`Info` "
+"(инспектор свойств) в области :doc:`информационного окна "
+"</user_interface>` в поле Role - VariableRole."
+msgstr ""
+
+#: ../../source/process 4b4732141e394a2fb8d7dfa6e1a44d30 creation.rst:84
+msgid "*Атрибуты переменной* могут устанавливаться следующими способами:"
+msgstr ""
+
+#: ../../source/process creation.rst:86 da4fb945e2014a45a864b0d6cc9071ec
+msgid ""
+"В :ref:`дополнительных свойствах элемента <additional_options>` в опциях "
+"|folder| Role;"
+msgstr ""
+
+#: ../../source/process 380fd01da26646bb909de5808b1c3b84 creation.rst:87
+msgid ""
+"В области :doc:`поля операций </user_interface>` выберите вкладку "
+":guilabel:`Model` на горизонтальной панели и в открывшемся окне на "
+"вертикальной панели вкладку :guilabel:`Entities`. Строки соответствуют "
+"каждой созданной переменной :ref:`(Рисунок 2) <Pic.2_7>`."
+msgstr ""
+
+#: ../../source/process 14b5ec6dd10d4147a9d943982613c2ed
+#: a57242b9637c4979a80ebf2a617b1c6c creation.rst:97 creation.rst:126
+msgid "Изменение атрибутов переменной"
+msgstr ""
+
+#: ../../source/process a8cf2ff278054867b1776308efd86dfd creation.rst:97
+msgid "Рисунок 2. Изменение атрибутов переменной в поле операций"
+msgstr ""
+
+#: ../../source/process 954fd8220dd94ad0ae166fdad97e9468 creation.rst:99
+msgid "**Численное значение** переменной задается в столбце Initial Value."
+msgstr ""
+
+#: ../../source/process 37d5dabdd8294bb3a08ff6138ca018e4 creation.rst:102
+msgid "Обратите внимание, что в BioUML десятичным разделителем является точка."
+msgstr ""
+
+#: ../../source/process aa46175c98274d5ebfcd866a9ba28940 creation.rst:104
+msgid ""
+"*Численное значение* переменной задается в столбце Initial Value. В "
+"столбце Initial units type указывается единица измерения начального "
+"численного значения переменной: amount - количество вещества; "
+"concentration - концентрация. Units type указывает единицу измерения для "
+"идентификатора переменной в реакции, уравнении и т.д. Output units type "
+"соответствует единице измерения при выводе численных результатов на "
+"график."
+msgstr ""
+
+#: ../../source/process 8fbe28c28b384ae2b9ce22ee5c0159a4 creation.rst:110
+msgid ""
+"Флаг **константы** ставится в столбце Constant и определяет является ли "
+"численное значение переменной постоянной и може ли быть изменено."
+msgstr ""
+
+#: ../../source/process c93324fb7d5641e0983f2a4b8e6e477f creation.rst:112
+msgid ""
+"Флаг **граничного условия** может быть поставлен в столбце Boundary "
+"condition. В случае, если оно установлено – значение переменной не может "
+"меняться в ходе реакций (но может подчиняться закону, заданному "
+"дифференциальным или алгебраическим уравнением)."
+msgstr ""
+
+#: ../../source/process ccabd78798744976a5a84bd1adc377a4 creation.rst:116
+msgid ""
+"**Параметр** - математическая переменная модели, для которой нет "
+"выделенного элемента на диаграмме. Может быть добавлена в модель путем "
+"явного упоминания в каком-либо математическом выражении (уравнении, "
+"законе реакции и т.д.), либо в области :doc:`поля операций "
+"</user_interface>` во вкладкe :guilabel:`Model` на горизонтальной панели "
+"и в открывшемся окне на вертикальной панели во вкладке "
+":guilabel:`Variables`."
+msgstr ""
+
+#: ../../source/process 52557b40ed8d4ab0919b4d06f122259b creation.rst:126
+msgid "Рисунок 3. Вкладка Variables в поле операций"
+msgstr ""
+
+#: ../../source/process 4ea73771ca3b4efea958b074c313a98a creation.rst:131
+msgid "Математическое описание процесса"
+msgstr ""
+
+#: ../../source/process 20d018c1340545a586aea103ecb8582f creation.rst:136
+msgid ""
+"**Реакция** транслируется в дифференциальные уравнения, описывающие "
+"динамику переменных, соответствующих веществам-участникам реакции."
+msgstr ""
+
+#: ../../source/process creation.rst:138 d3293551f072477bb3147e8efd575ea4
+msgid ""
+"После того, как будет создан :ref:`процесс <process_creation>`, "
+"**формула** вводится в поле |option| Formula в открывшемся окне либо в "
+":ref:`дополнительных свойствах реакции <additional_reaction_options>` в "
+"опциях |folder| Kinetic law в поле |option| Formula. Корректность формулы"
+" можно проверить вo вкладке :guilabel:`Info` в области "
+":doc:`информационного окна </user_interface>` путем нажатия на узел, "
+"соответствующий процессу."
+msgstr ""
+
+#: ../../source/process 3234b925fd8346c6bf1f5a7ab375091e creation.rst:142
+msgid ""
+"Добавленные реакции с формулой отображаются во вкладке :guilabel:`Model` "
+"на горизонтальной панели и в открывшемся окне на вертикальной панели во "
+"вкладке :guilabel:`Reactions` :ref:`(Рисунок 3) <Pic.3_7>`."
+msgstr ""
+
+#: ../../source/process 0aad33b77d3e4230893459233840254c creation.rst:152
+msgid "Вкладка  Reactions в поле операций"
+msgstr ""
+
+#: ../../source/process 78cc7dac6a914d2b9065a8b66875b3b6 creation.rst:152
+msgid "Рисунок 3. Вкладка  Reactions в поле операций"
+msgstr ""
+
+#: ../../source/process 5bd4f89236cc49058e75b96b9147c2e2 creation.rst:155
+msgid ""
+"При создании формулы учитывайте, что *идентификатор переменной* включает "
+"знак \"$\", а перед параметром он не ставится. Для возведения в степень "
+"используется оператор \"^\", деления - \"/\", умножения - \"*\", \"+\" и "
+"\"-\" для сложения и вычитания, соответственно."
+msgstr ""
+
+#: ../../source/process 2e991448b9ca486a861dd0b24813158a creation.rst:164
+msgid "Простейшие реакции с SBGN диаграммой и формулой для BioUML"
+msgstr ""
+
+#: ../../source/process c0cd901c66a341ad8894511423eb28e0 creation.rst:164
+msgid "Рисунок 4. Простейшие реакции с SBGN диаграммой и формулой для BioUML"
+msgstr ""
+
+#: ../../source/process 604bd8adb2064944928bc838723e034b creation.rst:168
+msgid ""
+"После введения формулы внесенные **параметры** добавляются в области "
+":doc:`поля операций </user_interface>` во вкладке :guilabel:`Model` на "
+"горизонтальной панели и в открывшемся окне на вертикальной панели во "
+"вкладке :guilabel:`Variables` :ref:`(Рисунок 5) <Pic.5_7>`. *Значение "
+"параметра* выставляется в столбце Initial value. Если требуется *удалить "
+"неиспользуемый параметр* или *добавить* новый, нажмите на иконку |minus| "
+"и |plus|, cоответственно."
+msgstr ""
+
+#: ../../source/process 0a7b0733ff7040398ec904a300e5d4c6 creation.rst:134
+msgid "minus"
+msgstr ""
+
+#: ../../source/process 9371b741776441b9843be5242141addd creation.rst:133
+msgid "plus"
+msgstr ""
+
+#: ../../source/process 2baf6a913d1f4cef8c0adaf2d67dcfae creation.rst:179
+msgid "Вкладка Variables в поле операций"
+msgstr ""
+
+#: ../../source/process 8642005c5de048ada8435a376f4d50d7 creation.rst:179
+msgid "Рисунок 5. Вкладка Variables в поле операций"
+msgstr ""
+

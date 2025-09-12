@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/types 05c945284ffb46d9b8fe25b7d1ee58cf diagrams.rst:2 of
+msgid "Типы диаграмм"
+msgstr ""
+
+#: ../../source/types 71450bf272a443f0a60f7d51ea136ac9 diagrams.rst:6 of
+msgid ""
+"В настоящее время в BioUML используются следующие графические нотации и "
+"соответствующим им типы моделей:"
+msgstr ""
+
+#: ../../source/types c82580564ef14530a98f2f0d55898066 diagrams.rst:8 of
+msgid ""
+"**Математическая модель (Mathematical model)** - модель, состоящая из "
+"обыкновенных дифференциальных уравнений (ОДУ), алгебраических уравнений и"
+" событий. Никакие сущности или реакции между ними не используются;"
+msgstr ""
+
+#: ../../source/types diagrams.rst:9 f5f8abce75c8467c8a0eea9bded33651 of
+msgid ""
+"**Иерархическая модель (Composite model)** - модель, которая может "
+"содержит модули (подмодели), каждая из которых содержит ОДУ с событиями. "
+"Численные расчеты проводятся путем трансформации модели в \"плоскую\", не"
+" иерархическую модель, содержащую ОДУ с событиями;"
+msgstr ""
+
+#: ../../source/types d519656e81d74399b0846b1f805273aa diagrams.rst:10 of
+msgid ""
+"**Модель SBML в нотации SBGN (SBML in SBGN notation)** - модель, имеющая "
+"математический формализм, описанный стандартом SBML, использующая "
+"графическую нотацию SBGN;"
+msgstr ""
+
+#: ../../source/types 4e61d37d2dd341fbb8ffef5ad5422637 diagrams.rst:11 of
+msgid ""
+"**Иерархическая модель SBML в нотации SBGN (SBML comp in SBGN notation)**"
+" - иерархическая модель, имеющая математический формализм, описанный "
+"стандартом SBML, использующая графическую нотацию SBGN;"
+msgstr ""
+
+#: ../../source/types 6860dce993b341ef9ac38121695019ee diagrams.rst:12 of
+msgid ""
+"**Популяционная модель (Population-based model)** - содержит основную "
+"структурную модель, которая представляет собой математическую модель "
+"процесса изучения (например, динамики лекарств в организме) и "
+"предполагает распределение параметров модели по популяции;"
+msgstr ""
+
+#: ../../source/types 5b97a3d2413141c6ac789adac40be943 diagrams.rst:13 of
+msgid ""
+"**Агентная модель (Agent-based model)** - иерархическая модель, которая "
+"может содержать модули различного формализма и типа (модели ОДУ, модели "
+"УЧП (уравнения в частных производных), скрипты, специальные модули);"
+msgstr ""
+
+#: ../../source/types d8625c06f7f94be7b454c0173a248d3b diagrams.rst:14 of
+msgid ""
+"**Артериальное дерево (Arterial tree)** - модель кровотока в артериальном"
+" дереве. Описывает строение и свойства (площадь и эластичность) "
+"сосудистого русла. Численное моделирование предоставляет информацию о "
+"кровотоке (давлении, скорости потока) в каждом конкретном сосуде дерева;"
+msgstr ""
+
+#: ../../source/types 54d8818ec79440c6896d0a342c9657e5 diagrams.rst:15 of
+msgid ""
+"**Модель мозга (Brain model)** - модель мозга на региональном или "
+"клеточном уровне;"
+msgstr ""
+
+#: ../../source/types 3bf71a6579334971952e6586431a298c diagrams.rst:16 of
+msgid ""
+"**Модель BioNetGen (BioNetGen model)** - Модель BioNetGen Language (BNGL)"
+" со специальным графическим обозначением;"
+msgstr ""
+
+#: ../../source/types c1e515e61f9b4a628c109ebbfc5c5952 diagrams.rst:17 of
+msgid "**Модель EndoNet (EndoNet diagram)** - XML диаграмма (диаграмма EndoNet);"
+msgstr ""
+
+#: ../../source/types diagrams.rst:18 fea7fd620e234f6886731590f9a1bd1c of
+msgid ""
+"**Метаболический путь (lipicomic.xml)** - XML-диаграмма (Метаболический "
+"путь (KEGG-модифицированный))."
+msgstr ""
+
