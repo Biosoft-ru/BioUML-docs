@@ -66,13 +66,13 @@ BioUML platform
 
 .. toctree:: 
    :maxdepth: 2
-   :caption: Physicell модели
+   :caption: Physicell
    
-   Physicell_model_creation.rst
-   Physicell_model_development.rst
-   Physicell_cell_properties.rst
-   Physicell_microenvironment.rst
-   Physicell_simulation.rst
-   Physicell_simulation_result.rst
-   Physicell_Java_code.rst
+   PhysiCell/PhysiCell_start/PhysiCell_start_MAIN.rst
+   PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst
+   PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_MAIN.rst
+   PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst
+   PhysiCell/PhysiCell_simulation/PhysiCell_simulation_MAIN.rst
+   PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst
+   PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst
   
