@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,12 +19,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../source/first 4611bf5a987e4457a36d3930273db6f2 a diagram.rst:2 in steps
+#: ../../source/first 28b1ff7f6eee48cb8bc21378896709e0 a diagram.rst:2 in steps
 #: with working
 msgid "Интерфейс BioUML при работе с диаграммами"
 msgstr ""
 
-#: ../../source/first 07c49db7d20241a6b271653d361bfa35 a diagram.rst:24 in
+#: ../../source/first 323c832619e54faf97ed97093a467e6a a diagram.rst:24 in
 #: steps with working
 msgid ""
 "*Открытие диаграммы* осуществляется путем двойного щелчка мыши на "
@@ -39,34 +39,34 @@ msgid ""
 "подсвечиваются голубым цветом :ref:`(Рисунок 1) <Pic.1_3>`."
 msgstr ""
 
-#: ../../source/first 18ee68a0be5542d3a0ffb65c413424e9
-#: 87e737b89a614cbbbe883637da718181 a diagram.rst:4 in steps with working
+#: ../../source/first 011d4515d13b404599292c0cdcfc03b2
+#: 144e673270b84261a0a4452a0b0743cc a diagram.rst:4 in steps with working
 msgid "diagram"
 msgstr ""
 
-#: ../../source/first 5b30ea825b3b45eaaa9a30fad84b9655 a diagram.rst:31 in
+#: ../../source/first 352f38bea1d64603a9aa6a763791087f a diagram.rst:31 in
 #: steps with working
 msgid "Открытая диаграмма в веб-версии BioUML"
 msgstr ""
 
-#: ../../source/first 68a20210ce36451f9f7c82505c920ac1 a diagram.rst:36 in
+#: ../../source/first 297901fafe094eab9e5fde293d5758a3 a diagram.rst:36 in
 #: steps with working
 msgid "Рисунок 1. Открытая диаграмма в веб-версии BioUML"
 msgstr ""
 
-#: ../../source/first a dd9e7422b20941588c0de57397dd56c2 diagram.rst:38 in
+#: ../../source/first 87965ce2201640ea88597ff0993a9429 a diagram.rst:38 in
 #: steps with working
 msgid "Текущую отображаемую область диаграммы можно сместить:"
 msgstr ""
 
-#: ../../source/first a b532e111244d407592d6a0bcb549b829 diagram.rst:40 in
+#: ../../source/first a diagram.rst:40 e2c27a74bd4c433b883951feac789ad1 in
 #: steps with working
 msgid ""
 "в рабочем пространстве, щелкнув и перетащив «холст» диаграммы, либо "
 "используя полосы прокрутки;"
 msgstr ""
 
-#: ../../source/first 9c95cf26eb124ed68d03f9edb66d676d a diagram.rst:41 in
+#: ../../source/first a cc205c8268f246c388ae484537920a96 diagram.rst:41 in
 #: steps with working
 msgid ""
 "сдвинув (щелкнув и перетащив) пунктирный прямоугольник (представляющий "
@@ -74,7 +74,7 @@ msgid ""
 "вкладке :guilabel:`Overview` в области поля операций ."
 msgstr ""
 
-#: ../../source/first 48de3d852f0240388fb23f88a71cd838 a diagram.rst:43 in
+#: ../../source/first 7f1f16274bba411e8885f9423676ca83 a diagram.rst:43 in
 #: steps with working
 msgid ""
 "Для *создания новой диаграммы*, во вкладке :guilabel:`Data` области "
@@ -84,7 +84,7 @@ msgid ""
 "открывшемся окне выберите нужный *тип диаграммы*."
 msgstr ""
 
-#: ../../source/first a db974a171e274a26af16f19711b3df26 diagram.rst:46 in
+#: ../../source/first a diagram.rst:46 e07a888ae2484a4f90fc2288e75fcf39 in
 #: steps with working
 msgid ""
 "Диаграммы можно *экспортировать* в различных форматах, нажав инонку "
@@ -93,22 +93,23 @@ msgid ""
 "|export|. *Импорт диаграммы* осуществляется нажатием на иконку |import|."
 msgstr ""
 
-#: ../../source/first 7f42156ffff145e8983b4f6b6cae2d80 a
-#: c5aa1bc0156f4e898c7f90243c8f76e1 diagram.rst:11 in steps with working
+#: ../../source/first 50e86d84b973418b9a861dbf1eb9a1b7 a
+#: d1b5a37374e9437a8454e326803f331f diagram.rst:11 in steps with working
 msgid "export"
 msgstr ""
 
-#: ../../source/first 5cb0a31e0c314696ab27863ad01fb1d4 a diagram.rst:12 in
+#: ../../source/first a diagram.rst:12 ed23a9e278e946ad82e8fc8c2defbcff in
 #: steps with working
 msgid "import"
 msgstr ""
 
-#: ../../source/first 43865312ccc34c2f8c8adc3e5e2a778f a diagram.rst:51
-#: diagram.rst:58 eddd0cd059c142d7bc100a572a428363 in steps with working
+#: ../../source/first 309da96004874613a349c3855ed3b93a
+#: 8a08f828eddb4f6481fb042fe88a15f5 a diagram.rst:51 diagram.rst:58 in steps
+#: with working
 msgid "Панель инструментов"
 msgstr ""
 
-#: ../../source/first 114377583c5c4514a14591f8fd39dca4 a diagram.rst:53 in
+#: ../../source/first 98be4e25f31740489e79019a6f114f36 a diagram.rst:53 in
 #: steps with working
 msgid ""
 "В верхней части рабочего пространства находится *панель инструментов* "
@@ -117,25 +118,25 @@ msgid ""
 "будет соответсвовать определенный набор элементов."
 msgstr ""
 
-#: ../../source/first 9ff808d6422e4d4bacdae3da529083ed a diagram.rst:63 in
+#: ../../source/first a abf7715efea14a25910b177b12653ba0 diagram.rst:63 in
 #: steps with working
 msgid "Рисунок 2. Панель инструментов"
 msgstr ""
 
-#: ../../source/first a ab16ca7e85fa4850b11a0082c0c89a93 diagram.rst:66 in
+#: ../../source/first 385130f7cbe949fa9e2cecb975397a51 a diagram.rst:66 in
 #: steps with working
 msgid ""
 "Детальное описание соответствующих элементов будет приведено в следующих "
 "главах."
 msgstr ""
 
-#: ../../source/first a diagram.rst:69 diagram.rst:75
-#: e3d40aabf6fb4702b3492ab693189937 ee32a01a18bf464ea7e09e0070420909 in steps
-#: with working
+#: ../../source/first 4235db947ce64b6d946c89014f8af90d a
+#: a14dd4703c43429592fe520b1d2c450c diagram.rst:69 diagram.rst:75 in steps with
+#: working
 msgid "Общая панель управления"
 msgstr ""
 
-#: ../../source/first 2695f8a8695347adbfd8c5a8b4e9db58 a diagram.rst:71 in
+#: ../../source/first 6ad0b2030e1f4eb5b20d2ff3ae54a4ce a diagram.rst:71 in
 #: steps with working
 msgid ""
 "На *общей панели управления* :ref:`(Рисунок 3) <Pic.3_3>`, которая "
@@ -143,17 +144,17 @@ msgid ""
 "опции, используемые при работе с диаграммами:"
 msgstr ""
 
-#: ../../source/first 94faf85ad3184832a74e2b0f7ac38100 a diagram.rst:80 in
+#: ../../source/first a ce8fca25dedb49bc8600d862dc9212a2 diagram.rst:80 in
 #: steps with working
 msgid "Рисунок 3. Общая панель управления при работе с диаграммами"
 msgstr ""
 
-#: ../../source/first 9759fa21f50f4d6fb933de33a6a1e515 a diagram.rst:275 in
+#: ../../source/first 04f10e63ac5c45fb85b09cb36411078d a diagram.rst:275 in
 #: steps with working
 msgid "Поле операций"
 msgstr ""
 
-#: ../../source/first 141a6264f03c48618d799eb83dfb0302 a diagram.rst:277 in
+#: ../../source/first 647d86b0253d46a29c6dc0f5e6d281ca a diagram.rst:277 in
 #: steps with working
 msgid ""
 ":doc:`Поле операций </user_interface>` располагается в правой нижней "
@@ -161,22 +162,22 @@ msgid ""
 "с диаграммами :ref:`(Рисунок 4) <Pic.4_3>`."
 msgstr ""
 
-#: ../../source/first 0e2cb2dba9bd4a38bf61cc25eb5876b0 a diagram.rst:282 in
+#: ../../source/first 97fd434980334edc8133546d218776af a diagram.rst:282 in
 #: steps with working
 msgid "Поле операций при работе с диаграммами"
 msgstr ""
 
-#: ../../source/first 87bc86bc0a0d4aee946c01f7be07f125 a diagram.rst:287 in
+#: ../../source/first 1cbb4bdd5da64c0dbd9e53ec63030c58 a diagram.rst:287 in
 #: steps with working
 msgid "Рисунок 4. Поле операций при работе с диаграммами"
 msgstr ""
 
-#: ../../source/first 095606a5774b485b85a3379af9a453cc a diagram.rst:290 in
+#: ../../source/first a ce1d19ca2ad64e828fbf76a4604a8cec diagram.rst:290 in
 #: steps with working
 msgid "Overview"
 msgstr ""
 
-#: ../../source/first 2f817cfbf0b74ba182ee946ece23da7e a diagram.rst:292 in
+#: ../../source/first a diagram.rst:292 e1efa83f503c46099ea3fcbdc5778a2c in
 #: steps with working
 msgid ""
 "Во вкладке :guilabel:`Overview` отображается *общий вид диаграммы*. Синим"
@@ -184,22 +185,22 @@ msgid ""
 "пространстве :ref:`(Рисунок 5) <Pic.5_3>`."
 msgstr ""
 
-#: ../../source/first 94e86865ee9b434e83807e413350981f a diagram.rst:297 in
+#: ../../source/first 1a0606e7381f4d9aac752f65be4a158a a diagram.rst:297 in
 #: steps with working
 msgid "Вкладка Overview в поле операций"
 msgstr ""
 
-#: ../../source/first 86ce1e4543f74b26b3fc86df556e2343 a diagram.rst:302 in
+#: ../../source/first 53d686a0339b4ba0bd9aaf4168272c65 a diagram.rst:302 in
 #: steps with working
 msgid "Рисунок 5. Вкладка Overview в поле операций"
 msgstr ""
 
-#: ../../source/first 233266b9e3ef4c7fbf5de1be431600db a diagram.rst:305 in
+#: ../../source/first a diagram.rst:305 eeb5f3a1987444f19fc21c396df3f4d9 in
 #: steps with working
 msgid "Layout"
 msgstr ""
 
-#: ../../source/first 4faa4136dc304d14ad9cb937a4b5ebcf a diagram.rst:310 in
+#: ../../source/first a diagram.rst:310 ed4566372fd84f6087ccfac37c45ad93 in
 #: steps with working
 msgid ""
 "Вкладка :guilabel:`Layout` содержит пять вариантов *макетов расстановки "
@@ -207,64 +208,64 @@ msgid ""
 ":ref:`(Рисунок 6) <Pic.6_3>`:"
 msgstr ""
 
-#: ../../source/first a diagram.rst:314 fe00e1fda8464a8195963bd1f5b0e191 in
+#: ../../source/first 0719b515ee45497282924defa92a367c a diagram.rst:314 in
 #: steps with working
 msgid "Вкладка Layout в поле операций"
 msgstr ""
 
-#: ../../source/first 9d711a756b1a4319a6369763bec9fe1b a diagram.rst:319 in
+#: ../../source/first 63c05274267249b8a5586c36766ca2a1 a diagram.rst:319 in
 #: steps with working
 msgid "Рисунок 6. Вкладка Layout в поле операций"
 msgstr ""
 
-#: ../../source/first 08498f4ccda14bf79766f2b59fbe46ba a diagram.rst:321 in
+#: ../../source/first 46e4cc27ca45478fb88dcc1b947dd75b a diagram.rst:321 in
 #: steps with working
 msgid "Hierarchical layout;"
 msgstr ""
 
-#: ../../source/first 873077238f7b49e89b917b6d416e1030 a diagram.rst:322 in
+#: ../../source/first 14a7883d873146c79a5f9d814ca31e1f a diagram.rst:322 in
 #: steps with working
 msgid "Orthogonal layout;"
 msgstr ""
 
-#: ../../source/first 138632e0bc3a467cb375ec84741b6377 a diagram.rst:323 in
+#: ../../source/first 9d359e12b3664b96addf059d41ec1653 a diagram.rst:323 in
 #: steps with working
 msgid "Force directed layout;"
 msgstr ""
 
-#: ../../source/first 7b30bf441a2b41c3a4eb48a4716baf5b a diagram.rst:324 in
+#: ../../source/first 4e74ffcc5aca430e966a6640690f4562 a diagram.rst:324 in
 #: steps with working
 msgid "Cross cost grid layout (with compartments);"
 msgstr ""
 
-#: ../../source/first 2f86df38c13e4a66b9a14f5fba034d98 a diagram.rst:325 in
+#: ../../source/first a c1fb4342b34541c6a1c9fbb93ac2f864 diagram.rst:325 in
 #: steps with working
 msgid "Grid layout."
 msgstr ""
 
-#: ../../source/first a db447b7cff8040428a4a28ceb5866ea0 diagram.rst:327 in
+#: ../../source/first 699e5eb9b5e940e0b838f3f792b8ab4e a diagram.rst:327 in
 #: steps with working
 msgid ""
 "При изменении опций нажмите иконку |save_layout| и затем для запуска "
 "расстановщика иконку |simulate|."
 msgstr ""
 
-#: ../../source/first 5b76eef6eea44ebdb0032d68bab73e9b a diagram.rst:307 in
+#: ../../source/first a abe1cbee6e9745d38fb4bec4b64623bf diagram.rst:307 in
 #: steps with working
 msgid "save_layout"
 msgstr ""
 
-#: ../../source/first 8dbb34b01b254055af27edc4f2b73439 a diagram.rst:308 in
+#: ../../source/first 7b4126ad30bb4412b8197929b93c7499 a diagram.rst:308 in
 #: steps with working
 msgid "simulate"
 msgstr ""
 
-#: ../../source/first 20b7e6f37b9443899a2d6057a4ad4d66 a diagram.rst:330 in
+#: ../../source/first a ba87087862fc4d3bad5cdfd6842a3793 diagram.rst:330 in
 #: steps with working
 msgid "Model"
 msgstr ""
 
-#: ../../source/first 60de53d936634978a18535c7273187e5 a diagram.rst:332 in
+#: ../../source/first 1a18f9e2695547e6b9e2a739541b6dbe a diagram.rst:332 in
 #: steps with working
 msgid ""
 "Вкладка :guilabel:`Model` содержит горизонтальные вкладки, "
@@ -272,34 +273,34 @@ msgid ""
 "7) <Pic.7_3>`."
 msgstr ""
 
-#: ../../source/first a ddcb2ffd664b48c6b52c6e910dfcfb0b diagram.rst:336 in
+#: ../../source/first a diagram.rst:336 f9b3b19530bd4f0982f4051f341355f1 in
 #: steps with working
 msgid "Вкладка Model в поле операций"
 msgstr ""
 
-#: ../../source/first a bf717df2857949f5bb3208f536c597f3 diagram.rst:341 in
+#: ../../source/first 01c61b3d82d3496abdda4e00487ef82b a diagram.rst:341 in
 #: steps with working
 msgid "Рисунок 7. Вкладка Model в поле операций"
 msgstr ""
 
-#: ../../source/first a ab71a99507664d3a9aec4b3304211092 diagram.rst:343 in
+#: ../../source/first 7797fa1a3ea44ab5b0e0ab49eec8a340 a diagram.rst:343 in
 #: steps with working
 msgid ""
 "Для каждой вкладки применимы отдельные операции, все существующие "
 "операции описаны ниже:"
 msgstr ""
 
-#: ../../source/first 0f7eccc4bf3a4b499fcebaf96a98a551 a diagram.rst:345 in
+#: ../../source/first 047356171aa44207aa4ba0ba49d29053 a diagram.rst:345 in
 #: steps with working
 msgid "|save| - сохранение текущих внесенных изменений;"
 msgstr ""
 
-#: ../../source/first a aebf4f91fa86429194c7af47fa2d880e diagram.rst:8 in steps
+#: ../../source/first 73a6c3b8c4324fd7a5524b68ffeb25a6 a diagram.rst:8 in steps
 #: with working
 msgid "save"
 msgstr ""
 
-#: ../../source/first a diagram.rst:347 ee1cc0e27c44435896988d7e718c2383 in
+#: ../../source/first a diagram.rst:347 e8b881a8bbf2413590ac227c8e6923f5 in
 #: steps with working
 msgid ""
 "|detect_types| - определение типа математической переменной в модели: "
@@ -307,12 +308,12 @@ msgid ""
 "алгебраическим уравнением или присваиванием - Calculated;"
 msgstr ""
 
-#: ../../source/first 5b7898d82177434fadba67cf20f02b6e a diagram.rst:21 in
+#: ../../source/first 219a5cd658994220a3de330d5c3aa475 a diagram.rst:21 in
 #: steps with working
 msgid "detect_types"
 msgstr ""
 
-#: ../../source/first 540257e571264308acec60abe09d52c7 a diagram.rst:350 in
+#: ../../source/first a df746be9b6954e48ad3dd8952357322d diagram.rst:350 in
 #: steps with working
 msgid ""
 "|highlight_on| - подсвечивание соответствующего узла диаграммы: нажмите "
@@ -321,22 +322,22 @@ msgid ""
 "операции;"
 msgstr ""
 
-#: ../../source/first 9071b21537454cebaa42efe84f5e49f0 a diagram.rst:14 in
+#: ../../source/first a diagram.rst:14 e571054621064d3ab3d6a7c958f2ada8 in
 #: steps with working
 msgid "highlight_on"
 msgstr ""
 
-#: ../../source/first 2838cc9949674f01a696825c6d475544 a diagram.rst:353 in
+#: ../../source/first a d66760a3c8514c7fa6e8e6d0e80d72f1 diagram.rst:353 in
 #: steps with working
 msgid "|highlight_off| - убрать подсвечивание узла на диаграмме;"
 msgstr ""
 
-#: ../../source/first a diagram.rst:13 ffced8774256432d93472148965eb5da in
+#: ../../source/first 7ca55933017c472bbe837377780ace9c a diagram.rst:13 in
 #: steps with working
 msgid "highlight_off"
 msgstr ""
 
-#: ../../source/first a diagram.rst:355 ea20b0212bb84a1ea97639ee1ec9c2c3 in
+#: ../../source/first a b65fd9094b86413a917d7c99f4f5e87d diagram.rst:355 in
 #: steps with working
 msgid ""
 "|plot| - добавление результатов численного расчета на график: доступно "
@@ -346,24 +347,24 @@ msgid ""
 "синим, и затем нажмите на иконку операции;"
 msgstr ""
 
-#: ../../source/first 8310acef715c4a14ac24fe35de5d6948 a diagram.rst:15 in
+#: ../../source/first a diagram.rst:15 ff57ad37c50d481bbd161b5f5b0ad567 in
 #: steps with working
 msgid "plot"
 msgstr ""
 
-#: ../../source/first 21b236f7f3574747a7d0bdb00211a430 a diagram.rst:359 in
+#: ../../source/first a diagram.rst:359 f249a80331e54c2ea7e8014b3b0bd15b in
 #: steps with working
 msgid ""
 "|icon_minus| - добавление нового параметра или единицы измерения: "
 "доступно во вкладках Variables и Units;"
 msgstr ""
 
-#: ../../source/first 691296bf5bc74acab182fc8a470c7259 a
-#: cd65b5bf518b4d8cac3963ca1e4a33f4 diagram.rst:16 in steps with working
+#: ../../source/first 7a75ec3feff44d2bb91c5863a22793f3 a
+#: c21b681439b040468b88a1e7df6fba28 diagram.rst:16 in steps with working
 msgid "icon_minus"
 msgstr ""
 
-#: ../../source/first 4b04f035ada44cecbf3a86a0f255643f a diagram.rst:361 in
+#: ../../source/first 7de68451f098412d9f34705a1d238613 a diagram.rst:361 in
 #: steps with working
 msgid ""
 "|icon_plus| - удаление параметра: ажмите на строку, cоответствующую "
@@ -371,12 +372,12 @@ msgid ""
 "подсветились синим, и затем нажмите на иконку операции;"
 msgstr ""
 
-#: ../../source/first 3c3066656a5240efbd057c992c828a76 a diagram.rst:17
-#: e5a4df8e3fe1483985aaacbc132ab27e in steps with working
+#: ../../source/first 5727e356b0a44782b84c50581a88de33 a diagram.rst:17
+#: fd43bab1cb9748d2a44e25fbb3fd646d in steps with working
 msgid "icon_plus"
 msgstr ""
 
-#: ../../source/first a diagram.rst:364 fc7e09edf10f493bb5b1e6d91c92a112 in
+#: ../../source/first 68fb02c7895b4c809f01f87da1294a6d a diagram.rst:364 in
 #: steps with working
 msgid ""
 "|set_values| - добавление значений параметров: нажмите на иконку операции"
@@ -384,12 +385,12 @@ msgid ""
 "(Name) и численное значение (Initial Value);"
 msgstr ""
 
-#: ../../source/first 10e524455bd4429a88828a5daef67041 a diagram.rst:18 in
+#: ../../source/first a diagram.rst:18 f15caaa3d406409bba2567cc7238197e in
 #: steps with working
 msgid "set_values"
 msgstr ""
 
-#: ../../source/first 2575ee3d1e524096b36477af71518e97 a diagram.rst:367 in
+#: ../../source/first 4cbebd9ceaf74094a800d65e47366b72 a diagram.rst:367 in
 #: steps with working
 msgid ""
 "|edit| - изменение единицы измерения: доступно во вкладке Units, сначала "
@@ -397,61 +398,61 @@ msgid ""
 "на иконку операции;"
 msgstr ""
 
-#: ../../source/first a diagram.rst:19 fb1e5e9e25524c0cbd12fe50e3ba9583 in
+#: ../../source/first 59d5f0844dae408692c3aa1bb085691b a diagram.rst:19 in
 #: steps with working
 msgid "edit"
 msgstr ""
 
-#: ../../source/first a b6100b7934324d29bab73954f4f5af78 diagram.rst:370 in
+#: ../../source/first 6dd64dda71ce4fe4baf90092ede73047 a diagram.rst:370 in
 #: steps with working
 msgid "|remove| - удаление единицы измерения."
 msgstr ""
 
-#: ../../source/first 5913cd0135e44431ac5c1beaf12502d2 a diagram.rst:20 in
+#: ../../source/first 7609713409404c728caa96f13c2d3f13 a diagram.rst:20 in
 #: steps with working
 msgid "remove"
 msgstr ""
 
-#: ../../source/first a af2d07782c23486b87945e336a489bdb diagram.rst:372 in
+#: ../../source/first 1dcabe836dc0472ab226b45c0e75edad a diagram.rst:372 in
 #: steps with working
 msgid "В столбце Name указывается *идентификатор* элемента модели;"
 msgstr ""
 
-#: ../../source/first a diagram.rst:373 ff87268c0860475cb11b79dfa1aa3d5a in
+#: ../../source/first 1579083279a44bb9b677450dde834ba0 a diagram.rst:373 in
 #: steps with working
 msgid "В столбце Title - *заголовок* элемента, который может быть изменен;"
 msgstr ""
 
-#: ../../source/first a ce6a57fccb8a43db8918257046e04dee diagram.rst:374 in
+#: ../../source/first 7b959927499d4aebb6938f802e81ac26 a diagram.rst:374 in
 #: steps with working
 msgid "*Тип математической переменной* указывается в Type;"
 msgstr ""
 
-#: ../../source/first a b3b12101a5d2424eb7709c935bb3215a diagram.rst:375 in
+#: ../../source/first a diagram.rst:375 ed7934c49c224e05b73890d08c20df4e in
 #: steps with working
 msgid "*Комментарий* может быть добавлен в столбце Comment."
 msgstr ""
 
-#: ../../source/first 2c2f18f0565249e4b6fa6f01e1b9b6f9 a diagram.rst:377 in
+#: ../../source/first 260b3d908c1b40d7821dd632da4d7fd8 a diagram.rst:377 in
 #: steps with working
 msgid "**Compartments (компартменты)**"
 msgstr ""
 
-#: ../../source/first 98d58756216e46fc9e8b608efbfd9e27 a diagram.rst:379 in
+#: ../../source/first 67ce2fbe37724063a4ed2b37447c0d4d a diagram.rst:379 in
 #: steps with working
 msgid ""
 ":ref:`Компартмент <compartment>` являются отдельным элементом диаграммы, "
 "в составе которого могут находиться сущности."
 msgstr ""
 
-#: ../../source/first 2005a58f21914b2e836011b8ab562e07 a diagram.rst:381 in
+#: ../../source/first 6c1f6d2c31b047c2a49eeea85ecc47b0 a diagram.rst:381 in
 #: steps with working
 msgid ""
 "В столбце Initial value указывается *численное значение* - объем "
 "компартмента;"
 msgstr ""
 
-#: ../../source/first a b6e1d989b8404f97bb9be22c71cbb3b7 diagram.rst:382 in
+#: ../../source/first 999b820a5b0144a39a16bc36c5677118 a diagram.rst:382 in
 #: steps with working
 msgid ""
 "Флаг *константы* ставится в столбце Constant и определяет является ли  "
@@ -459,27 +460,27 @@ msgid ""
 "изменено."
 msgstr ""
 
-#: ../../source/first 018b83cd93e5422b993d2cae2167a19c a diagram.rst:383 in
+#: ../../source/first 13cfecbb59d84279b3bbc6a1a1a15aaf a diagram.rst:383 in
 #: steps with working
 msgid "В столбце *Units* из выпадающего списка выбирается единица измерения."
 msgstr ""
 
-#: ../../source/first 99149ae477dc45afa70bb3ece823d49b a diagram.rst:385 in
+#: ../../source/first 4ce3c13efd3446248f2e6f42cc6d68c4 a diagram.rst:385 in
 #: steps with working
 msgid "Вкладка Compartments в поле операций"
 msgstr ""
 
-#: ../../source/first 2455d2f4431d46b699da515f3f723b90 a diagram.rst:390 in
+#: ../../source/first 2e6985eeb6044ad089df6cf7dbef90f2 a diagram.rst:390 in
 #: steps with working
 msgid "Рисунок 8. Вкладка Сompartments в поле операций"
 msgstr ""
 
-#: ../../source/first 1949278084da4f4f9683e78e6488800f a diagram.rst:392 in
+#: ../../source/first a c62e2f534fd047f383710ca1d0c440b4 diagram.rst:392 in
 #: steps with working
 msgid "**Entities (cущности)**"
 msgstr ""
 
-#: ../../source/first a diagram.rst:394 fa8b44c94ad0406e9015841f0b7c8de9 in
+#: ../../source/first 4f2f10c7277d4f3cb4abfaddc2a1afda a diagram.rst:394 in
 #: steps with working
 msgid ""
 "При добавлении :ref:`материальной сущности <entities>` на диаграмму "
@@ -487,7 +488,7 @@ msgid ""
 "количество вещества соответствующей сущности."
 msgstr ""
 
-#: ../../source/first a b119c204224c47d29d0a4b2ea83cb637 diagram.rst:398 in
+#: ../../source/first 9bb7ab265d044beda0f1cdbec093b78c a diagram.rst:398 in
 #: steps with working
 msgid ""
 "У сущности **идентификатор переменной** образуется путем добавления \"$\""
@@ -500,12 +501,12 @@ msgid ""
 " </user_interface>` в поле Role - VariableRole."
 msgstr ""
 
-#: ../../source/first 2ce2bdb108dc4b6abaa9f2f185cdfa32 a diagram.rst:404 in
+#: ../../source/first 8126cc406a6c46ce99de64783d0bc4b4 a diagram.rst:404 in
 #: steps with working
 msgid "*Численное значение* переменной задается в столбце Initial Value;"
 msgstr ""
 
-#: ../../source/first 4b9607b1849a458380413615fe4810dd a diagram.rst:405 in
+#: ../../source/first 3a5c618331254055895b72a3e2081c1a a diagram.rst:405 in
 #: steps with working
 msgid ""
 "В столбце Initial units type указывается единица измерения начального "
@@ -513,21 +514,21 @@ msgid ""
 "concentration - концентрация."
 msgstr ""
 
-#: ../../source/first 604ba6dceaa846b18298d190e4973352 a diagram.rst:406 in
+#: ../../source/first a diagram.rst:406 e949b10e213c47548949da9aff995c85 in
 #: steps with working
 msgid ""
 "Units type указывает единицу измерения для идентификатора переменной в "
 "реакции, уравнении и т.д. \\"
 msgstr ""
 
-#: ../../source/first 083d6955aa834efda237c186a5a7dc5d a diagram.rst:407 in
+#: ../../source/first a diagram.rst:407 fdd761ea5376451aa8ac12342da30658 in
 #: steps with working
 msgid ""
 "Output units type соответствует единице измерения при выводе численных "
 "результатов на график."
 msgstr ""
 
-#: ../../source/first 64f970e59d944d05a1d3bd9f4c439dac a diagram.rst:410 in
+#: ../../source/first a d750703c6b0c4ce1ab3c4c641e9cfde7 diagram.rst:410 in
 #: steps with working
 msgid ""
 "При численных расчетах используется amount - количество вещества. Если в "
@@ -535,7 +536,7 @@ msgid ""
 "концентрация, то концентрация умножается на объем компартмента."
 msgstr ""
 
-#: ../../source/first a diagram.rst:413 fd5ef57bc6bd43f1a40c368c42f6c296 in
+#: ../../source/first 0467e7e495f04b3e92f9d0367a93b4e9 a diagram.rst:413 in
 #: steps with working
 msgid ""
 "Флаг *граничного условия* может быть поставлен в столбце Boundary "
@@ -544,29 +545,30 @@ msgid ""
 "дифференциальным или алгебраическим уравнением)."
 msgstr ""
 
-#: ../../source/first 3d6336572654465b948fa3cce51cf89e a diagram.rst:414 in
+#: ../../source/first 25fef3aa056a4010a40ba230cfecc7c2 a diagram.rst:414 in
 #: steps with working
 msgid ""
 "Флаг *константы* ставится в столбце Constant и определяет является ли "
 "численное значение переменной постоянной и може ли быть изменено."
 msgstr ""
 
-#: ../../source/first 40a06c41499845009369ebaaa0cad8fd a diagram.rst:416
-#: diagram.rst:429 e5b16be1037b4005ad2c7ae74895e2c9 in steps with working
+#: ../../source/first 1ba3b06e6de44bf7a81debf98af4efc8
+#: 7141a4ed1aad4af3a3dd472e81d4ba9e a diagram.rst:416 diagram.rst:429 in steps
+#: with working
 msgid "Изменение атрибутов переменной"
 msgstr ""
 
-#: ../../source/first 5d92f0a8778442089953061380ab9d48 a diagram.rst:421 in
+#: ../../source/first 4e2d211d73e04594a30e7ccec575ccae a diagram.rst:421 in
 #: steps with working
 msgid "Рисунок 9. Вкладка Entities в поле операций"
 msgstr ""
 
-#: ../../source/first 2b05d5c2737f4d9f8a576e957975122c a diagram.rst:423 in
+#: ../../source/first 3cb47d00e1004634997b4e5432af4d93 a diagram.rst:423 in
 #: steps with working
 msgid "**Variables (параметры)**"
 msgstr ""
 
-#: ../../source/first a b4da10af557c4861a69aa4cac15a594c diagram.rst:425 in
+#: ../../source/first 3c944866f3174795b1736c832fd00399 a diagram.rst:425 in
 #: steps with working
 msgid ""
 ":ref:`Параметры <math_model>` - это математические переменные модели, для"
@@ -576,66 +578,66 @@ msgid ""
 "Variables."
 msgstr ""
 
-#: ../../source/first 67b1dc1529cb436bb29af634de7b87f3 a diagram.rst:434 in
+#: ../../source/first a d2831a258e5c4294b65e44d1b5326f16 diagram.rst:434 in
 #: steps with working
 msgid "Рисунок 10. Вкладка Variables в поле операций"
 msgstr ""
 
-#: ../../source/first 837acd57c48b495cba768d1fda72d233 a diagram.rst:436 in
+#: ../../source/first 8916679d8fdd4cce8a315ea5017d4c1f a diagram.rst:436 in
 #: steps with working
 msgid "*Значение параметра* выставляется в столбце Initial value;"
 msgstr ""
 
-#: ../../source/first 3ae8670089314cb391626701fff4b6e0 a diagram.rst:437 in
+#: ../../source/first 0d4447eb6c8c4e5fb973b96844d04cf6 a diagram.rst:437 in
 #: steps with working
 msgid ""
 "Если требуется *удалить неиспользуемый параметр* или *добавить новый "
 "параметр*, нажмите на иконку |icon_minus| и |icon_plus|, cоответственно."
 msgstr ""
 
-#: ../../source/first a ce9500c8dc384da4a6971b5274679a3d diagram.rst:439 in
+#: ../../source/first 3b025d9e5de642c4abe7d84c1c07f4f7 a diagram.rst:439 in
 #: steps with working
 msgid "**Reactions (реакции)**"
 msgstr ""
 
-#: ../../source/first a diagram.rst:441 fec182be9ff34ae397237f53c80a4cb5 in
+#: ../../source/first a b0b76e6ead70453e96d6bdbc0229a776 diagram.rst:441 in
 #: steps with working
 msgid ""
 "Во вкладке Reactions представлены :ref:`добавленные процессы "
 "<process_creation>`."
 msgstr ""
 
-#: ../../source/first a d7c99fe0bf73448c9d57f9a24ae3ec9a diagram.rst:443 in
+#: ../../source/first a b7bcedaf53f348429f97aee6e53b2aea diagram.rst:443 in
 #: steps with working
 msgid "В столбце Formula записывается :ref:`формула <formula>`;"
 msgstr ""
 
-#: ../../source/first a c86f2d24b6104080a777f1510034ea0e diagram.rst:444 in
+#: ../../source/first 1d01db44386f41fe847f472799eb2607 a diagram.rst:444 in
 #: steps with working
 msgid "Флаг *обратимость реакции* указывается в столбцу Reversible;"
 msgstr ""
 
-#: ../../source/first 995e1c02de7d4a51b0bf5bfdcfbf4eec a diagram.rst:445 in
+#: ../../source/first 899851bb1772458cb7e764cf8e09ed26 a diagram.rst:445 in
 #: steps with working
 msgid "Флаг Fast указывает является реакция медленной или быстрой."
 msgstr ""
 
-#: ../../source/first 4ac3201c3a1f454d94625a1639267932 a diagram.rst:447 in
+#: ../../source/first 7cb1e7a05ec0424583b27f42730e39b6 a diagram.rst:447 in
 #: steps with working
 msgid "Вкладка  Reactions в поле операций"
 msgstr ""
 
-#: ../../source/first 668d81dc74be4f00be22637fa06d4fa1 a diagram.rst:452 in
+#: ../../source/first a b0378f0c20ac4895b795cc375a56a998 diagram.rst:452 in
 #: steps with working
 msgid "Рисунок 11. Вкладка  Reactions в поле операций"
 msgstr ""
 
-#: ../../source/first 27f0403b816f4869bcbbb4a200edc404 a diagram.rst:454 in
+#: ../../source/first a diagram.rst:454 ed31186b39dc454082437b40ec9498bb in
 #: steps with working
 msgid "**Equations (уравнения)**"
 msgstr ""
 
-#: ../../source/first 9d4cb0cb5be54f8783e7146a9c906311 a diagram.rst:456 in
+#: ../../source/first 22e4d95f44714b698b6ed9d719df8c92 a diagram.rst:456 in
 #: steps with working
 msgid ""
 "В BioUML доступны следующие типы :ref:`уравнений <equations>`: "
@@ -644,49 +646,49 @@ msgid ""
 "(scalar)."
 msgstr ""
 
-#: ../../source/first 2774affc10d34e328fbc0eb482167d3a a diagram.rst:460 in
+#: ../../source/first 460a87cd26664776814728ec80a5dee7 a diagram.rst:460 in
 #: steps with working
 msgid "*Переменная уравнения* указывается в столбце Variable;"
 msgstr ""
 
-#: ../../source/first 1905d1392e39408092fa387a2c7bbfe6 a diagram.rst:461 in
+#: ../../source/first a diagram.rst:461 f1aa433ebf9d417caa83cd8547b8a35b in
 #: steps with working
 msgid "*Формула* вводится в столбце Equation;"
 msgstr ""
 
-#: ../../source/first 091ee7847f9e48ffb1efd7e46ec9940f a diagram.rst:462 in
+#: ../../source/first 767ee462dd8347468148b5f80b2178c9 a diagram.rst:462 in
 #: steps with working
 msgid "В столбце Type указан *тип уравнения*."
 msgstr ""
 
-#: ../../source/first 827c64591d6546cba04a0b8cd18c2676 a diagram.rst:464 in
+#: ../../source/first a c49446a98aab455bafecf9c158862f9a diagram.rst:464 in
 #: steps with working
 msgid "Уравнения"
 msgstr ""
 
-#: ../../source/first a a97fd53267044538a9f73b62ae55f8ee diagram.rst:469 in
+#: ../../source/first 807f5c7eaad745ba92af17bce7114409 a diagram.rst:469 in
 #: steps with working
 msgid "Рисунок 12. Вкладка Equations в поле операций"
 msgstr ""
 
-#: ../../source/first a db4c5b35ae1c43729725f28f42b1dd15 diagram.rst:471 in
+#: ../../source/first a c5c826d3bb1c4d68a734d9e806fb517a diagram.rst:471 in
 #: steps with working
 msgid "**Functions (функции)**"
 msgstr ""
 
-#: ../../source/first a diagram.rst:473 e8aaf61ff51a42728d81ecf69588adb0 in
+#: ../../source/first 5e7d1efba602476595f06f05992c76cb a diagram.rst:473 in
 #: steps with working
 msgid ""
 ":ref:`Функция <function>` может использоваться в уравнениях или реакциях "
 "модели."
 msgstr ""
 
-#: ../../source/first 695f1bdff63645678f3d0ef05e4ba19b a diagram.rst:475 in
+#: ../../source/first 934b0d04bbe64d7bb607cbcf0ad40f4a a diagram.rst:475 in
 #: steps with working
 msgid "В столбце Right Hand Side можно изменить *правую часть уравнения*;"
 msgstr ""
 
-#: ../../source/first 94e99b243320475c949406b99e6e9a5b a diagram.rst:476 in
+#: ../../source/first 2ce33795e35c4941a34ec67f700b17c0 a diagram.rst:476 in
 #: steps with working
 msgid ""
 "В столбце Formula выводится *функция*, соответствующая следующему "
@@ -695,34 +697,34 @@ msgid ""
 " ... , an - *аргументы функции*."
 msgstr ""
 
-#: ../../source/first 4f7f7766ac234249b71e7a3da22459a1 a diagram.rst:478 in
+#: ../../source/first 978b6e52d1ba45d88c092f2300011223 a diagram.rst:478 in
 #: steps with working
 msgid "**Events (события)**"
 msgstr ""
 
-#: ../../source/first 81e4d229f860493e9ae654c1ec668cdb a diagram.rst:480 in
+#: ../../source/first 520b8d5aefc046c4bb0922cf0f745a8d a diagram.rst:480 in
 #: steps with working
 msgid ""
 ":ref:`Событие <event>` заключается в скачкообразном изменении значений "
 "переменных модели при выполнении определенного условия."
 msgstr ""
 
-#: ../../source/first 238fda81bee14b0da9de82c49b2f8bb3 a diagram.rst:483 in
+#: ../../source/first 77e2382cbd1741749245373b3fab9857 a diagram.rst:483 in
 #: steps with working
 msgid "Событие"
 msgstr ""
 
-#: ../../source/first a d53db84836b5404283efbc017602e94b diagram.rst:488 in
+#: ../../source/first 15bc3e7b0d1646d8a292ec018e5fc1b0 a diagram.rst:488 in
 #: steps with working
 msgid "Рисунок 13. Вкладка Events в поле операций"
 msgstr ""
 
-#: ../../source/first a cd99a18a583e44979d5d5c7e223c205b diagram.rst:490 in
+#: ../../source/first 5cff395706854d2caf9479939c34ea85 a diagram.rst:490 in
 #: steps with working
 msgid "В столбце Trigger устанавливается *триггер* - условие для запуска события;"
 msgstr ""
 
-#: ../../source/first 6aa44100c6744c89913a73828687369c a diagram.rst:491 in
+#: ../../source/first 586af056163d49f19fa4c9abd4394e93 a diagram.rst:491 in
 #: steps with working
 msgid ""
 "*Приоритет* указывает на порядок, в котором должны быть выполнены события"
@@ -730,26 +732,26 @@ msgid ""
 "Priority;"
 msgstr ""
 
-#: ../../source/first a c41cf00e06414c52a6878204a8c88714 diagram.rst:492 in
+#: ../../source/first a c1476e63759b4b6a8dc76e85bfe6cb3b diagram.rst:492 in
 #: steps with working
 msgid ""
 "В столбец Delay задается *время*, через которое происходит выполнение "
 "события;"
 msgstr ""
 
-#: ../../source/first 73163267fdce4f33884b79ba62c63b45 a diagram.rst:495 in
+#: ../../source/first a diagram.rst:495 e08597747646476b84763b2abdd6f16d in
 #: steps with working
 msgid ""
 "дополнить про индикаторы (Use trigger time values и др). примеры "
 "использования событий"
 msgstr ""
 
-#: ../../source/first 5f78defb31df4b35bafab173cee52323 a diagram.rst:497 in
+#: ../../source/first a dd1de4669e2140b1b7cb0b6b0f1320a9 diagram.rst:497 in
 #: steps with working
 msgid "**Constraints (ограничения)**"
 msgstr ""
 
-#: ../../source/first 6406fbd5d6444578bb0ee3107a85985b a diagram.rst:499 in
+#: ../../source/first 920550665c1b4283b3c338775763ec97 a diagram.rst:499 in
 #: steps with working
 msgid ""
 "Ограничение - это условие, которое проверяется во время моделирования. "
@@ -757,132 +759,132 @@ msgid ""
 "моделирование останавливается в зависимости от опций симулятора."
 msgstr ""
 
-#: ../../source/first a diagram.rst:503 ee193d647a8745b29eabe739b7065b9f in
+#: ../../source/first 47057e4620894248867a28e33941aad1 a diagram.rst:503 in
 #: steps with working
 msgid "Ограничения"
 msgstr ""
 
-#: ../../source/first 5b08e295f94245b795546890a394f018 a diagram.rst:508 in
+#: ../../source/first 321974a5919d4fa5a526086c7858b146 a diagram.rst:508 in
 #: steps with working
 msgid "Рисунок 13. Вкладка Сonstraints в поле операций"
 msgstr ""
 
-#: ../../source/first 2ebfe3c515d04620b579548f212b1922 a diagram.rst:511 in
+#: ../../source/first 1ac85a990a47440b9fe73a85f22dee5b a diagram.rst:511 in
 #: steps with working
 msgid "дополнить про ограничения"
 msgstr ""
 
-#: ../../source/first a diagram.rst:513 f3a7a0d688194417b65aaa64cbe6eb41 in
+#: ../../source/first 7407b72daa3b408fba533a638ce04c1a a diagram.rst:513 in
 #: steps with working
 msgid "**Ports (порты)**"
 msgstr ""
 
-#: ../../source/first 2d49a9e8851c4e54a50fd33ae0c5bd43 a diagram.rst:515 in
+#: ../../source/first a a1f0dfdb3b2a4712a0694adc8025c99c diagram.rst:515 in
 #: steps with working
 msgid ""
 ":ref:`Порты <ports>` используются при :doc:`модульном моделировании "
 "<modular models>` и осуществляют передачу сигналов между модулями."
 msgstr ""
 
-#: ../../source/first a c81e8dd9be744cae85f2385128f315d3 diagram.rst:517 in
+#: ../../source/first 69fec3b2f85d4973a79959ab257cd4b3 a diagram.rst:517 in
 #: steps with working
 msgid "В столбце Port type указан :ref:`тип порта <port_types>`;"
 msgstr ""
 
-#: ../../source/first a b7aa9aa6f1154c4491a175cbea56c964 diagram.rst:518 in
+#: ../../source/first 6fd8e0b75cfe46b4bcf27a9fbdb77191 a diagram.rst:518 in
 #: steps with working
 msgid ""
 ":ref:`Тип доступности порта <port_access_types>` указывается в столбце "
 "Access Type;"
 msgstr ""
 
-#: ../../source/first a bbc78cb27fc54b0d8c6d51a6c42856b3 diagram.rst:519 in
+#: ../../source/first 3678fe38ee434255872dd7fab106fb97 a diagram.rst:519 in
 #: steps with working
 msgid ""
 "Variable соответствует созданному элементу диаграммы, для которой создан "
 "порт."
 msgstr ""
 
-#: ../../source/first 1a5d250cc10347219079016f54776b0f a diagram.rst:521 in
+#: ../../source/first 2dcedfbedd4d413e9ab380e2bb0fecf3 a diagram.rst:521 in
 #: steps with working
 msgid "Вкладка Ports в поле операций"
 msgstr ""
 
-#: ../../source/first a cbdffdaa4e324b2fa6daec8fc33254c3 diagram.rst:526 in
+#: ../../source/first 021641eaf59645f0b795ce993fd67e36 a diagram.rst:526 in
 #: steps with working
 msgid "Рисунок 14. Вкладка Ports в поле операций"
 msgstr ""
 
-#: ../../source/first 9b2a8803122e45c9b1541a4b08a67fc8 a diagram.rst:528 in
+#: ../../source/first 78c431e79ad64d778208334206b83ffe a diagram.rst:528 in
 #: steps with working
 msgid "**Connections (связи)**"
 msgstr ""
 
-#: ../../source/first a bda1f902604e45ce836e3d541a6a69b7 diagram.rst:530 in
+#: ../../source/first 8659b10ab3044d209af9d3a9e63881e3 a diagram.rst:530 in
 #: steps with working
 msgid ""
 ":ref:`Связи <ports>` используются при модульном моделировании и служат "
 "для соединения портов."
 msgstr ""
 
-#: ../../source/first 5d9b1eec39034b668e44f96d2aea7d62 a diagram.rst:532 in
+#: ../../source/first a d2a1ee357425451fb178a30487eae0a2 diagram.rst:532 in
 #: steps with working
 msgid "Столбец Type указываетcя :ref:`тип связи <connections_types>`;"
 msgstr ""
 
-#: ../../source/first 5d53ddfcfeeb4f42934a0617afb55694 a diagram.rst:533 in
+#: ../../source/first 634e821caea74016828b6f9f3bb393e6 a diagram.rst:533 in
 #: steps with working
 msgid "В столбце Module From обозначается входной модуль;"
 msgstr ""
 
-#: ../../source/first 58634352ccd84668b60e6e4d098b1ddf a diagram.rst:534 in
+#: ../../source/first a adc21de77b314036be25f8863b09df5c diagram.rst:534 in
 #: steps with working
 msgid "В столбце Variable From обозначается входная переменная;"
 msgstr ""
 
-#: ../../source/first a bcf5683d25c14783a3ad6abad3a496b4 diagram.rst:535 in
+#: ../../source/first 7408196ca0784223a0f028a3ec12a7ce a diagram.rst:535 in
 #: steps with working
 msgid "В столбце Module To обозначается выходной модуль;"
 msgstr ""
 
-#: ../../source/first a a0e48c0da64642fcbd8a2ce8629eeeac diagram.rst:536 in
+#: ../../source/first 180cd88db20e47bc8ae38ed62aab0aba a diagram.rst:536 in
 #: steps with working
 msgid "В столбце Variable From обозначается выходная переменная."
 msgstr ""
 
-#: ../../source/first 84a27f8c59d94ebd899db8d5ad46af29 a diagram.rst:538 in
+#: ../../source/first 7c5c01f29bf447bbaa3578b968425daa a diagram.rst:538 in
 #: steps with working
 msgid "Вкладка Connections в поле операций"
 msgstr ""
 
-#: ../../source/first 8d647505ba6b42c59c97efa95f08b847 a diagram.rst:543 in
+#: ../../source/first 1070acd1d0e74d33bb486705ab258c6c a diagram.rst:543 in
 #: steps with working
 msgid "Рисунок 15. Вкладка Connections в поле операций"
 msgstr ""
 
-#: ../../source/first 289dc918554c4c6485fff187c2d15a0a a diagram.rst:545 in
+#: ../../source/first a c8ea1c545bec4d1da561ba20121760ca diagram.rst:545 in
 #: steps with working
 msgid "**Subdiagrams (подмодели)**"
 msgstr ""
 
-#: ../../source/first a aa55774688e04640839fb338c9439c17 diagram.rst:547 in
+#: ../../source/first 5cda4dbf59af497e87dca9861f13c0ed a diagram.rst:547 in
 #: steps with working
 msgid ""
 ":ref:`Подмодели <modules>` используются при модульном моделировании и "
 "соответствуют диаграмме модели."
 msgstr ""
 
-#: ../../source/first 9119cf04ce0d4e3dac28f15dc1f53ce6 a diagram.rst:549 in
+#: ../../source/first 9a9687365b9a428dbf996c6019e647bb a diagram.rst:549 in
 #: steps with working
 msgid "В столбце Diagram path указывается путь к диаграмме подмодели."
 msgstr ""
 
-#: ../../source/first a diagram.rst:551 fbbf00c5fe854ae2a1ec016091089900 in
+#: ../../source/first a diagram.rst:551 ef2e9cd636cd4b04b762da27619f85b6 in
 #: steps with working
 msgid "Вкладка Subdiagrams в поле операций"
 msgstr ""
 
-#: ../../source/first a afd968166b004a6e9eebbdb5c142129d diagram.rst:556 in
+#: ../../source/first 30f3a36c874c42ca873cfec92da59900 a diagram.rst:556 in
 #: steps with working
 msgid "Рисунок 16. Вкладка Subdiagrams в поле операций"
 msgstr ""

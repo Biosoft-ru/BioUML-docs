@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,47 +19,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../source/sbgn bcdc0750e3a64d4fa807ea633e0673ae model.rst:2
+#: ../../source/sbgn 4680210bc2664a5ca4b4ad3140f5cf10 model.rst:2
 msgid "Создание SBGN модели"
 msgstr ""
 
-#: ../../source/sbgn 3397b52f6f05474994c8c79f9d166b62 model.rst:13
+#: ../../source/sbgn b8a9885380e34554b118b54eb8d6fa8e model.rst:13
 msgid "К моделям, испольщующим SBGN нотацию, относятся следующие *типы диаграмм*:"
 msgstr ""
 
-#: ../../source/sbgn f8a622709bd447488b5cbfe4cfd18292 model.rst:15
+#: ../../source/sbgn a1250cb61ebe4bddaa85d730bc6ad7bf model.rst:15
 msgid "Модель SBML в нотации SBGN (SBML in SBGN notation);"
 msgstr ""
 
-#: ../../source/sbgn 70d7a3aec7924aba88462a7b23fb424b model.rst:16
+#: ../../source/sbgn 8cd5500b960b460f8e0dfcfb03116f72 model.rst:16
 msgid "Иерархическая модель SBML в нотации SBGN (SBML comp in SBGN notation)."
 msgstr ""
 
-#: ../../source/sbgn bf560c7dae414eeb9bdcc1b4699f4a00 model.rst:19
+#: ../../source/sbgn f666563cd9b94e9a9f17dac31d08832b model.rst:19
 msgid ""
 "Создание иерархической модели будет подробно обсуждаться в следующем "
 ":doc:`разделе </modular models>`"
 msgstr ""
 
-#: ../../source/sbgn 584ba75dc3ef4faeb04ff5803d874655 model.rst:21
+#: ../../source/sbgn 72ac1e4585af4cff81bf164ff9f657a6 model.rst:21
 msgid ""
 "На примере простейшей ферментативной реакции реакции разберем `создание "
 "SBGN модели <https://ict.biouml.org/bioumlweb/#de=data/Collaboration"
 "/BioUML-docs/Data/SBGN%20model%20manual>`_ :ref:`(Рисунок 1) <Pic.1_2>`."
 msgstr ""
 
-#: ../../source/sbgn 799e4bd9f45e422fbee19f93dabb10b8 model.rst:25
+#: ../../source/sbgn edb1fd708f4040a08d029a03d508e9a9 model.rst:25
 msgid "Простейшая модель"
 msgstr ""
 
-#: ../../source/sbgn 21ecf9b4b0b34d2d98350dd8e77064cc model.rst:30
+#: ../../source/sbgn 0255e27b216e4d7da9469681ce783e47 model.rst:30
 msgid ""
 "Рисунок 1. SBGN диаграмма простейшей ферментативной реакции. Фермент (E1)"
 " катализирует метаболический процесс, в ходе которого потребляется "
 "субстрат (S1) и образуется продукт (S2)."
 msgstr ""
 
-#: ../../source/sbgn b183990c1faa4387ab532c52ce9dff53 model.rst:33
+#: ../../source/sbgn 2f6accf151ee4cfba6a8995ad6f0c9a5 model.rst:33
 msgid ""
 "1. Для **создания новой диаграммы**, во вкладке :guilabel:`Data` области "
 ":doc:`репозитория </user_interface>` выберите проект и нажмите правой "
@@ -68,11 +68,11 @@ msgid ""
 "открывшемся окне выберите соответствующий *тип диаграммы*."
 msgstr ""
 
-#: ../../source/sbgn 97ee671c5db744cbbed106fa1142d605 model.rst:4
+#: ../../source/sbgn 7330d468014e4f14a9a82940f43ce09b model.rst:4
 msgid "diagram"
 msgstr ""
 
-#: ../../source/sbgn d9a3c93a055e4697b827872077214d7d model.rst:38
+#: ../../source/sbgn bd92e246eb154a66ae280e1bc41523ac model.rst:38
 msgid ""
 "2. Добавьте на диаграмму :ref:`компартмент <compartment>` путем нажатия "
 "на иконку |compartment|. Присвойте компартменту *идентификатор* (cell) и "
@@ -80,27 +80,27 @@ msgid ""
 "соответственно."
 msgstr ""
 
-#: ../../source/sbgn b519812211fa4111b39b716c89ba008d model.rst:5
+#: ../../source/sbgn c8c2a90a7d9e40b0986aa68964c90dc0 model.rst:5
 msgid "compartment"
 msgstr ""
 
-#: ../../source/sbgn 0eb51243b1bd40c78d13537bc618d39d
-#: 123625db05e8467bb8a6d46dc8eaad7e 14f8ad3acf824ebfbc3bb567b78c1206
-#: 18032c0cd2244b3e82c0e9fe402170ec 61634d6e131b471c83cecf9564a79d1a
-#: 8289334a6d474409925cbf343b93f809 82cb054956734dcaab28d59e1dd7f484
-#: dfcb5e3fae964eaab3d2ee9285f7bb44 fd448f2bb3b34f5a90de037488c2a21c
+#: ../../source/sbgn 0a5fe2a8db294e238d1b289a96d3b7b3
+#: 3dcee94378414d1e8678adce08144d5b 4e638ec17b1949a6a36aeb4d1f3d7b2e
+#: 536056ec192841b2a719abef0173f4ef 5f030ba6fe14427fb3e2b02d5def089d
+#: 652298539bb442fa84f7faff214d1123 a59b56229fdf4293863b692b71c78915
+#: d9d0335f92ec44b69c93d79e1a655f86 df333d087be740b5affd92382ee6c2bb
 #: model.rst:9
 msgid "option"
 msgstr ""
 
-#: ../../source/sbgn 200cc11379e04cc3bfeed6b0e11fb219 model.rst:42
+#: ../../source/sbgn 95acbc5749864368942eeb1d8a0803e6 model.rst:42
 msgid ""
 "*Заголовок* будет отображаться на диаграмме и может не соответствовать "
 "идентификатору элемента. После того, как компартмент/сущность создана, "
 "заголовок подлежит изменению, а *идентификатор* нет."
 msgstr ""
 
-#: ../../source/sbgn ee80ed0dd73449c6af11680e2f83e907 model.rst:45
+#: ../../source/sbgn 64ee21fdbec34749a5ce02aed0812cc1 model.rst:45
 msgid ""
 "3. Добавьте :ref:`сущности <entities>` в компартмент. Для этого нажмите "
 "на иконку |entity| на панели инструментов и затем на компартмент на "
@@ -110,34 +110,34 @@ msgid ""
 "<Pic.2_2>`."
 msgstr ""
 
-#: ../../source/sbgn 583980a2aa0549bb9431184707910443 model.rst:6
+#: ../../source/sbgn ef76622b0b4e45c8a1e92bee6fb45e9f model.rst:6
 msgid "entity"
 msgstr ""
 
-#: ../../source/sbgn 8d31174dc3884ce0a5ed3b9b91beafb3 model.rst:50
+#: ../../source/sbgn b9476b2ac9bc4170ba30b027553ef631 model.rst:50
 msgid ""
 "Ферменту (Е1) соответствует тип сущности - макромолекула (macromolecule),"
 " а субстрату (S1) и продукту (S2) - простое химическое вещество (simple "
 "chemical)."
 msgstr ""
 
-#: ../../source/sbgn dfdc3e32cb3546d2914b07a9a42075f4 model.rst:54
+#: ../../source/sbgn 7a120d531391420b9eba6f8a01ab514f model.rst:54
 msgid ""
 "*Местоположение элементов* на диаграмме можно изменять посредством "
 "зажатия узла левой кнопкой мыши и перемещением в другое место на полотне"
 msgstr ""
 
-#: ../../source/sbgn 601735d91d3c4098a83135d549c19676 model.rst:59
+#: ../../source/sbgn 129e53f48acf41cc9d445a67c54deb14 model.rst:59
 msgid "Создание сущности в веб-версии BioUML"
 msgstr ""
 
-#: ../../source/sbgn 106997cd905047079eb19b2cc04429b4 model.rst:64
+#: ../../source/sbgn 2049ad99f25d4d07afd72907f0a7ec5b model.rst:64
 msgid ""
 "Рисунок 2. Пример создания сущности в веб-версии BioUML - создание "
 "макромолекулы - фермента Е1"
 msgstr ""
 
-#: ../../source/sbgn c1dff7fe50fe48f994f69bef02c212d9 model.rst:66
+#: ../../source/sbgn 2eeb99eac81c4aa79472e2650f2f3a4c model.rst:66
 msgid ""
 "При создании сущности создается *переменная*, описывающая концентрацию "
 "или количество вещества соответствующей сущности. *Идентификатор "
@@ -149,7 +149,7 @@ msgid ""
 " </user_interface>` в поле Role - VariableRole."
 msgstr ""
 
-#: ../../source/sbgn cf93947e0fd243d58fb425996400a2a9 model.rst:74
+#: ../../source/sbgn 4d69ce68b9e544919e814a243186baab model.rst:74
 msgid ""
 "4. Добавьте :ref:`процесс <process>` - ферментативную реакцию. Для "
 "создания реакции нажмите на иконку |reaction|, расположенную на панели "
@@ -157,11 +157,11 @@ msgid ""
 "*идентификатор реакции*."
 msgstr ""
 
-#: ../../source/sbgn b06fd8ad2ef64f35babf330a20ca26de model.rst:7
+#: ../../source/sbgn 650ecc2f0a89449dab71c9870172ab08 model.rst:7
 msgid "reaction"
 msgstr ""
 
-#: ../../source/sbgn 0f633ca4fba547a1ad03b6867f5c8b6f model.rst:77
+#: ../../source/sbgn 53bdd5e99e334a0195c10b0e4464210c model.rst:77
 msgid ""
 "*Компоненты реакции* добавляются путем нажатия на ранее созданную "
 "сущность на диаграмме, выбора ее роли в поле Role и нажатия на кнопку "
@@ -169,21 +169,21 @@ msgid ""
 "указывается идентификатор переменной :ref:`(Рисунок 3) <Pic.3_2>`."
 msgstr ""
 
-#: ../../source/sbgn 8550be49cab04d49b43f399aab441eca model.rst:81
+#: ../../source/sbgn 5e2c7ef7ce624512a8040773d47eb4a7 model.rst:81
 msgid ""
 "В этой реакции фермент (E1) будет модификатором (modifier), субстрат (S1)"
 " - реактантом (reactant) и продукт (S2) - продуктом реакции (product)."
 msgstr ""
 
-#: ../../source/sbgn 804110634f604cf8b337110715ee130b model.rst:86
+#: ../../source/sbgn 479faa9bbb5e4a62b10b7eb310e062bf model.rst:86
 msgid "Создание реакции"
 msgstr ""
 
-#: ../../source/sbgn 36704985738e4289bb2defd197fe7e0d model.rst:91
+#: ../../source/sbgn e1b999e05fc14d29bc9be43fa03a87b9 model.rst:91
 msgid "Рисунок 3. Создание ферментативной реакции"
 msgstr ""
 
-#: ../../source/sbgn cd5e6f3bda0c47a3ac720b43d62e818d model.rst:93
+#: ../../source/sbgn 381e2d8380bc4850b240b07ac6554b07 model.rst:93
 msgid ""
 "5. Добавьте :ref:`формулу <formula>`. Формулу можно добавить в "
 "открывшемся окне при создании реакции в поле Formula либо в "
@@ -193,13 +193,13 @@ msgid ""
 " :guilabel:`Edit`."
 msgstr ""
 
-#: ../../source/sbgn 549bbcdb354c4a55a2c82af4d29b1b72
-#: 85df8f13202745cda41f76484be7e675 ac0353d2ac8b4295a775766dc7640cd2
-#: eae2b8dfbbe5487a913f52304788d12d model.rst:8
+#: ../../source/sbgn 2da11ca5af6a4cf89ac76e6fb23fa6aa
+#: 35abd7cfb3634f9782e17d60b6328f68 c207f476c4894729997938c1ea2d8478
+#: c32217dd8b7d4442a157a2bed1a96c73 model.rst:8
 msgid "folder"
 msgstr ""
 
-#: ../../source/sbgn 24049994c5fe4cb3967aac380417ed8b model.rst:99
+#: ../../source/sbgn 9bd977e43680428180d95ba9395326c8 model.rst:99
 msgid ""
 "При создании формулы учитывайте, что *идентификатор переменной* включает "
 "знак \"$\", а перед параметром он не ставится. Для возведения в степень "
@@ -207,7 +207,7 @@ msgid ""
 "\"-\" для сложения и вычитания, соответственно."
 msgstr ""
 
-#: ../../source/sbgn d6758e9e5caf4d579d11bc04aaf495ad model.rst:103
+#: ../../source/sbgn 3e3cc9b347c3448b8d735a45f19eec6e model.rst:103
 msgid ""
 "Для данной реакции формула записывается следующим образом : "
 "``k_cat*$cell.E1*$cell.S1``, где k_cat - параметр, соответствующий "
@@ -217,7 +217,7 @@ msgid ""
 "соответственно."
 msgstr ""
 
-#: ../../source/sbgn 719bdf429d8c45a48db3d8864ad5f544 model.rst:107
+#: ../../source/sbgn c1083816e52642679c3d43a2a2226b4b model.rst:107
 msgid ""
 "6. Добавьте :ref:`начальные значения для переменных и параметров "
 "<formula>`. После введения формулы внесенные *параметры* добавляются в "
@@ -228,37 +228,37 @@ msgid ""
 "<Pic.4_2>`."
 msgstr ""
 
-#: ../../source/sbgn 004f9a1d73a54f31bf7a7d7ff9c19290 model.rst:112
+#: ../../source/sbgn c93f5e19d7f34d789c3df9ea7a500cf5 model.rst:112
 msgid "Добавление параметров"
 msgstr ""
 
-#: ../../source/sbgn 8798abc6bc5d45eab33841a99fd0f7f2 model.rst:117
+#: ../../source/sbgn 6a7e7a0b106a43898fbebbc3ef24aa56 model.rst:117
 msgid "Рисунок 4. Добавление значений параметров"
 msgstr ""
 
-#: ../../source/sbgn ca6fa21b6c5445f89f8e0209f90c71be model.rst:119
+#: ../../source/sbgn d487774041af49f5b03676b5d18f60ea model.rst:119
 msgid ""
 "*Начальное значение для переменных* добавляется во вкладке "
 ":guilabel:`Entities` на вертикальной панели :guilabel:`Model` в столбце "
 "Initial value :ref:`(Рисунок 5) <Pic.5_2>`."
 msgstr ""
 
-#: ../../source/sbgn 119822c54eb64e539e602ff27e513c27 model.rst:124
+#: ../../source/sbgn fdc73b3651d84a76b5e6e916fa197c70 model.rst:124
 msgid "Добавление начальных значений для переменных"
 msgstr ""
 
-#: ../../source/sbgn bdfdfe0d3e3945e7a55d08d039fc4004 model.rst:129
+#: ../../source/sbgn a72b893511d34948a86387fb99b79e0b model.rst:129
 msgid "Рисунок 5. Добавление начальных значений для переменных"
 msgstr ""
 
-#: ../../source/sbgn 11ad0ee117934452ac0f92a38a1f85d0 model.rst:132
+#: ../../source/sbgn 18ec1a38e42842d6a5941c8042b7d3da model.rst:132
 msgid ""
 "Так как фермент не расходуется и не изменяется в ходе реакции (в отличие "
 "от субстрата), для переменной, соответствующей ферменту в столбце "
 "Constant ставится флаг."
 msgstr ""
 
-#: ../../source/sbgn b203de8eb536473cb18c17bf36856c10 model.rst:134
+#: ../../source/sbgn d5369f4c4da44010b9ded32b610c7097 model.rst:134
 msgid ""
 "7. Создайте :ref:`график <plot>`, отражающий результаты численного "
 "расчета модели. Для того, чтобы добавить переменную (переменные), "
@@ -266,37 +266,37 @@ msgid ""
 ":ref:`(Рисунок 6) <Pic.6_2>`."
 msgstr ""
 
-#: ../../source/sbgn 418902a5f4234bf9921d63c35a23126e model.rst:139
+#: ../../source/sbgn a904c9b0c56d446790b1e82b5432e2a0 model.rst:139
 msgid "Создание графика"
 msgstr ""
 
-#: ../../source/sbgn 3cb15655b31741ed83dc1b30efaf3af7 model.rst:144
+#: ../../source/sbgn 0e8f8b8a827843428de5b7851e74de91 model.rst:144
 msgid "Рисунок 6. Создание графика"
 msgstr ""
 
-#: ../../source/sbgn dfcbbb00df284c148ec644a165632fcb model.rst:146
+#: ../../source/sbgn 9eccf210f5ab45f78a0b7244fb4fc0c7 model.rst:146
 msgid ""
 "В *опциях графика* перейдите в |folder| [1] Plot и затем в |folder| "
 "Curves добавляются переменные. В |option| Title выберите нужную "
 "переменную из выпадающего списка :ref:`(Рисунок 7) <Pic.7_2>`."
 msgstr ""
 
-#: ../../source/sbgn ea6cc3b3dd234bc09fef11ea605d3c64 model.rst:151
+#: ../../source/sbgn 8edab585c6dd41329f219a6f13cb7e9c model.rst:151
 msgid "Добавление переменной на график"
 msgstr ""
 
-#: ../../source/sbgn ab1f05d7bce243afb1ef1ad78f5ce650 model.rst:156
+#: ../../source/sbgn 31bbd31c1b6147b0b334a3dcc53582fb model.rst:156
 msgid "Рисунок 7. Добавление переменной на график"
 msgstr ""
 
-#: ../../source/sbgn ead7407495324a0db4cad6d15a61443e model.rst:158
+#: ../../source/sbgn 0dd9e2d7e39d418caf35635c14d1d348 model.rst:158
 msgid ""
 "5. Запустите :ref:`численный расчет модели <simulation>`. Для этого в "
 "области поля операций на горизонтальной панели выберите вкладку "
 ":guilabel:`Simulation` и на вертикальной панели - :guilabel:`Engine`."
 msgstr ""
 
-#: ../../source/sbgn 7f00587417404223843c24e412012288 model.rst:161
+#: ../../source/sbgn 8c46a8120114459f88ac34bc16761f2b model.rst:161
 msgid ""
 "В поле |option| Selected engine выберите *инструмент для численных "
 "расчетов модели* -  ODE Simulation enпgine. В |folder| Java simulation "
@@ -306,15 +306,15 @@ msgid ""
 "поле |option| Completion time :ref:`(Рисунок 8) <Pic.8_2>`."
 msgstr ""
 
-#: ../../source/sbgn 81a391aac6754e75bf83c51b0439d1b0 model.rst:169
+#: ../../source/sbgn b1b2dc1b57724017a5d20dffb421eb48 model.rst:169
 msgid "Задание опций для численного расчета"
 msgstr ""
 
-#: ../../source/sbgn 7168ce1f10f142048ad69da0e32ede15 model.rst:174
+#: ../../source/sbgn d479296fab3849b2af2ed31529922b52 model.rst:174
 msgid "Рисунок 8. Задание опций для численного расчета"
 msgstr ""
 
-#: ../../source/sbgn 2b6b368bc260456f97406dab214a9ce8 model.rst:176
+#: ../../source/sbgn 76d28ee28a17467d8516be7b0a21ec58 model.rst:176
 msgid ""
 "Для того, чтобы *запустить симуляцию модели*, сначала сохраните выбранные"
 " опции для симуляции, путем нажатия на иконку |save|, расположенную в "
@@ -323,19 +323,19 @@ msgid ""
 "график результатов :ref:`(Рисунок 9) <Pic.9_2>`."
 msgstr ""
 
-#: ../../source/sbgn 277841d905ba4708b7eb257d05de2778 model.rst:11
+#: ../../source/sbgn a83294832ad4436287a7bc86a993f4aa model.rst:11
 msgid "save"
 msgstr ""
 
-#: ../../source/sbgn fdc42ca3e1ca41d2b294cddb4949689e model.rst:10
+#: ../../source/sbgn 5b1787b800354e90a802341dff27f3fc model.rst:10
 msgid "simulate"
 msgstr ""
 
-#: ../../source/sbgn 1d9a0cb71abe4fabbc677db06ffdfb85 model.rst:182
+#: ../../source/sbgn d66d51807ee44fc1a9b793b353ee241b model.rst:182
 msgid "График, отображающий изменение концентрации продукта реакции (S2)"
 msgstr ""
 
-#: ../../source/sbgn d3837aa5f2eb42e7805a1a37d07f329c model.rst:187
+#: ../../source/sbgn fc014b9e179648a58ca33d49bbff9e76 model.rst:187
 msgid ""
 "Рисунок 9. График, отображающий изменение концентрации продукта реакции "
 "(S2)"

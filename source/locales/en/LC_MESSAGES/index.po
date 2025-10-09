@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -55,11 +55,11 @@ msgstr ""
 msgid "Physicell"
 msgstr ""
 
-#: ../../source/index.rst:2 4b38b795db354af79a1410c6aa3c6d4b
+#: ../../source/index.rst:2 0e3e0f7b04604a66bca25de686b4c0e3
 msgid "BioUML platform"
 msgstr ""
 
-#: ../../source/index.rst:12 7ad948a569d4467c8348bbb829ace7d8
+#: ../../source/index.rst:12 bc3f9f32fad64f9aaba87ff913b594f0
 msgid ""
 "BioUML is an integrated platform for systems biology br and collaborative"
 " analysis of biomedical data"

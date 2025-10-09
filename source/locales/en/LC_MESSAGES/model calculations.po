@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,11 +19,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../source/model calculations.rst:2 dff9a10983a844ebaedaf014becc0ea2
+#: ../../source/model 760a7d0ed643402b987d9730006a177a calculations.rst:2
 msgid "Численный расчет модели"
 msgstr ""
 
-#: ../../source/model 922e1339ba4c459dab8c371d508697e2 calculations.rst:17
+#: ../../source/model 66202ba0d05d414fa71fee4eb07e1e54 calculations.rst:17
 msgid ""
 "Проведением численных расчетов в BioUML управляет **инструмент численного"
 " решения** (SimulationEngine). На основе содержания диаграммы, инструмент"
@@ -35,60 +35,60 @@ msgid ""
 "диаграмм используются разные инструменты численного решения."
 msgstr ""
 
-#: ../../source/model a30f1d9a6b3549e29f5d878de32c998f calculations.rst:26
+#: ../../source/model calculations.rst:26 ce3009a08c7347fcbabed51ebf85b890
 msgid ""
 "ПК BioUML поддерживает 6 основных типов **инструментов численного "
 "решения** динамики биологических систем:"
 msgstr ""
 
-#: ../../source/model 850607eec1f64903b259ba7104560fd7 calculations.rst:28
+#: ../../source/model 3ce3b04dfe674d1ea1fb7bd7205bad98 calculations.rst:28
 msgid ""
 "алгебро-дифференциальные уравнения (ОДУ) с дискретными событиями и "
 "задержкой по времени;"
 msgstr ""
 
-#: ../../source/model calculations.rst:29 cdef4a9c5dff438391fcb3e845804f84
+#: ../../source/model 8fb43293f707485e86164be0ea93d890 calculations.rst:29
 msgid "стохастические дифференциальные уравнения;"
 msgstr ""
 
-#: ../../source/model 77577667db7f46b0b9938c97a633d0e8 calculations.rst:30
+#: ../../source/model b29fc4924dad403b94e9833d85ca98ce calculations.rst:30
 msgid "стохастические модели;"
 msgstr ""
 
-#: ../../source/model 75ba8e0c7f0248c2ad176d0e0f7fb39f calculations.rst:31
+#: ../../source/model 24f91c1fe0bf470a9516b0a6975d331c calculations.rst:31
 msgid "анализ стационарных потоков (Flux Balance Analysis, или FBA);"
 msgstr ""
 
-#: ../../source/model 60e6cccc258f4173990036c4fd746e82 calculations.rst:32
+#: ../../source/model 821b17fd36c24f7cb7034c71161f49c0 calculations.rst:32
 msgid "моделирования кровотока в основных артериях и артериолах (гемодинамика);"
 msgstr ""
 
-#: ../../source/model 70d2f7136ff74a21a808a7fd6edf8026 calculations.rst:33
+#: ../../source/model b05353b3dd814ee4b914ef45496273be calculations.rst:33
 msgid "агентное моделирование."
 msgstr ""
 
-#: ../../source/model bb3f401072b34eeba35e0aa8b1298132 calculations.rst:35
+#: ../../source/model 6fa6e96f04e34b2d855327d290bb3557 calculations.rst:35
 msgid "Для **численного решения систем ОДУ** реализованы следующие решатели:"
 msgstr ""
 
-#: ../../source/model b6603da3d2a6459497ba320fb843d1a0 calculations.rst:37
+#: ../../source/model 34435011e49d467796413b0a1881328c calculations.rst:37
 msgid "Euler – классический метод Эйлера;"
 msgstr ""
 
-#: ../../source/model 0e01a7f0cdd74f2aaeefe6e9a91a7c50 calculations.rst:38
+#: ../../source/model 2d1c96ac189745b8ba6d80dbf351372a calculations.rst:38
 msgid ""
 "Dormand-Prince – классический численный решатель, использующий вложенные "
 "схемы Рунге-Кутты 4 и 5 порядка для контроля точности решения и "
 "автоматического управления длиной шага (Dormand, Prince, 1980);"
 msgstr ""
 
-#: ../../source/model 7ca9a27cb13d4c9dacd43f074a68ecfa calculations.rst:39
+#: ../../source/model c29531d4d7354df8b244e1787734cb5a calculations.rst:39
 msgid ""
 "Imex – метод, одновременно использующий явную и неявную схемы семейства "
 "Рунге-Кутты (Patterson, 2002);"
 msgstr ""
 
-#: ../../source/model 82f10cc19a06486c9926b0434892052d calculations.rst:40
+#: ../../source/model 445553a5028c44e4967c263d60371326 calculations.rst:40
 msgid ""
 "JVode – портированный на язык Java (Киселев, 2016) программный пакет "
 "CVODE (Cohen, Hindmarsh, 1996; Hindmarsh et al., 2005).  Он реализует "
@@ -96,13 +96,13 @@ msgid ""
 "Differential Formula);"
 msgstr ""
 
-#: ../../source/model 4974edff2bd749a4b5faa6c4b40f4d7a calculations.rst:41
+#: ../../source/model 1481e8c8aa52422cb47a7bb3b5fcb477 calculations.rst:41
 msgid ""
 "Radau5 – неявный метод Рунге-Кутта 5-го порядка для решения жестких задач"
 " (Hairer and Wanner, 1996)."
 msgstr ""
 
-#: ../../source/model 46595eb6917642e68023c294fed85ea4 calculations.rst:43
+#: ../../source/model calculations.rst:43 d0d86c7514594f0bae086664c795319d
 msgid ""
 "Для **решения алгебраических уравнений** используются методы Ньютона "
 "(Канторович, 1949), Левенберга-Марквардта (Levenberg, 1944; Marquardt, "
@@ -110,7 +110,7 @@ msgid ""
 "градиентов (Hestenes and Stiefel, 1952)."
 msgstr ""
 
-#: ../../source/model calculations.rst:47 edf9e33a21f24cdc89d584c2b2b63f2e
+#: ../../source/model 3c9307d241664af8abd1dbd9a2297dd5 calculations.rst:47
 msgid ""
 "Для учета задержки по времени автоматически определяется список "
 "необходимых переменных и для них хранится история на глубину максимальной"
@@ -118,13 +118,13 @@ msgid ""
 "линейной интерполяции и экстраполяции."
 msgstr ""
 
-#: ../../source/model 0f8509063e544dbdb94e926e4dfb59b0 calculations.rst:51
+#: ../../source/model 3394c969ae9548c0b68b1e9681c731d0 calculations.rst:51
 msgid ""
 "Для решения **стохастических дифференциальных уравнений** реализован "
 "метод Эйлера-Маруяма (Maruyama, 1955)."
 msgstr ""
 
-#: ../../source/model 9939a7fcd6cb4d90a45cc0aab98cbf0b calculations.rst:53
+#: ../../source/model 070e744022704532989250feaa124a77 calculations.rst:53
 msgid ""
 "**Стохастическое моделирование** – для того чтобы учесть случайные "
 "процессы, оказывающие влияние на динамику системы, применяются "
@@ -132,19 +132,19 @@ msgid ""
 "малое количество реагентов. В BioUML реализованы следующие методы:"
 msgstr ""
 
-#: ../../source/model 3d51ae5230344d01bcab76b50ef2c063 calculations.rst:57
+#: ../../source/model c06de7198df04001b748a35cf72ac9e5 calculations.rst:57
 msgid ""
 "Gillespie – классический алгоритм расчетов для стохастических моделей "
 "(Gillespie, 1977);"
 msgstr ""
 
-#: ../../source/model 97fd2986876e486dbb5365077d2e327b calculations.rst:58
+#: ../../source/model 261c7e5178fe4c96bedbe064d2e48dee calculations.rst:58
 msgid ""
 "Gibson-Bruck – алгоритм, который позволяет ускорить вычисления по "
 "сравнению с алгоритмом Gillespie (Gibson and Bruck, 2000);"
 msgstr ""
 
-#: ../../source/model 6af48c5ad77c4ab5bcb0c7d5b56e33c7 calculations.rst:59
+#: ../../source/model c20c955c71a947359ebf933a407533b3 calculations.rst:59
 msgid ""
 "Tau-leaping – приближенный алгоритм, вычисляющий сколько реакций "
 "произойдет за определенный интервал времени и выполняющий сразу несколько"
@@ -152,7 +152,7 @@ msgid ""
 "расчетов, но страдает от потери точности (Puchalka and Kierzek, 2004);"
 msgstr ""
 
-#: ../../source/model 060e779f3b65406b9eba067997adfe0f calculations.rst:60
+#: ../../source/model 60ed6dc95c5f4fa785bdc92b31500792 calculations.rst:60
 msgid ""
 "Maximal TimeStep – гибридный алгоритм, разделяющий реакции на медленные "
 "(задействующие малое количество молекул) и быстрые (задействующие большое"
@@ -161,7 +161,7 @@ msgid ""
 "алгоритмом Tau-leaping."
 msgstr ""
 
-#: ../../source/model 97f03509e6df4165a108086bdf7942e5 calculations.rst:62
+#: ../../source/model 160d33b974724543a8fa911a0845e56d calculations.rst:62
 msgid ""
 "**Анализ стационарных потоков** (Orth et al., 2010) использует методы "
 "линейного программирования для оценки потока, проходящего через "
@@ -172,14 +172,14 @@ msgid ""
 "границы, определяющие скорость реакции)."
 msgstr ""
 
-#: ../../source/model 24615671e9b84516922369748dcb6852 calculations.rst:64
+#: ../../source/model 3694b3353bd44e329db3a4beae11232a calculations.rst:64
 msgid ""
 "Для **моделирования кровотока** в основных артериях и артериолах "
 "реализован специальный численный решатель, подробно описанный Бибердорф и"
 " др., 2015."
 msgstr ""
 
-#: ../../source/model 3fc25fc29d59438fb97bc02bd1922daf calculations.rst:66
+#: ../../source/model calculations.rst:66 ef5be06544844bb0a89e58d87a9f6058
 msgid ""
 "**Агентное моделирование** используются для численных расчетов модульных "
 "моделей, когда алгоритм генерации плоской модели не может быть применен. "
@@ -195,19 +195,19 @@ msgid ""
 "произвольного типа в одну агентную модель."
 msgstr ""
 
-#: ../../source/model 0738dba0d6694868a3c7c9210260ac1e calculations.rst:77
+#: ../../source/model calculations.rst:77 f64fbf7c248c4ec1b251cbd5114e3ba5
 msgid "Концепция модуля"
 msgstr ""
 
-#: ../../source/model calculations.rst:82 d896f8f6897c4213a9add32d5613ecd2
+#: ../../source/model calculations.rst:82 dc916b5cdcb544128d4b52a97bfd930c
 msgid "Рисунок 1. Реализация агентного моделирования в BioUML (Киселев, 2016)"
 msgstr ""
 
-#: ../../source/model 32a13fb03b02416783f56c45932ae2cc calculations.rst:85
+#: ../../source/model calculations.rst:85 f77096377ee8412cae31aa39b9da05be
 msgid "Симуляция модели"
 msgstr ""
 
-#: ../../source/model a6f7996bcc5e4fecb06004257954da3e calculations.rst:87
+#: ../../source/model 03bd7c0d8e41426faf5e22c9ee03fd7e calculations.rst:87
 msgid ""
 "Для *выбора опций симуляции модели* перейдите в область :doc:`поля "
 "операций </user_interface>` и на горизонтальной панели выберите вкладку "
@@ -219,28 +219,28 @@ msgid ""
 "options."
 msgstr ""
 
-#: ../../source/model 08bfd88903cd4242aeb82f74b6e7c2df
-#: 25270156f15d42deb4c1e27091131a41 32104a59c6bb4ed1a44bd214278630b2
-#: 3ea2e1883fe44cdabfca80b76148226c 403109a7115142c4addb2f3273178031
-#: 4191e055139e4f1391c378b81459b2b8 5e2486c31e0e4720be40c1bdc6abfbc4
-#: 625c7d67d4d548f0b1b77d45572a2448 6bd3c66f58a3454c97df03928a3e9b1b
-#: 753ee24dd3fe49cdae3d42cc61bed53c 8d068b4db98242e49bfd579a731b2ba7
-#: b0ef334d73bd43ab9be022073671f70c bf1c5826f45145f491b1ca8f24672024
-#: calculations.rst:9 ebd6bb62e8ae4c92a19545a088862901
-#: f45b1979d36e4fdb990c9e23013d0aca
+#: ../../source/model 09fbe3dbdbdd45b4b2c3de195817d5d5
+#: 150e78251bd14d209e8089217d201510 3a1b0e323c8447ba92287ad67edfcca5
+#: 466f1da1c071472e94685b69165b7a27 49f132ff7e3b4934b9557f199997653d
+#: 56b29e52470445e19d16a18f77a79da4 58593a0404ab4e18a3fb8cf01af9f6ba
+#: 68be49d99e9f459eb6e61baffc851e34 7cd1d227b91449ce88c3e8ae957c1bc4
+#: 8845e0c64d694585a7a8444604eb9619 a115d296ca2a49baa70fbfffed00a465
+#: a531b59bc869420fba424d906b5637a6 aa8b60a5c0944f668279470517f0b2ff
+#: b1a8e45c88a344bb930b71a97e27dc98 calculations.rst:9
+#: eed14d3e9f6746c19e35c48c5640c7a1
 msgid "option"
 msgstr ""
 
-#: ../../source/model 175cb2856f3a4adb8385bcaf347f1b63
-#: 1c2b1887dc104c96a476c2c85a36d3ac 3c98b0087d91488795c7aed65fbadfd2
-#: 4faa0d01cd68465a9012c77c2c2b4229 57828030fec1441e865d04397128c52d
-#: 73e3777ca1ae4b318b13a8f24ecbf555 a8e0169c8ec64d13b3c311d9fe9c9c5d
-#: b4fcdf63b0b74fe8a83446e1a905d46a c2eed4393361431c82488d1718baa71b
-#: calculations.rst:7 e0c1c92de45a4fceae9707afe0e05169
+#: ../../source/model 1e510672b3e24f91999582025a18c3a1
+#: 5c0329c6b557416b9eec31b082041986 67eea93f3b02465ab65873fdde07c51c
+#: 7dd27bbbd9bc49e59136ca805a6983fe 93387582b44442f18e3153f4eb36fc48
+#: 95837f5ff3c84e598a7e207040506035 97bff2e22a4e40bda1ccb01fc723f78c
+#: 9bae312ed7a345bb84926c30cfae9328 aa9e79f00c6546d3ac58b0b56ccc7a1c
+#: ca318ae807ec42fe87f1490dc09da98f calculations.rst:7
 msgid "folder"
 msgstr ""
 
-#: ../../source/model 955572b50b9045ffb86baf08c657fe5c calculations.rst:93
+#: ../../source/model b72154d2837943729718da8cc677747d calculations.rst:93
 msgid ""
 "В настройках инструмента выберите *начальное время расчетов* в поле "
 "|option| Initial time, *шаг*, с которым будут сохраняться или выводиться "
@@ -248,7 +248,7 @@ msgid ""
 "время* в поле |option| Completion time."
 msgstr ""
 
-#: ../../source/model 6f06a03d18014d209e76addae969c995 calculations.rst:98
+#: ../../source/model 8c2173c16fe34e06b07b3862e6a0e6e1 calculations.rst:98
 msgid ""
 "Для того, чтобы *запустить симуляцию модели*, сначала *сохраните* "
 "выбранные опции для симуляции, путем нажатия на иконку |save|, "
@@ -257,20 +257,20 @@ msgid ""
 "будет отображен график результатов."
 msgstr ""
 
-#: ../../source/model 6211aa03a8434526a0da25f2e107f609 calculations.rst:6
+#: ../../source/model 5161f23c4d934562aeca425aa03658f9 calculations.rst:6
 msgid "save"
 msgstr ""
 
-#: ../../source/model 27901ce9cba44612a291525ee5435b58
-#: 48862822179a463dbfb4cf767ccf7c29 calculations.rst:5
+#: ../../source/model 4025ec9652cd41479095a927063fec14 calculations.rst:5
+#: cd27a54f23f24bd782624b46991f02cd
 msgid "simulate"
 msgstr ""
 
-#: ../../source/model a495d56cc7514012a9aa0fa9956750cf calculations.rst:104
+#: ../../source/model 81c2eb9964b04d118d9d1ad297778e45 calculations.rst:104
 msgid "Создание графика"
 msgstr ""
 
-#: ../../source/model 81b40a44095a4993990cfa2bdc1545c6 calculations.rst:106
+#: ../../source/model 9903fdfa3d424814ba6fbbfd4b3da850 calculations.rst:106
 msgid ""
 "Результаты численного расчета модели отображаются на **графике**. Опциям "
 "*изменения графика* соответствуют вертикальная вкладка :guilabel:`Plot`, "
@@ -281,141 +281,141 @@ msgid ""
 "*удаления графика*, нажмите кнопку :guilabel:`Remove`."
 msgstr ""
 
-#: ../../source/model 7c79424df76943ecb2ac07a70e1ef464 calculations.rst:113
+#: ../../source/model 59f53ab4b7b243c88273978221eaafde calculations.rst:113
 msgid ""
 "При нажатии кнопки :guilabel:`Remove` в |folder| Plots удаляется "
 "последний из списка график."
 msgstr ""
 
-#: ../../source/model 24bc816d6a7b45c78eff8724012423d0 calculations.rst:115
+#: ../../source/model calculations.rst:115 ebd27713edb34013b3ac34d3f2483382
 msgid "Опции для создания графика в BioUML"
 msgstr ""
 
-#: ../../source/model b8e79ddf411d4c55b4dca85598b00afe calculations.rst:120
+#: ../../source/model 4841c42feb5742fd9793749b61c4fe80 calculations.rst:120
 msgid "Рисунок 2. Опции для создания графика в BioUML"
 msgstr ""
 
-#: ../../source/model calculations.rst:122 d7f60a2e7d26458a8a3a9766a3b489b9
+#: ../../source/model c770756e170042cbbb5fc2d9574ecb21 calculations.rst:122
 msgid "|option| **Tittle** - название графика;"
 msgstr ""
 
-#: ../../source/model 1293225e74b9412a9d9243e1d4e8c277 calculations.rst:123
+#: ../../source/model 93ef2f7bfe3946f3a1778739a61fa404 calculations.rst:123
 msgid ""
 "|option| **Флаг Active** - при добавлении флага график будет выводиться "
 "при симуляции модели;"
 msgstr ""
 
-#: ../../source/model calculations.rst:124 fd6fe6db9a2d48beaa86beeeaa663e70
+#: ../../source/model 676db4bce8d64641830d57777e92c7ee calculations.rst:124
 msgid "|folder| **X axis info** - настройка свойств оси X;"
 msgstr ""
 
-#: ../../source/model 875367badc5446d097cd85cc14008824 calculations.rst:125
+#: ../../source/model c21c2c37b1804d4cb727a086dc3ea888 calculations.rst:125
 msgid "|folder| **Y axis info** - настройка свойств оси Y;"
 msgstr ""
 
-#: ../../source/model 72bbf02c25634a5b97bf4388e4480dd2 calculations.rst:126
+#: ../../source/model a7357be02ca24b349355f63c788f562c calculations.rst:126
 msgid "|folder| **X variable** - выбор данных для оси X;"
 msgstr ""
 
-#: ../../source/model 670161e2874d443ebdf99b25a2018b31 calculations.rst:127
+#: ../../source/model calculations.rst:127 e020888f9d694aa8b9383a93cd4b86a0
 msgid "|folder| **Сurves** - выбор данных для оси Y;"
 msgstr ""
 
-#: ../../source/model calculations.rst:128 f8422b0644c94e0e81f95f7fe6569075
+#: ../../source/model 53ef2492c59e424494c94fde5e738303 calculations.rst:128
 msgid "|folder| **Experiments** - ..."
 msgstr ""
 
-#: ../../source/model 4df0d550dc0348959a4954f11ccb67bb calculations.rst:130
+#: ../../source/model calculations.rst:130 ec00e2affe8447e7b74e3f815c128884
 msgid "**Настройка свойств оси X и Y** содержит одинаковые опции (Рисунок 3):"
 msgstr ""
 
-#: ../../source/model calculations.rst:132 f6c619d742d64ac4bae99af29fad28fa
+#: ../../source/model calculations.rst:132 e15da81e0dc64cf6972ca393bc9b0509
 msgid ""
 "|option| *Формат оси* (Axis type) - логарифмический (Logarithmic, Log 10)"
 " или числовой (Number) формат;"
 msgstr ""
 
-#: ../../source/model calculations.rst:133 d2d8502b28a84250a4d0e51e3d3af1ae
+#: ../../source/model 570bf57f4937496da967bbfac6688930 calculations.rst:133
 msgid "|option| *Название оси* (Axis title);"
 msgstr ""
 
-#: ../../source/model c197b9038ecd4b7b9b3f43a9594e144f calculations.rst:134
+#: ../../source/model be33b482bb084dadb5eb13a4bc2b979f calculations.rst:134
 msgid "|option| *Флаг автоматического задания диапазона оси* (Axis auto rangе);"
 msgstr ""
 
-#: ../../source/model 45950c120d1e47199d5d492abf9b15a6 calculations.rst:136
+#: ../../source/model 2106e13b4b74430baabb166ed569e712 calculations.rst:136
 msgid "Настройка свойств оси X и Y"
 msgstr ""
 
-#: ../../source/model 89859042d3504e769173737868d9dc8f calculations.rst:141
+#: ../../source/model 26af4d8a1fdc4b3891fe1684202d536c calculations.rst:141
 msgid "Рисунок 3. Настройка свойств оси X и Y"
 msgstr ""
 
-#: ../../source/model bf3cfac85c1a4a998cd94551c64bc13b calculations.rst:143
+#: ../../source/model 0ef2780ec4174318902caf19fce65b76 calculations.rst:143
 msgid ""
 "**Выбор данных для оси X и Y** содержит следующие одинаковые опции "
 "(Рисунок 4):"
 msgstr ""
 
-#: ../../source/model 429ff9088f974dae8c4cc6d437b869d0 calculations.rst:145
+#: ../../source/model 9c4dc2c9156042b49f1847e6cea5e2a5 calculations.rst:145
 msgid ""
 "|option| *Значение* (Value) - выбор переменной для оси X(Y) из "
 "выпадающего списка;"
 msgstr ""
 
-#: ../../source/model 04e4236dbf01425bac28fefc5351d226 calculations.rst:146
+#: ../../source/model bb19fdf4c68d49d886507d66c2f22291 calculations.rst:146
 msgid "|option| *Название* (Title);"
 msgstr ""
 
-#: ../../source/model 1045100d46e94df49f109a51ffad8afb calculations.rst:148
+#: ../../source/model 64992566a67e4636a7de07cd0b90910e calculations.rst:148
 msgid "Выбор данных для оси X"
 msgstr ""
 
-#: ../../source/model 7dbec4eb36d74ba19b34fbcab63fc177 calculations.rst:153
+#: ../../source/model 4b426e2ee44e4d03b516aac38c9a1c22 calculations.rst:153
 msgid "Рисунок 4. Выбор данных для оси X"
 msgstr ""
 
-#: ../../source/model 7b1ed8dc66c24c51b083f6952ed027b6 calculations.rst:155
+#: ../../source/model 5d3f1c5f9eba43e1aedf3fcbd5dd6ea0 calculations.rst:155
 msgid ""
 "Выбор данных для оси Y имеет дополнительную опциии - |folder| опции линии"
 " (Line spec) (Рисунок 5):"
 msgstr ""
 
-#: ../../source/model 5728d345eb8b42129a1814c4486e05fd calculations.rst:157
+#: ../../source/model calculations.rst:157 e420894e55b3457eb4d46c59ad2aa489
 msgid "|option| *Цвет линии* (Color);"
 msgstr ""
 
-#: ../../source/model 902f44aae6bc44dda62cc2d263405467 calculations.rst:158
+#: ../../source/model 89a4845b920443a0b0d3ca762bdc7974 calculations.rst:158
 msgid "|option| *Ширина линии* (Width);"
 msgstr ""
 
-#: ../../source/model calculations.rst:159 fc4ea07e7e9846f88c5ccb2208446ae9
+#: ../../source/model b0e13a995d7745129826c018335c24a2 calculations.rst:159
 msgid ""
 "|option| *Стиль линии* (Stroke) - Solid - сплошная линия ; Dashed - "
 "пунктирная линия; Dot - точечная линия; Dash-dot - штрихпунктирная линия."
 msgstr ""
 
-#: ../../source/model calculations.rst:161 fbb7cc3774824e589977a7ec66cce71a
+#: ../../source/model 41efe3c880ed4826858ee3c6e8f32e4b calculations.rst:161
 msgid "Выбор данных для оси Y"
 msgstr ""
 
-#: ../../source/model 8fc22d3e1db940c9a2788a4ca61ce3bd calculations.rst:166
+#: ../../source/model calculations.rst:166 fbdb1e6517db41a49359071740129a78
 msgid "Рисунок 5. Выбор данных для оси Y"
 msgstr ""
 
-#: ../../source/model 795866fd370949ba8ac53d4c01e37bd4 calculations.rst:168
+#: ../../source/model 3c45643109104425ba9baf3ad196af0d calculations.rst:168
 msgid ""
 "Чтобы добавить или удалить переменную, выводимую на график, нажмите на "
 "кнопку :guilabel:`Add` и :guilabel:`Remove`, соответственно."
 msgstr ""
 
-#: ../../source/model 45bb9cf4c5bf4f16b665b08008fe0542 calculations.rst:171
+#: ../../source/model 3b8050e700b941c1b84095ebfa9411e1 calculations.rst:171
 msgid ""
 "При нажатии кнопки :guilabel:`Remove` в |folder| Curves удаляется "
 "последняя из списка переменная."
 msgstr ""
 
-#: ../../source/model calculations.rst:173 e02f3d8d46c34f39acd33f5daf4dec50
+#: ../../source/model 174deb715a1549ea95e1a4b2ec48d28c calculations.rst:173
 msgid ""
 "Существуют еще один способ для того, чтобы *добавить результаты расчета* "
 "на график, перейдите во вкладку :guilabel:`Model` в :doc:`поле операций "
@@ -425,24 +425,24 @@ msgid ""
 " иконку |plot|."
 msgstr ""
 
-#: ../../source/model 29ad6040beee478498a88306e40f4af9
-#: 890802c15b4747aebe6e3932fef0c449 calculations.rst:8
+#: ../../source/model 84ce049269364fd7a4e236fa538d3b94 calculations.rst:8
+#: dc4ae5c350c5443ab2928d06d6d86528
 msgid "plot"
 msgstr ""
 
-#: ../../source/model 0ccb705bce604a82b304822e3058628f
-#: 68d46408848a4d49b1c2a4eaa14da50c calculations.rst:183 calculations.rst:192
+#: ../../source/model 876a6856ff3a4a088c0f5d76e5bd7823
+#: 906d96cad354476abbc29e9a7f007de7 calculations.rst:183 calculations.rst:192
 msgid "Документ симуляции модели"
 msgstr ""
 
-#: ../../source/model 9e4eaddba6414893be85dc346831671d calculations.rst:185
+#: ../../source/model 6f282c0df66249a6a33c742168def655 calculations.rst:185
 msgid ""
 "**Документ симуляции модели** позволяет изменять численные значения "
 "параметров и переменных и выводить результаты численных расчетов на "
 "графики."
 msgstr ""
 
-#: ../../source/model calculations.rst:187 fc281fdde4e54c9bbdf2de3f719fa399
+#: ../../source/model calculations.rst:187 fda4f26de69a48a3ad88cb3ebbeab967
 msgid ""
 "Для создания этого документа, нажмите правой кнопкой мыши на |diagram| "
 "диаграмму во вкладке :guilabel:`Data` области :doc:`репозитория "
@@ -450,47 +450,47 @@ msgid ""
 "открытии документа перейдите во вкладку :guilabel:`Simulation Editor`"
 msgstr ""
 
-#: ../../source/model 4a4891d11b244cbe9bde16c741202784 calculations.rst:15
+#: ../../source/model 65b717f9e6d44ccbb1cb8460ac4a5ea5 calculations.rst:15
 msgid "diagram"
 msgstr ""
 
-#: ../../source/model calculations.rst:197 db1a28d6fc8347a0ba27b238bb5a9a60
+#: ../../source/model 2ab4b3df239245678de08c7b1cd512af calculations.rst:197
 msgid "Рисунок 6. Документ симуляции модели"
 msgstr ""
 
-#: ../../source/model a887f1e797bf405aa1b3ecf1716e5a33 calculations.rst:199
+#: ../../source/model calculations.rst:199 e5ef5f47f4ab4c18a1e8d0c3422310bb
 msgid "Столбец Name содержит *идентификатор* переменной либо параметра;"
 msgstr ""
 
-#: ../../source/model calculations.rst:200 dbc87ecae5cf47bcbcca1bdbfb7aaa02
+#: ../../source/model 048bd146cfca4970a9a66fa096c13b5a calculations.rst:200
 msgid "В столбце Value устанавливается *численное значение*;"
 msgstr ""
 
-#: ../../source/model 88c207b2b3344995ab240eea33c49935 calculations.rst:201
+#: ../../source/model 059f21a9864e423199f13160e776ef9f calculations.rst:201
 msgid ""
 "В столбце Step устанавливается *шаг*, с которым меняется численное "
 "значение;"
 msgstr ""
 
-#: ../../source/model calculations.rst:202 cdcf06a3b14a4e9daa5e2cf1ffbe23a6
+#: ../../source/model afbf35fb3d334c1b90cde59e6708c056 calculations.rst:202
 msgid "Столбец DefaultValue содержит *численное значение, указанное в диаграмме*;"
 msgstr ""
 
-#: ../../source/model b9fd17002dba4446bc7c38efc7f6dd8e calculations.rst:203
+#: ../../source/model 8446baad70994ba891c5214a94d417df calculations.rst:203
 msgid "Столбец Title содержит *заголовок* переменной либо параметра;"
 msgstr ""
 
-#: ../../source/model 4b31548ad1a84d76a8d7ee32879c8e9b calculations.rst:204
+#: ../../source/model calculations.rst:204 ec5309b234a64a1693938b8886158ed7
 msgid "В столбец Type указан *тип математической переменной*."
 msgstr ""
 
-#: ../../source/model 92e4960192b542789d6499daf99bd19c calculations.rst:207
+#: ../../source/model calculations.rst:207 ea6b790431354f23aefac305864854e0
 msgid ""
 "При симуляции модели доступны **следуюшие опции**, расположенные в левой "
 "верхней части области поля операций:"
 msgstr ""
 
-#: ../../source/model calculations.rst:209 e392dc9be5d24cd381da7831b75883d5
+#: ../../source/model 90082b26325b4d2e908fe04ab983ef78 calculations.rst:209
 msgid ""
 "|detect_types| - сброс численного значения параметра/переменной до 0: "
 "нажмите на строку, cоответствующую выбранному параметру/переменной, либо "
@@ -498,58 +498,58 @@ msgid ""
 "нажмите на иконку операции;"
 msgstr ""
 
-#: ../../source/model calculations.rst:10 fb34eb90424542c3babcae900f1d64bd
+#: ../../source/model 456233ed326e4676b5c5c53b12223347 calculations.rst:10
 msgid "detect_types"
 msgstr ""
 
-#: ../../source/model 32bbe7741e574379a57472fdc023c6b5 calculations.rst:212
+#: ../../source/model b1a59e34aa6d46aa9a2f953c414a63ec calculations.rst:212
 msgid ""
 "|icon_plus| - увеличение численного значения параметра/переменной: "
 "нажмите на строку, cоответствующую выбранному параметру/переменной и "
 "затем нажмите на иконку операции;"
 msgstr ""
 
-#: ../../source/model 86783b8c07744a0da1864b02811b5061 calculations.rst:12
+#: ../../source/model b0e1da3e1c954937afe08bdc03a1f782 calculations.rst:12
 msgid "icon_plus"
 msgstr ""
 
-#: ../../source/model a8e85141bf5a48e197b974774f2d3fd8 calculations.rst:214
+#: ../../source/model 28f8189b254944bd9515da0a5c19236f calculations.rst:214
 msgid ""
 "|icon_minus| - уменьшение численного значения параметра/переменной: "
 "нажмите на строку, cоответствующую выбранному параметру/переменной и "
 "затем нажмите на иконку операции;"
 msgstr ""
 
-#: ../../source/model calculations.rst:11 e62b36d341f04184b8cc0c4775c930ff
+#: ../../source/model 46a76175d3654ac5a7b34a1aff241440 calculations.rst:11
 msgid "icon_minus"
 msgstr ""
 
-#: ../../source/model 6985d7e0c03447ddb2e13ff08552925e calculations.rst:216
+#: ../../source/model 2e629629293e4dbcb1a41bf0e6529fd0 calculations.rst:216
 msgid "|simulate| - симуляция модели;"
 msgstr ""
 
-#: ../../source/model 00cc5f683be0443196ca2bff46cf2f8f calculations.rst:218
+#: ../../source/model calculations.rst:218 e5fc172b615b401981c0e391a3366cc2
 msgid ""
 "|export| - сохранение измененных численных значений параметров/переменных"
 " в документе симуляции модели в текушую версию диаграммы;"
 msgstr ""
 
-#: ../../source/model a0b5081337ff4773bb88f37cf8915a73
-#: aeb54fe680af4ffabcb6b99d716911e6 calculations.rst:13
+#: ../../source/model a51baa7335114427b238d3935fbd1759
+#: a8919331def44746b0dd018202e07fa1 calculations.rst:13
 msgid "export"
 msgstr ""
 
-#: ../../source/model 26c57c2aa46948eca4afbef016c60785 calculations.rst:220
+#: ../../source/model 04bb5ddfe5234e8c84ccfbf7fbc439d5 calculations.rst:220
 msgid ""
 "|import| - загрузка численных значений параметров/переменных из текушей "
 "версию диаграммы;"
 msgstr ""
 
-#: ../../source/model bcc1dae3b8104637850e5347fb2b547a calculations.rst:14
+#: ../../source/model 09c4fd37a7ce4305bfcaddda966d4a51 calculations.rst:14
 msgid "import"
 msgstr ""
 
-#: ../../source/model 793bc5e828764c708a5ff9e13ceba5ec calculations.rst:223
+#: ../../source/model 6d0ff1621e31488ab977becd2bc8baab calculations.rst:223
 msgid ""
 "При нажатии на иконку |export| изменения, сделанные в документе симуляции"
 " сохранятся в диаграмме, вернуть предыдущую версию будет невозможно. "

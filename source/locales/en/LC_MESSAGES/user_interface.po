@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,23 +19,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../source/user_interface.rst:2 c7fc0e4350b648c69df122459814dbcc
+#: ../../source/user_interface.rst:2 859db77515484c49b46bcdc761206fb8
 msgid "Пользовательный интерфейс BioUML"
 msgstr ""
 
-#: ../../source/user_interface.rst:4 37d4d09d337844c8a5f20e1ec2300d61
+#: ../../source/user_interface.rst:4 9e606df58ad149a0b3ca6d125ea257c0
 msgid "Интерфейс BioUML состоит из следующих областей:"
 msgstr ""
 
-#: ../../source/user_interface.rst:6 c9f5bfa9366742fa80579e632fde72a2
+#: ../../source/user_interface.rst:6 4ddaa26e0d3f445b8ecea4e214bef86b
 msgid "BioUML web edition interface"
 msgstr ""
 
-#: ../../source/user_interface.rst:11 46c29005c03f440eab69e68a76536ec8
+#: ../../source/user_interface.rst:11 5e2923f0c16c46a2a5578e42a0f097b8
 msgid "Рисунок 1. Пользовательский интерфейс веб-версии BioUML"
 msgstr ""
 
-#: ../../source/user_interface.rst:14 f35fb43403014e988b57c70802a1cd48
+#: ../../source/user_interface.rst:14 2e910e962052426cb07747cd3e876ef2
 msgid ""
 "**A** - **Рабочее пространство** является основной частью окна и "
 "позволяет просматривать и обрабатывать содержимое проектов и баз данных. "
@@ -43,20 +43,20 @@ msgid ""
 "процессов, таблиц и т. д. открыто в рабочей среде в данный момент."
 msgstr ""
 
-#: ../../source/user_interface.rst:16 0c5e6c8657b54dc48cad85562b827eba
+#: ../../source/user_interface.rst:16 1816529932044a56b6b64a4a81191bba
 msgid ""
 "**B** - **Общая панель управления** (сверху от рабочей области) с "
 "контекстно-зависимым набором иконок для доступных операций."
 msgstr ""
 
-#: ../../source/user_interface.rst:18 42bbfd6d6d0248fdb8645b175ceb378d
+#: ../../source/user_interface.rst:18 50ed77a7c5144a71b0f1263292cc2d35
 msgid ""
 "**C** - **Панель инструментов репозитория** (слева от рабочей области), "
 "содержащая набор значков для доступных операций в зависимости от "
 "элемента, выбранного в древовидной структуре панели навигации."
 msgstr ""
 
-#: ../../source/user_interface.rst:20 5d9a533b94d945e786c57ff73fd5e10e
+#: ../../source/user_interface.rst:20 5c4d92cef6b342c8a790efbb0f36406b
 msgid ""
 "**D** - **Репозиторий** (под панелью инструментов репозитория) содержит "
 "коллекцию баз данных, загруженных файлов данных и доступных методов "
@@ -64,14 +64,14 @@ msgid ""
 "древовидную структуру."
 msgstr ""
 
-#: ../../source/user_interface.rst:22 0f9e94a55e3a4d4f9b854325f9f29fa4
+#: ../../source/user_interface.rst:22 4ef7e28c2c7f4eb19c57f8e4a26c09c9
 msgid ""
 "**E** - **Информационное окно** (в левой нижней части) дает информацию о "
 "файле или методе анализа, который вы выбираете одним щелчком мыши в "
 "репозитории."
 msgstr ""
 
-#: ../../source/user_interface.rst:24 687c50dc31054c43bafa41f7222cae04
+#: ../../source/user_interface.rst:24 73d4ce93c1984396bab1018fcfc68800
 msgid ""
 "**F** - **Поле операций** (правая нижняя часть) предоставляет ряд опций "
 "на разных вкладках в зависимости от типа данных, анализа и т.д."

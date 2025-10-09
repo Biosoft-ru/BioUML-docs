@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,11 +19,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../source/new 305d2402793e440686f8316c3de3eafe elements.rst:2 sbgn
+#: ../../source/new 5d4c48ced4db4d00b7a4211d019467a4 elements.rst:2 sbgn
 msgid "Расширенная нотация SBGN в BioUML"
 msgstr ""
 
-#: ../../source/new 32c2e89a03914f2cbb3f32228b6a4a2f elements.rst:14 sbgn
+#: ../../source/new d7a4e4d0e1404dfe9869cac9c0e68e82 elements.rst:14 sbgn
 msgid ""
 "SBGN нотация, используемая в BioUML, была расширена *дополнительными "
 "элементами* для полного представления моделей SBML. Графическая нотация "
@@ -34,7 +34,7 @@ msgid ""
 "т.п."
 msgstr ""
 
-#: ../../source/new 64dcea9b1e3f4fe3bc731c62b0e694cc elements.rst:17 sbgn
+#: ../../source/new dbff06ea8abf45e9b32c59ba109ea475 elements.rst:17 sbgn
 msgid ""
 "Дополнительной мотивацией для добавления новых элементов является тот "
 "факт, что существует множество математических объектов моделей "
@@ -42,27 +42,27 @@ msgid ""
 "представлены сетью биохимических реакций, а содержат набор уравнений ОДУ."
 msgstr ""
 
-#: ../../source/new abf01fcda50340d88b6db0201357fe54 elements.rst:98 sbgn
+#: ../../source/new elements.rst:98 f4bd4edf5833454bae409f4ccec0d961 sbgn
 msgid "Уравнения и зависимости"
 msgstr ""
 
-#: ../../source/new b3fa2f87fb2e4409a30baf372b651400 elements.rst:108 sbgn
+#: ../../source/new d8255073a49f4fb0ad1a87f4e3ea7a64 elements.rst:108 sbgn
 msgid ""
 "В BioUML была введена графическая нотация для **уравнений**, которые "
 "включают следуюшие типы :ref:`(Рисунок 1) <Pic.1_6>`:"
 msgstr ""
 
-#: ../../source/new 396d217d6f8645bc9d49f8f0fbbc205b
-#: dcf9404ccb4e45ef9cc54dc2b072e7ab e676a03e555d4813a8e1ba30ae3a0152
+#: ../../source/new 0638a62b1da146a2ae6b8ae97f9f6bc3
+#: 147adf76c9e44c64b14ab0a9a6fc91b0 5b174732ae1a4077aee3fdf34a3bde1b
 #: elements.rst:112 elements.rst:139 elements.rst:163 sbgn
 msgid "Уравнения"
 msgstr ""
 
-#: ../../source/new 0089710950074550816f5b99a5cb0a99 elements.rst:117 sbgn
+#: ../../source/new 10f58bc872d444b5a53aae36954c644f elements.rst:117 sbgn
 msgid "Рисунок 1. Элемент уравнений в BioUML"
 msgstr ""
 
-#: ../../source/new 25d1d06bd5bb48798a0373f1ab4328a9 elements.rst:119 sbgn
+#: ../../source/new 7553d9cf5f054a23acccaadbbac5518f elements.rst:119 sbgn
 msgid ""
 "**Обыкновенное дифференциальное уравнение** задает динамику некоторой "
 "переменной x зависимостью вида: |ode_equation| Вместе с начальными "
@@ -70,11 +70,11 @@ msgid ""
 "численно решена одним из методов, встроенных в BioUML."
 msgstr ""
 
-#: ../../source/new a16793bcee4645288928be6d56478d4d elements.rst:102 sbgn
+#: ../../source/new c1313a0c7d504bb3bbe42e42e5323492 elements.rst:102 sbgn
 msgid "ode_equation"
 msgstr ""
 
-#: ../../source/new 333e0033df4a469795156f8739a40b5b elements.rst:120 sbgn
+#: ../../source/new 126fc1a811af435bbc62143b03715135 elements.rst:120 sbgn
 msgid ""
 "**Алгебраическое уравнение** задает зависимости между переменными модели,"
 " которые должны быть выполнены в процессе расчета модели. В частности, "
@@ -83,11 +83,11 @@ msgid ""
 "алгебраических уравнений."
 msgstr ""
 
-#: ../../source/new 4697f2f1b2244d29b9b443594662fe44 elements.rst:100 sbgn
+#: ../../source/new b9157357b0b247a2beb6225ea4bbd56e elements.rst:100 sbgn
 msgid "alg_equation"
 msgstr ""
 
-#: ../../source/new 9d630f77a2244a84aaa94277e38e2068 elements.rst:121 sbgn
+#: ../../source/new 822ee866c5d648be936841efaf2d8a2f elements.rst:121 sbgn
 msgid ""
 "**Правило присваивания** напрямую выражают значения одних переменных "
 "через другие уравнениями вида: |assignment_equation| Присваивания делятся"
@@ -99,22 +99,22 @@ msgid ""
 " только о присваиваниях второго типа."
 msgstr ""
 
-#: ../../source/new d0b1bb2cc74e477992b3463065726bc2 elements.rst:104 sbgn
+#: ../../source/new 9336cf12c9544178ae4d50653846fcfe elements.rst:104 sbgn
 msgid "assignment_equation"
 msgstr ""
 
-#: ../../source/new c47ad7423b574640887babf84f5ead24 elements.rst:123 sbgn
+#: ../../source/new 543706ff859f465e8e9e53f95fa1f4c1 elements.rst:123 sbgn
 msgid ""
 "Для того, чтобы *создать уравнение*, нажмите на иконку |math_equation|, "
 "расположенную на :ref:`панели инструментов <panel>` и затем на диаграмму,"
 " где планируется разместить уравнение."
 msgstr ""
 
-#: ../../source/new ba00517816884a60a4767d57951a3883 elements.rst:106 sbgn
+#: ../../source/new d9eb185b05e64a479f5d56108fb21341 elements.rst:106 sbgn
 msgid "math_equation"
 msgstr ""
 
-#: ../../source/new cc65d618c07b424995020d461c135862 elements.rst:125 sbgn
+#: ../../source/new 79d557bcae9c4e65b183f8804117d24a elements.rst:125 sbgn
 msgid ""
 "После создания уравнения на диаграмме, нажмите на него правой кнопкой "
 "мыши и выберите |edit| Edit. В поле |option| Type выберите *тип "
@@ -126,22 +126,22 @@ msgid ""
 "зависимость. В поле |option| Equation вводится *формула*."
 msgstr ""
 
-#: ../../source/new 016ef066c39943928020580ddafa9349
-#: 0ee10c6cd34640f599c9fdc2865488c6 113e6798accc4e04be25c28d044df2c3
+#: ../../source/new 0a51c26fdc404b6da83aa4400ab83b53
+#: 291843fd939c4aceb13809bbeeaa94a0 2bb42879a6fb412e967ff579e5a51cbe
 #: elements.rst:12 sbgn
 msgid "edit"
 msgstr ""
 
-#: ../../source/new 272b24b9c0d14d309df4e96584817f42
-#: 27baee7966f146d88b0ff3a2b1bbed80 3ae45bfd36424d47919101e1005e2bd4
-#: 4eb35d388aa1426d88616436700f29d6 8db059f0599d4ba4a9784c00f65019e8
-#: ab838e98ac6e445ca8c4b511bf850838 acf82268bf814fa5928cfb2f5b7606db
-#: e66cd2a3741947618dd2100c41fe59aa elements.rst:11
-#: f12202dd50fb4d209cd7e736e2e713ef f7694b59ef404416b8e1b026d4e24271 sbgn
+#: ../../source/new 0c555b6aeac449f19aec501c2b6a217e
+#: 0dd5dbf342e9473ab6a1abf7141010eb 123095b7371f4037a50310776be6a0f6
+#: 2b6c9c46517749a6bc3332b1d83cf79b 2f6de902833f47f28e6c23238e783bf4
+#: 3fbaf04b5f1640fe8c7a09397137314f 3ffe24e9998c4a1e96e7cc1e716fdab3
+#: 4ed2f255da9e4ccfbce1b4f80230725d 92a216235ba6493184e42f2cf3e8c91d
+#: e13c08b6fd424c8da14b881eaa17cb24 elements.rst:11 sbgn
 msgid "option"
 msgstr ""
 
-#: ../../source/new cf7d3857996146f38fb0339a69763608 elements.rst:133 sbgn
+#: ../../source/new 97827bd6c0fe4a829c3e747b600d44f1 elements.rst:133 sbgn
 msgid ""
 "Добавленные уравнения отображаются в области :doc:`поля операций "
 "</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
@@ -152,28 +152,28 @@ msgid ""
 "добавить описание для уравнения в столбце Comment."
 msgstr ""
 
-#: ../../source/new 71eab7a26595496abb20950d3d1c67f0 elements.rst:144 sbgn
+#: ../../source/new adcf3bb55e304e06aa2e9b7fa37ab4e0 elements.rst:144 sbgn
 msgid "Рисунок 2. Вкладка Equations в поле операций"
 msgstr ""
 
-#: ../../source/new 0a6c5d0519634c8c911a65ae4b595e33 elements.rst:146 sbgn
+#: ../../source/new ca20ed5d66264f7a8cb27d18a4bdd14f elements.rst:146 sbgn
 msgid ""
 "**Зависимости** между уравнениями генерируются автоматически и описывают,"
 " как переменная, рассчитанная в одном уравнении, влияет на переменную, "
 "рассчитанную в другом уравнении. Существует три типа зависимостей:"
 msgstr ""
 
-#: ../../source/new a08fa4e0a48e4c959364d4e81242bf11 elements.rst:148 sbgn
+#: ../../source/new 6b1c388557ae458eb46f4bae489890b6 elements.rst:148 sbgn
 msgid "Зависимости"
 msgstr ""
 
-#: ../../source/new 190e6484d1264cdda9dae19eae71da37 elements.rst:153 sbgn
+#: ../../source/new 8e4efa61568c42a5b4c5fd4d7575e2bc elements.rst:153 sbgn
 msgid ""
 "Например, заданы два уравнения, где в 1-ом уравнении, переменная v2 "
 "влияет на значение переменной v1: v1 = f1(v2, ...) v2 = f2(x, y, z)"
 msgstr ""
 
-#: ../../source/new 57df7b499a624a879850198c9a0a1c92 elements.rst:157 sbgn
+#: ../../source/new 1a3dc3e8286e4d52ab3f688e5290c66b elements.rst:157 sbgn
 msgid ""
 "Тогда переменные v2 и в v1 связаны: -   положительной связью, если "
 "увеличение v2 вызывает увеличение v1; -   отрицательной связью, если "
@@ -182,19 +182,19 @@ msgid ""
 "заданных начальных значениях всей модели."
 msgstr ""
 
-#: ../../source/new ced9fce45b78467fa69c4d2a5140a73e elements.rst:168 sbgn
+#: ../../source/new 67dd7fbbe097483892c58341ff6a1c55 elements.rst:168 sbgn
 msgid ""
 "Рисунок 3. Модель артериальной системы, состоящей на основе уравнений и "
 "зависимостей между ними"
 msgstr ""
 
-#: ../../source/new 8adbbb894b8c4e98be3527ade75949b0
-#: 98a6f6cb5ba942c29ba5d4dd267bc323 dc2b50d46d474b8db3ea519ddf9181bd
+#: ../../source/new 91bddc1d948a46158a2104756a79d78d
+#: afca2bc4d157499aa374b90a56d6a8b1 c3712a124c694ebdaa27bc4c5e0ef998
 #: elements.rst:173 elements.rst:183 elements.rst:207 sbgn
 msgid "Событие"
 msgstr ""
 
-#: ../../source/new 2e9200279aaf45029491118c4cb80ceb elements.rst:177 sbgn
+#: ../../source/new 0dc02025dacb464f84242b538352e59e elements.rst:177 sbgn
 msgid ""
 "**Событие** заключается в скачкообразном изменении значений переменных "
 "модели при выполнении определенного условия (например, в определенный "
@@ -202,11 +202,11 @@ msgid ""
 ":ref:`(Рисунок 4) <Pic.4_6>`."
 msgstr ""
 
-#: ../../source/new ed9cbd535a524dddaa6354376a20d27e elements.rst:188 sbgn
+#: ../../source/new 11e74058bbf2413691dff8a0b060fa78 elements.rst:188 sbgn
 msgid "Рисунок 4. Элемент события в BioUML"
 msgstr ""
 
-#: ../../source/new 24b8e77d2c1f4197b794acc68d34fbaa elements.rst:190 sbgn
+#: ../../source/new 220f49f0c7494954a026b50c267dfd38 elements.rst:190 sbgn
 msgid ""
 "Чтобы *добавить событие* нажмите на иконку |event_icon|, расположенную на"
 " :ref:`панели инструментов <panel>` и затем на диаграмму, где планируется"
@@ -221,23 +221,23 @@ msgid ""
 "переменная, к которой будет применено событие и формула, соответственно."
 msgstr ""
 
-#: ../../source/new a435e89bd3184a0fbf221cd6b85819e2 elements.rst:175 sbgn
+#: ../../source/new elements.rst:175 fbea4dd4bc2b4f4fab54e22b9177387c sbgn
 msgid "event_icon"
 msgstr ""
 
-#: ../../source/new 0610297fcc364a24ab2c2ce3312a2674
-#: 12211699d0e8462fbdfe76f2e24858ac e17b1eb6975841cb945bc629702f7550
+#: ../../source/new 135911215dfe4724ac55410493461b75
+#: 989dac65e1d6494c9c003450414f442d d98340f7d8d24d41abc714c75daa9a3a
 #: elements.rst:10 sbgn
 msgid "folder"
 msgstr ""
 
-#: ../../source/new 71d6f25affc54e75818d0cf9c7fd7c59 elements.rst:200 sbgn
+#: ../../source/new 7bce46647e144969a50009c7172758e9 elements.rst:200 sbgn
 msgid ""
 "дополнить про индикаторы (Use trigger time values и др). примеры "
 "использования событий"
 msgstr ""
 
-#: ../../source/new 4f9ce30af4a04facb00407f6bec24bb3 elements.rst:202 sbgn
+#: ../../source/new d18aed81413a4b159ee197874d086fc2 elements.rst:202 sbgn
 msgid ""
 "Добавленные события отображаются в области :doc:`поля операций "
 "</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
@@ -245,27 +245,27 @@ msgid ""
 " :ref:`(Рисунок 5) <Pic.5_6>`."
 msgstr ""
 
-#: ../../source/new 18450e05d2ad46cbbe6ff43579a956ba elements.rst:212 sbgn
+#: ../../source/new a0c9e3fe80b744e9998ccc920d97ac3b elements.rst:212 sbgn
 msgid "Рисунок 5. Вкладка Events в поле операций"
 msgstr ""
 
-#: ../../source/new 28b0bbf49cd0442b817d9acd6d34438a
-#: 6f49d4ab7016495e9acd6b90680124df a25b7c545f3d45a9b1290d397fef79a1
+#: ../../source/new 3a239d4d513c4741ad95092a98c717f8
+#: 3f235d53dbb9480699b005357fb050d8 6e8bbbbf7cee4e8b8494d2b836dca9c7
 #: elements.rst:217 elements.rst:225 elements.rst:246 sbgn
 msgid "Функция"
 msgstr ""
 
-#: ../../source/new 1617bb183e894da0a98adddd610f46b3 elements.rst:221 sbgn
+#: ../../source/new 29343a59c7ef4292850e2d7d43a5d749 elements.rst:221 sbgn
 msgid ""
 "**Функция** может использоваться в уравнениях или реакциях модели "
 ":ref:`(Рисунок 6) <Pic.6_6>`."
 msgstr ""
 
-#: ../../source/new 0ccc739e609f4e6184735b473b1f00b5 elements.rst:230 sbgn
+#: ../../source/new 5bdc24bbd7f4428db45dd910b3c766f0 elements.rst:230 sbgn
 msgid "Рисунок 6. Элемент функции в BioUML"
 msgstr ""
 
-#: ../../source/new elements.rst:232 f4b269a863314e1a995231eac4c43a3c sbgn
+#: ../../source/new 63af36da47784e71b02549219122c1c1 elements.rst:232 sbgn
 msgid ""
 "Для *добавления функции* нажмите иконку |function_icon|, расположенную на"
 " :ref:`панели инструментов <panel>` и затем на диаграмму, где планируется"
@@ -278,17 +278,17 @@ msgid ""
 "a1, ... , an - *аргументы функции*."
 msgstr ""
 
-#: ../../source/new e4e802ab665f48d0a5ae266187f6d34d elements.rst:219 sbgn
+#: ../../source/new elements.rst:219 fbd00a3222b44668810198640e1bb0f7 sbgn
 msgid "function_icon"
 msgstr ""
 
-#: ../../source/new 8913789fe8ae44c49477a752f642f8bb elements.rst:239 sbgn
+#: ../../source/new 1f9ed2514f9e4056adec67181d3b5457 elements.rst:239 sbgn
 msgid ""
 "При использовании функции в уравнении или реакции пишется только левая "
 "часть функции, включающая ее название и аргументы."
 msgstr ""
 
-#: ../../source/new 07d8d2690a1a4b679d6b0975171db596 elements.rst:241 sbgn
+#: ../../source/new e43d74ab5cdf44fa8669cc1a5fc1ba41 elements.rst:241 sbgn
 msgid ""
 "Добавленные функции отображаются в области :doc:`поля операций "
 "</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
@@ -296,15 +296,15 @@ msgid ""
 ":guilabel:`Functions` :ref:`(Рисунок 7) <Pic.7_6>`."
 msgstr ""
 
-#: ../../source/new e1a9b529d58a4baf8ec03f4265883cfa elements.rst:251 sbgn
+#: ../../source/new 6198480a26424a5ca5083359e0ab5574 elements.rst:251 sbgn
 msgid "Рисунок 7. Вкладка Functions в поле операций"
 msgstr ""
 
-#: ../../source/new 85dbf4bb76904189b53d55911597cb2f elements.rst:256 sbgn
+#: ../../source/new 3a403b873e9d40adb10bf75b8f59aaa6 elements.rst:256 sbgn
 msgid "Ограничение"
 msgstr ""
 
-#: ../../source/new c22fbf8fe57342cea8f22f969980821c elements.rst:260 sbgn
+#: ../../source/new 6e2fc88307b642fa99dfa28e347d0a40 elements.rst:260 sbgn
 msgid ""
 "**Ограничение** - это условие, которое проверяется во время "
 "моделирования. Если условие нарушается, то либо выдается сообщение об "
@@ -312,30 +312,30 @@ msgid ""
 "симулятора :ref:`(Рисунок 8) <Pic.8_6>`."
 msgstr ""
 
-#: ../../source/new 0212d0778de34a9fa47b1af033641d60 elements.rst:266 sbgn
+#: ../../source/new 8395e1f0caa34cc1969732d7c8c5c650 elements.rst:266 sbgn
 msgid "Элемент ограничения в BioUML"
 msgstr ""
 
-#: ../../source/new d0d0a6fec5844f77ab9a56742d873e08 elements.rst:271 sbgn
+#: ../../source/new elements.rst:271 f178a7b86048480ea7624e3dafbe41ff sbgn
 msgid "Рисунок 8. Элемент ограничения в BioUML"
 msgstr ""
 
-#: ../../source/new 5e036959287c41ed9c7e1fdf60e9b1b5 elements.rst:273 sbgn
+#: ../../source/new b61b0f89b5814cd0a425b642359645d1 elements.rst:273 sbgn
 msgid ""
 "Для *добавления ограничения* нажмите иконку |math_сonstraint|, "
 "расположенную на :ref:`панели инструментов <panel>` и затем на диаграмму,"
 " где планируется разместить ограничение."
 msgstr ""
 
-#: ../../source/new 6d5259fcf02f4d35a8628ed0b3ba7d5e elements.rst:258 sbgn
+#: ../../source/new 11420a1aefca48af84e7f83978a2251d elements.rst:258 sbgn
 msgid "math_сonstraint"
 msgstr ""
 
-#: ../../source/new ec810a27bef64f05805b8d774788791e elements.rst:277 sbgn
+#: ../../source/new 0ab68e33ab2e4220a35cf9dab16d64f5 elements.rst:277 sbgn
 msgid "добавить описание для ограничений, их использование и опции."
 msgstr ""
 
-#: ../../source/new 9a77d7939fdb4137b387ec95a505999e elements.rst:279 sbgn
+#: ../../source/new c2dc4bad547449218e7472421e28c298 elements.rst:279 sbgn
 msgid ""
 "Добавленные ограничения отображаются в области :doc:`поля операций "
 "</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
@@ -343,30 +343,30 @@ msgid ""
 ":guilabel:`Сonstraints` :ref:`(Рисунок 9) <Pic.9_6>`."
 msgstr ""
 
-#: ../../source/new c8b42ef4a7f2425fb534c555bf8aa782 elements.rst:285 sbgn
+#: ../../source/new 9b108a5da9714e0b87e56e9e4a8ade08 elements.rst:285 sbgn
 msgid "Вкладка Сonstraints в поле операций"
 msgstr ""
 
-#: ../../source/new d404f71969cf46f9bb5a0b8322c2799b elements.rst:290 sbgn
+#: ../../source/new 739afcaaff554d1bb4f77d6cb53c1383 elements.rst:290 sbgn
 msgid "Рисунок 9. Вкладка Сonstraints в поле операций"
 msgstr ""
 
-#: ../../source/new c47561c1656e4b01801a7a55c4599bba elements.rst:295 sbgn
+#: ../../source/new 2df4850194ae4396be4a55eb71c611d3 elements.rst:295 sbgn
 msgid "Табличный элемент"
 msgstr ""
 
-#: ../../source/new de8b7e945dcf4e49bd8bf14a04e023f1 elements.rst:299 sbgn
+#: ../../source/new b174ef0f00734c5295f6dc6d76b7ba2d elements.rst:299 sbgn
 msgid ""
 "Чтобы *добавить табличный элемент* нажмите иконку |table|, расположенную "
 "на :ref:`панели инструментов <panel>` и затем на диаграмму, где "
 "планируется разместить таблицу."
 msgstr ""
 
-#: ../../source/new 40ad5bba5ecd44cfaa61da868ed7abf4 elements.rst:297 sbgn
+#: ../../source/new 8a215578b9f74884920790bca09a66f2 elements.rst:297 sbgn
 msgid "table"
 msgstr ""
 
-#: ../../source/new 12d114f03f5d427bb79a0ac19ef89fad elements.rst:302 sbgn
+#: ../../source/new afd3ced3213742239ef171afafe6b6d6 elements.rst:302 sbgn
 msgid "добавить описание для табличного элемента, их использование и опции."
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,16 +19,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../source/sbgn ab371415c50347b694c43503fdac64cf elements.rst:2
+#: ../../source/sbgn efd3fec4876b4698b7eb53a57ebd1452 elements.rst:2
 msgid "Элементы SBGN нотации в BioUML"
 msgstr ""
 
-#: ../../source/sbgn a5b0a2256fc148539b80dd7136b85e0f
-#: b4883848025742d6a46604c6e49b626d elements.rst:10 elements.rst:23
+#: ../../source/sbgn 64af3bf2d5224e3bbf74a52554ce4cf9
+#: 6da556baef194ce3a42024f8f318c3ac elements.rst:10 elements.rst:23
 msgid "Сущности"
 msgstr ""
 
-#: ../../source/sbgn 62b77f2ff81c4b81b8c9f9efa9808b82 elements.rst:15
+#: ../../source/sbgn d171d4a483974cfabb3a4f2ed334311c elements.rst:15
 msgid ""
 "**Сущности** - это элементы графической нотации SBGN, описывающие "
 "компоненты биологической системы, участвующие в процессах :ref:`(Рисунок "
@@ -36,28 +36,28 @@ msgid ""
 " разделяются на два класса:"
 msgstr ""
 
-#: ../../source/sbgn 0a8219e698c8448d97bb6206a536ce30 elements.rst:18
+#: ../../source/sbgn dbc288c68a59494d97a7f0b75cf66628 elements.rst:18
 msgid ""
 "**материальные**: макромолекула, простое химическое вещество, нуклеиновая"
 " кислота, неопределенная сущность, мультимер и комплекс;"
 msgstr ""
 
-#: ../../source/sbgn elements.rst:19 f9290e6c6cc54120b8a2f759825024e2
+#: ../../source/sbgn 4b19c816f2694d7a9b099d14c8e7733a elements.rst:19
 msgid "**концептуальные**: пустое множество и возмущающий агент."
 msgstr ""
 
-#: ../../source/sbgn ddff1f68df1e41a8bf8ec15f5bd275e5 elements.rst:28
+#: ../../source/sbgn e485b826864b47a6afca75caf7b09993 elements.rst:28
 msgid "Рисунок 1. Сущности SBGN нотации"
 msgstr ""
 
-#: ../../source/sbgn 4844b8ae3732454e9bfa1f277d469df5 elements.rst:98
+#: ../../source/sbgn 23856be7fb88425bb00a7d4ad0386a86 elements.rst:98
 msgid ""
 "Некоторые типы сущностей могут опционально содержать "
 ":ref:`вспомогательные единицы <units>`. При этом одной сущности может "
 "соответствовать несколько вспомогательных единиц."
 msgstr ""
 
-#: ../../source/sbgn 2e23bd08860b4a3fbe0700a33de2252f elements.rst:100
+#: ../../source/sbgn 6d8e781695ed403dae6c056e3e47c736 elements.rst:100
 msgid ""
 "**Макромолекула (macromolecule)**, **простое химическое вещество (simple "
 "chemical)**, **нуклеиновая кислота (nucleic acid feature)**, "
@@ -69,35 +69,35 @@ msgid ""
 " :ref:`(Рисунок 2) <Pic.2_5>`."
 msgstr ""
 
-#: ../../source/sbgn 0f3e5cfc7ed7412ca06304d17b79720f elements.rst:13
+#: ../../source/sbgn 982347ff8616408b9f59d840299dac3f elements.rst:13
 msgid "entity"
 msgstr ""
 
-#: ../../source/sbgn 09237cb4ea4b496c824d819a6cde7a81
-#: 202f7b0664a74297944717471d7ba84b elements.rst:5
+#: ../../source/sbgn 449549971f8944be9e4503df9fc36a0b
+#: 64855f6a79b24fc8bb637ee805e7850d elements.rst:5
 msgid "option"
 msgstr ""
 
-#: ../../source/sbgn a19ebc66d35f44aea44833c11778ace2 elements.rst:107
+#: ../../source/sbgn 2fa56574b598457c851117eb93d2eadf elements.rst:107
 msgid "Создание сущности в веб-версии BioUML"
 msgstr ""
 
-#: ../../source/sbgn dd3f1da2c18c4186923fa1a7221e7ecb elements.rst:112
+#: ../../source/sbgn elements.rst:112 f324e3d386b84c73ad7831456fc1a4e6
 msgid "Рисунок 2. Создание сущности в веб-версии BioUML"
 msgstr ""
 
-#: ../../source/sbgn 9de058f6785946df86f2198fe20a2e6b elements.rst:114
+#: ../../source/sbgn 230c163abf7b469997a0eb8c19d6d381 elements.rst:114
 msgid ""
 "**Комплекс** может быть создан также путем выбора иконки |complex| на "
 "панели инструментров. Для того, чтобы поместить в комплекс другие "
 "объекты, необходимо зажать их левой кнопкой мыши и поместить внутрь него."
 msgstr ""
 
-#: ../../source/sbgn 352fab54d03946b7bf7d91dcf8300707 elements.rst:12
+#: ../../source/sbgn a254628eb2fb40eb894b64bd520db27b elements.rst:12
 msgid "complex"
 msgstr ""
 
-#: ../../source/sbgn d14364e73fb241609e1fd594cff8000b elements.rst:116
+#: ../../source/sbgn elements.rst:116 f2b41ed18d994af795777b9112626e5b
 msgid ""
 "**Мультимер** создается засчет указания в поле |option| sbgn:multimer "
 "количества субъединиц, входяших в его состав. Мультимер можеть быть "
@@ -107,12 +107,12 @@ msgid ""
 "субъединиц в составе мультимера."
 msgstr ""
 
-#: ../../source/sbgn 1f526dcb7a61424390c047e3d8a66daa
-#: 63cd85f5a95445f7a7d39b94677e4586 elements.rst:122 elements.rst:130
+#: ../../source/sbgn 93a9073991194a1a88bd824c549f3c40
+#: d2ed6bf04b6e48fabe43a26ba26f7b97 elements.rst:122 elements.rst:130
 msgid "Компартмент"
 msgstr ""
 
-#: ../../source/sbgn 48dd987604044fcba58127c5c0196e27 elements.rst:126
+#: ../../source/sbgn 905d3fe8c32a4dd9af5c72ec62718a99 elements.rst:126
 msgid ""
 "**Компартмент** является отдельным элементом диаграммы, в составе "
 "которого могут находиться сущности :ref:`(Рисунок 3) <Pic.3_5>`. "
@@ -120,15 +120,15 @@ msgid ""
 "расположенную на панели инструментов."
 msgstr ""
 
-#: ../../source/sbgn 9f6f30492529472e81dcfff7de78b527 elements.rst:124
+#: ../../source/sbgn 4e0485cbe59c46868aba62338d9cb35d elements.rst:124
 msgid "compartment"
 msgstr ""
 
-#: ../../source/sbgn elements.rst:135 fce8404a1e564f8fa24db41d04b6eb9a
+#: ../../source/sbgn aa24b65abafc4d46bb563e22d76194bd elements.rst:135
 msgid "Рисунок 3. Компартмент"
 msgstr ""
 
-#: ../../source/sbgn 50fe8e33200e4b0a8ea95776da82f737 elements.rst:138
+#: ../../source/sbgn b679033a967d485cb7744316097b30dd elements.rst:138
 msgid ""
 "Отдельная сущность может принадлежать только одному компартменту. Таким "
 "образом, «одни и те же» биохимические компоненты, находящиеся в двух "
@@ -138,11 +138,11 @@ msgid ""
 "компартмента перед названием сущности. Например, $compartment.entity."
 msgstr ""
 
-#: ../../source/sbgn 3905c2f0431a4554be85b44e066e0b04 elements.rst:141
+#: ../../source/sbgn 5c6fb8efcfca453087e4b2abc1b65514 elements.rst:141
 msgid "SBGN диаграмма сигналинга IGF-1"
 msgstr ""
 
-#: ../../source/sbgn e72dcc776439475eb65b87ca0893cf2d elements.rst:146
+#: ../../source/sbgn 072f3c9a4da34cd3bcfb6c6da14fe29f elements.rst:146
 #, python-format
 msgid ""
 "Рисунок 4. `SBGN диаграмма сигналинга IGF-1 "
@@ -151,7 +151,7 @@ msgid ""
 " пространство (extracellular) и цитозоль (cytosol)"
 msgstr ""
 
-#: ../../source/sbgn 20c5b6c8c81c499fa63a45e64e8b01d7 elements.rst:148
+#: ../../source/sbgn 593ff7bd9fb64b87a01e4d7bcc6f32ba elements.rst:148
 msgid ""
 "Добавленные компартменты отображаются в :doc:`поля операций "
 "</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
@@ -164,20 +164,20 @@ msgid ""
 "*Units* из выпадающего списка выбирается единица измерения."
 msgstr ""
 
-#: ../../source/sbgn 39efb3d813cd40a38442913c5369765a elements.rst:157
+#: ../../source/sbgn elements.rst:157 fb67e928c0144670b4f653751c9a2e2a
 msgid "Вкладка Compartments в поле операций"
 msgstr ""
 
-#: ../../source/sbgn 2b6b2ac09cff4157b8886b95a7df2819 elements.rst:162
+#: ../../source/sbgn elements.rst:162 ff558f7edf814853b32cd0661517fff3
 msgid "Рисунок 5. Вкладка Compartments в поле операций"
 msgstr ""
 
-#: ../../source/sbgn 2f4a9a0bc80a443e969c69e74bba80f0
-#: 86a005bf53674b64b9250ffd0b56ef11 elements.rst:167 elements.rst:179
+#: ../../source/sbgn 5838a7e086fc469583b5de7a259f716e
+#: cb4a15a17a054056b9982d961deffcf4 elements.rst:167 elements.rst:179
 msgid "Вспомогательные единицы"
 msgstr ""
 
-#: ../../source/sbgn 8b4f8c4ad1f24f798c8e018f6388ae9e elements.rst:174
+#: ../../source/sbgn 22fb814d36b84b8197e9ab0f330b87dd elements.rst:174
 msgid ""
 "В BioUML доступны все типы **вспомогательных единиц**, описанной в "
 "нотации SBGN: единицы информации, переменные состояния и маркеры "
@@ -186,11 +186,11 @@ msgid ""
 "нескольких."
 msgstr ""
 
-#: ../../source/sbgn ba3c6f5aba274eaba2ed5f318e088379 elements.rst:184
+#: ../../source/sbgn bbc051c827bb41b2a53ee9445113326b elements.rst:184
 msgid "Рисунок 6. Вспомогательные единицы"
 msgstr ""
 
-#: ../../source/sbgn c56e49b1a13f435e8c255611a92efd6f elements.rst:186
+#: ../../source/sbgn 632b9c240e594d4db4ae9af34fc40067 elements.rst:186
 msgid ""
 "**Единица информации** используется для добавления дополнительной "
 "информации к сущности. Для определенных типов информации, нотация SBGN "
@@ -198,31 +198,31 @@ msgid ""
 " можно ознакомиться по ссылке (https://sbgn.github.io/)."
 msgstr ""
 
-#: ../../source/sbgn 94b891ea9a8d426586cf025b61b4df87 elements.rst:189
+#: ../../source/sbgn 05be13c9bbe642f7a96cd4150686100e elements.rst:189
 msgid ""
 "pt - физические характеристики, такие как температура (pc:T), pH (pc:pH) "
 "и др. Предполагается, что они будут использоваться для описания характера"
 " возмущающего воздействия агента или фенотипа."
 msgstr ""
 
-#: ../../source/sbgn 188efbf81a204535b408122c637ffe6f elements.rst:191
+#: ../../source/sbgn 12d4bfc74de34e06a33ef22e0c91f1af elements.rst:191
 msgid ""
 "mt - биологический тип сущности, такие как ДНК (mt:dna), РНК (mt:rna), "
 "ион (mt:ion) и др."
 msgstr ""
 
-#: ../../source/sbgn 2586746488f3441792b7c04a797062af elements.rst:192
+#: ../../source/sbgn a1548e2642874351bf556bb0966d263e elements.rst:192
 msgid ""
 "ct - концептуальные типы сущности, такие как ген (ct:gene), сайт "
 "транскрипции (ct:tss) и др."
 msgstr ""
 
-#: ../../source/sbgn 6daa9f54a3d94dbbad14fb1b2480435c
-#: 8a7e9cc623684dca886ebc22b62bb803 elements.rst:194 elements.rst:212
+#: ../../source/sbgn 377078dc0ba440798624980791dd45fd
+#: 4b6f1d8ed9ad4b5188b23c18805f5ea1 elements.rst:194 elements.rst:212
 msgid "Регуляция экспрессии гена"
 msgstr ""
 
-#: ../../source/sbgn 41ec023087bf433da4826801c925b015 elements.rst:199
+#: ../../source/sbgn bb10fe21a7eb42f89e0478e01ee832f4 elements.rst:199
 #, python-format
 msgid ""
 "Рисунок 7. Пример использования единиц информации при создании "
@@ -231,18 +231,18 @@ msgid ""
 "docs/Data/Gene%20expression%20regulation>`_"
 msgstr ""
 
-#: ../../source/sbgn 96b39933445843d08acfa5a05159b9a2 elements.rst:201
+#: ../../source/sbgn 39549a22c7384345af1f2b68d540863e elements.rst:201
 msgid ""
 "Для того, чтобы добавить вспомогательную единицу к сущности, нажмите на "
 "иконку |unit_of_information|, расположенную на :ref:`панели инструментов "
 "<panel>` и затем на выбранную сущность."
 msgstr ""
 
-#: ../../source/sbgn c9d40406308e44a2bb33c0a3b29d833d elements.rst:169
+#: ../../source/sbgn 7c53ae7b4e0541119f4f74dd90d3a1ae elements.rst:169
 msgid "unit_of_information"
 msgstr ""
 
-#: ../../source/sbgn 08fbd42f525a40d79567d8dcfc6702fd elements.rst:203
+#: ../../source/sbgn 5786996eed0343cabb9f8a238d238532 elements.rst:203
 msgid ""
 "**Переменные состояния** используются для описания изменения физического "
 "состояния биологического объекта. Обычно, переменная состояния строится "
@@ -256,25 +256,25 @@ msgid ""
 "имени, как например, при обозначении активной и неактивной формы белка."
 msgstr ""
 
-#: ../../source/sbgn 6d9b8c47a27c41df8c9cfd7f11fd6aa5 elements.rst:208
+#: ../../source/sbgn 7b766ad188ca46bba226f4a9367eb68c elements.rst:208
 msgid ""
 "Для некоторых переменных состояния, отображающих ковалентные модификации "
 "макромолекул, существуют определенные идентификаторы. Например, "
 "фосфорилирование (P), ацетилирование (Ac), метиилирование (Me) и др."
 msgstr ""
 
-#: ../../source/sbgn 0e0fc8bec95240f7b359c4e624cc99db elements.rst:210
+#: ../../source/sbgn 179c682467d842f2a8837f16edccfffa elements.rst:210
 msgid ""
 "Для того, чтобы добавить переменную состоянию к сущности, нажмите на "
 "иконку |variable|, расположенную на :ref:`панели инструментов <panel>` и "
 "затем на выбранную сущность."
 msgstr ""
 
-#: ../../source/sbgn db3b7c9f2371406f85ad9cd97dcdb092 elements.rst:170
+#: ../../source/sbgn ca59fd054de44593a133ef12d29e0567 elements.rst:170
 msgid "variable"
 msgstr ""
 
-#: ../../source/sbgn 1060634ebd204d0fb076f7491abfa2d9 elements.rst:217
+#: ../../source/sbgn 7108591af6f84cfca6dd4f3b8bb638b0 elements.rst:217
 msgid ""
 "Рисунок 8. Пример использования переменных состояния при создании "
 "`диаграммы, описывающей процесс фосфорилирования белка  "
@@ -282,13 +282,13 @@ msgid ""
 "docs/Data/Protein%20phosphorylation>`_"
 msgstr ""
 
-#: ../../source/sbgn 289997a133944c7abc3501c30cd928db elements.rst:219
+#: ../../source/sbgn beb4f3396afa4ce597ebc618acf7be78 elements.rst:219
 msgid ""
 "**Маркеры клонирования** используются при дублировании сущности на "
 "диаграмме."
 msgstr ""
 
-#: ../../source/sbgn 6b014b7017b34118b31b407081092901 elements.rst:221
+#: ../../source/sbgn ee79f1fcc10442c6a655d48754b474b9 elements.rst:221
 msgid ""
 "Для создания клона нажмите на сущность, которую хотите клонировать и "
 "затем на иконку |clone_node|, расположенную на :doc:`общей панели "
@@ -296,19 +296,19 @@ msgid ""
 "затем на иконку |merge_node|."
 msgstr ""
 
-#: ../../source/sbgn 51d1338f89544e5996df37fb8fcd928c elements.rst:171
+#: ../../source/sbgn 50afa41d162a40f7b566fe110123b569 elements.rst:171
 msgid "clone_node"
 msgstr ""
 
-#: ../../source/sbgn 20ac0c46dc11441086a1d2e2f88e9b5e elements.rst:172
+#: ../../source/sbgn 4b6929ce41cf42f8b5a7bc1af6822de9 elements.rst:172
 msgid "merge_node"
 msgstr ""
 
-#: ../../source/sbgn 93fc9d3055b9428caa45206eee9e4fd2 elements.rst:225
+#: ../../source/sbgn 87180d4fa4ac45498b691d8f02cf8155 elements.rst:225
 msgid "Гликолиз"
 msgstr ""
 
-#: ../../source/sbgn e4dd3415409a4f8a8bf42d4192736a07 elements.rst:230
+#: ../../source/sbgn elements.rst:230 fa8e289931b84e95af518c819119d491
 msgid ""
 "Рисунок 9. Пример использования маркеров клонирования при создании "
 "`диаграммы, описывающей процесс гликолиза "
@@ -317,13 +317,13 @@ msgid ""
 "поэтому оба идентифицируются с помощью клон-маркера."
 msgstr ""
 
-#: ../../source/sbgn 00af016453954720b8fedef5c29147c4
-#: 4f3c5f7e34e74f05a35877f519f83732 773438cb04ef43449f369baad428535d
-#: elements.rst:233 elements.rst:244 elements.rst:254
+#: ../../source/sbgn 3aaedf7596a449b4abbe0fb26eda1f20
+#: 6360994e641f420690aa1a42af576042 elements.rst:233 elements.rst:244
+#: elements.rst:254 f5b097c4ef7c44bda68d2597f039252c
 msgid "Заметка"
 msgstr ""
 
-#: ../../source/sbgn c99ff60c6a1e46698ff748f1fda58c73 elements.rst:238
+#: ../../source/sbgn 47f4702f5a7f4c5cb25858ab05145167 elements.rst:238
 msgid ""
 "**Заметка** используется для добавления дополнительной информации, "
 "например, детального описания молекулярных механизмов, отображенных на "
@@ -332,11 +332,11 @@ msgid ""
 "сущностью при помоши **ребра заметки**."
 msgstr ""
 
-#: ../../source/sbgn 69d61294b15147cba46e12313fb0b54f elements.rst:249
+#: ../../source/sbgn 764013b6e1c94f1b90943abf06c6f8de elements.rst:249
 msgid "Рисунок 10. Заметка"
 msgstr ""
 
-#: ../../source/sbgn 2dc80a4b60c74086b212af56ac5d6e06 elements.rst:251
+#: ../../source/sbgn 990b7417ac3743d9ae55406fd9b036b7 elements.rst:251
 msgid ""
 "Для того, чтобы создать заметку, нажмите на иконку |note|, расположенную "
 "на :ref:`панели инструментов <panel>`. Затем, вы можете связать ее с "
@@ -344,24 +344,24 @@ msgid ""
 "этим ребром сущность и аннотацию."
 msgstr ""
 
-#: ../../source/sbgn a9838bf5cc744de18109f7bffe742b3c elements.rst:235
+#: ../../source/sbgn af71a1e16a874402b7a86ec31ce8b403 elements.rst:235
 msgid "note"
 msgstr ""
 
-#: ../../source/sbgn 5898977459144fd9b9144033bb78e248 elements.rst:236
+#: ../../source/sbgn cf77ce643b3a412cae8b751af05188ea elements.rst:236
 msgid "note_link"
 msgstr ""
 
-#: ../../source/sbgn 7e125dff9b224028bd510f679a587b3a elements.rst:259
+#: ../../source/sbgn bd084f75e88a4acfa4e70feea25b778c elements.rst:259
 msgid "Рисунок 11. Пример использования заметки, связанной с сущностью."
 msgstr ""
 
-#: ../../source/sbgn 8fb0d2014f0b4fde91319853bff72dc9
-#: b84061fc55f6471cbbe6a3339109dba3 elements.rst:264 elements.rst:278
+#: ../../source/sbgn 3686b4962816428da32127684170c58b
+#: 8c418863e4194c08834657dacdb89789 elements.rst:264 elements.rst:278
 msgid "Процессы"
 msgstr ""
 
-#: ../../source/sbgn da341da3fb1d46868835b6ca03824230 elements.rst:266
+#: ../../source/sbgn 15b4ebf8674342959f5f07f46f5b1ca2 elements.rst:266
 msgid ""
 "**Процессы** преобразуют один или несколько пулов сущностей в один или "
 "несколько пулов сущностей, идентичных или разных. На диаграмме процессы "
@@ -370,14 +370,14 @@ msgid ""
 "процесса :ref:`(Рисунок 12) <Pic.12_5>`."
 msgstr ""
 
-#: ../../source/sbgn b55250cf76064080afc6b1139a697f42 elements.rst:270
+#: ../../source/sbgn 7b5940d073344a368c4e1ab25e1e65f0 elements.rst:270
 msgid ""
 "Создание реакций с использованием описанных элементов диаграммы будет "
 "обсуждаться в разделе :ref:`\"Визуальное моделирование процесса\" "
 "<process_creation>`."
 msgstr ""
 
-#: ../../source/sbgn b5ed30497d6f494d96f0ea9411a0d46c elements.rst:272
+#: ../../source/sbgn 40df30538d0d462a9323484a18f2879d elements.rst:272
 msgid ""
 "Согласно нотации SBGN существует один общий тип - *базовый процесс "
 "(process)*, а также пять типов специфических процессов: *пропущенный "
@@ -386,22 +386,22 @@ msgid ""
 "(phenotype)*."
 msgstr ""
 
-#: ../../source/sbgn 59df965311ac430092a398ff62d485d2 elements.rst:283
+#: ../../source/sbgn beaa1f2a2ea441089cc1b8a2a2beb19d elements.rst:283
 msgid "Рисунок 12. Процессы"
 msgstr ""
 
-#: ../../source/sbgn 9cb6b0c1b7b64359994b91f11e376b9e
-#: daa3680a7316452da851248cec227167 elements.rst:320 elements.rst:342
+#: ../../source/sbgn 410f8754e91e409c93f2c62e4c1a22c9 elements.rst:320
+#: elements.rst:342 fc7e3cd868f94fcd8b343d827182051a
 msgid "Ребра"
 msgstr ""
 
-#: ../../source/sbgn 0714f2e656b44686a5b036dde70f356d elements.rst:322
+#: ../../source/sbgn 89bdbd1408894235a6347de4ea9df100 elements.rst:322
 msgid ""
 "По нотации SBGN выделяется четыре типа ребер - *ребра потоков*, *ребра "
 "модуляции*, :ref:`логическое ребро <logical arc>` и *ребро аннотации*."
 msgstr ""
 
-#: ../../source/sbgn bd8cddb68971464dbdb29a88f16e72e8 elements.rst:324
+#: ../../source/sbgn 9958a2ecabf2407f9dfdda0d3bdb56f5 elements.rst:324
 msgid ""
 "*Ребра потоков* позволяют представить, какие пулы сущностей потребляются "
 "и производятся процессом. Ребра **потребления** связывают процессы с "
@@ -410,11 +410,11 @@ msgid ""
 "создаются автоматически."
 msgstr ""
 
-#: ../../source/sbgn 1322804ee6f5460e8bc5b6eba61418be elements.rst:329
+#: ../../source/sbgn 05838d4e79394f87bda59fe1021ddeb0 elements.rst:329
 msgid "Транслокация"
 msgstr ""
 
-#: ../../source/sbgn 0d8e1292327f4eb19a762881e8901483 elements.rst:334
+#: ../../source/sbgn 3109415d6bc34b5cb96faa7492bfb045 elements.rst:334
 msgid ""
 "Рисунок 13 `Диаграмма, описывающая транспорт иона Ca2+ "
 "<https://ict.biouml.org/bioumlweb/#de=data/Collaboration/BioUML-"
@@ -423,7 +423,7 @@ msgid ""
 "продукции."
 msgstr ""
 
-#: ../../source/sbgn d78641fe89f44d01a1c65a9ea61a7dec elements.rst:340
+#: ../../source/sbgn 1da574179c0a4a9fb60d663699e24288 elements.rst:340
 msgid ""
 "*Ребра модуляции* представляют собой влияние пулов сущностей на процессы."
 " Выделяется пять видов ребер: *модуляция*, *стимуляция*, *катализ*, "
@@ -431,11 +431,11 @@ msgid ""
 "<Pic.14_5>`."
 msgstr ""
 
-#: ../../source/sbgn 0731ef5cfd1e46a0a410ce398374efb5 elements.rst:347
+#: ../../source/sbgn c7e24228266942b69206fcc424fb401b elements.rst:347
 msgid "Рисунок 14. Ребра"
 msgstr ""
 
-#: ../../source/sbgn 1f444c274cbd4e2381a7bc94d993e75f elements.rst:349
+#: ../../source/sbgn 0f88efabf5d54d20829c3c5415f99cc7 elements.rst:349
 msgid ""
 "**Модуляция** используется, когда неизвестно точное направление процесса "
 "- положительное или отрицательное воздействие, которое может зависеть, "
@@ -446,11 +446,11 @@ msgid ""
 "чувствительность, не открывая его."
 msgstr ""
 
-#: ../../source/sbgn a20731966f7f4e9e95a9264d3e9a3a6c elements.rst:355
+#: ../../source/sbgn 3e95157e8e91459b90ad44980e68d708 elements.rst:355
 msgid "Модуляция"
 msgstr ""
 
-#: ../../source/sbgn e6541219a33d442796a831df8d5819dd elements.rst:360
+#: ../../source/sbgn 5c1d8489427c46fca0cb342f051bc4e0 elements.rst:360
 #, python-format
 msgid ""
 "Рисунок 15. `Диаграмма модуляции открытия никотиновых рецепторов "
@@ -458,7 +458,7 @@ msgid ""
 "/BioUML-docs/Data/Modulation%20of%20nicotinic%20receptor%20opening>`_"
 msgstr ""
 
-#: ../../source/sbgn 4bd489971d7c4be09ad42d94db928168 elements.rst:362
+#: ../../source/sbgn 41efe3df230646ebb46e59ca4af34a57 elements.rst:362
 msgid ""
 "**Стимуляция** положительно влияет на поток процесса, представленного "
 "целевым процессом. Эта стимуляция может представлять собой, например, "
@@ -466,11 +466,11 @@ msgid ""
 "существует независимо в SBGN нотации."
 msgstr ""
 
-#: ../../source/sbgn e636032059204e6e8449defafaa91887 elements.rst:364
+#: ../../source/sbgn 80308a086fdf4962839069b2d39b221e elements.rst:364
 msgid "Стимуляция"
 msgstr ""
 
-#: ../../source/sbgn 9aa5511fcb8646f3848d8a8df2ff0ed8 elements.rst:369
+#: ../../source/sbgn 7e18d51302b845e1ace6de21337929bd elements.rst:369
 #, python-format
 msgid ""
 "Рисунок 16. `Диаграмма противоположного влияния агонистов и обратных "
@@ -480,7 +480,7 @@ msgid ""
 " При создании реакций были использованы ребра стимуляции"
 msgstr ""
 
-#: ../../source/sbgn 5958ae9ffc7c4c72abde974e7b4ff7b1 elements.rst:371
+#: ../../source/sbgn 25c7bcb5c7124e3e8743d67da2a5ab19 elements.rst:371
 msgid ""
 "**Катализ** — это частный случай стимуляции, при котором эффектор "
 "положительно влияет на поток процесса, представленного целевым процессом."
@@ -488,11 +488,11 @@ msgid ""
 " реакции."
 msgstr ""
 
-#: ../../source/sbgn 622f6c893e9844f1b1b546daa85e199b elements.rst:373
+#: ../../source/sbgn 95f87a3eede14111aa604fe0adab52d6 elements.rst:373
 msgid "Катализ"
 msgstr ""
 
-#: ../../source/sbgn 31a6ea016e144f22bbb97a9a65538e88 elements.rst:378
+#: ../../source/sbgn 5e656ef881794b889a79fe4ce9afb9a9 elements.rst:378
 #, python-format
 msgid ""
 "Рисунок 17. `Диаграмма, отображающая процесс катализации фосфорилирования"
@@ -501,18 +501,18 @@ msgid ""
 "docs/Data/MAPKK%20kinase%20catalyzes%20MAPK%20phosphorylation>`_"
 msgstr ""
 
-#: ../../source/sbgn 9d15392cdf47451f801cd389899cc9ae elements.rst:380
+#: ../../source/sbgn 83282dad90ec425c8fdde75dc2c29729 elements.rst:380
 msgid ""
 "**Ингибирование** отрицательно влияет на поток процесса, представленного "
 "целевым процессом. Ингибирование может быть, например, конкурентным "
 "ингибированием или аллостерическим ингибированием."
 msgstr ""
 
-#: ../../source/sbgn 8445fbbb28cc4d3d9375701a4c47035d elements.rst:382
+#: ../../source/sbgn 471688ca01904339995a0cfb5d4df246 elements.rst:382
 msgid "Ингибирование"
 msgstr ""
 
-#: ../../source/sbgn 754ad081ea684cb3b06ca867a04561f8 elements.rst:387
+#: ../../source/sbgn 7557bb0d5306451ba096c019d7c5b823 elements.rst:387
 #, python-format
 msgid ""
 "Рисунок 18. `Диаграмма, отображающая процесс ингибирования превращения "
@@ -521,17 +521,17 @@ msgid ""
 "docs/Data/Protein%20inhibits%20the%20conversion%20of%20ATP%20to%20cAMP>`_"
 msgstr ""
 
-#: ../../source/sbgn 505dd0525d82426a9c7a39e38b5df62a elements.rst:389
+#: ../../source/sbgn b0f866caf5ee4965a034bc33694376f2 elements.rst:389
 msgid ""
 "**Необходимая стимуляция** – это стимуляция, необходимая для того, чтобы "
 "процесс состоялся."
 msgstr ""
 
-#: ../../source/sbgn 9e08b59bba54426491943475249d5ec4 elements.rst:391
+#: ../../source/sbgn 22c32a2390c5415ab798a6443a98b8f7 elements.rst:391
 msgid "Трансляция"
 msgstr ""
 
-#: ../../source/sbgn 6ec3928436724057b7e6ea70c363b869 elements.rst:396
+#: ../../source/sbgn a8cffc15f05646048a7439763d1ee378 elements.rst:396
 #, python-format
 msgid ""
 "Рисунок 19. `Диаграмма, отображающая транскрипцию гена и последующую "
@@ -540,35 +540,35 @@ msgid ""
 "docs/Data/Gene%20transcription%20and%20subsequent%20translation>`_"
 msgstr ""
 
-#: ../../source/sbgn 4a7b25d2d5a54e27a870e49fc56daedb
-#: 69568fb7c4014fc58f3fe810e2ade203 elements.rst:399 elements.rst:406
+#: ../../source/sbgn 540c2cb854184473af147c621ce402e4
+#: b3703e959c2e4b6d8072e7bd2507e8b6 elements.rst:399 elements.rst:406
 msgid "Логические операторы"
 msgstr ""
 
-#: ../../source/sbgn 03acb6151d964907adfc190078107551 elements.rst:401
+#: ../../source/sbgn 4e60b45f21d2478cad12e75c48352ec2 elements.rst:401
 msgid ""
 "*Логические операторы* обозначают механизм совместного действия пула или "
 "нескольких пулов сущностей. Выделяются три типа логических операторов: "
 "\"И\", \"ИЛИ\", \"НЕ\" :ref:`(Рисунок 20) <Pic.20_5>`."
 msgstr ""
 
-#: ../../source/sbgn 113ee1e814014371a5eff55552aa453e elements.rst:411
+#: ../../source/sbgn 9440de8d1eae4d9b9dcfa158e8a76d50 elements.rst:411
 msgid "Рисунок 20. Логические операторы"
 msgstr ""
 
-#: ../../source/sbgn b14b9766417e47b99513f3a0a06d32b1 elements.rst:414
+#: ../../source/sbgn 7bd3c5cd590242e9af8d2f3708a19051 elements.rst:414
 msgid ""
 "Добавление логических операторов в реакцию обсуждается в разделе "
 ":ref:`Визуальное моделирование реакций <logical_operator>`"
 msgstr ""
 
-#: ../../source/sbgn elements.rst:418 f9d987d1d8c6455181a2604754bb4802
+#: ../../source/sbgn 1079fff40125484cb79475627a0f4f57 elements.rst:418
 msgid ""
 "**Логическое ребро** создается автоматические при использовании "
 "логического оператора и соединяет пул сущностей и логический оператор."
 msgstr ""
 
-#: ../../source/sbgn 94a28d567ee940fa90b181ee737e048f elements.rst:420
+#: ../../source/sbgn 8954af33e5c54e48921c31d286d5558b elements.rst:420
 msgid ""
 "**Логический оператор \"И\"** используется для обозначения того, что все "
 "узлы, связанные как входные, необходимы для получения выходных данных. "
@@ -580,11 +580,11 @@ msgid ""
 "<Pic.21_5>`."
 msgstr ""
 
-#: ../../source/sbgn 01c67609896a4a40a471300195fdf12e elements.rst:426
+#: ../../source/sbgn 667a2f436e4e40e78725edcf2695273b elements.rst:426
 msgid "И"
 msgstr ""
 
-#: ../../source/sbgn 10765bd1ab024570ad1f7e360cb61cc6 elements.rst:431
+#: ../../source/sbgn 995fec21eec34a07822e0d049ba6e9ce elements.rst:431
 #, python-format
 msgid ""
 "Рисунок 21. `Пример использования логического оператора \"И\" "
@@ -592,7 +592,7 @@ msgid ""
 "docs/Data/Logical%20operator%20AND>`_"
 msgstr ""
 
-#: ../../source/sbgn 848c2a86d9904cb2aae49b82d34f9242 elements.rst:433
+#: ../../source/sbgn 7865d3a701394215aef76a567fd51a9b elements.rst:433
 msgid ""
 "**Логический оператор \"ИЛИ\"** используется для обозначения того, что "
 "любой узел, связанный как входной, достаточен для получения выходных "
@@ -602,11 +602,11 @@ msgid ""
 "<Pic.22_5>`."
 msgstr ""
 
-#: ../../source/sbgn aa350c6727f444efa33984a11699a92d elements.rst:439
+#: ../../source/sbgn d3c33f7fe1a24a63bf9d894b235cb726 elements.rst:439
 msgid "ИЛИ"
 msgstr ""
 
-#: ../../source/sbgn 3d97907a19734f9c9afce3e003c7e5d3 elements.rst:444
+#: ../../source/sbgn dbfaf58fcc5b4cf9bdee6865a5850871 elements.rst:444
 #, python-format
 msgid ""
 "Рисунок 22. `Пример использования логического оператора \"ИЛИ\" "
@@ -614,7 +614,7 @@ msgid ""
 "docs/Data/Logical%20operator%20OR>`_"
 msgstr ""
 
-#: ../../source/sbgn d6f806900147441e8e0b72f23c7f63a7 elements.rst:446
+#: ../../source/sbgn elements.rst:446 fde0e06184b94e65ae1c64cc1d9ac6c0
 msgid ""
 "**Логический оператор \"НЕ\"** используется для обозначения того, что "
 "выходные данные получаются только при отсутствии определенных входных "
@@ -622,11 +622,11 @@ msgid ""
 "не стимулируется белком p21 :ref:`(Рисунок 23) <Pic.23_5>`."
 msgstr ""
 
-#: ../../source/sbgn elements.rst:451 f7d66fd5fa9c49d381ae5b2ea8993a7b
+#: ../../source/sbgn a7d61afaa92d4ad98b82b52b913b3b8a elements.rst:451
 msgid "НЕ"
 msgstr ""
 
-#: ../../source/sbgn 8212acd1611545c3850912275a9f7831 elements.rst:456
+#: ../../source/sbgn 744103476ea244078bb19724ea7ce846 elements.rst:456
 #, python-format
 msgid ""
 "Рисунок 23. `Пример использования логического оператора \"НЕ\" "

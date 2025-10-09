@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,12 +19,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../source/working 803db6766f344b1f9cfe0fb7f885039b diagram elements.rst:2
+#: ../../source/working bb6db52286d24ede99a4c129390ed62a diagram elements.rst:2
 #: with
 msgid "Общие принципы работы с элементами диаграммы"
 msgstr ""
 
-#: ../../source/working diagram e3eb4a52acd1477bb0189b982562c616
+#: ../../source/working b5025368f5c64786a0917fce064b70b3 diagram
 #: elements.rst:12 with
 msgid ""
 "Для того, чтобы *создать новый элемент* на диаграмме, необходимо нажать "
@@ -34,17 +34,17 @@ msgid ""
 "планируете разместить новый элемент."
 msgstr ""
 
-#: ../../source/working diagram elements.rst:17
-#: fd4f4cbf2a024370a96a42aaf2104449 with
+#: ../../source/working diagram e52b8c90edd642a8a09a7a4d9e2aa025
+#: elements.rst:17 with
 msgid "Панель инструментов"
 msgstr ""
 
-#: ../../source/working ccee88f13dda49beb3e0a4337dc8eb2a diagram
+#: ../../source/working cc0cc6f99b7c494c83db9555e39920e9 diagram
 #: elements.rst:22 with
 msgid "Рисунок 1. Панель инструментов"
 msgstr ""
 
-#: ../../source/working 02904e8e33ad412b837d92be64f800ae diagram
+#: ../../source/working 651ed553225549a5a002d8c1042b416b diagram
 #: elements.rst:24 with
 msgid ""
 "При создании нового элемента в открывшемся окне можно редактировать "
@@ -53,21 +53,21 @@ msgid ""
 "соответственно."
 msgstr ""
 
-#: ../../source/working 0676f24c34d2402b8d0acb6551dc090d
-#: 0ab803fb3e5d4a52b95c940cda1b2471 2aa56dfa060d4e85b9325442c386cab6
-#: 6b486a0e5768458f90a9613b95f50923 diagram elements.rst:5 with
+#: ../../source/working 2635ce31d2aa4b3f80145099a01f33a6
+#: 499d4de6f95a4268940554f11d965416 50973066d6df4a9e86079d8326e9b3b4
+#: 573bbc38bd6c413c8b7fd5b6a9cf1202 diagram elements.rst:5 with
 msgid "option"
 msgstr ""
 
-#: ../../source/working 069c21209dbe49768a1aff9f054ada7b diagram
-#: elements.rst:29 with
+#: ../../source/working diagram elements.rst:29
+#: f152a86ccdcc424f8e4dd607e4e83932 with
 msgid ""
 "*Заголовок* будет отображаться на диаграмме и может не соответствовать "
 "идентификатору элемента. После того, как сущность создана, заголовок "
 "подлежит изменению, а *идентификатор* нет."
 msgstr ""
 
-#: ../../source/working 25a2b3aa50924b4f8eb404192cd64efc diagram
+#: ../../source/working 531f5b6632d34e0881b7e57592cdb046 diagram
 #: elements.rst:32 with
 msgid ""
 "Нажатие на отдельный узел диаграммы позволяет отобразить *информацию об "
@@ -77,7 +77,7 @@ msgid ""
 "веб-сайте, если таковая имеется."
 msgstr ""
 
-#: ../../source/working cb1c23af20b848c5a6e3a6b57df61520 diagram
+#: ../../source/working 389aa3db7b6142f382355369ec75d641 diagram
 #: elements.rst:37 with
 msgid ""
 "Нажав правой кнопкой мыши на созданный элемент на диаграмме, в "
@@ -89,49 +89,49 @@ msgid ""
 "чтобы *скопировать элемент*, нажмите кнопку |save_as| Copy."
 msgstr ""
 
-#: ../../source/working c38b6d562d484ff1adfebd98c8825336 diagram elements.rst:6
+#: ../../source/working diagram e345bfdbc91b4db1b08f980083aa3ccd elements.rst:6
 #: with
 msgid "edit"
 msgstr ""
 
-#: ../../source/working c0b68d7c38e045db9496c67d3951dba5 diagram elements.rst:9
+#: ../../source/working 416591867e714ee29cdc224183d6d471 diagram elements.rst:9
 #: with
 msgid "fix_node"
 msgstr ""
 
-#: ../../source/working 5b149019627447fa8bf7ddd8d19a6e9a diagram
+#: ../../source/working diagram e2c9323ee595420b8b4de0fd7baec9b4
 #: elements.rst:10 with
 msgid "unfix_node"
 msgstr ""
 
-#: ../../source/working 6c6b22ebf15a44f295f8e6928d7092e1 diagram elements.rst:8
+#: ../../source/working 810b1f0d5b8e458986515944648737bb diagram elements.rst:8
 #: with
 msgid "remove"
 msgstr ""
 
-#: ../../source/working deef345380644d5d9a34bcc72e5d14a4 diagram elements.rst:7
+#: ../../source/working diagram ee5605817f894408837e3d15042c891a elements.rst:7
 #: with
 msgid "save_as"
 msgstr ""
 
-#: ../../source/working 2f80c09c37e74a13b32ac5a4590ffaa8 diagram
+#: ../../source/working 38fe1a57f0c444b3b77cd2812b2c2267 diagram
 #: elements.rst:44 with
 msgid ""
 "Скопированный элемент диаграммы будет иметь тот же заголовок и название с"
 " добавлением суффикса \"_1\"."
 msgstr ""
 
-#: ../../source/working b80996980ab54b0ea703df48963e0e16 diagram
+#: ../../source/working 4e31d0ea113b41c59b210cf982862d11 diagram
 #: elements.rst:55 with
 msgid "Опции элемента диаграммы"
 msgstr ""
 
-#: ../../source/working b24ce1e3782c479b817442f83fda1b3d diagram
+#: ../../source/working b8053e03d9ce4320bc7ff30a391b5020 diagram
 #: elements.rst:60 with
 msgid "Рисунок 2. Опции элемента диаграммы"
 msgstr ""
 
-#: ../../source/working 933951e99f9648afbfe58855734eb9db diagram
+#: ../../source/working 0a2df50ef7f74e63a0233c39126a91ee diagram
 #: elements.rst:62 with
 msgid ""
 "*Месторасположение элементов* на диаграмме можно изменять посредством "
@@ -139,8 +139,8 @@ msgid ""
 "полотне."
 msgstr ""
 
-#: ../../source/working diagram elements.rst:64
-#: fc9ce3b5b78046808885dcecb929caf1 with
+#: ../../source/working 839f16c669094150a1b87c5a17a2a4db diagram
+#: elements.rst:64 with
 msgid ""
 "У созданного элемента на диаграмме, представленного в виде геометрической"
 " фигуры, можно *изменить размер* засчет его выделения и "

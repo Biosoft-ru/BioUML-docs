@@ -51,7 +51,7 @@ simplepdf_vars = {
 # -- Internationalization ----------------------------------------------------
 
 locale_dirs = ['locales/']  # path is example but recommended.
-gettext_compact = False     # optional.
+gettext_compact = True     # optional.
 gettext_uuid = True
 
 # -- Options for HTML output -------------------------------------------------
