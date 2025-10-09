@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:4
+#: 06ac58a3df2e47079e0fdef17f1b5b79
+msgid "float, double"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:61
+#: 18f6838e913049b39ac03b9574f68cb7
+msgid ""
+"Оба этих типа данных являются примитивными и описывают числа с плавающей "
+"точкой с разной точностью. В таблице ниже приведено их сравнение."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:63
+#: 568dd85f9a9e451691c2979b9891515d
+msgid "Сравнение типов данных float и double"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:66
+#: 3b367871996f4044aef530169c4e37ae
+msgid "Тип данных"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:67
+#: 3c621f2a7a694897813ff922a7bf0a0e
+msgid "Точночть"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:68
+#: 9da61ccff7e74d3dac18859f51592054
+msgid "Размер, байт"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:69
+#: de31659a7f65465b96abead2f646cbf0
+msgid "Пример"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:71
+#: 455c235d8ac04f68833bbf4b44806e28
+msgid "float"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:72
+#: a1392d3e54a2492c8b84c5f243a9c105
+msgid "Одинарная точность"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:73
+#: 7ba92d621ff6444b97d207dbf67db6b9
+msgid "4"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:74
+#: a77f5f5a9d3e4d12bc05c84e0d54c75f
+msgid "float f = 3.14f"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:75
+#: 94699dbe9714497eb49a691067f7b210
+msgid "double"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:76
+#: 1fc72e73684f4052a77c820942bb46d5
+msgid "Двойная точность"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:77
+#: b9fb68e252a6424dbc4a68bc18e98bef
+msgid "8"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:78
+#: 1348f85e002842238ffed4afb6e7e39b
+msgid "double d = 19.99"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:81
+#: 5a6bba70642f4f16bfbaa373d4184e0f
+msgid ""
+"При указании типа данных float в конце числа ставится знак \"f\" или "
+"\"F\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:83
+#: c207d757295c4911887c824e90d100b9
+msgid ""
+"Чаще всего для описания числа с плавающей точкой используется тип данных "
+"double."
+msgstr ""
+

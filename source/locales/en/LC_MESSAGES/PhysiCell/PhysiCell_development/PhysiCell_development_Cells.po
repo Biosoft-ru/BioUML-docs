@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:4
+#: 4a18cbdc618e4262aea5a8fcf8f24c73
+msgid "Создание типа клеток"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:12
+#: 5c27855aff77456abba8b58a04b9fe57
+msgid ""
+"Клетки в модели - это не всегда биологические клетки, а просто "
+"действующие в среде агенты."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:14
+#: c34d74ab34054c48bb357404edb0e069
+msgid ""
+"Чтобы добавить в модель тип клеток нужно на верхней панели нажать ЛКМ на "
+"|icon_cell_definition|, а затем нажать ЛКМ в любое место под панелью "
+"инструментов."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:9
+#: ba1ae411078b4c6592a3afdff9810056
+msgid "icon_cell_definition"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:16
+#: 6c1b236ca7ed4675b0e14e025dac0438
+msgid "Cell_creation"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:21
+#: 536167518f624f748f83de1c01322705
+msgid ""
+":raw-html:`<br>` После этого в появившемся окне необходимо задать "
+"параметры создаваемого типа клеток:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:24
+#: 537cc1c59b104bd28424189f683e92ee
+msgid "Cell_parameters"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:29
+#: f898f06120094e9db7832a7da74a5c56
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:31
+#: da710156532a44b39cfa765cdab16c9e
+msgid "**Name**: название типа клеток,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:32
+#: 4d552082b5cd4810b8c2c263bed01ea0
+msgid "**Initial number**: исходное количество клеток данного типа,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:33
+#: 59bee02dedfb442089e3369d7c4b7d08
+msgid ""
+"**Color**: цвет, с помощью которого клетки данного типа будут "
+"отображаться при симуляции модели,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:34
+#: c334e7e6300a494286cd2226d24c2e0f
+msgid ""
+"**Gradient**: отметьте ☑, если необходимо применить градиент к выбранному"
+" цвету,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:35
+#: c4301dc2801041e19f1e25cd1d936fcd
+msgid "**Comment**: можете оставить любые комментарии для клеток данного типа."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:38
+#: e2738c3966fd450b929bdf2b5409e6d0
+msgid ""
+"При указании цвета в данном окне будет считаться, что все внутреннее "
+"содержимое клеток данного типа будет иметь выбранный цвет, контур клеток "
+"будет черным, а ядро отрисовываться не будет."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:40
+#: b6b67a2a788c4675a51aea313d0af7cd
+msgid ""
+"Для более детальной настройки цвета следует воспользоваться вкладкой "
+":ref:`Visualizer <PhysiCell_microenvironment_Visualizer>` или полем "
+"Custom Visualizer во вкладке :ref:`Model Report "
+"<Physicell_microenvironment_Model_Report>`."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:42
+#: 2dbc27775aab4890acded1bef30f336b
+msgid "После того, как заданы все параметры, нажмите **Ok**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:44
+#: ab07d20656ea4084bd3c920ac4e6dfa7
+msgid "На экране у вас появится обозначение созданного вами типа клеток."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:46
+#: 0490c774bfad45659a25e3c20d831eaf
+msgid "Cells"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:51
+#: 5a1facd70068416e8aa1a5e92da490c1
+msgid ""
+":raw-html:`<br>` Таким образом можно создавать любое количество типов "
+"клеток в модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:54
+#: 1f6af6b1e1ef49fcbe3ebe14ec5a5bef
+msgid ""
+"Чтобы переместить тип клеток на диаграмме, необходимо зажать его ЛКМ, "
+"переместить курсор на новое место и отпустить ЛКМ."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:56
+#: 741ba99984af4c4aaa94a74336da2262
+msgid ""
+"Чтобы удалить тип клеток из модели, необходимо нажать на него ЛКМ и "
+"нажать клавишу **Delete**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:58
+#: 1e6ebd42d09f4331a9297c93927ecf9d
+msgid "Чтобы редактировать уже созданный тип клеток, нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:60
+#: b35ef0e8a23143cfb0b873086ba7759b
+msgid "Нажать ПКМ на обозначение соответствующего типа клеток на диаграмме."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:61
+#: d705e9f8467846d7a287d736c7c9b0d8
+msgid "В раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:62
+#: 6dc55d887be34f5b9307fd6c27af0472
+msgid "Изменить нужные свойства."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:63
+#: 7b8556f8774d4c338ce90df71c42c5e2
+msgid "Нажать **Ok**."
+msgstr ""
+

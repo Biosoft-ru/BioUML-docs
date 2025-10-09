@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:4
+#: 89bec28645484edda96be7e8a04af0ac
+msgid "Работа с результатами симуляции модели"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:9
+#: 9460eae3407040af98b5ecb010a33ba9
+msgid "Чтобы более детально изучить результат симуляции модели, нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:11
+#: ac1910eb581944d48f35bff514617a0c
+msgid ""
+"Нажать ПКМ на папку с результатом симуляции (та, в которой находятся "
+"файлы info.txt, log.txt и model.txt)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:12
+#: 06c45c3cc3b04f6d8c411a551f38b9a6
+msgid "В раскрывающемся списке нажать ЛКМ на **Open physicell result**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:15
+#: 6c4d5af87c3643a7b20498d5c379c27b
+msgid ""
+"Проверьте, что при запуске симуляции опция **Save cells data** была "
+"включена, иначе не получится открыть результат симуляции через **Open "
+"physicell result**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:17
+#: 5fa3490bc67046cca586d47b3778c12c
+msgid "Open_physicell_result"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:22
+#: 17a5c858e17c44bbaa154737cdfec50d
+msgid ""
+":raw-html:`<br>` После этого в правой верхней части экрана появится "
+"изображение вашей модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:25
+#: c5f9e2fd8bb2468fb19923c15a84521b
+msgid "Opened_physicell_result"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:30
+#: 598cc0d9f3e84a2285f5d15e7f5089c1
+msgid ""
+":raw-html:`<br>` На ней обозначены клетки, оси, а также модельное время, "
+"количество клеток и срез по оси Z."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:34
+#: 80766e857f4a4326aefc055f0afcdb37
+msgid "Model_visualization"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:39
+#: f50b065e67b244f0b53c311f3f0fb9c8
+msgid ""
+":raw-html:`<br>` Чтобы просмотреть, как модель изменялась в процессе "
+"симуляции, нужно нажать ЛКМ на вкладку **Options**, которая расположена "
+"снизу."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:42
+#: 4c96172d38514e75b3fe70c859cfa20b
+msgid "Options_tab"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:47
+#: 5bbd359f613f41c59a88221d7f4e8d87
+msgid ""
+":raw-html:`<br>` После этого в правой нижней части экрана появится меню, "
+"в котором можно настраивать просмотр симуляции модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:50
+#: 81d5eaaa0759432f920bab14958d227a
+msgid "Options_menu"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:55
+#: 61631670aa29484990e3e164c931e50a
+msgid ":raw-html:`<br>` В этом меню можно выделить 2 части:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:58
+#: af0ad5dd784042f0ac80a8237fe160b0
+msgid "Кнопки для просмотра симуляции (А),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:59
+#: 30a8d8689ebc47798108c5b3f8ca7345
+msgid "Параметры настройки просмотра симуляции (Б)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:61
+#: 9fc7da3ab3d349639a0fdb92823808c9
+msgid "Parts_of_the_options_menu"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:66
+#: 94f72633ea154cb98db0f77541d8920f
+msgid ":raw-html:`<br>` Далее разберем каждую из этих частей подробнее."
+msgstr ""
+

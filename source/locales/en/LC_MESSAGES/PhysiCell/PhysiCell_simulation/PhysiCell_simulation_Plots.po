@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:4
+#: 30f5572f5ea3499aab544697ae1e68ee
+msgid "Добавление переменных для вывода на график (Plots)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:12
+#: 049ff999b6124538a0ee1198bc588b77
+msgid ""
+"При переключении на вкладку Plots в области редактирования можно добавить"
+" те переменные, которые вы хотите отображать на графике. Для этого нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:14
+#: 41e73bac42d84171b9e3b931fc122851
+msgid "Нажать ЛКМ на строку с |icon_option| **Curves**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:9
+#: 51195efe400040fd96547536d2f70b1d
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:15
+#: fbd8e35a0a5f4b60a85380f6af0b31e8
+msgid "Нажать ЛКМ на значок |icon_add_new|."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:10
+#: a381c02f3c9b4326a90c874afe2d21a5
+msgid "icon_add_new"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:17
+#: 5a3b3854c66d4912ba342b444689a77c
+msgid "Add_new_curve"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:22
+#: 69dc330894da41e385ede351db104eb1
+msgid ":raw-html:`<br>` Таким образом можно добавить сколько угодно переменных."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:25
+#: 6d0d6d5393814e59b6da2287188b3989
+msgid ""
+"После этого появится вкладка со своим порядковм номером (начиная с [0]). "
+"В этой вкладке нужно описать переменную, которую вы хотите выводить на "
+"график. Для описания переменной используется 5 полей в этой вкладке:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:27
+#: 6ea96fbafcea4cc2b5c39581832f81a0
+msgid "Variable_description"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:32
+#: 2e581804c5a34b22ba2723d3ce654d0a
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:34
+#: 7caaa942a89c41089fff92ee2d7b15f0
+msgid "**Name**: название переменной,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:35
+#: acc56bef1c4b419bb36830ec0bac9353
+msgid "**Cell type**: тип клеток,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:36
+#: 35773942e6364c2e86c976a7fe08c866
+msgid "**Signal**: сигнал,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:37
+#: 238fe6655a45403199e269b8a8651fed
+msgid "**Relation**: отношение клеток выбранного типа к сигналу,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:38
+#: fc15d117231849c78f0c47591743be6c
+msgid "**Value**: пороговое значение сигнала."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:40
+#: cd17b707e7e14451a737a7175ae98f9f
+msgid ""
+"Чтобы задать значения полей **Cell type**, **Signal** и **Relation** "
+"нужно нажать ЛКМ справа от соответствующей иконки и из раскрывающегося "
+"списка выбрать нужный вариант."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:43
+#: 68a9ef78669c4ad093105d5768cb9e0a
+msgid ""
+"Сначала нужно указать значение поля Cell type, а потом - Signal (в "
+"раскрывающемся списке напротив поля Signal не будет ни одного значения, "
+"если поле Cell type еще не заполнено)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:45
+#: 9abde7316c664f20a85faec5f541df85
+msgid ""
+"Чтобы задать значения полей **Name** и **Value**, нужно нажать ЛКМ справа"
+" от соответствующей иконки и вписать свое значение."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:47
+#: 9c3a9a5fc77a45b5a9181bd73a988cf8
+msgid ""
+"Рассмотрим, как работает описание переменной с помощью этих 5 полей, на "
+"представленном ниже примере:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:49
+#: 2e49caf3533343c8a7c4c21ac805d2aa
+msgid "Пример описания переменной"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:62
+#: 1d2fe4cefb6b431a9cc106811ff40ba1
+msgid ""
+"В раскрывающемся списке напротив поля **Cell type** доступны все типы "
+"клеток в модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:64
+#: ac56ba3589a54f71b497f2dc1d6cca3a
+msgid ""
+"В раскрывающемся списке напротив поля **Signal** доступны различные "
+"субстраты, реакции, взаимодействия между клетками и т.п."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:66
+#: 2f83bef6e3e94f47b9cfff30f6e1ec0b
+msgid ""
+"В раскрывающемся списке напротив поля **Relation** доступны следующие "
+"математические знаки: \"<\" (меньше), \"<=\" (меньше или равно), \">=\" "
+"(больше или равно) и \">\" (больше)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:68
+#: a5ffce92c73242fd840ed57521b5afdc
+msgid ""
+"Для работы с уже существующими переменными используйте :ref:`этот "
+"функционал <Physicell_cell_properties_Actions>`."
+msgstr ""
+

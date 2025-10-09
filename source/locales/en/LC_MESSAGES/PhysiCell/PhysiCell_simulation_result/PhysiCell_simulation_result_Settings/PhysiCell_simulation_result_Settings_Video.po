@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:4
+#: 00d8f535903840bf8790ffa31797f096
+msgid "Запись видео (Frame per second, Result video path)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:14
+#: b8adeef7e5504bcb9e5cd38b13723736
+msgid ""
+"Перед тем как начать записывать видео, нужно выбрать директорию, куда оно"
+" будет сохранено. Для этого нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:16
+#: 607f18a7aa374689bb70926dd47e11dc
+msgid ""
+"Нажать ЛКМ на |icon_option| **(select element)** справа от |icon_option| "
+"**Result video path**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:9
+#: 3709543dab2444c48af280f2c5670532 d413e616dcae4cb5901b2c1fb8af8ea6
+#: e0569c75f6214ebb8bb90e92a187ba11
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:17
+#: e46e11f299634847b8cc878ddaba6944
+msgid ""
+"В появившемся окне нажать ЛКМ справа от поля **Collection:** и выбрать "
+"директорию для сохранения видео."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:18
+#: 8bf0f4f139a54f8f9ec8f801776236d8
+msgid "Справа от поля **Name:** указать название видео."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:19
+#: 74c487665ca94289afb3e7e15bb86d45
+msgid "Нажать ЛКМ на кнопку **Ok**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:21
+#: 9884fb7a9b42427da77333e98fce3607
+msgid "Select_video_path"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:26
+#: a2676629484147af9e09edea56ae1cdb
+msgid ""
+":raw-html:`<br>` Также нужно выбрать количество кадров, показываемых за 1"
+" секунду (FPS, frame per second), в видео. Для этого укажите нужное вам "
+"значение справа от поля |icon_option| **Frame per second**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:29
+#: 96d9b55e5af249b788413ef456539bf2
+msgid "Теперь можно приступать к записи видео."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:31
+#: f7f9638cbe1746d1a05a87efd2a213b4
+msgid ""
+"Чтобы начать записывать видео, нужно нажать ЛКМ на кнопку "
+"|icon_record_button| на панели кнопок. После этого кнопка "
+"|icon_record_button| станет |icon_recorded_button|, что означает, что "
+"запись видео началась."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:10
+#: 2c0a6cd216674ef19492b34ec1bc47c2 373f5a9c18d347b29c88eddd3a7d0c09
+#: b866f6689b3d499ab071e708245630b7
+msgid "icon_record_button"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:11
+#: 21fa193b14ff4aabbb0af28eba59f07d b7ffa5205201453b9d2d72a0f5f30963
+msgid "icon_recorded_button"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:33
+#: 74476bf778b247a0adb5df79a08067b1
+msgid ""
+"После этого можно проводить любые манипуляции с симуляцией модели "
+"(переводить из 2-ух измерений в 3, визуализировать субстраты, передвигать"
+" легенду и т.д.) - все они будут записаны на видео."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:35
+#: 1c89c6adf0b84253bb6a0bf854011090
+msgid ""
+"Для остановки записи видео нужно нажать ЛКМ на кнопку "
+"|icon_recorded_button|. Кнопка станет |icon_record_button|, что означает,"
+" что запись видео завершена."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:37
+#: efb3bc5aea9a4ce5983c8861ba4ceb5b
+msgid ""
+"Теперь в выбранной директории появится файл |icon_video| "
+"**[ваше_название].mp4**, в котором записано ваше видео."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:12
+#: c9e398520d35427fb86bda2639d0d8e5
+msgid "icon_video"
+msgstr ""
+

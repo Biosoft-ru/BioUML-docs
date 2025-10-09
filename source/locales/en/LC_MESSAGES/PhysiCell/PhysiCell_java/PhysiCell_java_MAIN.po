@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:4
+#: da7055ce827041569793b63a01c4082b
+msgid "Пользовательский код для модели"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:75
+#: 56d658f4837f4498ab503e252b043772
+msgid ""
+"Поведение клеток, а также другие аспекты модели могут быть заданы "
+"java-кодом, описывающим подходящий java-класс."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:77
+#: b66266a81e8f4960a7aae920ea1eed8c
+msgid ""
+"Java-код хранится в виде отдельных файлов в репозитории BioUML. Каждый "
+"файл описывает один java-класс."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:79
+#: f81a77ab413c44d0973cab5e3261b502
+msgid "Для создания java-файла (java-класса) нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:81
+#: b2872ce5c3e54c768a690d310d154404
+msgid "Нажать ПКМ на папку в репозитории, в которой вы хотите создать java-класс."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:82
+#: 572baa9f291a40439a4df43cb146a817
+msgid ""
+"В раскрывающемся списке нажать ЛКМ на |icon_new_Java_code| **New Java "
+"code**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:72
+#: 49df168f91504758905e5957aea2f1f7 703d2646d4b146f5b55d85abf288818b
+msgid "icon_new_Java_code"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:83
+#: f77bc7ea2bc14c23b678cfdd28542d5a
+msgid "В появившемся окошке вписать название файла с расширением *.java*."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:84
+#: 2078b69b584543438f2377af9034295a
+msgid "Нажать ЛКМ кнопку **Ok**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:86
+#: 819427f0cba04df28bb01b8ba6c6a880
+msgid "Add_new_java_code"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:91
+#: 3bc04011fb3e4787a69b0b84044b1f14
+msgid ""
+":raw-html:`<br>` После этого в указанной папке у вас появится java-файл "
+"(обозначается значком |icon_new_Java_code|), который можно открыть, нажав"
+" на него 2 раза ЛКМ или нажав на него ПКМ и в раскрывающемся списке нажав"
+" ЛКМ на |icon_opened_folder| **Open**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:73
+#: 2aaf924dd559425dad90f4098819ce30
+msgid "icon_opened_folder"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:94
+#: 183a857e39364437b9a144fc5683aefe
+msgid "В открывшемся файле можно прописывать необходимый код."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:96
+#: bc9e5ea11075476da32bc6a3438dc34a
+msgid "Java_code_place"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:101
+#: 77b8cd80ef954ae0b70471937b3a1807
+msgid ""
+":raw-html:`<br>` Список всех java-классов пакета ru.biosoft.Physicell и "
+"их краткое описание представлены ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:104
+#: 898893200f7d45518b3b7356ba38137c
+msgid "Классы пакета ru.biosoft.Physicell"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:107
+#: 941330eaac4c4aa2909a23bb99442b02
+msgid "Класс"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:108
+#: 49e2faea1493401f88997db6e64b4806
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:110
+#: 0a2383e8e8b84505ae3f1ff79284a954
+msgid ":ref:`VectorUtil <PhysiCell_java_VectorUtil>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:111
+#: b05a86ec7bc74567b06c55a32c10b957
+msgid "Работа с векторами"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:112
+#: b28dec5243de4772b82a390bd43a399d
+msgid ":ref:`Cell <PhysiCell_java_Cell>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:113
+#: be9c2a81ddd148029c3b5c79f498b012
+msgid "Работа с отдельными агентами, т.е. клетками"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:114
+#: b30a16aa5e0c4ef5839e4d4514a84a47
+msgid ":ref:`Phenotype <PhysiCell_java_Phenotype>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:115
+#: 0e73ab73e2ab4ad28519918fd5490025
+msgid "Работа с различными свойствами клеток"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:116
+#: e5446f36349548e7ab8d9a649980f7e2
+msgid ":ref:`CellDefinition <PhysiCell_java_CellDefinition>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:117
+#: bbcb986af9b84ceab20bc71fa13d68e2
+msgid "Работа с типами клеток"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:118
+#: 78206619bea2479e90c26a36e471b587
+msgid ":ref:`Model <PhysiCell_java_Model>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:119
+#: d919cf1f6b0f4178be00fdef58f8e72a
+msgid "Работа с мультиклеточной моделью для численных расчетов"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:120
+#: e84dae873d6f42a98226abec92c3644f
+msgid ":ref:`Microenvironment <PhysiCell_java_Microenvironment>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:121
+#: 750fafaea950457eb1dec6dbbda2dfab
+msgid "Работа со средой модели, в которой находятся клетки и вещества"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:122
+#: 82a3824de9794576be364d70d077eafb
+msgid ":ref:`RandomGenerator <PhysiCell_java_RandomGenerator>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:123
+#: b0bd5b6568424c4ba89b44245cfd0baf
+msgid "Генерация случайных величин в модели"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:124
+#: 3b9642bb5bcc46818f09d0a3ee295931
+msgid ":ref:`PhysiCellConstants <PhysiCell_java_PhysiCellConstants>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:125
+#: a775d7a3fbc44d86b4a0b7661316120a
+msgid "Работа с константными численными значениями модели"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:126
+#: fc6b2036a2bf486b9e54cc443d53217a
+msgid ":ref:`StandardModels <PhysiCell_java_StandardModels>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:127
+#: 126abdf5e497442982cb37a6c01a62d0
+msgid "Работа со стандартными моделями клеточного цикла и клеточной смерти"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:128
+#: 5398f6b6daa54419b8aebee6f09d364c
+msgid ":ref:`SignalBehavior <PhysiCell_java_SignalBehavior>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:129
+#: 4adc389efcc54548bfb03c3d88e4d4ea
+msgid "Управление передачи сигналов и поведения клеток"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:130
+#: 3a447362872c46dc9832e1ac5458541a
+msgid ":ref:`CellContainer <PhysiCell_java_CellContainer>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:131
+#: fd1dc9fefc79461096b1643b96abbb2a
+msgid "Получение информации о расположении клеток в решетке модели"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:132
+#: 4c9dd2103fbc48b68314d5f088d44dc6
+msgid ":ref:`CartesianMesh <PhysiCell_java_CartesianMesh>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:133
+#: 60ed75c7c4fe48378528c36930db4fe3
+msgid ""
+"Работа с декартовой системой координат, в которой располагаются клетки и "
+"субстраты"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:134
+#: 64554bea3b064de2b3196b9746ddfd33
+msgid ":ref:`ModelReader <PhysiCell_java_ModelReader>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:135
+#: 55cc4ba6e5464a488491ccc212216cda
+msgid "Чтение модели из текстового файла"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:136
+#: 5c676c7dfbf547159f515812961d7272
+msgid ":ref:`UpDownSignal <PhysiCell_java_UpDownSignal>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:137
+#: 9b4e99962f924cf6a50a885aa7e134f5
+msgid ""
+"Расчет эффекта выходного сигнала согласно многомерному закону Хилла на "
+"основе множественных входящих сигналов-эффектов"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:138
+#: bc2de3a9026949d0b5816de159f1156d
+msgid ":ref:`BasicSignaling <PhysiCell_java_BasicSignaling>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:139
+#: cb5b7b87e85f4837b9cdff1527aba187
+msgid ""
+"Работа с методами, которые рассчитывают значение выходного сигнала на "
+"основе одного входящего сигнала"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:140
+#: 2dfa70ef17e6441f9e5cdd565c47e2dd
+msgid ":ref:`PhysiCellUtilities <PhysiCell_java_PhysiCellUtilities>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:141
+#: feed8d61db2d48399c508bb6f182a50c
+msgid "Дополнительные методы работы с моделью"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:142
+#: 13465aa09df54f9ea144c2e74748222c
+msgid "AgentColorer"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:143
+#: c04370e6b3a14c09bb679b123ad586f7
+msgid ""
+"Интерфейс, используемый для определения того, каким цветом отрисовывать "
+"клетку (ее границу, внутреннюю часть, границу ядра и само ядро)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:144
+#: 8818eb9af23e41a19e8f86c9a54a6cbd
+msgid "InitialCellsArranger"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:145
+#: c62ec6143f7844488d2fef921096b40d
+msgid ""
+"Абстрактный класс, определяющий изначальную расстановку клеток в модели. "
+"Может использоваться в подвкладке Initial Condition вкладки "
+"Microenvironment."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:146
+#: edd5c93c9d5f46a2900502df2c1f8e91
+msgid "O2based"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:147
+#: 42709e49259d455db3ebd2db48496aa6
+msgid ""
+"Подкласс UpdatePhenotype. Описывает стандартную жизнедеятельность клетки "
+"в зависимости от концентрации кислорода."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:148
+#: 975094e965fb4e76b817599e7b826394
+msgid "Visualizer"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:149
+#: 6ae8ff6c94184196962a7e7b293de9ae
+msgid "Отрисовывает результат расчетов модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:150
+#: d1dd5f4c71cc41af84fd056802e9b88a
+msgid "ReportGenerator"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:151
+#: fa2898998c60431f8724bc5f859b0122
+msgid ""
+"Создает табличный отчет во время расчетов с отдельной строкой для каждой "
+"клетки в модели. Может использоваться в подвкладке Model Report вкладки "
+"Microenvironment."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:152
+#: c228a2c60cce41f8800043a5e5ed1a5d
+msgid "CustomCellData"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:153
+#: 0af94e15b04441aa94062af2dbfd5ac0
+msgid ""
+"Содержит пользовательские параметры конкретного типа клеток. Заполняется "
+"пользователем в подвкладке Custom Data вкладки Cell Types."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:154
+#: 4fe596891be14cf7946a8421e6592589
+msgid "AgentColorerDefault"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:155
+#: 0c0d394a19314317900ca1b19ee35d29
+msgid ""
+"Стандартная реализация класса AgentColorer. Раскрашивает агент в "
+"зависимости от его типа и того, жив ли он."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:156
+#: 80e3966fdf4d4878b3433706fcb98e79
+msgid "FalseCellCytometryVisualizer"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:157
+#: 497e0b8bef8a49a69211c28f192ca5c2
+msgid ""
+"Подкласс AgentColorerDefault. Раскрашивает клетки, имеющие жизненный цикл"
+" типа Flow Cytometry model в зависимости от текущей фазы клеточного "
+"цикла."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:158
+#: a4cbb32590e141ed98436485e17e8cf4
+msgid "StandardElasticContact"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:159
+#: f08cba5f6bf54273a44440acb2cd9e65
+msgid ""
+"Стандартная реализация класса Contact. Описывает эластичное "
+"взаимодействие клетки с другими клетками."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:160
+#: 58c1dff0b0984665b52751bc61f3087a
+msgid "Chemotaxis"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:161
+#: 7a7d44d33e5e44cf83fa7856c100882c
+msgid ""
+"Стандартная реализация класса UpdateMigrationBias. Описывает движение "
+"клетки по градиенту одного субстрата."
+msgstr ""
+

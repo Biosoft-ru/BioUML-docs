@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:4
+#: aea7d7237d0843df8a51de2ee355a8b6
+msgid "Отчет по модели (Model Report)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:12
+#: 08dec68fc54f417c9e486c1eb1725562
+msgid ""
+"После нажатия на вкладку **Model Report** на панели свойств справа у вас "
+"появится меню, в котором можно редактировать следующие параметры:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:14
+#: 8ee9e470feaa407b97cc7d31f365b8ca
+msgid "Model_report_menu"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:19
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:32
+#: 2282e4f1db6d4f9695dc3d36981d508e 7fd80a873a03489a9a22ad04141cfb91
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:21
+#: 45b2cc989b3049c188f6c03a96ad3e6c
+msgid ""
+"|icon_option| **Custom report**: поставьте ☑, если хотите задать "
+"Java-код, по которому будет создаваться отчет по модели в табличной "
+"форме,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:9
+#: 3953cb15ab3c48279b0d8d1be29515f5 3a7fdb3c3790490d9e6650f8c3e20447
+#: 43fcb3e786df45f394278cad79e84fad a7c284a345a04d0d9cf94118e9203068
+#: b9833b35ab3c4e509f70a9c570801f7d b9a4d41aa4b24b479becb245cb19bca0
+#: ca0c1669d37a45eb81974b043ce20000 eee4a0a66b4c40c0b18cee294854ed7f
+#: f64326789b014553a4e2e9a0ab25f26d
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:22
+#: 738e238567a44cadacfc7915a1ad10d5
+msgid ""
+"|icon_option| **Custom global report**: поставьте ☑, если хотите задать "
+"Java-код, который будет определять вывод логов в консль во время "
+"симуляции модели,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:23
+#: 358b393c1e4945619d43d703b89a13d7
+msgid ""
+"|icon_option| **Custom visualizer**: поставьте ☑, если хотите задать "
+"Java-код, по которому будет изменяться расцветка клеток при симуляции "
+"модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:25
+#: a172289fd9304d01a71d2b69753e1f77
+msgid ""
+"При указании ☑ напротив |icon_option| **Custom report**, |icon_option| "
+"**Custom global report** или |icon_option| **Custom visualizer** ниже "
+"выбранного поля появится новое поле |icon_option| **Report**, "
+"|icon_option| **Global report** или |icon_option| **Visualizer**, "
+"соответственно. Напротив этих полей можно нажать ЛКМ на |icon_Java_code| "
+"**(select element)**, а затем в появившемся окне указать путь до нужного "
+"Java-кода в репозитории."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:10
+#: 4b5dfd0152954477985c00f8ebec0307
+msgid "icon_Java_code"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:27
+#: d013e876a68a4fc1b43e1c141eb0d519
+msgid "Choose_appropriate_Java_code"
+msgstr ""
+

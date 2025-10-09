@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:4
+#: d4bd17b3c5df4122a24726ae3640415f
+msgid "События (Events)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:9
+#: e1e495e058bf4d7483a580a42ea80904
+msgid ""
+"Во вкладке **Events** в табличной форме приведен список всех событий "
+"модели вместе с их настройками."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:11
+#: d1b1662f66654e9e8a377b7ec9be68f8
+msgid "Events_menu"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:16
+#: 8e683d7189ee4301bc580b35ba2f2739
+msgid ""
+":raw-html:`<br>` На данной вкладке можно редактировать все настройки "
+"событий:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:19
+#: a90fb67c766e4a4ab3a7d53c6afe5a40
+msgid "**Name**: название события,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:20
+#: 42fab2f3484e45cd828fc71951174562
+msgid ""
+"**Execution time**: модельное время, при достижении которого срабатывает "
+"событие,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:21
+#: ae2188cff66b48bb9551472be2338a63
+msgid ""
+"**Custom Execution code**: выберите ☑, чтобы задать путь до Java-кода, "
+"который выполнится при срабатывании события,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:22
+#: 532128aa33e145cc920bd146b4671c28
+msgid ""
+"**Execution code**: путь до Java-кода, который выполняется при "
+"срабатывании события,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:23
+#: eb04d5e926c34db58a47d7c7bfb29865
+msgid "**Comment**: комментарий,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:24
+#: c65d54518337496b992efbe70e71fb40
+msgid ""
+"**Show code**: выберите ☑, если хотите полностью показывать код на "
+"диаграмме модели,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:25
+#: e63b3b3fe62d49f3bf08f3111e5e9fad
+msgid ""
+"**Format code**: выберите ☑, если хотите форматировать показываемый на "
+"диаграмме модели код."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:27
+#: a3fe824254044b8b895c7df2c5031d2c
+msgid ""
+"Чтобы задать значение любого параметра, нужно нажать ЛКМ в ячейку строки "
+"под соответствующим заголовком и вписать собственное значение, указать "
+"путь до нужного файла или отметить ☑."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:29
+#: b89e13fe3daa4a4d91d6f58dde6bfd29
+msgid "Также настройки событий можно редактировать напрямую на диаграмме."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:32
+#: ac3d5c78f7c94c7ebc89c1cf944db88c
+msgid "Добавлять и удалять новые события на данной вкладке нельзя."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:34
+#: 050e73dc525246b897ac8317cff01410
+msgid ""
+"Сортировка событий по значениям какой-либо из их настроек выполняется "
+"также, как и для :ref:`субстратов "
+"<PhysiCell_microenvironment_Substrates>`."
+msgstr ""
+

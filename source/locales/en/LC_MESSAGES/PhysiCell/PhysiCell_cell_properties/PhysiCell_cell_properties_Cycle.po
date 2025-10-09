@@ -1,0 +1,332 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:4
+#: f05e1d2a3b564c7b9885529fbbf39718
+msgid "Жизненный цикл (Cycle)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:56
+#: d35afdca54a04879909716aff8f6b3f3
+msgid ""
+"После нажатия на вкладку **Cycle** на панели свойств справа у вас "
+"появится меню, в котором можно изменять параметры жизненного цикла "
+"клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:58
+#: 6dc1a56fcfcc4c70a06b1a98b5d256cb
+msgid "Cycle_menu"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:63
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:75
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:91
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:127
+#: 12ae47443e62424f9b8f464a5df44b69 1328dcd69514406594ca77e841cc3f0b
+#: 6dfebf5eb2ec4181b16a2145d5c1559d e10ad6b5b70a4c4e9755936a9514d3b4
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:66
+#: 9a5f7fabf2b94ba7801da2d6ea126cee
+msgid "Название жизненного цикла клетки (Name)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:68
+#: 8f3d45e186d24e8a966dc7f2bd33f515
+msgid ""
+"При нажатии слева от кнопки |icon_option| **Name** раскрывается список, в"
+" котором можно выбрать тип жизненного цикла клетки:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:51
+#: 0e1f2e53ea78463098e401eb84ccc2cd 257606a4b38e433e944e366725033f9f
+#: 58ae7195c9464487b834e9c224e5bff9 5bff7e2a36964166a93bb4e671f0cc2e
+#: b719e8f0a3d5456e93efe7b1bcf57f19 c576bf4a24c34c99b3e13683606223d9
+#: e411fd41e5b64a738b309f7c622075fa
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:70
+#: 0506a2b649c64b608e324580366b4e94
+msgid "Cycle_name"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:77
+#: 20a11f48456d448f85cc79f146918391
+msgid ""
+"**Ki67 (basic)**: жизненный цикл, состоящий из двух фаз - :raw-"
+"html:`«<u>Ki67-</u>» и «<u>Ki67+</u>»`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:78
+#: d0fda46059fc4759aaf1e271d799064a
+msgid ""
+"**Ki67 (advanced**: жизненный цикл, состоящий из трех фаз - :raw-"
+"html:`«<u>Ki67-</u>», «<u>Ki67+ (premitotic)</u>» и «<u>Ki67+ "
+"(postmitotic)</u>»`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:79
+#: 205ab6a0863343249f9f3783efa9e261
+msgid ""
+"**Live**: простейший жизненный цикл, состоящий всего из одной фазы с "
+"условным названием :raw-html:`«<u>Live</u>»`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:80
+#: 73fb84d3872449b5a75c338d4a4ffe3c
+msgid ""
+"**Flow cytometry model (basic)**: жизненный цикл, состоящий из трех фаз -"
+" :raw-html:`«<u>G0/G1</u>», «<u>S</u>» и «<u>G2/M</u>»`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:81
+#: e639ecadb445421c985f597587bc059d
+msgid ""
+"**Flow cytometry model (separated)**: жизненный цикл, состоящий из "
+"четырех фаз - :raw-html:`«<u>G0/G1</u>», «<u>S</u>», «<u>G2</u>» и "
+"«<u>M</u>»`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:82
+#: 89c2d98edeb14ee8a07a43da52c1f9a0
+msgid "**Custom**: пользовательский жизненный цикл."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:84
+#: a2b8322d617e48d1a7ae042af94f145f
+msgid ""
+"При выборе **Custom...** справа от поля |icon_option| **Custom cycle** "
+"нужно будет указать путь к модели, описывающий жизненный цикл клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:86
+#: 1a2b0884d9c2418a9d8a78966f0663ff
+msgid "Custom_cycle"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:94
+#: fe72b6303e894d4296ad7231ea44bae1
+msgid "Фазы цикла (Phases) и переходы между ними (Transitions)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:96
+#: f2b3e80a539644e6a043391238c88b7f
+msgid ""
+"При выборе определенного цикла автоматически изменяются вкладки поля "
+"**Phases** (фазы цикла) и **Transitions** (переходы между фазами цикла)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:98
+#: daaa95cf2e504e86a8193319523caa59
+msgid "Cycle_phases_transitions"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:103
+#: c5e3452041b34119928ad8937e2f25eb
+msgid ""
+":raw-html:`<br>` Чтобы открыть любую вкладку полей **Phases** или "
+"**Transitions**, нужно нажать ЛКМ на значок |icon_clue| слева от вкладки."
+" Чтобы закрыть вкладку, нужно нажать ЛКМ на значок |icon_opened_clue| "
+"слева от вкладки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:52
+#: c0f7aa85f8d44c989c00886d0ec034c2
+msgid "icon_clue"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:53
+#: b7509db7885645b7ad1c44084a0d0bfc
+msgid "icon_opened_clue"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:106
+#: 74de4ccf9e374fa5aff8ebdbdc6f2190
+msgid "Open_and_close_tab"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:111
+#: 93f9d1fb0fab474580f7cd395b2ca872
+msgid ""
+":raw-html:`<br>` При открытии любой из вкладок поля **Phases** появляется"
+" значок |icon_option| **Division on exit**. Отметьте ☑, если хотите, "
+"чтобы клетка делилась по окончании выбранной фазы жизненного цикла."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:114
+#: e1d621b22afd421a90c2181afdd86243
+msgid "Division_on_exit"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:119
+#: 50238d0bf6924b378dd72c37e416feaa
+msgid ""
+":raw-html:`<br>` При открытии любой из вкладок поля **Transitions** "
+"появятся два значка:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:122
+#: ad861aa9b0e347cc8e8a61d8453c662b
+msgid "Transitions_rate_fixed"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:129
+#: 769441abf1894dddb38460c363d3aa17
+msgid ""
+"|icon_option| **Rate**: скорость перехода между соответствующими фазами "
+"жизненного цикла клетки (можно изменять, нажав ЛКМ на число слева и "
+"вписав собственное значение),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:130
+#: 38c4ebae5b1c4461aac907e40714bab6
+msgid ""
+"|icon_option| **Fixed**: отметьте ☑, если хотите, чтобы время перехода "
+"между соответствующими фазами жизненного цикла клетки было зафиксировано."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:133
+#: f8a972b6e0804c72955d7d81a2c7a9e7
+msgid ""
+"При указании свойства Fixed переход между фазами жизненного цикла клетки "
+"происходит **ровно** через :math:`1/Rate` единиц времени поcле начала "
+"фазы."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:135
+#: 69476f1ab0844ea1be50f9b0984ee90c
+msgid ""
+"Если Fixed не указано, то переход происходит **в среднем** через "
+":math:`1/Rate` единиц времени почле начала фазы. Моделируется это "
+"следующим образом: во время каждого шага агента (клетки) переход может "
+"произойти с вероятностью :math:`Rate*Phenotype \\, dt`, где Phenotype dt-"
+" шаг модельного времени, с которым происходит обновление внутреннего "
+"состояния клеток (задается при настройках :ref:`симуляции модели "
+"<PhysiCell_simulation_Engine>`)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:139
+#: 509e4d1520fb47fd948b6724518603af
+msgid "Редактирование фаз и переходов между ними"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:141
+#: 23d0d786a57f4a8f98c1129f8567ce44
+msgid "Чтобы добавить новую фазу или переход в жизненный цикл клетки, нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:143
+#: 39c85ff7df7b4e9e95a278a0d9c2452a
+msgid ""
+"Нажать ЛКМ на вкладку |icon_option| **Phases** или |icon_option| "
+"**Transitions**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:144
+#: d0e6fb13252a4552b3bd55985a0c2297
+msgid "Нажать ЛКМ на иконку |icon_add_new|."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:54
+#: d00da9dfcf6443eaad8d73c332e60d35
+msgid "icon_add_new"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:146
+#: 31f38f28885d433ba9e1acc6d85f01e1
+msgid "New_phase_or_transition"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:151
+#: 9da3918ce7da4d818f1383969b36cc3b
+msgid ""
+":raw-html:`<br>` После этого в соответствующем разделе у вас появится "
+"новая фаза или переход."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:154
+#: 0451f30ba5f64a5b947bff2b29238385
+msgid "New_phase"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:159
+#: 3bd4699febe9482db2804f0fd280cdd0
+msgid ""
+":raw-html:`<br>` Кроме того, возможны и другие действия с фазами и "
+"переходами. Чтобы их отобразить, нужно нажать ЛКМ на любую фазу или "
+"переход, после чего сверху появится панель с возможными действиями."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:162
+#: aadbc066f97e4ddfaec89f2c72d17daa
+msgid "Actions_with_phases_or_transitions"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:167
+#: add92c88c7834075bf9786cb7e9fb215
+msgid ":raw-html:`<br>` Описание каждого из этих действий приведено ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:172
+#: 28506eb618ef4dd2817c94bc15b05058
+msgid ""
+"Элементы панели инструментов, используемой при работе с фазами и "
+"переходами жизненного цикла клетки"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:176
+#: 98569d1004624f409e490184a17ebc15
+msgid "Обозначние"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:177
+#: eacfca67505047758faaae9569736baa
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:180
+#: 986f5a7b6feb445c948683fbf15c0a14
+msgid "Удаление выбранной фазы или перехода"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:182
+#: 1a4b318c0f8d4ee09049e39f0a8cffbb
+msgid "Вставить новую фазу или переход перед выбранной"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:184
+#: 95c3d487cae94f01ac26f99eed929217
+msgid "Вставить новую фазу или переход после выбранной"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:186
+#: 36cbe2394a2049d8bdc8e984a921d030
+msgid "Переместить выбранную фазу или переход выше"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:188
+#: 647ba9653c87475cb75da6c4a4934d49
+msgid "Переместить выбранную фазу или переход ниже"
+msgstr ""
+

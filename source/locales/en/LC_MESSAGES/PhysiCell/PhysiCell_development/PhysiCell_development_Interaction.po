@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:4
+#: a32524b8370f4b73a5bf2174240a31aa
+msgid "Создание взаимодействия"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:8
+#: a7d98cbcd0e24c24a6a053956e03fe0c
+msgid ""
+"В результате взаимодействия клетки одного типа оказывают то или иное "
+"воздействие на клетки другого типа."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:10
+#: 26de7a92c88f4b5387a5eaa87d327e66
+msgid "Чтобы создать в модели взаимодействие, нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:12
+#: b2f63f387d9c441b81c6eb5056cdeb7e
+msgid "Нажать ЛКМ на значок |icon_interaction| на панели инструментов."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:6
+#: 37b0808f3b9745e48b48ce5afeedd29d
+msgid "icon_interaction"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:13
+#: c0d3342a18414b38b128c114dce099d1
+msgid ""
+"Нажать ЛКМ на тип клеток, который будет тем или иным образом "
+"воздействовать на другой тип клеток."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:14
+#: 5e6732f29012486bb0317c0128006e28
+msgid ""
+"Нажать ЛКМ на тип клеток, над которым будет совершаться то или иное "
+"действие."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:16
+#: 31d8d1dea017423ab8eb8348703e5c2d
+msgid "Interaction_creation"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:21
+#: 2b6b39fd3b1e48b8885e20d352ab7ba0
+msgid ""
+":raw-html:`<br>` После этого на диаграмме появится стрелочка красного "
+"цвета, направленная от одного типа клеток, оказывающих воздействие, к "
+"другому, над которыми совершается действие."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:24
+#: fe09ba142a3a4cf6aa67b4b7f07fd564
+msgid "Interaction_reaction"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:29
+#: 89c64fb59cc84ff980daa8a066818f84
+msgid ""
+":raw-html:`<br>` Чтобы настроить параметры созданного взаимодействия, "
+"нужно нажать ПКМ на стрелку на диаграмме, обозначающую данное "
+"взаимодействие, и в раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:32
+#: aeb8eee830894a3c9eda861d7f7ec3b7
+msgid ""
+"После этого в появившемся окне необходимо задать параметры изменяемого "
+"взаимодействия:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:34
+#: 7e3d6996edc64e4d839f292608a7de91
+msgid "Interaction_parameters"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:39
+#: 9729dec8da054426bd680b49c869cc68
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:41
+#: e6e6b87f83f84a9d9dd2dc5754c08fa4
+msgid "**Title**: название взаимодействия,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:42
+#: 9ba3842c579b4a0caefc8cab16f09e4e
+msgid "**Comment**: комментарий,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:43
+#: 7afbdbe99f844179b2f796a62ae0bc14
+msgid ""
+"**Cell type**: название типа клеток, над которыми совершается действие "
+"(:raw-html:`<span style=\"color: red;\">не изменяется!</span>`),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:44
+#: 498ce53549d34aab92c49a1e9fdad17c
+msgid "**Attack rate**: интенсивность атаки,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:45
+#: 36101ee7cfaa4ad89b084059b14c3881
+msgid "**Fuse rate**: интенсивность слияния двух клеток,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:46
+#: b5f8c05cc6664486bc9c61a1a8b1bbd2
+msgid "**Phagocytosis rate**: интенсивность фагоцитоза."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:49
+#: 74cd96e5a89840a28a785fca47b6fd3b
+msgid ""
+"При слияния двух клеток у результирующей клетки будет 2 ядра, а при "
+"поглощении одной клеткой другой в результате фагоцитоза у первой будет "
+"только одно ядро."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:51
+#: 07c315b336904a739beb797705f8ca65
+msgid "После того как заданы все параметры, нажмите **Ok**."
+msgstr ""
+

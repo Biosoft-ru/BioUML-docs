@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:4
+#: f403476bf4a84ac2aa7903d1bf3a8c8a
+msgid "Общие файлы симуляции модели"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:8
+#: 7307ce6e86324d05a007056901c5bc06
+msgid "После симуляции модели в директории с результатами всегда имеется 3 файла:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:10
+#: 5ffa3eef1c1444fea01c00233730cef2
+msgid "|icon_Java_code| info.txt,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:6
+#: 0c586183c57644099ff6dbd90942ea19 af5ecc38ecdd42ecbe58116350064d6e
+#: b577fae0c18f450d9dfaf1ecc977dc46
+msgid "icon_Java_code"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:11
+#: b9ecc2e0c7ed4fbaad4e7dcdc2a4a387
+msgid "|icon_Java_code| log.txt,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:12
+#: d80be1a85c574dc2a7b5503754d002aa
+msgid "|icon_Java_code| model.txt."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:14
+#: 19c6447e5d6d46f1820a2f2fbd7e299c
+msgid "Далее мы рассмотрим каждый из этих файлов подробно."
+msgstr ""
+

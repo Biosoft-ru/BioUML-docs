@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:4
+#: 6d83e9dcc4da49dd98cae74edac4ae56
+msgid "Сохранение данных о веществах (Save density)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:53
+#: 1e7a730a5c984c3cbb6b5c5bcf0dae61
+msgid ""
+"Если опция |icon_option| **Save density** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться папка с "
+"названием **Density**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:51
+#: 64e05ab799cd40408497eebf917bdf0f
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:55
+#: e010c62d158f42829f4c58e716cf3e88
+msgid ""
+"В этой папке находятся таблицы с названием **Density_[модельное время]**."
+" Значение модельного времени, указанное в названии, говорит о том, через "
+"сколько временных единиц после начала симуляции была сгенерирована данная"
+" таблица."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:57
+#: 27ce45e1992d4dc39025dd893547922c
+msgid ""
+"Количество таблиц будет зависеть от значений параметров **Max Time** и "
+"**Report interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:59
+#: 23a86d1a4f6c47a09fd6151d807bf4f4
+msgid "Пример"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:73
+#: 10d3a5ffce9f42acad7648edffb9a39e
+msgid ""
+"В этих таблицах для каждой ячейки внешней среды представлены следующие "
+"данные:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:75
+#: 87314bc377af46a08128fc29f642096e
+msgid "**ID**: уникальный идентификатор каждой ячейки,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:76
+#: 49c55b22ac37488e82b3d7c03217a46a
+msgid "**X**: координата ячейки по оси X,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:77
+#: f67db341540f40c6bcca7c4f1a733d2c
+msgid "**Y**: координата ячейки по оси Y,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:78
+#: f75f52f7f1ba4ac89241605e12317de4
+msgid "**Z**: координата ячейки по оси Z,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:79
+#: 14ac989beece448797265c0696732d7b
+msgid "**[Субстрат 1]**: количество субстрата 1 в данной ячейке,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:80
+#: 62a29ac11a914ea88307dc1599ca1add
+msgid "**[Субстрат 2]**: количество субстрата 2 в данной ячейке,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:81
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:82
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:83
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:130
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:131
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:132
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:133
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:134
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:135
+#: 25849a68397c40778d97f05cd0956360 34b86276c00e461a835c7bde3e5efef2
+#: 406be5c48c4840658f8eb5bac9e8382e 4681f389ca7544ef97114e6de158c361
+#: 496836d78c0a437dba03e0a61c64966a 711bcc3ae7584a08bdcdd56810246394
+#: 7ef94ece8b66482680ad150162ff857e d7cdebcfcdee43e3b5acfb900e7f2faf
+#: ed2bea4e5a4a44afb0ecf811d50517a0
+msgid "..."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:84
+#: 5f65fa18a2884e66a012cacf8925ece2
+msgid "**[Субстрат n]**: количество субстрата n в данной ячейке."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:87
+#: 0688db46469745fbbc94404fc15dad43
+msgid ""
+"В таблице для каждого субстрата модели будет своя колонка, где будет "
+"указано количество именно этого субстрата в данной ячейке."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:89
+#: fb68cfd6b65a4f7883383054ae05e1ff
+msgid "Пример такой таблицы представлен ниже:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:94
+#: 2a67b6448330490b9f1b6b084ecd1c17
+msgid "ID"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:95
+#: ab7d963856c641408f3b434f9986ec01
+msgid "X"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:96
+#: c9915c124ef04b29a99990b6660b5315
+msgid "Y"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:97
+#: 8ab5366e84d74f5f9ff0cf542cd4a718
+msgid "Z"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:98
+#: 2554530aaacb486ca497131364d86ee7
+msgid "Substrate"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:99
+#: f29e0ad55bc64a188c686f192dcab74f
+msgid "Substrate_1"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:100
+#: f26ad95c5e00465096e48bb4eefb5dca
+msgid "1"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:101
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:102
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:108
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:114
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:120
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:126
+#: 2138b506c1d34ab79af9040c6e098f1f 3798ad5edb034d2c8e84e7b5fcb4dcb5
+#: 7de7f35922cf4bad9366de3c12e5e34d acac071a580b41a9927a438c16026180
+#: b6c62c1511c5489f81edf0c0b384bfe9 eeb6c1e3bfd94466bc89080b02a280a4
+msgid "-490,0"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:103
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:109
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:115
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:121
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:127
+#: 667e9b17870c45e588ccec28479b3187 beffd7b25c2c4a2b9ad436f42249a776
+#: df55b079fe344fe8b0b70a11a3288fe7 e894b14835694e6eb57dce2bf882961c
+#: e98ebef5a77d4661a164d377a26c8841
+msgid "0,0"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:104
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:110
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:116
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:122
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:128
+#: 5c597525492943fc8cb134f2dc450bda 693f6026cb4d46c89c889700aa6e4716
+#: 9524b4e3b00c4254813445e192978b4a dd7ea2955243426caf648930f99c664a
+#: fe793bfbf0c747308631ded64b8f04ab
+msgid "0,005"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:105
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:111
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:117
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:123
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:129
+#: 2948f5dea2eb47b9a1003950fb33a85e 2e5947a139c04c418688ccbe014019fd
+#: 62cea8b955ed451dbef5b5baf4388c8a d18fa422d62f47249a94b6e50200c98b
+#: fb36ce463a9c4667955cc11a0616b4da
+msgid "100,0"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:106
+#: e5c5dbb2dee647659e9e2f6d4e275add
+msgid "2"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:107
+#: 16ed6ef231014b42a4d7aba1abea2f6a
+msgid "-470,0"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:112
+#: 11f353645cbe4333918d83586a74bbde
+msgid "3"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:113
+#: 03934994f00a4ddeb10927fe48d774b3
+msgid "-450,0"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:118
+#: 4c963c3bc14b466d95ff3d07e371d8d2
+msgid "4"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:119
+#: e30a9a870c624b2b9488d6448f1b7156
+msgid "-430,0"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:124
+#: 08bdf8ddb98d41b9b4f39c2978a63e86
+msgid "5"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:125
+#: 83a86e391449464e94ef7092e0a635ea
+msgid "-410,0"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:137
+#: cabdaab97a93404bb41f03b65b4f6575
+msgid "▼ таблица продолжается ▼"
+msgstr ""
+

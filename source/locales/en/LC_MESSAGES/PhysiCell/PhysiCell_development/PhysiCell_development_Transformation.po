@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:4
+#: ba8198ed4da64652a930c404f9bd30ec
+msgid "Создание трансформации"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:8
+#: 3bec94a13aa44b0ca216bc40f793692d
+msgid "При трансформации клетка одного типа превращается в клетку другого типа."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:10
+#: 4c7e9b48deb24b8d9fbdd582df2c7195
+msgid "Чтобы создать в модели трансформацию, нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:12
+#: 8bba08ca7cb74399938d4473c77dc2eb
+msgid "Нажать ЛКМ на значок |icon_transformation| на панели инструментов."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:6
+#: ea74ffae861844208a938b0784b4eb66
+msgid "icon_transformation"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:13
+#: 8b92dc1234fd4cc6b78f7e62afd6d41a
+msgid ""
+"Нажать ЛКМ на тип клеткок, которые будут трансформироваться в другой тип "
+"клеток."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:14
+#: 9ce9dc10d09d4db9b71c802089d1d563
+msgid "Нажать ЛКМ на тип клеток, в которые будет происходить трансформация."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:16
+#: 45d3c598f1bc4f5198cd6bea2a549d3f
+msgid "Transformation_creation"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:21
+#: 725f4f84223646218b831b1d896c2e85
+msgid ""
+":raw-html:`<br>` После этого на диаграмме появится стрелочка синего "
+"цвета, направленная от одного типа клеток, которые будут "
+"трансформироваться, к другому, в которые превратятся первые в результате "
+"трансформации."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:24
+#: 587b4730254a403e96dff853ea0d04d2
+msgid "Transformation_reaction"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:29
+#: 91c136f9fd6448979ffd07581322ac16
+msgid ""
+":raw-html:`<br>` Чтобы настроить параметры созданной трансформации, нужно"
+" нажать ПКМ на стрелку на диаграмме, обозначающую данную трансформацию, и"
+" в раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:32
+#: f43940a1d2d94532bcea8342971372ee
+msgid ""
+"После этого в появившемся окне необходимо задать параметры изменяемой "
+"трансформации:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:34
+#: 6466d00759394a3aaed3207089002ea5
+msgid "Transformation_parameters"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:39
+#: 0259620762084850aee22656a0e7e00d
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:41
+#: 99d217e9004641258fc9d0b0f6dc4e8c
+msgid "**Title**: название трансформации,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:42
+#: 449ff08ccf2f4aee88a07b27c8b59c06
+msgid "**Comment**: комментарий,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:43
+#: da8d65c247fd47d0ad7ec28b20871c37
+msgid ""
+"**Cell type**: название типа клеток, к которому будут принадлежать "
+"клетки, возникающие в результате трансформации (:raw-html:`<span "
+"style=\"color: red;\">не изменяется!</span>`),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:44
+#: a8cfe40416ab412c97d182bc088d41c2
+msgid "**Transformation rate**: скорость трансформации."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:46
+#: 90d382366d1a4d7d8bec2a5c315dec0a
+msgid "После того как заданы все параметры, нажмите **Ok**."
+msgstr ""
+

@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data_as_table.rst:4
+#: b938463c4ad142f889d7843ace582473
+msgid "Сохранение данных о клетках в таблицах (Save cells data as table)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data_as_table.rst:8
+#: 5a51c62030374ab9bf51e7d35f0885d5
+msgid ""
+"Если опция |icon_option| **Save cells data as table** включена, то после "
+"завершения симуляции в директории с результатами у вас будет находиться "
+"папка с названием **Cells tables**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data_as_table.rst:6
+#: 45084df8f85a4bbca52b6a4de7616181
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data_as_table.rst:10
+#: 9bacbee2f9a84ff4bb84a114d0b546f6
+msgid ""
+"В этой папке находятся таблицы с названием **Cells_[модельное время]**. "
+"Значение модельного времени, указанное в названии, говорит о том, через "
+"сколько временных единиц после начала симуляции была сгенерирована данная"
+" таблица."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data_as_table.rst:12
+#: 969464a159af48878f3f7fd9328afe9e
+msgid ""
+"Количество таблиц будет зависеть от значений параметров **Max Time** и "
+"**Image interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data_as_table.rst:14
+#: 9c579f6feb344fe59e34d39191700484
+msgid "Пример"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data_as_table.rst:28
+#: fb5fa06264b04e9ab6fa76a206def55b
+msgid ""
+"В этих таблицах для каждой клетки в модели представлены те же данные, что"
+" и в текстовых файлах при включенной опции :ref:`Save cells data "
+"<PhysiCell_simulation_Engine_Save_cells_data>` (дополнительно указан ID "
+"для каждой клетки)."
+msgstr ""
+

@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:4
+#: 05dc2602d65e425ea4c54c15411a0b60
+msgid "Область редактирования параметров симуляции модели (Engine)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:9
+#: 7b85a478038c44d1a0810b41f58377d7
+msgid ""
+"При переключении на вкладку Engine в области редактирования можно будет "
+"настроить следующие параметры:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:11
+#: 49d706e485a54986b195e8f0a93c8ed1
+msgid "Engine_parameters_full_list"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:16
+#: c0cd381c1d1e4b2182b30a10b17628b1
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:18
+#: 80f707ef3194479d8c7c88ec3faba468
+msgid ""
+"**Simulator name**: :ref:`численный решатель "
+"<PhysiCell_simulation_Engine_Simulator_name>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:19
+#: e731b47d76fb42d584342698077981af
+msgid ""
+"**Log Model report**: отметьте ☑, если хотите выводить :ref:`данные о "
+"модели в консоль перед началом расчетов "
+"<PhysiCell_simulation_Engine_Log_model_report>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:20
+#: 148970bec2eb4639978198debc0f392a
+msgid ""
+"**Result path**: путь в репозитории модуля для :ref:`сохранения "
+"результатов <PhysiCell_simulation_Engine_Result_path>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:21
+#: 72160c36b6fc4bb5882cf078b4ec3e85
+msgid "**Max Time**: модельное время, до которого будет продолжаться симуляция,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:22
+#: 0d17526b7bc34f8390de157aec118282
+msgid ""
+"**Parallel diffusion simulation**: отметьте ☑, если хотите использовать "
+"распараллеливание расчетов при моделировании процессов диффузии веществ,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:23
+#: 4bd04136e7344a7db6b089e68e0faa8d
+msgid ""
+"**Cell update type**: :ref:`способ расчета поведения отдельных клеток "
+"<PhysiCell_simulation_Engine_Cell_update_type>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:24
+#: 9af9b585585243dfa9ac362457f25b86
+msgid "**Diffusion dt**: шаг модельного времени для расчета диффузии веществ,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:25
+#: e79c35116d394ebfb59650ea1e1d3085
+msgid ""
+"**Mechanics dt**: шаг модельного времени, с которым происходит "
+"взаимодействие клеток друг с другом и с веществами в среде,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:26
+#: 9bab86d100054be39e9e1b35b60a5e12
+msgid ""
+"**Phenotype dt**: шаг модельного времени, с которым происходит обновление"
+" внутреннего состояния клеток,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:27
+#: 66d90db5b4394e6194be5a47e1469342
+msgid ""
+"**Report interval**: шаг модельного времени, с которым выводится "
+"табличный отчет о состоянии модели при симуляции,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:28
+#: 42578b0e9a724d21a84d2d6a0fd806cb
+msgid ""
+"**Image interval**: шаг модельного времени, с которым сохраняется "
+"визуальное отображение модели при симуляции,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:29
+#: 28cd6d2c10ac450dbdb1a233a15e384c
+msgid ""
+"**Save report**: отметьте ☑, если хотите :ref:`сохранять таблицы "
+"<PhysiCell_simulation_Engine_Save_report>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:30
+#: 7841ae6a77954172ab550b4f2709bad2
+msgid ""
+"**Save cells data**: отметьте ☑, если хотите сохранять :ref:`данные о "
+"клетках в текстовых файлах "
+"<PhysiCell_simulation_Engine_Save_cells_data>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:31
+#: bf777d43ac384d799115477fd5bb05e9
+msgid ""
+"**Save cells data as table**: отметьте ☑, если хотите сохранять "
+":ref:`данные о клетках в таблицах "
+"<PhysiCell_simulation_Engine_Save_cells_data_as_table>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:32
+#: 8473f51478674871a0da6c2e5a9dc033
+msgid ""
+"**Save density**: отметьте ☑, если хотите сохранять :ref:`данные о "
+"веществах <PhysiCell_simulation_Engine_Save_density>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:33
+#: d57e362b69c74ccbb4a0b1f0b491da8e
+msgid ""
+"**Save images**: отметьте ☑, если хотите сохранять :ref:`изображения "
+"модели в процессе симуляции <PhysiCell_simulation_Engine_Save_images>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:34
+#: e7ea68f44c2443c2804593bbbc163fba
+msgid ""
+"**Save GIF**: отметьте ☑, если хотите сохранять :ref:`GIF-изображение "
+"модели в процессе симуляции <PhysiCell_simulation_Engine_Save_GIF>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:35
+#: ea8fbc8fcee940a2a9979f7707e317ea
+msgid ""
+"**Save Video**: отметьте ☑, если хотите сохранять :ref:`видео модели в "
+"процессе симуляции <PhysiCell_simulation_Engine_Save_video>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:36
+#: 78a1d6f77f3b4f888e650f27f368ed45
+msgid ""
+"**Save plots**: отметьте ☑, если хотите :ref:`сохранять графики "
+"<PhysiCell_simulation_Engine_Save_plots>`,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:37
+#: 6b6c89cadba64dd99d0da2b48dfb7a45
+msgid ""
+"**Use manual seed**: отметьте ☑, если хотите использовать "
+"пользовательский seed для случайных процессов модели,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:38
+#: 38845d295cc846ba94e29cdd9a0a3bfe
+msgid "**Manual seed**: пользовательский seed для случайных процессов модели,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:39
+#: 66871911730d4ec1b98a475a27a11289
+msgid ""
+"**Recalculate gradients**: отметьте ☑, если хотите пересчитывать "
+"градиенты веществ во время симуляции модели,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:40
+#: ecb7fca5439042b0a47300a48a147b1b
+msgid ""
+"**Track inner substrates in cells**: отметьте ☑, если хотите отслеживать "
+"содержание веществ внутри клеток во время симуляции модели,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:41
+#: e2f58014bbf1437a988bab3cd41e8238
+msgid ""
+"**Model type**: :ref:`тип модели "
+"<PhysiCell_simulation_Engine_Model_type>`."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:44
+#: c5294a978d8a46098c834ac7c0b71d24
+msgid ""
+"Для симуляции диаграмм типа Physicell всегда используются свойства "
+"численного метода PhysicellSimulationEngine (не редактируется)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:46
+#: bd11637a566b4a16801a29f7c06ebb26
+msgid "Далее мы рассмотрим некоторые параметры вкладки Engine более подробно."
+msgstr ""
+

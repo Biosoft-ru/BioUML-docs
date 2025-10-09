@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:4
+#: a98657a6f3bc44d58f750081f7ab09ef
+msgid "Метод"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:20
+#: 3aa49d22f28f4b36ba59071336db82b4
+msgid ""
+"Метод — это функция, объявленная внутри класса. Она определяет поведение "
+"объекта, т.е. то, какие действия он может выполнять."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:22
+#: b0b8f915d74b4be99448e28e14e9b0e4
+msgid "Основные правила объявления метода в java:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:24
+#: 8dca195f46784a0d90bcba4f36756d84
+msgid ""
+"Может содержать модификатор доступа. Существует несколько таких "
+"модификаторов, однако мы рассмотрим только модификатор доступа типа "
+"\"public\" (обозначает, что объявленный метод доступен отовсюду: из "
+"любого класса любого пакета)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:25
+#: 519dd6cdb6de486bbe3df5363f9dc1f1
+msgid ""
+"Может содержать другие модификаторы (например, static - указание на то, "
+"что метод принадлежит классу, а не объекту класса)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:26
+#: 8aa823feeb0b4955bf7df1ab04a5a6bf
+msgid ""
+"Обязательно содержит тип/класс возвращаемого значения. Если метод ничего "
+"не возвращает, то указывается \"void\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:27
+#: ead02d237e0842d3b33c3fb1fa35d0eb
+msgid ""
+"Ключевое слово \"return\" используется для обозначения того, что именно "
+"возвращает метод (если не указано \"void\")."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:28
+#: ca058fe331ac42dc91794b079b0ae709
+msgid ""
+"Обязательно содержит круглые скобки, внутри которых перечисляются "
+"параметры, которые метод принимает на вход. Если метод ничего не "
+"принимает на вход, то указывается ()."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:30
+#: aebd36668bdf4145863f631d6f4f82ad
+msgid "Пример объявления метода, который возвращает что-либо:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:49
+#: 0f42fa9db45e406980ce4787b338a214
+msgid "Пример объявления метода, который ничего не возвращает:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:68
+#: def0291984d54b6d89a5283d22ed9435
+msgid ""
+"В дальнейшем методы будут описываться следующим образом (все описанные "
+"методы имеют модификатор доступа \"public\"):"
+msgstr ""
+

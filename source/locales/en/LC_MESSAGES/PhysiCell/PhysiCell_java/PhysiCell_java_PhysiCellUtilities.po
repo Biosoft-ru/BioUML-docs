@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:4
+#: 0eef80f8f1e44cb697621bb968bdc960
+msgid "PhysiCellUtilities"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:61
+#: c5c96580b3d74144a8f245b272c9c141
+msgid "Класс PhysiCellUtilities включает дополнительные методы работы с моделью."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:63
+#: 6b165ca4f3e7412fa256b158c54f91c2
+msgid "Для импорта данного класса используйте:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:69
+#: 62ddfbb2e3624231a448ef178abd2bfc
+msgid "Все члены класса PhysiCellUtilities представлены ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:71
+#: 6ec9b8df6349402bb6f7183ae7939b44
+msgid "Члены класса PhysiCellUtilities"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:74
+#: ed51b1acb0e04c0797b8ae936b732644
+msgid "Член класса"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:75
+#: 0757e603a7d14f79a7c0c74f0cf8af48
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:77
+#: d80d732a82104a59bad8653fc95bdf28
+msgid "static place(Model model, String type, int number)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: 5d5efb51947c4cc6ac16269faa6286e3 b22442e3ea4a4fd9b5d8025e3244aee8
+msgid "model - модель."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: 124341b62f2641bda2389b6dabd365d1 3ab67446e1de4cdcab4ea3ddf162056b
+msgid "type - название типа клеток."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: 05fc129d00cb411ab5529f24c4e5f66b 4683416b8b73479e948da94df73011a0
+msgid "number - целое положительное число."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: 862b5635350148c497a4d4c85722d559
+msgid ""
+"Добавляет в модель model клетки типа type, случайно распределенные по "
+"всей среде, в количестве number."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: 005db26d530740a6804a3553a2722e14
+msgid ":ref:`Пример <PhysiCell_java_Interactions_Initial_java>` использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:85
+#: 99f6ced655b849729aef75d3be80de85
+msgid "static place2D(Model model, String type, int number)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: 2a4b5acb5ad346de8d58611634453f07
+msgid ""
+"Добавляет в модель model клетки типа type, случайно распределенные по "
+"всей среде в плоскости z = 0, в количестве number."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: e340234dd58a4d3790a2bbc5c5e8c8dd
+msgid ":ref:`Пример <PhysiCell_java_VirusMacrophage_Initial_java>` использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:93
+#: 0a8725e9a420498a8e19230465c771c5
+msgid "List<Cell> static getNeighbors(Cell cell)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: 14f33578dd574239aae6d76458bbab74
+msgid "cell - клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: abfeefe290ba4a39b1736f6ef80bb756
+msgid ""
+"Возвращает массив, состоящий из соседей данной клетки - клеток в той же "
+"ячейке решетки и соседних ячейках."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
+#: 76ce67b933a6440284eab952881bb171
+msgid ""
+":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_PredatorPhenotype_java>` "
+"использования."
+msgstr ""
+

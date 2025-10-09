@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:4
+#: 755d2ea502854b038d5253b1d21f18cc
+msgid "Сохранение изображений модели в процессе симуляции (Save images)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:11
+#: 0e9626bf90884b1a9ebfeae1336570cb
+msgid ""
+"Если опция |icon_option| **Save images** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться папка с "
+"названием **Image**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:9
+#: d533ae638d7e4a799218923f8442d2e8
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:13
+#: 5c6004faea764b0fa236eb34e6d19bbf
+msgid ""
+"В этой папке для каждого субстрата модели будет находиться отдельная "
+"папка с названием, соответствующим названию субстрата."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:15
+#: b93c07e6cdd0419f9c945ede5c3eceae
+msgid ""
+"В каждой такой папке находятся изображения с названием "
+"**Figure_[модельное время]**. Значение модельного времени, указанное в "
+"названии, говорит о том, через сколько временных единиц после начала "
+"симуляции было сгенерировано данное изображение."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:18
+#: 901e07f1648f43079528dfe67edc3f08
+msgid ""
+"В изображениях в одной папке отображается только субстрат с таким же "
+"названием, как и название этой папки. Например, если в модели есть два "
+"субстрата, \"A\" и \"B\", то после окончания симуляции в папке Image/A "
+"будут находиться изображения, на которых показан только субстрат \"A\", а"
+" в папке Image/B - только субстрат \"B\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:19
+#: 853fbfcc20a546c2953bf0900cdc7126
+msgid ""
+"На изображениях клетки отрисовываются тем цветом, который вы им задали, а"
+" субстраты всегда изображаются красными квадратами."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:20
+#: 48d61be6d9004f7984ada37352a53ae2
+msgid ""
+"Чем больше субстрата в определенной ячейке среды, тем более ярким "
+"оттенком красного она будет закрашена (отрисовывается относительно ячейки"
+" с максимальным содержанием субстрата в данный момент)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:22
+#: e1f622720ed047c185bb5cb39f553e32
+msgid ""
+"Количество изображений в каждой папке будет зависеть от значений "
+"параметров **Max Time** и **Image interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:24
+#: f5af496e21824dea91de9eb5b5ea4051
+msgid "Пример"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:38
+#: 8e9f7c827aa0426d86984baba398e94e
+msgid "Пример таких изображений представлен ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:40
+#: 4123511896634e5095df2b64c07ec2a7
+msgid "Save_images"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:45
+#: cecf857179da4321b9d3e50912b159dc
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:48
+#: 3347e51cb7d841e9acbe6331635ba9de
+msgid ""
+"В верхней правой части каждого рисунка обозначено через сколько временных"
+" единиц после начала симуляции было сгенерировано данное изображение "
+"(**Time**), сколько клеток находится в модели (**Cells**) и по какому "
+"срезу внешнего пространства по оси Z сделано данное изображение (**Z**)."
+msgstr ""
+

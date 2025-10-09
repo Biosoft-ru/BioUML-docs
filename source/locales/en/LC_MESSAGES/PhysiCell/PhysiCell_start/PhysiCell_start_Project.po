@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:4
+#: e9e924ff8a31408a89b810fd60cc35e7
+msgid "Создание проекта"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:11
+#: e966994054eb46b9bd7d03e13fffef12
+msgid ""
+"Прежде чем приступить к созданию модели, необходимо создать проект на "
+"стартовой странице. Для этого на верхней панели во вкладке **Data** "
+"выберите **New project**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:14
+#: 3632c8df9a314e279cc0f9d1c23569d6
+msgid "New_project_button"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:19
+#: 5998323ef687411eb430499af6146020
+msgid ""
+":raw-html:`<br>` После этого в появившемся окне вы можете настроить свой "
+"проект:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:22
+#: 3104925cdcdf4e349b326916ac877f59
+msgid "Project_creation"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:27
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:46
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:61
+#: 491ee23c55f34b5db81f7ab9c32d82b3 a83c265f5e024a15bc62778d995bf069
+#: c047ffb4c5a44252915cd62ed1d507ac
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:29
+#: c31b1da7ff984978af7083ee46d88092
+msgid "**Project name**: название проекта,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:30
+#: c4880a31c4a24a76af76ddff6e4816f9
+msgid "**Table implementation**: реализация таблиц (File или SQL),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:31
+#: b4c55107a5d642b58157273a9b9209e9
+msgid "**SQL connection**: SQL-соединение,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:32
+#: 7d374b5060224be5aea3f6114fa95442
+msgid "Какие директории создавать в проекте (проставьте ☑ в нужных местах)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:34
+#: 54b7a12256d54531a86eff108892b3b8
+msgid "После настройки проекта нажмите **Ok**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:37
+#: 7d0ae4689e5b47179deb171d74da24b8
+msgid "После создания проекта изменить его настройки уже не удастся."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:39
+#: 60cc67f3e4034584ae46eff026d745ef
+msgid ""
+"Теперь в левой верхней части экрана во вкладке **Data** в папке "
+"**data/Collaboration** вы можете видеть созданный вами проект, в котором "
+"в папке **Data** находятся все выбранные на предыдущем этапе директории."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:41
+#: 48c4ed2136444079af4ce6db6879837e
+msgid "Project_content"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:49
+#: 7dfa968d779f4cd79606a05e922b9786
+msgid "После создания проекта можно создавать новые папки внутри него."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:51
+#: e9f7f09714394061949bb907f5816819
+msgid "Чтобы удалить проект, нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:53
+#: 0111213a8c3b40b38b74e1fefc41453b
+msgid "Нажать ПКМ на обозначение проекта в дереве."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:54
+#: 82deae290d2a40e997f64fb3a46229c6
+msgid "В выпадающем списке нажать ЛКМ |icon_delete| **Remove database**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:9
+#: c4aad61a08c24594bf8ab9c9c09c474c
+msgid "icon_delete"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:56
+#: d0bfb74dd89f4f17a7c49560cb668fce
+msgid "Delete_project"
+msgstr ""
+

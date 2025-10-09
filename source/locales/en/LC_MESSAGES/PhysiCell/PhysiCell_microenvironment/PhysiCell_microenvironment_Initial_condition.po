@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:4
+#: 48aa824e34634e9ba19b339d1dbfc646
+msgid "Начальное расположение клеток (Initial Condition)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:13
+#: 34cda6f092e04ce9bf6c76226454d3d4
+msgid ""
+"После нажатия на вкладку **Initial Condition** на панели свойств справа у"
+" вас появится меню, в котором нужно поставить ☑ напротив |icon_option| "
+"**Custom condition**, если вы хотите задать определенное начальное "
+"расположение клеток."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:9
+#: 28e3044f57f4447fb2f16ccb941e015a 6166f116d5eb47a195f89a0d24c07f55
+#: 7b92a155cf8a4dfc8ef69c17210b9bd4 9549014fa8684d69886533fb553ffb63
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:15
+#: 1b8ffef6bde249feb527ad744aeb9085
+msgid "Initial_condition_menu"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:20
+#: cdc5624e973d4b3c894808201d2a5e84
+msgid ""
+":raw-html:`<br>` Если вы не хотите настраивать определенное начальное "
+"расположение клеток (хотите оставить случайное расположение), то оставьте"
+" вкладку **Initial Condition** без изменений."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:23
+#: 5b64d2cd37ef4889abf7e775e72fc5d9
+msgid ""
+"При выборе ☑ напротив |icon_option| **Custom condition** у вас появится "
+"меню, в котором можно настроить 2 параметра:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:25
+#: 27280059d7bd499b82dbbbd91b4acb05
+msgid "Initial_condition_parameters"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:30
+#: 80d86b0c0147484880ba95de770fad2d
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:32
+#: 04b6965729104a27a64a5fde4a0bbb65
+msgid ""
+"|icon_option| **Custom Java code**: путь до Java-кода в репозитории, "
+"описывающего начальное расположение клеток в модели,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:33
+#: 40ac96800d2f499ca1fa31a71625f277
+msgid ""
+"|icon_option| **Custom table**: путь до таблицы в репозитории, "
+"описывающей начальное расположение клеток в модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:35
+#: fcd0149162754b3a9cdb0b39d740f011
+msgid ""
+"Чтобы указать путь до Java-кода или таблицы, нужно нажать ЛКМ на "
+"|icon_Java_code| **(select element)** или |icon_table| **(select "
+"element)**, соответственно, и в появившемся окне выбрать нужный файл в "
+"репозитории."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:10
+#: 5aebc70917cb495ebda50bf985aa4fcb
+msgid "icon_Java_code"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:11
+#: eb6dc962d2cf4800a3240215f31f65a1
+msgid "icon_table"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:38
+#: 4df7a403924a444ab771d8ccf23d85f3
+msgid ""
+"Нельзя одновременно указать и Java-код и таблицу, нужно выбрать что-то "
+"одно."
+msgstr ""
+

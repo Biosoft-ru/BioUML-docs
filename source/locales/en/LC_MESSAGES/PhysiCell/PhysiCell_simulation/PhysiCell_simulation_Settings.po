@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:4
+#: 1547173597cd4ae8998401ac8e2cd00e
+msgid ""
+"Вкладки для переключения между настройками параметров симуляции (Engine) "
+"и меню добавления переменных для вывода на график (Plots)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:9
+#: 41186686ee9e4fcaa9d923d52d4a5857
+msgid ""
+"Вкладки для переключения между настройками параметров симуляции (Engine) "
+"и меню добавления переменных для вывода на график (Plots) находятся в "
+"левой части панели настройки симуляции."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:11
+#: 86599255fb7240e8a051106587ecd8ba
+msgid "Engine_plots_buttons"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:16
+#: 5df1dec4f5e74dfaa56e6fba3c5107c7
+msgid ""
+":raw-html:`<br>` Чтобы выбрать ту или иную вкладку нужно нажать на нее "
+"ЛКМ."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:19
+#: 411b916378a44a23bcdfaba92c2f5539
+msgid ""
+"При переключении между вкладками изменяется набор параметров в области "
+"редактирования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:21
+#: a4dc9a2d52254996bbc8b1eccf01c103
+msgid "Engine_and_plots_parameters"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:26
+#: e2d361301d724f8393e15000550ba2a3
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:29
+#: e219134e19114dfea12c786c434e1815
+msgid "При переключении на вкладку Plots исчезает область вывода логов справа."
+msgstr ""
+

@@ -1,0 +1,143 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:4
+#: 401cd20b52b44014bb06337d8c797503
+msgid "Межклеточные взаимодействия (Interactions)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:11
+#: da960ae446ba481aaf1d9c84268f5688
+msgid ""
+"После нажатия на вкладку **Interactions** на панели свойств справа у вас "
+"появится меню, в котором отображаются параметры межклеточных "
+"взаимодействий клеткок выбранного типа."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:13
+#: 2dcca32a845a43cf9fe44aacfe7324b4
+msgid "Interactions_menu"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:18
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:40
+#: 7842cb4c556d47bf94eafdc6ac0be268 efcc2f062eac4f5fb897387216bbb4f2
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:20
+#: 38fbb610870b4b33933787cb5ec0fa1c
+msgid ""
+"**Damage rate**: интенсивность, с которой клетки выбранного типа атакуют "
+"клетки других типов при взаимодействии,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:21
+#: 40a72346eeb842418e8c6eea4b4aa3ef
+msgid ""
+"**Damage phagocytosis rate**: интенсивность, с которой клетки выбранного "
+"типа фагоцитируют мертвые клетки любого типа,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:22
+#: 2cc6a358bad74074ae1cff1f2c0b65c0
+msgid ""
+"**Cell types**: типы клеток, с которыми взаимодействуют клетки выбранного"
+" типа (рассмотрено ниже)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:25
+#: 7efee6bac7604e7d9f901fd6507d9075
+msgid ""
+"Не путать **Damage rate** во вкладке Interactions и **Damage rate** во "
+"вкладке Integrity."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:27
+#: fbd06a7e944b4d67bb0b42bc7018455a
+msgid ""
+"**Damage rate** (Interactions) - интенсивность, с которой клетка атакует "
+"ДРУГИЕ клетки при взаимодействии."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:29
+#: 9a6afeb5fec141f8a7c5b669b4a5a80c
+msgid ""
+"**Damage rate** (Integrity) - интенсивность, с которой клетка САМА по "
+"себе получает повреждения (не зависит от других клеток, просто клетка как"
+" бы \"изнашивается\")."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:31
+#: f2123e5268964b0483864a39e1a54e2d
+msgid ""
+"На рисунке выше выбранный тип клеток на диаграмме уже имеет "
+"взаимодействие (|icon_interaction|), поэтому под полем **Cell types** уже"
+" располагается поле с названием типа клеток (в данном случае, "
+"**CellDefinition_1**), с которым клетки выранного типа взаимодействуют. "
+"Если бы таких типов клеток было несколько, то для каждого из них было бы "
+"соответствующее поле."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:9
+#: 7034afa10502485c8ac25826e1d64798
+msgid "icon_interaction"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:33
+#: 8c12c77cc5054cd3a929a1ff043db9bb
+msgid ""
+"Для каждого типа клеток, с которым клетки выранного типа взаимодействуют,"
+" можно настроить следующие параметры."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:35
+#: db0b7dc8e520431c8874243a7f8e80d6
+msgid "Interaction_settings"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:42
+#: cc366298af294f81b8c33ca55a07538d
+msgid "**Attack rate**: интенсивность атаки,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:43
+#: 947b85ee0bee4dbc9a85efd4d2f9d073
+msgid "**Fuse rate**: интенсивность слияния двух клеток,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:44
+#: 63caee1800894166b4edbca9ffa8b7a9
+msgid "**Phagocytosis rate**: интенсивность фагоцитоза."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:46
+#: a4a6c69508b2457e8562c8a0dc5076db
+msgid "Также эти параметры можно настроить непосредственно на диаграмме модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Interactions.rst:49
+#: cdae38b4738a407faabe3c496b38b2d2
+msgid ""
+"Во вкладке Interactions не следует добавлять новые взаимодействия -  "
+"добавляйте и удаляйте их только через диаграмму."
+msgstr ""
+

@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst:4
+#: 94a2e3dc441b42f9b34414fd43327adb
+msgid "ModelReader"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst:61
+#: ff5a89eabbce4d6280aecea24b41a6a2
+msgid "Класс ModelReader используется для чтения модели из текстового файла."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst:63
+#: 4ba4cad8cf0f402d9e683746a410f6a1
+msgid "Для импорта данного класса используйте:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst:69
+#: deec008ad09548a9bb5dfede8cd1876a
+msgid "Все члены класса ModelReader представлены в ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst:71
+#: bea16f34f9594e11bffc5af20eabc801
+msgid "Члены класса ModelReader"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst:74
+#: 5be40c89e5ed480e9e640cd110d343ed
+msgid "Член класса"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst:75
+#: b2f88eb22fd24457b94ee6b3f4b6fe69
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst:77
+#: eff17471f12244559796b15906d76df7
+msgid "static readColor(String color)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst
+#: 52a87d14359d4994b18b2c8c946469c7
+msgid "color - цвет, например \"green\", \"red\" или \"rgb(100,100,255)\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst
+#: 7cfeccc681dd4897803d84f49ff39759
+msgid "Возвращает цвет, описываемый строкой color."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst
+#: c000724f9b3b4d0bb22e2269071961cf
+msgid ""
+":ref:`Пример <PhysiCell_java_Biorobots_BiorobotsVisualizer_java>` "
+"использования."
+msgstr ""
+

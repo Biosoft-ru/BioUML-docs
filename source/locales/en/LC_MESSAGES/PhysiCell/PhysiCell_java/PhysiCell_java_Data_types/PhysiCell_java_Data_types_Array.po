@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:4
+#: 0d26f67a6c7c4ae7825cb5ebbc2619bd
+msgid "Array"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:6
+#: c47031d6db794cb4a307d6f217f3f00f
+msgid ""
+"Переменная этого типа данных описывает упорядоченную коллекцию элементов "
+"одного типа (примитивного или ссылочного), доступ к которым "
+"осуществляется по индексу."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:9
+#: c0ed905e33ab42d9901782da053b5f41
+msgid "Индексы элементов начинаются с 0."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:11
+#: ae3d47a577c24837a9ac1463f57d4562
+msgid ""
+"Объем памяти, который занимает переменная такого типа, зависит от типа и "
+"количества элементов и вычисляется по следующей формуле:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:13
+#: c4fbc4d4ae834d479d051b8391e1e896
+msgid "M =  N + (size × i)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:17
+#: a287bb574b784f0c903426d1a10d2cb1
+msgid "где:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:19
+#: 8c17947acb9c48e589be26f404c3d756
+msgid "M - занимаемая память (байт),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:20
+#: 8e11bf10159b44ebabd822c0c1cfd599
+msgid "N - накладные расходы объекта массива,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:21
+#: e7b525f3588b42dc8f233c3d1f9c59fc
+msgid "size - количество элементов в массиве,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:22
+#: 4b052b680b3348919684e4ef2c96f206
+msgid "i - размер элемента массива (байт)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:24
+#: a36d8bdc02384dc6927c3c7b1804f543
+msgid "Пример использования представлен ниже:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:35
+#: 8881f426bb624ee79a1f4d6b1384e7e3
+msgid ""
+"Перед названием массива указывается тип его элементов: для примитивов — "
+"например, int[], для объектов — List<Название класса>."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:37
+#: fd43a6eb76d44465996196610ddc909f
+msgid "Сами элементы массива прописываются в фигурных скобках через запятую."
+msgstr ""
+

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,13 +17,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.17.0\n"
 
-#: ../../source/modular 29c9dc540e8b46e28418c8c8e01b1405 model.rst:2 sbgn
+#: ../../source/modular 25320bb89c874b01be8789df4e963251 model.rst:2 sbgn
 msgid "Создание иерархической SBGN модели"
 msgstr ""
 
-#: ../../source/modular cf57471d242b48eaa8e0768969f4af9e model.rst:16 sbgn
+#: ../../source/modular f24cecfab9bd4eaca20833ce075d8dfd model.rst:16 sbgn
 msgid ""
 "На примере модели, включающей две подмодели разберем `создание "
 "иерархической SBGN модели "
@@ -31,19 +31,19 @@ msgid ""
 "docs/Data/Hes7_Composite>`_ (Рисунок 1)."
 msgstr ""
 
-#: ../../source/modular ce7940feca8649499c31a92d37bd8304
-#: d8a573dda5954846b45e8b18aaf47ce9 f88dc78b4b214100842b454156167f37
-#: model.rst:23 model.rst:35 model.rst:46 sbgn
+#: ../../source/modular 8e7f0cebb20649e1916772db5f19b5ca
+#: b4142a6f54d94ce2a3d2680c10ac6573 d6317fcc86b54f3b8cab03e97c211bc6
+#: model.rst:18 model.rst:30 model.rst:41 sbgn
 msgid "Простейшая модель"
 msgstr ""
 
-#: ../../source/modular dd7192a8d1444145a1557fec6d0c25b1 model.rst:23 sbgn
+#: ../../source/modular 4a13a3fcbc0a4818b5cbe08e74081a6d model.rst:23 sbgn
 msgid ""
 "Рисунок 1. Иерархическая модель, включающая в себя две подмодели Hes7 "
 "oscillator и Hes7 oscillator_newcell"
 msgstr ""
 
-#: ../../source/modular 68d8633daf55451c9871395e5a3feb77 model.rst:25 sbgn
+#: ../../source/modular 625053b3c37044d7a54fd96c321a07ee model.rst:25 sbgn
 msgid ""
 "Подмодели  Hes7 oscillator и Hes7 oscillator_newcell описывают "
 "транскрипцию, регулируемую транскрипционным фактором, последующую "
@@ -55,7 +55,7 @@ msgid ""
 "негативно регулирует транскрипцию мРНК (mRNA_newcell)."
 msgstr ""
 
-#: ../../source/modular 13a95f938d1042ecadb92bba0ff680de model.rst:35 sbgn
+#: ../../source/modular e7326460a24e46d0b9fb700269318397 model.rst:35 sbgn
 #, python-format
 msgid ""
 "Рисунок 2. Подмодель `Hes7 oscillator "
@@ -63,7 +63,7 @@ msgid ""
 "docs/Data/Hes7%20oscillator>`_"
 msgstr ""
 
-#: ../../source/modular d8e8e2c21191404cb23519fa2fe5d1d3 model.rst:37 sbgn
+#: ../../source/modular d4df1fadb8c34c4a962ec59df768102e model.rst:37 sbgn
 msgid ""
 "В подмодели Hes7 oscillator_newcell белок (protein_newcell), кодируемый "
 "(mRNA_newcell), переходит в клетку Hes7 oscillator, и в ней соответствует"
@@ -71,7 +71,7 @@ msgid ""
 "ранее, позитивным образом регулирует транскрипцию мРНК (mRNA)"
 msgstr ""
 
-#: ../../source/modular be2d17936cd4423eae1ddb5c7bf74cc1 model.rst:46 sbgn
+#: ../../source/modular fb6f929ebf5b4f05b8408b91f0622c60 model.rst:46 sbgn
 #, python-format
 msgid ""
 "Рисунок 3. Подмодель `Hes7 oscillator_newcell "
@@ -79,7 +79,7 @@ msgid ""
 "docs/Data/Hes7%20oscillator_newcell>`_"
 msgstr ""
 
-#: ../../source/modular 54639c0f771c40dfb201a333b840d863 model.rst:48 sbgn
+#: ../../source/modular 01a98321002b4b2eaea77dc0817b07f9 model.rst:48 sbgn
 msgid ""
 "1. Для **создания новой диаграммы подмодели**, во вкладке "
 ":guilabel:`Data` области :doc:`репозитория </user_interface>` выберите "
@@ -89,27 +89,27 @@ msgid ""
 "\"Модель SBML в нотации SBGN (SBML in SBGN notation)\"."
 msgstr ""
 
-#: ../../source/modular 12c3823adda341ff8abd01b523a3fb0b
-#: bdda7ac82a1a419e8d72a23b8c4b8385 ea856a2fc29c474193c17dfc9e50d833
+#: ../../source/modular 3cd9d1e515794dcda3b65acb14104aa2
+#: 4f2f627d4a9043e19eb8601859d899cd 71f72e1580d44fd6b1b9f055879c6732
 #: model.rst:4 sbgn
 msgid "diagram"
 msgstr ""
 
-#: ../../source/modular 088e0ee3010542b29ad8d2a07a568a11 model.rst:53 sbgn
+#: ../../source/modular f8f04296fd044557b9f8aa44a8fb620b model.rst:53 sbgn
 msgid ""
 "2. Добавьте на диаграммы :ref:`компартмент <compartment>`, :ref:`сущности"
 " <entities>` и :ref:`реакции <process>`. Подробное описание этих этапов "
 "описано в главе :doc:`Создание SBGN модели </sbgn model>`."
 msgstr ""
 
-#: ../../source/modular 6a71ee74226242a89d4365294505f42c model.rst:56 sbgn
+#: ../../source/modular c7122f24b6ae4786b81d7dc227a4c6a7 model.rst:56 sbgn
 msgid ""
 "3. Добавьте :ref:`формулы <formula>`. Формулы отображаются вo вкладке "
 ":guilabel:`Info` в области :doc:`информационного окна </user_interface>` "
 "путем нажатия на узел, соответствующий процессу."
 msgstr ""
 
-#: ../../source/modular f0e8900f7bb74a2f900ce3bfafad608b model.rst:59 sbgn
+#: ../../source/modular 76ac44c35b304fcb94b5936f40f55117 model.rst:59 sbgn
 msgid ""
 "4. Добавьте :ref:`начальные значения для переменных и параметров "
 "<formula>`. Численные значения можно взять из диаграмм в области "
@@ -118,7 +118,7 @@ msgid ""
 ":guilabel:`Variables`, соответственно"
 msgstr ""
 
-#: ../../source/modular 01647cf7089848a58553af014853e738 model.rst:63 sbgn
+#: ../../source/modular ca885262aba34c88a79187dafa1431d9 model.rst:63 sbgn
 msgid ""
 "5. Добавьте :ref:`порты <ports>` в диаграммах подмоделей. Чтобы создать "
 "порт перейдите в документ подмодели и нажмите на иконку |port|. В "
@@ -129,78 +129,78 @@ msgid ""
 " созданного элемента диаграммы будет создан порт."
 msgstr ""
 
-#: ../../source/modular 211f0b9ae61a4b2a94ee2cd2fe06ee19 model.rst:14 sbgn
+#: ../../source/modular b86ef134cd684bd5a36868d11658cbaa model.rst:14 sbgn
 msgid "port"
 msgstr ""
 
-#: ../../source/modular 26f23f551a204ef69b4d42f88a0c934d
-#: 2a078399f0d841d486cc115cf5c36093 3aa9ff4e8424401ea4f3985163f6960e
-#: 64719ca602f54bc7b44cec30b2db3b40 6986eaa147164563881f07248f7266d3
-#: 73c08dfad40649c9a58e657e5458a0c9 88e2585efa774bf18175805917782cd8
-#: 9361593205f6443e937c33d154cd5101 9698dce9877142d19e6977fe652eaaaa
-#: f7b8dc878ae341628735691a7db1b535 model.rst:9 sbgn
+#: ../../source/modular 10065edd9f4a43bea76208ad55e794b3
+#: 2bb17b266a5049928b6b0ed2acce7cd4 397ec5fe8742474f93ca4a9253351d71
+#: 558591f28c214103a16f8a6a85c128b2 6bffb89ca82d4e7abafb1ec4948f7abc
+#: 8cfa80cef93e434dbbefb837503c528f 90d14cd613d34b7690b3ca4afb9410fe
+#: a3b4e1df784d45418d58cc21e339ed91 d6fe9bae59d447b5b4ac31d94dfaf23e
+#: f1f23a864a7345d9867973723d3a859c model.rst:9 sbgn
 msgid "option"
 msgstr ""
 
-#: ../../source/modular b70addecf828495b92f8e0beecf513b9 model.rst:67 sbgn
+#: ../../source/modular 7e92961db2964317a6d6ee851e43632d model.rst:67 sbgn
 msgid ""
 "В зависимости от **направления передачи сигнала** выделяется три типа "
 "портов: вход, выход и контакт."
 msgstr ""
 
-#: ../../source/modular f14ee84091e9417296ce96934c56e684 model.rst:69 sbgn
+#: ../../source/modular 99fb0b5ee49541e1a58d3bc357fcaef4 model.rst:69 sbgn
 msgid ""
 "*Вход (input)* - значение переменной подается на вход модуля и не может "
 "быть изменено модулем;"
 msgstr ""
 
-#: ../../source/modular 3f57facbc6834e92885185b35eaeb19d model.rst:70 sbgn
+#: ../../source/modular 94b09e9c44564935a47f4f5fa9459fd3 model.rst:70 sbgn
 msgid ""
 "*Выход (output)* - значение переменной полностью определяется "
 "(вычисляется) внутри модуля и подается на вход другим модулям;"
 msgstr ""
 
-#: ../../source/modular 74b643b7581a4f1a9b345dfaffdd5dd1 model.rst:71 sbgn
+#: ../../source/modular 0b769759351b4ed298a8dd23d55b5c63 model.rst:71 sbgn
 msgid ""
 "*Контакт (contact)* - переменная, значение которой могут изменять оба "
 "модуля."
 msgstr ""
 
-#: ../../source/modular 09ac21a20167496caf9ab3fd1328734d model.rst:73 sbgn
+#: ../../source/modular cd40cba775b645f388e79bb199f1a963 model.rst:73 sbgn
 msgid ""
 "Существует три типа **доступности портов**, они могут быть приватными, "
 "публичными и вынесенными:"
 msgstr ""
 
-#: ../../source/modular 5c7db38f1ca348708094616b79247f97 model.rst:75 sbgn
+#: ../../source/modular 7f32fdd27dd54481b37a7ebd10127767 model.rst:75 sbgn
 msgid "*Приватный порт* (private) используется для изменения поведения модулей."
 msgstr ""
 
-#: ../../source/modular eccf8044e0674bc8b14dfa7c98091fcb model.rst:76 sbgn
+#: ../../source/modular 4840e8e6a08e483abcfd5fd41025d64a model.rst:76 sbgn
 msgid ""
 "*Публичный порт* (public) используется для представления модульной модели"
 " в виде модцля и включения ее в другую модельную модель."
 msgstr ""
 
-#: ../../source/modular a0ad26965e0040a695c93430bbc8580e model.rst:77 sbgn
+#: ../../source/modular e4d8ef91bcd04052b648edd380f4a848 model.rst:77 sbgn
 msgid "*Вынесенный порт* (propagated)..."
 msgstr ""
 
-#: ../../source/modular 8cd46225b65d416f8387a1d122869a26 model.rst:79 sbgn
+#: ../../source/modular 23a99cd0fc2f4e0ea38bf8d519bb65df model.rst:79 sbgn
 msgid ""
 "В подмодели Hes7 oscillator для переменной protein_extra создайте "
 "публичный входной порт c заголовком \"protein_extra\" и для переменной "
 "protein - выходной публичный порт с заголовком \"p\"."
 msgstr ""
 
-#: ../../source/modular e3f48ea3f8d74b17b540c277085aed1d model.rst:82 sbgn
+#: ../../source/modular f51055372b2e4f918b2bc9ad9d2c1e37 model.rst:82 sbgn
 msgid ""
 "В подмодели Hes7 oscillator_newcell для переменной protein_extra создайте"
 " публичный входной порт c заголовком \"protein_extra\", и для переменной "
 "protein_newcell - выходной публичный порт с заголовком \"p_1\"."
 msgstr ""
 
-#: ../../source/modular 47f0703d5ec84fc9888b954108f29468 model.rst:85 sbgn
+#: ../../source/modular 9b614923a616430a807f74d4cca6e57b model.rst:85 sbgn
 msgid ""
 "6. Для **создания иерархической диаграммы**, во вкладке :guilabel:`Data` "
 "области :doc:`репозитория </user_interface>` выберите проект и нажмите "
@@ -210,7 +210,7 @@ msgid ""
 "SBML в нотации SBGN (SBML comp in SBGN notation)\"."
 msgstr ""
 
-#: ../../source/modular 9c9b27d1d54a4a1c8c7e1f9be88a7d09 model.rst:90 sbgn
+#: ../../source/modular 4f4cf028a3e541ed80d6d7e24e6bac50 model.rst:90 sbgn
 msgid ""
 "7. Чтобы **добавить подмодели** на иерархическую диаграмму, нажмите на "
 "иконку |diagram|, расположенную на панели инструментов. В открывшемся "
@@ -218,36 +218,36 @@ msgid ""
 "(Рисунок 4)."
 msgstr ""
 
-#: ../../source/modular 58e53f493f7d492bbde4425cd09f8ccb model.rst:98 sbgn
+#: ../../source/modular dd8b439605914d3587fadfb8e875936d model.rst:93 sbgn
 msgid "Добавление подмодели"
 msgstr ""
 
-#: ../../source/modular 8fcf2c9edea545cbb586434603d696b1 model.rst:98 sbgn
+#: ../../source/modular 511012ea46f34611a1007b7a1effdcba model.rst:98 sbgn
 msgid "Рисунок 4. Добавление подмодели"
 msgstr ""
 
-#: ../../source/modular 718dd661b6f9408a98711c7b34483ce9 model.rst:100 sbgn
+#: ../../source/modular 2077ee4ef2634c7ea4ae92953fa15980 model.rst:100 sbgn
 msgid ""
 "Таким образом добавьте подмодели Hes7 oscillator и Hes7 "
 "oscillator_newcell (Рисунок 5)."
 msgstr ""
 
-#: ../../source/modular 3282d6a028864681806c8d8eec0776ca model.rst:107 sbgn
+#: ../../source/modular 61e32483e9814a7e9a677c5a106e05d5 model.rst:102 sbgn
 msgid "Добавленные подмодели Hes7 oscillator и Hes7 oscillator_newcell"
 msgstr ""
 
-#: ../../source/modular b1a0eec7f9d84e0399ced44fdf48420f model.rst:107 sbgn
+#: ../../source/modular 6b8c56aca26144adabf2d655514118a8 model.rst:107 sbgn
 msgid "Рисунок 5. Добавленные подмодели Hes7 oscillator и Hes7 oscillator_newcell"
 msgstr ""
 
-#: ../../source/modular a6374e518f7d4ec094efc4ea0c25268c model.rst:109 sbgn
+#: ../../source/modular fe745b89e9f6441197d3eaeb80a190c7 model.rst:109 sbgn
 msgid ""
 "Внутри подмоделей будут отображаться порты, созданные в подмоделях. Их "
 "можно перемещать, нажимая левой кнопкой мыши, и перетаскивая в другое "
 "место внутри подмодели."
 msgstr ""
 
-#: ../../source/modular 2aaa5e3d47bd48eb8c6d4a7ea9f293ee model.rst:112 sbgn
+#: ../../source/modular 137ce511b33141fc838f242e3d3670a4 model.rst:112 sbgn
 msgid ""
 "8. Для **установления** :ref:`связи <ports>` **между входным и выходным "
 "портом** в иерархической модели, нажмите на иконку |directed_link|, "
@@ -255,11 +255,11 @@ msgid ""
 "входной и затем на выходной порт, расположенные внутри подмодулей."
 msgstr ""
 
-#: ../../source/modular 031eb395fd2848c58a7cbccb6cd9b819 model.rst:13 sbgn
+#: ../../source/modular b95dab168f4d47f4935b318c303983df model.rst:13 sbgn
 msgid "directed_link"
 msgstr ""
 
-#: ../../source/modular d6b97e828ad24047b704d490f6efffc5 model.rst:115 sbgn
+#: ../../source/modular e80377fbc0054a0b9e5e7d6e3b67549f model.rst:115 sbgn
 msgid ""
 "Выходной порт \"p\" в подмодели Hes7 oscillator соединяется с входным "
 "портом \"protein extra\" в подмодели Hes7 oscillator_newcell. Выходной "
@@ -267,7 +267,7 @@ msgid ""
 "портом \"protein extra\" в подмодели Hes7 oscillator."
 msgstr ""
 
-#: ../../source/modular b79f2bf6f91c48e4a499112161188ae3 model.rst:118 sbgn
+#: ../../source/modular 6db642a460c5433ca374f648dd92b043 model.rst:118 sbgn
 msgid ""
 "9. Создайте :ref:`график <plot>`, отражающий результаты численного "
 "расчета модели. Для того, чтобы добавить переменную (переменные), "
@@ -275,43 +275,43 @@ msgid ""
 "(Рисунок 6)."
 msgstr ""
 
-#: ../../source/modular 2f34e730275c4a6e9e8a9ee7949dee3d model.rst:126 sbgn
+#: ../../source/modular 9553bc776cd4467599708bf2b4acf74a model.rst:121 sbgn
 msgid "Создание графика"
 msgstr ""
 
-#: ../../source/modular 657d01f4c8984292bf69d7e58c07d5b0 model.rst:126 sbgn
+#: ../../source/modular bc10ab23d845401d94281c31fdfff19e model.rst:126 sbgn
 msgid "Рисунок 6. Создание графика"
 msgstr ""
 
-#: ../../source/modular d5bcc6a78e0b46858e6da7fb39c37c13 model.rst:128 sbgn
+#: ../../source/modular 0596f1e61c724d02b2f4dfa040843009 model.rst:128 sbgn
 msgid ""
 "В *опциях графика* перейдите в |folder| [1] Plot и затем в |folder| "
 "Curves добавляются переменные. В |option| Path укажите подмодель, а в "
 "Value выберите нужную переменную из выпадающего списка (Рисунок 7)."
 msgstr ""
 
-#: ../../source/modular 1e7d1c0d849146f9ae0980e2efd0f66d
-#: 566524b90fce4161bdfdf2500099cd38 e0d2f935152b433ead40108f5e20209c
+#: ../../source/modular 15036126f4364fd19ae5fd0dadf05175
+#: a9048ae46aff4e6bb51802b6acc1b750 cadb9da7a6cf4fbd80de114447bf784d
 #: model.rst:8 sbgn
 msgid "folder"
 msgstr ""
 
-#: ../../source/modular a7f8180ca019464dafa296e928372787 model.rst:136 sbgn
+#: ../../source/modular 1dbeb98c474c4b0d8acdbaba2ed21a8a model.rst:131 sbgn
 msgid "Добавление переменной на график"
 msgstr ""
 
-#: ../../source/modular 7906b72cc48d4ccc90e8371c1e3a8c26 model.rst:136 sbgn
+#: ../../source/modular d3293985b5094dc6a2e14c813e31373b model.rst:136 sbgn
 msgid "Рисунок 7. Добавление переменной на график"
 msgstr ""
 
-#: ../../source/modular f636c3fa9199457e9dc39824b520fb59 model.rst:138 sbgn
+#: ../../source/modular 0b6d59bb85654620b94dd1d717d847e4 model.rst:138 sbgn
 msgid ""
 "5. Запустите :ref:`численный расчет модели <simulation>`. Для этого в "
 "области поля операций на горизонтальной панели выберите вкладку "
 ":guilabel:`Simulation` и на вертикальной панели - :guilabel:`Engine`."
 msgstr ""
 
-#: ../../source/modular 2c33d33d22e54d91b6f11223bbf3cb27 model.rst:141 sbgn
+#: ../../source/modular a4a7abe5a4984ca6909d23108fdf71ab model.rst:141 sbgn
 msgid ""
 "В поле |option| Selected engine выберите *инструмент для численных "
 "расчетов модели* -  ODE Simulation enпgine. В |folder| Java simulation "
@@ -321,15 +321,15 @@ msgid ""
 "поле |option| Completion time (Рисунок 8)."
 msgstr ""
 
-#: ../../source/modular fa036e20bfa147038ff1995ea013bd5e model.rst:152 sbgn
+#: ../../source/modular 355a908196214112ab336e9340f54964 model.rst:147 sbgn
 msgid "Задание опций для численного расчета"
 msgstr ""
 
-#: ../../source/modular 32a6bb13a02c4ba692fda6cd9daa9047 model.rst:152 sbgn
+#: ../../source/modular 4fba486069c9446aa8a9d2ac2df8f1ec model.rst:152 sbgn
 msgid "Рисунок 8. Задание опций для численного расчета"
 msgstr ""
 
-#: ../../source/modular b1980acf129d4b98b067b1a77db59b80 model.rst:154 sbgn
+#: ../../source/modular e072e39d6e16460990c2bcaf94e8b98a model.rst:154 sbgn
 msgid ""
 "Для того, чтобы *запустить симуляцию модели*, сначала сохраните выбранные"
 " опции для симуляции, путем нажатия на иконку |save|, расположенную в "
@@ -338,21 +338,21 @@ msgid ""
 "график результатов (Рисунок 9)."
 msgstr ""
 
-#: ../../source/modular 0fab3df7240a477a98f5a16935a272c1 model.rst:11 sbgn
+#: ../../source/modular 7f6ab09f080946309553c9ae2a474a24 model.rst:11 sbgn
 msgid "save"
 msgstr ""
 
-#: ../../source/modular 4b4a0a62e52e4ed4a255fd0879b7bb7f model.rst:10 sbgn
+#: ../../source/modular 1f79eb15ab7e4ab3a0914889bb762c38 model.rst:10 sbgn
 msgid "simulate"
 msgstr ""
 
-#: ../../source/modular c02f632426934f3c890e0cf0b53a7197 model.rst:163 sbgn
+#: ../../source/modular 6565ceadf28e43fdb34a45cb193893f5 model.rst:158 sbgn
 msgid ""
 "График, отображающий изменение концентрации мРНК (mRNA), белка (protein) "
 "и транскрипционного фактора (protein_extra) в подмодели Hes7 oscillator"
 msgstr ""
 
-#: ../../source/modular ffb49eeb86fc4de6a43a867dfe357dbd model.rst:163 sbgn
+#: ../../source/modular 3426e2b6d50748f18745029ffa8c07e5 model.rst:163 sbgn
 msgid ""
 "Рисунок 9. График, отображающий изменение концентрации мРНК (mRNA), белка"
 " (protein) и транскрипционного фактора (protein_extra) в подмодели Hes7 "

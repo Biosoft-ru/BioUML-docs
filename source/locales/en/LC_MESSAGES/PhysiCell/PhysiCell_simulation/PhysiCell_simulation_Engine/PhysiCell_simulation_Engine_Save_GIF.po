@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:4
+#: 49975c2255a64bb3ba54e41529e5db09
+msgid "Сохранение GIF-изображения модели в процессе симуляции (Save GIF)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:11
+#: cdd7db6b071e4b709d5402fe1dfce392
+msgid ""
+"Если опция |icon_option| **Save GIF** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться папка с "
+"названием **Video**."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:9
+#: d3e907bf9017466ca779c5241f9d1792
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:13
+#: 44b39de461154195bb56da0caa84ea4d
+msgid ""
+"В этой папке для каждого субстрата модели будет находиться свое "
+"GIF-изображение, на котором будут отображаться клетки и только субстрат с"
+" названием, аналогичным названию изображения."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:16
+#: dab83a7795a64ca2a41562a5971b5f8f
+msgid ""
+"На изображениях клетки отрисовываются тем цветом, который вы им задали, а"
+" субстраты всегда изображаются красными квадратами."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:17
+#: f5cad2ecf1bd4395a78f0f2681b63823
+msgid ""
+"Чем больше субстрата в определенной ячейке среды, тем более ярким "
+"оттенком красного она будет закрашена (отрисовывается относительно ячейки"
+" с максимальным содержанием субстрата в данный момент)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:19
+#: f03073ef4e6749beb24a5791ba97de50
+msgid ""
+"Количество кадров в каждом GIF-изображении будет зависеть от значений "
+"параметров **Max Time** и **Image interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:21
+#: dfaca607c3ef40a8b971f3b58fdfcaaf
+msgid "Пример"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:37
+#: 9cc24431043b43c082019aa9a2de25f6
+msgid "Пример такого GIF-изображения представлен ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:39
+#: 1665124db83442ecb30bdd19502a12fd
+msgid "Save_GIF"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:44
+#: 66a3b07448d94ea6aeb8f9b248b9eb08
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:47
+#: 145b4568c87648388dfd76ca0b42d595
+msgid ""
+"В верхней правой части GIF-изображения обозначено через сколько временных"
+" единиц после начала симуляции был сгенерирован данный кадр (**Time**), "
+"сколько клеток находится в модели (**Cells**) и по какому срезу внешнего "
+"пространства по оси Z сделано данное изображение (**Z**)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:50
+#: f7b1889265534ecc8aaee12683e775dc
+msgid ""
+"При использовании Standalone-версии BioUML, при **экспорте "
+"GIF-изображения** необходимо указать расширение (**.gif**) в названии "
+"файла, иначе файл экспортируется без расширения."
+msgstr ""
+

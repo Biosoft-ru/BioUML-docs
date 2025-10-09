@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:4
+#: d510dee5ac264c45ba9647de259ecc96
+msgid ""
+"Координаты отрисовки дополнительной информации о модели (Statistics X, "
+"Statistics Y)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:11
+#: 48cee0fff0194be5bb7ccabf1bcebb8d
+msgid ""
+"Все окно, в котором отображается модель, имеет свою систему координат, "
+"состоящую из двух осей: X и Y."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:13
+#: d961b1c4db884e49b579058e11587f6c
+msgid "Model_window_axes"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:18
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:30
+#: 452d91f5d3a04a5fb5562adfe847fe2e 54314b3898404df1b7d88aa69f2c5218
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:21
+#: 4654dd2e5dcd4dfeb78333c7776cd541
+msgid ""
+"Не путать систему координат окна, в котором отображается модель, с "
+"системой координат самой модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:23
+#: 9e95f9eb1e9844c6b403341877206932
+msgid ""
+"Изменяя значения полей |icon_option| **Statistics X** и |icon_option| "
+"**Statistics Y**, можно регулировать расположение дополнительной "
+"информации о модели на изображении."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:9
+#: 47ff6d883ff44575a09083e4cb547847 71ec4a110eaf4930ba818bd00a1afb5e
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:25
+#: d23f068e20094876aeab9062a144e078
+msgid "Different_statistics_X_Y"
+msgstr ""
+

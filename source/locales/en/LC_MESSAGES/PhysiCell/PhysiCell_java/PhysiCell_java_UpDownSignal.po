@@ -1,0 +1,162 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:4
+#: cad66f37953c4d738fcef6a04ad8b887
+msgid "UpDownSignal"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:61
+#: 6d65753edf2e4f48ba1e1693df3e147d
+msgid ""
+"Класс UpDownSignal используется для расчета эффекта выходного сигнала "
+"согласно многомерному закону Хилла на основе множественных входящих "
+"сигналов-эффектов. Методы этого класса используются для вычисления "
+"влияния :ref:`правил <PhysiCell_cell_properties_Rules>`."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:64
+#: 37152fcd4c604aa08272b802ab1d08b9
+msgid "Для импорта данного класса используйте:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:70
+#: 90d7d0cf7e14452ebe9569e14ed2e1e9
+msgid "Все члены класса UpDownSignal представлены ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:72
+#: 4724ff58d8b747ba9ba0593f5ecfd771
+msgid "Члены класса UpDownSignal"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:75
+#: c66a318d0c8d48dea24786d77a5ada90
+msgid "Член класса"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:76
+#: 4e15555c6bd648bc9fd83e884de89fa6
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:78
+#: 0e34e48a04614563871e1ceb87c40a6d
+msgid "UpDownSignal sig = new UpDownSignal(Model model)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: e2f39edc8c8c4a7ebb1d0bce2e1346d3
+msgid "model - модель."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: 9a521b2c6c354f389563fff96c703651
+msgid "Создает новый сигнал sig в модели model."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: 44755e99b6a649cea331aa9681759f5f b0860dca95be42cea8067172847fc632
+#: b440e2a5d02e44c89286f284a099c981 cf107bf665bc46c2ba5adb532b67ee5e
+#: d00bba101a354ca68e7282fd57b32781 f621edfd7d9c4bddb358acb146da2a09
+msgid ":ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:84
+#: 1d1d82cd354142ff83d4b79f53d13377
+msgid "double baseParameter"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: ab88393d73464a15bd9b72303ca0c30d
+msgid "Содержит базовое значение сигнала."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:88
+#: de8da524c36446579333a61671883a99
+msgid "double maxParameter"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: e2f5941fed9d4d19800a21f65065253a
+msgid "Содержит максимальное значение сигнала."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:92
+#: 9743edaeadf8495ea6af16090ea8ae0c
+msgid "addEffect(double value, String direction)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: cb3b81dd6d4b413d9a57e35087a132b2
+msgid "value - значение."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: 656e03af26e74ca893e02d6156ecc8f8
+msgid "direction - направленность*."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: 0f92cef467214531b59545d5006d27ab
+msgid "\\*Возможные значения направленности:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: 48f5bfad2ae9477eb8406bbd313ded3c
+msgid "1) \"n (N)\" - нейтральный,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: 5eb9c074f4df4bbdbc8e3846d5ac983a
+msgid "2) \"i (I)\" - ингибитор,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: a6609c54fba447d9bdc095ee9e3434b3
+msgid "3) \"p (P)\" - промотор."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: 472d339ead474bcb87b1d1ee1df6a75a
+msgid "Добавляет эффект со значением value и направленностью direction."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:104
+#: a1d4b6edd3da4094a4fdeeb4051539c0
+msgid "computeEffect()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: bbd8fa8863604aaea6048236a0485239
+msgid "Вычисляет значение сигнала."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:108
+#: e31b4768361545c49f8f05049eabdf97
+msgid "reset()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
+#: 66abe579ec4d4634b23b04cf65aab85b
+msgid "Обнуляет все параметры сигнала."
+msgstr ""
+

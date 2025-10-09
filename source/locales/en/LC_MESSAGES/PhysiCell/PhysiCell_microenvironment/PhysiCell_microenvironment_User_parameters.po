@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_User_parameters.rst:4
+#: 60e25a2db3634f58b51cbcb34af804e0
+msgid "Пользовательские параметры модели (User Parameters)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_User_parameters.rst:9
+#: 86de9798b2f945c998ec36487c4add04
+msgid ""
+"Пользовательские параметры модели могут быть добавлены для использования "
+"в пользовательском Java-коде, например, при генерации начального "
+"расположения клеток, срабатывания событий или в коде, описывающем "
+"поведение отдельных клеток."
+msgstr ""
+

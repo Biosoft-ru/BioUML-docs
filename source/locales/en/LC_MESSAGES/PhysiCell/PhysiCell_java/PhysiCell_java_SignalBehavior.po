@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:4
+#: d5cf6792582d4af49e8665553f631eba
+msgid "SignalBehavior"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:61
+#: 3e278fdb2cd749a29ceb297558f56109
+msgid ""
+"Класс SignalBehavior используется для управления передачи сигналов и "
+"поведения клеток."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:63
+#: 9109b1234b674080ba67456a6403c762
+msgid "Для импорта данного класса используйте:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:69
+#: 040edacd585b4a48858b7fc6b995232c
+msgid "Все члены класса SignalBehavior представлены ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:71
+#: ebf7e369d4e546088b233549c3fdc699
+msgid "Члены класса SignalBehavior"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:74
+#: bc63a23c04cc4734a744a0cc3960a48b
+msgid "Член класса"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:75
+#: 3975953d2ece4e219274db6a1c1eab02
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:77
+#: 128d697b2e9142798c4e83e4d5005360
+msgid "double getSingleSignal(Cell cell, String signal)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst
+#: 543b903d8d1e48c99d0976fbd07875f4 b182fd7979964ac0bf410e3184733c25
+msgid "cell - клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst
+#: 0bbfd21a2db24edca1637cae815ad765 d16aaeda8514418e978befd09e72028d
+msgid "signal - название сигнала."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst
+#: 3125a9afe82b42b798b443d350ae1efe
+msgid ""
+"Возвращает численное значение сигнала signal, описывающего тот или иной "
+"аспект жизни клетки cell."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst
+#: 58dbb3cbfdc74713b0d5aa61bec578e5 7399ecfddd7d4785bec85cb4dbed2ee7
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerBiorobots_CargoCellRule_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:84
+#: 4dd5ffc8184649cb9b02a88683d6ae61
+msgid "setSingleBehavior(Cell cell, String signal, double value)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst
+#: bec26c0ce3b244e29aaab2a18f4c0426
+msgid "value - значение."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst
+#: a58a0394627541968ee36c24f80d7d3f
+msgid ""
+"Устанавливает значение value сигналу signal, описывающему тот или иной "
+"аспект жизни клетки cell."
+msgstr ""
+

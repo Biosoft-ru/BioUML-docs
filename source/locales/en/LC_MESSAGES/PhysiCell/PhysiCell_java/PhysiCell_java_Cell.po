@@ -1,0 +1,1002 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:4
+#: 99d8d2cf7fe74a70b3b67ae27fd7d39e
+msgid "Cell"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:61
+#: 84d10f8fae1d457caf88e182a555a8fd
+msgid "Класс Cell используется для работы с отдельными агентами, т.е. клетками."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:63
+#: 8f54c6f38aef428bb6c5029f9f26d429
+msgid "Для импорта данного класса используйте:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:69
+#: ca99ab501838432790da5cc37aa5c0bd
+msgid ""
+"В этом классе можно выделить 4 члена, каждый из которых используется для "
+"работы с определенной характеристикой клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:71
+#: 041b3e810dea440dae1ab737d4bf73d0
+msgid "Члены класса Cell"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:74
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:121
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:186
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:205
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:238
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:266
+#: 3035514b24754cf7bf141f38cf6d2562 3f9b856620f34196916d9adbefdb928b
+#: 7b2d2767bdc9408e93ef2381634aee36 8ad2f6a34f5d4800901409757925a98e
+#: 96007cbbf8c94b429473a5148576d7b2 f7ca6e62604b470e96348eaeae919f3d
+msgid "Член класса"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:75
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:122
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:187
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:206
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:239
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:267
+#: 3d0ac9efe72e42878315b3c585db5844 b86d7f09d446427f9cbe4dab3ee671a2
+#: d402191d6d144ebfb6cc5ee0f0d04297 d8bfcfe8386e4aacb7c295a6a7291142
+#: f391a08ae1d149bdaf381b4749ea140a f592c706f63e4dee983cae929a622038
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:77
+#: 1755feb972024426969900c1ea71477f
+msgid "CellFunctions"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 1bc75ba744d949fb89af0305e10e03d5
+msgid "Используется для описания основных функций жизнедеятельности клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 000ea810f0394557a7742553954506d4 7bcfa32057c4495bac69cab8429e84fb
+#: 91578028356840cb83424bfcd9cf9e7f c2d4d69c50a34013a34bb7f51bc8c5bb
+msgid "Для вызова объекта данного класса используйте:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: ce136fcea6764908889de10eedccb394
+msgid "cell.functions"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 60afaecbf0c24abaa2c2f2cc921a6d1a 99dd20492df842118995250364ef035d
+#: a7f51ba384c24a9aa61eafaf67ea81b3 ba3d90d264a045549efae6eaa8d3d611
+#: c928971c03f64cfe814561a8d0edfa88 e4fa0646311e458983a1ab00bb5b522a
+msgid "cell - клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: b038b16154e747d0a5312c5c1742a16a
+msgid ""
+"Все члены данного класса представлены в :ref:`таблице 1.1 "
+"<Physicell_java_Cell_Tbl.1.1>`."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:86
+#: 9a3de02e7002415fbb1fe6eac1987528
+msgid "CellParameters"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 77f29ed36d2b4eda9c95b2e888d85adf
+msgid "Используется для описания дополнительных встроенных параметров клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 7eada5d6e8e349449c53d18bab032bd0
+msgid "cell.parameters"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 8b447a1f32564ff8a6eaa3db4fd6d195
+msgid ""
+"Все члены данного класса представлены в :ref:`таблице 1.2 "
+"<Physicell_java_Cell_Tbl.1.2>`."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:95
+#: f50daf4cf92848a0b3a4a1bf0ae67c04
+msgid "CellState"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: d47535ed3f7248588081ba20d8d6e6f9
+msgid "Используется для описания текущего состояния клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 9b88b73c81e04bcf865781bcfe61f7a8
+msgid "cell.state"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: d28efd74c1fa4dab87023bccf67869fb
+msgid ""
+"Все члены данного класса представлены в :ref:`таблице 1.3 "
+"<Physicell_java_Cell_Tbl.1.3>`."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:104
+#: 230dbce14a5e4db29e9d4e09d0c619c2
+msgid "CustomCellData"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: fd2b851893784c08abbb8e84b94cc9ea
+msgid "Используется для описания пользовательских переменных и параметров клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 6360371298e547929e10da4ccf3775e6
+msgid "cell.customData"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 00439cd539b44fbcb59d395aadba1d88
+msgid ""
+"Все члены данного класса представлены в :ref:`таблице 1.4 "
+"<Physicell_java_Cell_Tbl.1.4>`."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:114
+#: aae20b631ee14b97882e310e8e924fa2
+msgid ""
+"Остальные члены класса Cell представлены в :ref:`таблице 1.5 "
+"<Physicell_java_Cell_Tbl.1.5>`."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:118
+#: b590d585abd748e79d799daacb678909
+msgid "Таблица 1.1. Члены класса CellFunctions"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:124
+#: 8635b0e3f2f7424a9e6f6c0ae7c94b2f
+msgid "Instantiator instantiator"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:125
+#: 3c8a29936fac475db56d5ecd3271f573
+msgid ""
+"Содержит объект класса Instantiator, описывающий то, что происходит при "
+"создании новой клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:126
+#: 33beaaab82bc4e15aa814eb210e9a2be
+msgid "VolumeUpdate updateVolume"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: c03776f9e0f94eeea1b02fcbd3627cf8
+msgid ""
+"Содержит объект класса VolumeUpdate, описывающий, как изменяется объем "
+"клетки во время ее жизнедеятельности."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: f686e063300040dfb4b8b7a335c624ac
+msgid "Практически всегда используется StandardVolumeUpdate."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:130
+#: a47cc6a5aae9479983ec18e1c87575dd
+msgid "UpdateMigrationBias updateMigration"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 273e821f19d849b3a2e77ac04508412b
+msgid ""
+"Содержит объект класса UpdateMigrationBias, описывающий целенаправленное "
+"движение клетки (например, на основе хемотаксиса)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 55b9d8f72bbd4ceb8535bc99577aed78
+msgid "Примеры: Chemotaxis, Advanced Chemotaxis."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 0971b26b5e46418aafcba0d20a9ed2e5 d4babfe9ee7f471188b5de458dd4f520
+msgid ":ref:`Пример <PhysiCell_java_Worm_WormRule_java>` использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:136
+#: 437a5cbf03f140f09a9a5ee97032f0fb
+msgid "CustomCellRule customCellRule"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 2d41a263a3bb4d7e8a8c34bd14cec7fd
+msgid ""
+"Содержит объект класса CustomCellRule, описывающий дополнительное правило"
+" для жизнедеятельности клетки (например, избегать границ решетки)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 03644cfa682b472fa6de5013af917aff 1a0f569048834bfd9d94e22c7af46b0c
+#: 1d5a8738f1184e06aba68b8b3b0a29c1 a3b840f61bbf4468ae8a6dbc8b0b24f9
+#: cd7cad0831774ed2b84c7bbc2d7a09e6
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellRule_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:140
+#: ae927a6b26bb4adea10807e60ddf8042
+msgid "UpdatePhenotype updatePhenotype"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 4feda6e12b0445669dbdad9a2363c666
+msgid ""
+"Содержит объект класса UpdatePhenotype, описывающий, как изменяются "
+"основные внутренние параметры клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 3e9ba9c50b1c4721ac53cf8c9fb6960a
+msgid ""
+"Например, \"Default O2-based Phenotype\" - на основе концентрации "
+"кислорода в среде."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: c8c973744a7048869ff7231ef3f6390b
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_TumorPhenotype_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:146
+#: 8b9515fc4cd241a7a6492cd483588f47
+msgid "pre_update_intracellular pre_update_intracellular"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 44e80f3a5b8f4e55810693ec9bd6f240
+msgid "Содержит объект класса pre_update_intracellular."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: dec1e86f06c7419da58b0d432ae618b6
+msgid "Вызывается до шага вычислений внутриклеточной ОДУ/FBA модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:150
+#: 36457a5dbee943a6bec2407b107453c1
+msgid "post_update_intracellular post_update_intracellular"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: ba80fcb9da5a454995ac5f5128385b7b
+msgid "Содержит объект класса post_update_intracellular."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 9f0a7f96221f40cb96f02d3e0a08bea3
+msgid "Вызывается после шага вычислений внутриклеточной ОДУ/FBA модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:154
+#: 2a23ebc4792f415ba0f46d2acaca8243
+msgid "UpdateVelocity updateVelocity"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 0f6603366c5e444fbd391d5103e5b204
+msgid ""
+"Содержит объект класса UpdateVelocity, описывающий движение клетки в "
+"целом, учитывая целенаправленное и случайное движение, а также притяжение"
+" и отталкивание другими клетками."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 9c7e3d9fa9f4457aa797709350d201c1
+msgid "Практически всегда используется StandardUpdateVelocity."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:158
+#: b849ff2013b24d0ab443729e62e9cb4b
+msgid "MembraneInteractions membraneInteraction"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 2efb010d8e1e40ebab2f51abf0c2547b
+msgid ""
+"Содержит объект класса MembraneInteractions, описывающий взаимодействие "
+"клетки с базальной мембраной."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 5c8d5a1dc5e34e7ba181e49d8ebf9f27
+msgid ""
+"Пример, DomainEdgeAvoidance - устанавливает избегание базальной мембраны "
+"клетками."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:162
+#: b8eb5be374e944259254c0ab801042ab
+msgid "DistanceCalculator membraneDistanceCalculator"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: c9f3f41a8ca44b5983baef8c08831ebb
+msgid ""
+"Содержит объект класса DistanceCalculator, описывающий расчет расстояния "
+"от клетки до базальной мембраны."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 6f5b2ec381ab4bf4ba22afac6da13ff2
+msgid ""
+"Например, DomainEdgeDistance - рассчитывает расстояние до базальной "
+"мембраны как расстояние до ближайшей границы решетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:166
+#: ba48d87807634bf8a9cf06123f18aeab
+msgid "set_orientation set_orientation"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: c1c3c516e0474006bdd614301137cb62
+msgid ""
+"Содержит объект класса set_orientation, описывающий, как устанавливается "
+"ориентация клетки в пространстве после деления."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: c86bd04c89104f19ab4a7570234ddb24
+msgid "Например, UpOrientation - устанавливает ориентацию по оси Z."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:170
+#: fa01eb800d9e4d9ba76cd8d00486de20
+msgid "Contact contact"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: b6f7f2578a7b432483da82b62d1adc8d
+msgid ""
+"Содержит объект класса Contact, описывающий взаимодействие между "
+"сцепленными клетками."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: ecb8bf26926d4c01af559a39e9c8dc3d
+msgid "Например, StandardElasticContact  -эластичное взаимодействие."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:174
+#: 16116ec2f3694119a317ffd58398ff04
+msgid "CellDivision cellDivision"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: ec1b836699d940f9bd1ad6df039f7873
+msgid ""
+"Содержит объект класса CellDivision, описывающий, как происходит "
+"клеточное деление."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 612e6aff61644210a8cd13d263c784f5
+msgid "Например, StandardAsymmetricDivision - асимметричное деление."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 969bc134d5ac4dbfa3d9bcf200c22752
+msgid "Стандартное деление используется, если cellDivision не установлен (-)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:183
+#: 072374b5fcfc4f7dabd113530eed91b2
+msgid "Таблица 1.2. Члены класса CellParameters"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:189
+#: 019114257b5f4dd4882eac5b0262af41
+msgid "double o2_proliferation_saturation"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 93b97fb67e2445afbbeb5c619af2d2b1
+msgid ""
+"Содержит количество кислорода, при котором он перестает усиливать "
+"пролиферацию клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 0a8f7f1a97c444c48560bfc42ddba961
+msgid ""
+"Используется для клеток с :ref:`фенотипом "
+"<Physicell_cell_properties_Functions>` «Default O2-based phenotype»."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 31ac51e956a3487e8a37cf2ae277b040 520ecd51a4114502baded0780f39f53e
+#: d27b12db63004d10a4d1c7d52cf34893
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_CancerInstantiator_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:195
+#: 53c557d313ec4d06bfb06e4cd7d22cb0
+msgid "double o2_reference"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 884ca8811f0247e4a3f8b0828692012f
+msgid "Содержит референсное значение кислорода."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:202
+#: c1f24494bdc648769511a5c830b105d6
+msgid "Таблица 1.3. Члены класса CellState"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:208
+#: 5519717986fe4ae9aa7c116e537b20b4
+msgid "List<Cell> attachedCells"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 60270504df2a40d586f3e0a2edbca5f5
+msgid "Содержит список клеток, соединенных с данной клеткой."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:212
+#: 433bfde1eb474cc39b29420c1115a57c
+msgid "double damage"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: ba3e41fe8a444e39a6a63cfd0a0de85f
+msgid "Содержит текущее количество повреждений, нанесенных клетке."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: b15c3a7dfe8442a180bf6329ce7707d6
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerBiorobots_TumorPhenotype_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:216
+#: 4b21c26909fc412d8aa3f3018c7058b1
+msgid "double simplePressure"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 198c042fcd3e46ac878445656bf473a3
+msgid "Содержит значение давления, оказываемого на клетку извне."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 429a66f2f92f475ea32e2c629fbc4afa 84ed4af8509c456db3344fcdff755e54
+msgid ":ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:220
+#: e80bfc94b8dc45d08375d09251e94f2e
+msgid "List<Cell> neighbors"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: bde2aeca06b54df78773cc5906b3ae5d
+msgid "Содержит массив клеток, являющихся соседями данной клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 4e9d3029a7f040f098caa564f70cf292
+msgid ""
+":ref:`Пример <PhysiCell_java_Interactions_MacrophagePhenotype_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 3a0b8140741745dc99e311012a5f7252
+msgid "int attachedCells.size()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 5926629797e84e02830aba8790977a5f
+msgid "или"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: fed17056e524462c92d9147af2288234
+msgid "int numberAttachedCells()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 5ab9703c064a40098ed94703822a5777
+msgid "Возвращают количество клеток, соединенных с данной клеткой."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 115c5d7a73f548f3893e12f25b835902 650e71bc017f43099c1304831619f2d0
+#: cd8104d40bf64edc8a0f53dbab779c8a e07a462ecff74b919ac281af8241ef54
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_CancerImmunityVisualizer_java>`"
+" использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:235
+#: 5a635d07b0414c6987de04a8d663a275
+msgid "Таблица 1.4. Члены класса CustomCellData"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:241
+#: 507bea8956cb4050bafdd596ee01ed7b
+msgid "int findVariableIndex(String variable)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 51f8077bad094852b33699d0f7a902ef
+msgid "variable - название переменной."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 431409821fde49d499ec5eeb478d3fdf
+msgid ""
+"Возвращает индекс переменной variable в списке всех переменных типа "
+"клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:247
+#: fd6db318ef0a42a29921d2e666c3c954
+msgid "double get(int index)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 38323a2553104c8ebcc6649abae438a1
+msgid "index - индекс переменной."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: b391bf3e840d4687acc99c98936c1176
+msgid "Возвращает значение переменной с индексом index для данной клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:253
+#: 25083936d5314917b7dc7f47c962f8f5
+msgid "set(String name, double value)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: e5ca4d04a0e84a21a706ad137d448f91
+msgid "name - название параметра."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 3ffa82b82c754622ac9639b2f3200163
+msgid "value - значение."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: eeb7c2b9cc494bd496a1aef3de3abb6f
+msgid "Устанавливает значение value пользовательскому параметру name."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 5d3fd20a4e7c4a438ae23e4817af4893
+msgid ":ref:`Пример <PhysiCell_java_CancerImmune_Initial_java>` использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:263
+#: c6c2f30c9d1a414983f904644cbb5537
+msgid "Таблица 1.5. Остальные члены класса Cell"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:269
+#: 7771cb8fcfaa4d7385b629781dca8f3a
+msgid "Cell cell = new Cell(CellDefinition cd, Model model)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 2aacb7ecde4a490a98d65d95b3405924 d1aa980f1f9b4b68a4d0460bf6be04c2
+msgid "cd - тип клеток."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 11df7f7d55e94ea68b7aa9e745bacb16 e73b3f9ab9484f8ea3f512d9f4732c7d
+msgid "model - модель."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 8863473101244e209b5fd97988381ebd
+msgid "Создает новую клетку cell типа cd в модели model."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:276
+#: f797676d280d4b8199606c8f9caba1a7
+msgid "double[] position"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: aa7f5df2856d4af49cb44f3af4533386
+msgid "Содержит трехмерный вектор - координаты клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 7549bc9ae4c042d7b4ae8b997afd3ae4 a2ad3555add24827be863bce167f829e
+#: e41cf436ebe14e8bb4616e35b5346163
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_AdhesionContact_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:280
+#: ecf381cde3ce492e8b6cd0f3ed376e96
+msgid "double[] velocity"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 919720e4c836445c8c0985c233e912fe
+msgid "Содержит трехмерный вектор - скорость клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:284
+#: 2de5368919924d68b860502c47eebd9f
+msgid "int type"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 56b01a9fb07e4bb38f5e108715127ee1
+msgid "Содержит числовой код типа данной клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:288
+#: 80377848fdf44b72b334cb8373c4dbd9
+msgid "int ID"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: cbf4ecb0ddc148688dc4d234a5bd454a
+msgid "Содержит автоматически сгенерированный идентификатор клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 3ff0023958b74a82af22f277b064db50
+msgid ":ref:`Пример <PhysiCell_java_Heterogeneity_Report_java>` использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:292
+#: 42a14d811109488d8c3cbe83ac96167e
+msgid "String typeName"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: a5a0efa10edf41c597f9abc9e6db1cf1
+msgid "Содержит название типа клеток, к которому относится данная клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 875d451cf72741ac9c24c282d4698392
+msgid ""
+":ref:`Пример <PhysiCell_java_Interactions_BacterialPhenotype_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:296
+#: 2525783cfcaf45b1882fb7127c3e3eb1
+msgid "static detachCells(Cell cell1, Cell cell2)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 3e3b21d7a3a949299d43fab50eac9426 842ea7d90b3b42e8bf2b955c97083a98
+msgid "cell1 - клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: d47a4cecb9a34224a1d6cdc0b85fac84 e4f081528edc4b4b8e1d5fe8358c974a
+msgid "cell2 - клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 48cb5aac18f943d28d3bd0c5722efb37
+msgid "Расцепляет клетки cell1 и cell2."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:303
+#: 83188541a7b74d89b468af1a768d0fe8
+msgid "static attachcCells(Cell cell1, Cell cell2)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 8a1c1c81645f4a4ca0fff34f11794486
+msgid "Сцепляет клетки cell1 и cell2."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:310
+#: 4d2b5593d5614eb992e6c17332a9f935
+msgid "static createCell(CellDefinition cd, Model model, double[] position)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: a4dbdc4840bb49bc971d575164f16661
+msgid "position - координаты клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 08ab6578f1fd4cfdb4a3858cbdebbad1
+msgid "Создает клетку типа cd в модели model в точке position."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 94cef87c42e548938b6c14f31b07d761
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_ImmunityEvent_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:318
+#: 4e3db5269c8f4853866c2901ee0d5631
+msgid "Microenvironment getMicroenvironment()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 70b4d152ae4c4b1e8a6c7d1b522e1ccd
+msgid "Возвращает среду, в которой сущетсвует клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 581a7a0db2464d17acd78274b9f9342b 9b209b9ed8674c048caa6d66c70f5aaf
+#: e0522b373b534fd8badf4870f3194081
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellMotility_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:322
+#: 2630ee900b8f43d28ec32d8d02c650e7
+msgid "double nearest_gradient(int index)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 986a8f4d97d34b91bb344c376adbedef
+msgid "index - индекс субстрата."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 0ca61b35a3d6430ab4b2a9df14b838ea
+msgid ""
+"Возвращает значение градиента плотности субстрата с индексом index в "
+"ближайшей к клетке ячейке решетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:328
+#: 3c138061c52c48a2afaddb769a786a47
+msgid "startDeath(int index)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: fdaa959e73d94f989c9cb7c0b10dbaee
+msgid "index - индекс типа клеточной смерти."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 3c2f0f89713c4d7f9d5a4c7bac2ac4a0
+msgid "Запускает клеточную смерть с индексом index."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:334
+#: 90b7e08c623a41959909382b5f5a5726
+msgid "List<Cell> cells_in_my_container()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 0a0fa661d2924fc1abdbe1667d976987
+msgid "Возвращает список клеток в ячейке данной клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:338
+#: faf2d06501274ecdb34a42da149dd336
+msgid "removeAllAttachedCells()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 460115f64a39447c9c1d81af08d60cc9
+msgid "Отсоединяет все клетки, прикрепленные к данной клетке."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: dfecff43e9cb4563b2960e86f0e3cf7a
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerBiorobots_CargoPhenotype_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:342
+#: 9baa726d9378481680a34f03126c87db
+msgid "Model getModel()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 739020d76fe54e609206da4ea6a3cbda
+msgid "Возвращает модель, в которой находится данная клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:346
+#: a9d3e5f44d934d1cad14da07fcb3fb55
+msgid "double[] nearest_density_vector()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 53bc4cab22b343a28040a9de3bd9d331
+msgid ""
+"Возвращает массив плотностей всех субстратов в ячейке решетки, где "
+"находится данная клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:350
+#: 5de8ecfca82f46679d3ac9266cdb49fc
+msgid "ingestCell(Cell cell)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 780a067e53e44b07a143d424f3e44499
+msgid "Клетка, к которой был применен данный метод, поглощает клетку cell."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: f519156f26884650929ffa501d1d0e01
+msgid ""
+":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_PredatorPhenotype_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:356
+#: 4e4950d65f604944b871dd0d17363442
+msgid "double nearestGradient(String substrate)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 9ab650bd9ec04ad18aa65a48aab6095f
+msgid "substrate - название субстрата."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 5bf8726f36454140a385cc55d3802c90
+msgid ""
+"Возвращает градиент субстрата substrate в ячейке решетки, в которой "
+"находится данная клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 1683f4e78157439e812bfa4d353ae97d
+msgid ""
+":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:362
+#: 08d39b13312b4783b8ff4f0c34984fca
+msgid "lyseCell()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: ef832fa2596d47a8a0cb43f1b73544c8
+msgid "Активирует лизис данной клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: b684d813b31c48869eac35fa29224486
+msgid ""
+":ref:`Пример <PhysiCell_java_VirusMacrophage_Epithelial_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:366
+#: db44782fc1e54f8884cd97888776e4ed
+msgid "int get_current_mechanics_voxel_index()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 50352840a9984aed9538cadd453d75d3
+msgid "Возвращает номер ячейки, в которой находится данная клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 93942bb466f042d4a6b045f801130299 cce4b1686d4243cf9b0b654435b48553
+#: ff46e90468d1455484770ca03843eb59
+msgid ""
+":ref:`Пример <PhysiCell_java_VirusMacrophage_Macrophage_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:370
+#: 731bfc349e94413694746b02127510bf
+msgid "CellContainer get_container()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 534bc083202c4af7b2160d127b126004
+msgid "Возвращает объект, обрабатывающий положение данной клетки в решетке."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:374
+#: 877d920e035a439b8e82aa4639701576
+msgid ""
+"static boolean isNeighborVoxel(Cell cell, double[] coordinates, double[] "
+"center, int index)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 06281135f6fe40f0993a59190e0e5698
+msgid "coordinates - координаты клетки."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 298b5b0db1054047a4520b71d3b60adf
+msgid "center - центр ячейки среды."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: b6fefb053c9248be921acbb5d019ed40
+msgid "index - индекс ячейки среды."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 5ddd227a0ea44b8e8c8812bb5f59fbc0
+msgid ""
+"Возвращает true, если ячейка среды с индексом index с центром в точке "
+"center является соседней* с клеткой cell, находящейся в точке "
+"coordinates."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: 51c69c39d5c6438d9c4e8fdc55737e06
+msgid ""
+"\\*Под соседством подразумевается, что клетка может взаимодействовать с "
+"клетками в этих ячейках."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:385
+#: 9b69722c77f947318e462e7d1ffb44ae
+msgid "List<Cell> nearby_interacting_cells()"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
+#: e2ace4bfad3044b28cfb8b3759b4f0ec
+msgid ""
+"Возвращает массив клеток, являющихся соседями и находящихся достаточно "
+"близко для взаимодействия с данной клеткой."
+msgstr ""
+

@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:4
+#: f895c7ef97334dfd8d0f3fabeccdb6fe
+msgid "Подвижность клетки (Motility)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:12
+#: 1b3375e995544789968dfee7333bbe3b
+msgid ""
+"После нажатия на вкладку **Motility** на панели свойств справа у вас "
+"появится меню, в котором нужно поставить ☑ напротив |icon_option| **Is "
+"Motile**, если выбранный тип клеток должен быть подвижен."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:9
+#: ade75eae833446f7bb00b776eb3dd2cd
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:14
+#: e53ed741a7434f9fac755a078d8f3c0a
+msgid "Is_motile"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:19
+#: fe04f3b9ba31494dba7062bfcfcc4897
+msgid ""
+":raw-html:`<br>` Если выбранный тип клеток должен быть неподвижен, то "
+"оставьте вкладку **Motility** без изменений."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:22
+#: d96a218ddfe74d86bc06e380a4a56286
+msgid ""
+"При отметке того, что клетки выбранного типа должны быть подвижны, у вас "
+"появится меню, в котором можно настроить параметры подвижности:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:24
+#: 4a3e78fcccd148bc9735e6f685ea756b
+msgid "Motility_menu"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:29
+#: 38f84806dc78489aa1dc24911d6b432b
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:31
+#: 9404d92d01284f16a2cf3389ec89a07a
+msgid "**Migration speed**: скорость передвижения клетки,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:32
+#: 9dc13f0afb5b4ae6961f78c57cd09964
+msgid ""
+"**Persistence time**: время, в течение которого клетка не меняет "
+"направление движения,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:33
+#: 4ec7bb804acd4f8185c73bb544c2866a
+msgid ""
+"**Migration bias**: склонность клетки к целенаправленному движению (1 - "
+"клетки движутся только целенаправленно, 0 - только случайно)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:34
+#: 6c5c23e6b7db4743a0b534fc7a2edebf
+msgid ""
+"**Restricted to 2D**: отметьте ☑, если клетки должны двигаться только в "
+"двух измерениях,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:35
+#: 05485b1cf224482b9d2b35f7fd0c0c65
+msgid "**Chemotaxis**: настройка параметров хемотаксиса (рассмотрено ниже)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:37
+#: f2e78e91c64d4bcebd7b607b590dce61
+msgid ""
+"На рисунке выше выбранный тип клеток на диаграмме уже имеет хемотаксис "
+"(|icon_chemotaxis|), поэтому под полем **Chemotaxis** уже располагается "
+"поле с названием субстрата (в данном случае, **Substrate**), к или от "
+"которого двигаются клетки выбранного типа. Если бы клетки выбранного типа"
+" на диаграмме имели несколько хемотаксисов, то таких полей было бы "
+"несколько (отдельное поле для каждого хемотаксиса на диаграмме)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:10
+#: 79d05f2ad4f14ff8b1bc48fc0ba0623f
+msgid "icon_chemotaxis"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:39
+#: 9a43c80c44cb4848bac7f368600070ea
+msgid ""
+"Раскрыв вкладку с названием субстрата, можно настроить чувствительность к"
+" этому субстрату."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:41
+#: 8811f94b67ab4c4389023528370b50a5
+msgid "Sensitivity_setting"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:46
+#: ecb792026ff043a9b6283da1d3b7cb6e
+msgid ""
+":raw-html:`<br>` Также чувствительность клетки к субстрату можно "
+"настроить непосредственно на диаграмме модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:50
+#: 974525f591974cd49b546e9d62114098
+msgid ""
+"Во вкладке Motility не следует добавлять новые хемотаксисы -  добавляйте "
+"и удаляйте их только через диаграмму."
+msgstr ""
+

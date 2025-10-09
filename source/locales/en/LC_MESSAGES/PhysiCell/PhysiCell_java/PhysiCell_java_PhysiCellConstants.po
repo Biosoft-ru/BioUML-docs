@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:4
+#: a1d36f480c0a4ea6a559de3e0b92f291
+msgid "PhysiCellConstants"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:61
+#: 8f732219a4d84250a8e69f70204ed0d1
+msgid ""
+"Класс PhysiCellConstants используется для работы с константными "
+"численными значениями модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:63
+#: 11784eff4d0640d195c20fdde3e31b1e
+msgid "Для импорта данного класса используйте:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:69
+#: 385d0c7207274577a42230d1d9b1d61f
+msgid "Все члены класса PhysiCellConstants представлены ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:71
+#: 49b9bcb82bcc400a9ee92ce3fca29e21
+msgid "Члены класса PhysiCellConstants"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:74
+#: d91e294ca1ac470cacdf777069361e2b
+msgid "Член класса"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:75
+#: 87936c4dcd3b411fbee72877e791f8de
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:77
+#: 4213bf33622b41a6a7083d49f8fdda1f
+msgid "static int apoptotic"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 10285c474fc1461da6e5bc20fcb4f472
+msgid ""
+"Содержит численный код фазы \"Apoptotic\" цикла клеточной смерти "
+"\"Apoptosis\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 3641c9a4c1bb42a79568762d0e379662 87341f4f8d0e42a5ba5b0bb8fbbe6b09
+#: 96cc128b60644e38a77f77bd2c7309f1
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_CancerImmunityVisualizer_java>`"
+" использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:81
+#: 25b9a4f79dd743d0bc4a48b63e234cfe
+msgid "static int necrotic_swelling"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 9413f61c03bc4423b851780ab10a2a3f
+msgid ""
+"Содержит численный код фазы \"Necrotic (swelling)\" цикла клеточной "
+"смерти \"Necrosis\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:85
+#: 5fd33d1f02974ebdb6585bbae1dace04
+msgid "static int necrotic_lysed"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 2500ac3625bd48899d7165bcae623f22
+msgid ""
+"Содержит численный код фазы \"Necrotic (lysed)\" цикла клеточной смерти "
+"\"Necrosis\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:89
+#: 85a841c4aeae4521828f374b225dd5f1
+msgid "static int live"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 4ffd27b5c54148dcb39f5188d3b4eaf5
+msgid "Содержит численный код фазы \"Live\" жизненного цикла \"Live\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 3b01ee9b62da4708bd501c735681b8b0
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_TumorPhenotype_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:93
+#: b0a36d38e5754c29a3332df6efc2bb1a
+msgid "static int apoptosis_death_model"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: fde0428b4d5f439fa95fb6b7cac5a425
+msgid "Содержит индекс типа клеточной смерти \"Apoptosis\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 2528a4f1a3b942789ca463a4c3bc686d
+msgid ""
+":ref:`Пример <PhysiCell_java_Interactions_BacterialPhenotype_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:97
+#: c5f017dfafc246a1a392cf2400666be5
+msgid "static int necrosis_death_model"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 4ed6784a5f0d41e1b033eec0c6ad34a2
+msgid "Содержит индекс типа клеточной смерти \"Necrosis\"."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst
+#: 255db67f27dd4b55a82e57403e506bde
+msgid ""
+":ref:`Пример <PhysiCell_java_Interactions_DifferentiatedPhenotype_java>` "
+"использования."
+msgstr ""
+

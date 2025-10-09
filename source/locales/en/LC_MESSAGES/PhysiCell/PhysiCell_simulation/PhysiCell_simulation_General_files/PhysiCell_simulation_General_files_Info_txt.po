@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:4
+#: efb6d67a47194d01872d7003b136049f
+msgid "info.txt"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:6
+#: 155e4e6fa1804df4a5a8959a9c02fd8a
+msgid ""
+"В **info.txt** содержится информация о пространстве внешней среды и "
+"субстратах модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:8
+#: 2acbd8b9afb34f9a994b09fc5041ce2b
+msgid "Пример файла info.txt"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:17
+#: 8b035aae8cd4499ba6fbbb715eee7f31
+msgid "Файл **info.txt** из примера говорит о том, что:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:19
+#: a4bf65bc61674590902b9d993e557cf0
+msgid ""
+"ось X внешней среды имеет значения от -500 до 500 с шагом 20 (X:      "
+"-500.0  500.0   20.0),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:20
+#: ae0c29ac5e7043479fe65b121e30e067
+msgid ""
+"ось Y внешней среды имеет значения от -500 до 500 с шагом 20 (Y:      "
+"-500.0  500.0   20.0),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:21
+#: 6e1adcfe397c4cc6930e44898a709ea7
+msgid ""
+"ось Z внешней среды имеет значения от -10 до 10 с шагом 20 (Z:        "
+"-10.0   10.0    20.0),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:22
+#: 22faa0bba90f4677aa4a97532f194596
+msgid "внешняя среда плоская (2D:    true),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:23
+#: af2759889e38422e824b4a55b72d7c5c
+msgid ""
+"В модели есть всего один субстрат с названием **Substrate** (Substrates:"
+"      Substrate)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:26
+#: 1325648dea844d678258a4ed2f63537e
+msgid ""
+"Значения оси Z не ограничиваются 0, даже если среда плоская, т.к. сами "
+"клетки имеют объем."
+msgstr ""
+

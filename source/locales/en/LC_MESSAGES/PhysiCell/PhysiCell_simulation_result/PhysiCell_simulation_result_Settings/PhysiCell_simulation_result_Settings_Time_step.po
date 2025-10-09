@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time_step.rst:4
+#: 1df657c9e9e7453b9cfbf9136e0024ac
+msgid "Шаг модельного времени симуляции (Time step)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time_step.rst:19
+#: 987d4877219a4fbc95206577045cef8e
+msgid ""
+"По умолчанию значение поля |icon_option| **Time step** будет равным "
+"параметру **Image interval**, указываемому при настройке симуляции "
+"модели."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time_step.rst:17
+#: 5c9f5060cadf45b0825dfbbd339c576d
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time_step.rst:21
+#: cb0b29cc1ae342859d392d9ba5bc6654
+msgid ""
+"Если задать значение **Time step**, неравное значению **Image interval**,"
+" то на каждом шаге Time step будет отрисовываться Image interval с "
+"наибольшей временной точкой, которая не превышает значение текущего Time "
+"step."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time_step.rst:23
+#: fe2cd9fc5b52446695090a0f84158a45
+msgid "Поясним это на примере ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time_step.rst:25
+#: e31e470ba6094ddeabb63b2fb4078e2a
+msgid "Пример"
+msgstr ""
+

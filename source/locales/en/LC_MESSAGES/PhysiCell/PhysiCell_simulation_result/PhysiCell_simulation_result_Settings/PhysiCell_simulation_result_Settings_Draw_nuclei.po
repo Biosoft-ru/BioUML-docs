@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:4
+#: 30cd662d73ea4a6a82ef77531283e2ca
+msgid "Изображение ядер в клетках (Draw nuclei)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:11
+#: c878c040f923424eb75adee8efb132f1
+msgid ""
+"Если поле |icon_option| **Draw nuclei** отмечено, то на изображении "
+"модели в клетках будут отрисовываться ядра (А)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:9
+#: 231c20ff2bf24c019b94d43678ccb847 f821f905f9554dc5b88441181ff70f82
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:13
+#: 4cd367c86290473a9715bc4403a5482f
+msgid ""
+"Если поле |icon_option| **Draw nuclei** не отмечено, то ядра в клетках "
+"отображаться не будут (Б)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:15
+#: f953dcaeae1944bf82768e3fd2d8c36c
+msgid "Nuclei_yes_no"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:20
+#: 064eee870aa94eb9adb13ee9305bc147
+msgid ":raw-html:`<br>`"
+msgstr ""
+

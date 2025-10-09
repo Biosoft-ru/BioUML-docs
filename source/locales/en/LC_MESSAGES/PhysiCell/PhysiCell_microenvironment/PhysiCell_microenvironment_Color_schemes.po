@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:4
+#: a988c62e2efa4768921908d09a25c12c
+msgid "Цветовые схемы (Color schemes)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:13
+#: 502a832ee7964b0c9bd9a812f3939173
+msgid "Что такое цветовые схемы?"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:15
+#: c9379070be0f4c82923deff446c41430
+msgid ""
+"Цветовые схемы позволяют настраивать отрисовку клеток одного и того же "
+"типа разными цветами в различных условиях."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:17
+#: fc425b9b982d4519bb21f5c2efd0c822
+msgid ""
+"Для понимания, в каких случаях может потребоваться использование цветовых"
+" схем, приведем пример."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:19
+#: 9df626247abd4369ab54a7bc461b2c02
+msgid "Пример использования цветовых схем"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:47
+#: 1a54c3c4257e4564ab2deb2dad6068d8
+msgid "Настройка цветовых схем в модели"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:49
+#: bdca91a75aec4dab83c6628a83f3bcca
+msgid ""
+"После нажатия на вкладку **Color schemes** на панели свойств справа у вас"
+" появится меню, в котором, нажав ЛКМ на иконку |icon_plus|, можно "
+"добавить новую цветовую схему."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:9
+#: 46a4088497df4d3ca206269fa489b704
+msgid "icon_plus"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:51
+#: 30f02ba03aa147c0aff8dc270ff19f6f
+msgid "Add_new_color_scheme"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:56
+#: 882ec9373a6e4bce9bf7be8459d9db25
+msgid ""
+":raw-html:`<br>` После этого у вас появится строка, соответствующая одной"
+" цветовой схеме."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:59
+#: 1b7a72a2bbff4346926899c0968634a5
+msgid "Color_scheme_string"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:64
+#: 424d3451c0394654bd926b37d637dec1
+msgid ""
+":raw-html:`<br>` Таким образом можно добавить сколько угодно цветовых "
+"схем."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:67
+#: 9754e85c05ea46989bcaf49bacd05980
+msgid "В каждой цветовой схеме можно настраивать следующие параметры:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:69
+#: 6bf02337933f41fb92e9d4fb90b7caf4
+msgid "**Name**: название цветовой схемы,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:70
+#: e2fa332c84954772a05e500c47053714
+msgid ""
+"**Inner Color**: цвет, с помощью которого отрисовывается внутреннее "
+"содержимое клетки,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:71
+#: 012f480618204831acebcc462513dea6
+msgid "**Has border**: отметьте ☑, если хотите отрисовывать контур клетки,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:72
+#: 4c00bed2b17945b683b9e4f17be464fc
+msgid ""
+"**Border color**: цвет, с помощью которого отрисовывается контур клетки "
+"(:raw-html:`<span style=\"color: red;\">редактируется, только если "
+"выбрано свойство \"Has border\"</span>`),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:73
+#: 537aea2a17a1445295538de9b2d0d540
+msgid "**Has core**: отметьте ☑, если хотите отрисовывать ядро в клетке,"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:74
+#: 0c3a68f0d0a54ba5a748134183b847dd
+msgid ""
+"**Core color**: цвет, с помощью которого отрисовывается внутреннее "
+"содержимое ядра клетки (:raw-html:`<span style=\"color: "
+"red;\">редактируется, только если выбрано свойство \"Has core\"</span>`),"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:75
+#: 41a60c596f784ebf8142177e0f639064
+msgid ""
+"**Core border Color**: цвет, с помощью которого отрисовывается контур "
+"ядра клетки (:raw-html:`<span style=\"color: red;\">редактируется, только"
+" если выбрано свойство \"Has core\"</span>`)."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:77
+#: 9f41b007c10b49f3b999e27a68e741c2
+msgid ""
+"Чтобы задать значение любого параметра, нужно нажать ЛКМ в ячейку строки "
+"под соответствующим заголовком и вписать собственное значение, отметить ☑"
+" или выбрать нужный цвет из раскрывающегося списка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:79
+#: fd6010630720400bb346d4b596fb9ab7
+msgid "Для удаления цветовой схемы нужно:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:81
+#: 6da5e60ac3fc4ebaa60a4548709f2fd7
+msgid "Нажать ЛКМ на строку, соответствующую определенной цветовой схеме."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:82
+#: 7af40fb1dff34cd28bce5638665c9e45
+msgid "Нажать ЛКМ на значок |icon_minus|."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:10
+#: f7bf930cd9164a8d874733c621707d5b
+msgid "icon_minus"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:84
+#: 0571d64643ce4e5899988ae078159bc8
+msgid "Delete_color_scheme"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:89
+#: afc180dbde9e4534b6af09ec922b98f5
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:92
+#: 1855f00d266f41ebbb74bbd8bd2aed0d
+msgid ""
+"Цветовые схемы используются во вкладке :ref:`Visualizer "
+"<PhysiCell_microenvironment_Visualizer>`."
+msgstr ""
+

@@ -1,0 +1,352 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-09 12:05+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:4
+#: 4f65e3ee285749889528cdccf1ff7140
+msgid "VectorUtil"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:72
+#: e9fbf0f6822a4e88a640f41dc6516455
+msgid "Класс VectorUtil используется для работы с векторами."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:74
+#: d7e9c74e0ae042f693c3111c3cb485cc
+msgid "Для импорта данного класса используйте:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:80
+#: 45ed1c597e0341fc9c792a9e973976cd
+msgid "Все члены класса VectorUtil представлены ниже."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:82
+#: 246b774e97474b38b40857fe8939b579
+msgid "Члены класса VectorUtil"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:85
+#: c70988f06d3641d0a121df93991ab46d
+msgid "Член класса"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:86
+#: 12432520e64f478087ccc28b77c5da54
+msgid "Описание"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:88
+#: 37ac657d12234139a26a33ad45faceda
+msgid "static double[] newDiff(double[] vector1, double[] vector2)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 7312148b6bb342b1b8169203a355463e b94e228531664a1984b3db28e5b201f2
+msgid "vector1 - трехмерный вектор."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 38e091fe726e486b8dd230cd0fddc10c cd0ff7bb51c64929a91bea6c8ebfef01
+msgid "vector2 - трехмерный вектор."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 42d47080156443369a3b5527e1276d84
+msgid ""
+"Возвращает трехмерный вектор, являющийся :ref:`покоординатной разницей "
+"векторов <Physicell_java_Coordinate_wise_difference_of_vectors>` vector1 "
+"и vector2."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 23ace2c3b9564ea2af6f97b6a4ce6f13 aff743707383481c94d83df3ab53e2ca
+#: b6162901f45c4665a8ed9f9b3f31b899 bb0c80ac235a4658897469db409cb34b
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_AdhesionContact_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:95
+#: 578404bb5e944ed4be57e1c17b300323
+msgid "static double norm(double[] vector)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 37553c89fd8d486fbfc3fee9f435e637 40ffd0eb8387418fbf53aaf33ab7512a
+#: 79044a67f6a1410f90868549d84a8850 9abb7d6b9a134ea7a3b8a797f551a53c
+#: c90378adad4440b29f7472c0bc2147c8 ef04f7dce49a4af5899e65fee841bed9
+msgid "vector - трехмерный вектор."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 5af3f456de8943c28c11b0a7e8b05a9d
+msgid "Возвращает :ref:`L2-норму <Physicell_java_L2_norm>` вектора vector."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 868388a02c5e4bd3bcb7e263b615dd5e
+msgid ":ref:`Пример <PhysiCell_java_CellTypes3_Initial_java>` использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:101
+#: 8baa1c74dc6947468cefb911e1bec795
+msgid "static double norm_squared(double[] vector)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: bfc541adfee4456296922d54d443716b
+msgid ""
+"Возвращает квадрат :ref:`L2-нормы <PhysiCell_java_L2_norm>` вектора "
+"vector."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:107
+#: 25426a75d7124fb59143bb0b4244988a
+msgid "static double[] newNormalize(double[] vector)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 8afa37a6276b4181a5877918e132d3cd
+msgid ""
+"Возвращает :ref:`нормализованный <PhysiCell_java_Normalization>` вектор "
+"vector."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:113
+#: 2c79bd0c34b3485bae9b815b6f7650fb
+msgid "static normalize(double[] vector)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 23e430112f8a400c8bc124c8c1d9ffb9
+msgid ":ref:`Нормализует <PhysiCell_java_Normalization>` вектор vector."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 1cb130f7e3684943835fe74b6dbe0b01 a83821922c2746029b8089f1c14bf569
+msgid ""
+":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:119
+#: b302eea0e93e437eb7e7362ee9f10ee3
+msgid "static double dist(Cell cell1, Cell cell2)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 994d037fdbb3459dbaf48269f7056757
+msgid "cell1 - клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 8e6f4af254d64f83bf71e6899052a92e
+msgid "cell2 - клетка."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 1fedc84f3ee745e6800681c19864fd8a
+msgid ""
+"Возвращает :ref:`расстояние <PhysiCell_java_Distance>` между клетками "
+"cell1 и cell2."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: d1a858799cfd4826af1f2bd256a7c8b4
+msgid ""
+":ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellRule_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:126
+#: 7f538f36104547cbbd035cae6429ac65
+msgid "static double[] newProd(double[] vector, double const)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 3a656b036964468484978cb4ee606f15 49883df926844fb9a11097bde8f72f83
+msgid "const - число."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 2f20827e132b45ecb4509422a933a8cc
+msgid "Возвращает трехмерный вектор res_vector следующего вида:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 710338a61bde4f32bf6ca5b9240a96fc
+msgid "res_vector[i] = const*vector[i],"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 7d06fff72afd4edb8969f1ab16e56b88
+msgid "где i - каждая координата векторов res_vector и vector."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 01e88a9f26364bd4ac9c093ed3d6ba40
+msgid ""
+":ref:`Пример "
+"<PhysiCell_java_PredatorPreyFarmer_AvoidBoundariesRule_java>` "
+"использования."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:135
+#: 195353a3b72e4d97a66fa53cd23cdb1a
+msgid "static double[] axpy(double[] vector1, double const, double[] vector2)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: d98c225ac16c48ca940fa7e7730be8cc
+msgid "Возвращает трехмерный вектор vector следующего вида:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 5ab47303a5844bc2937b7bd427e4a4ab
+msgid "vector[i] = vector1[i] + const*vector2[i],"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 860f79d0847b4eb2b5a3fa34f2678bc2
+msgid "где i - каждая координата векторов vector1 и vector2."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:145
+#: eaaf8ed38cba428cad22983393e7044d
+msgid "static zero(double[] vector)"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
+#: 51eba517abfd455cb3a8ca24a09cbbf7
+msgid "Зануляет все координаты вектора vector."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:153
+#: 8ef156ce57d246479e4d8a56ca8ee4ec
+msgid "Справка по операциям с векторами"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:158
+#: 7c8bbab4e4e34a7a98415eae5c0e80c3
+msgid "Покоординатная разница векторов"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:160
+#: d05a361ee9ef492199c1a4febd25c2f5
+msgid ""
+"Покоординатная разница векторов — это операция вычитания векторов, при "
+"которой вычитаются соответствующие компоненты (координаты) векторов."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:162
+#: 25bb77fc03444e73bc1a10c29c11afc1
+msgid "Пример"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:175
+#: 95848b1578b14e75a4418f79a5009337
+msgid "L2-норма вектора"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:177
+#: b5c26c5d5e1c4db6b4486755c8af8c51
+msgid ""
+"L2-норма вектора (евклидова норма) — это стандартный способ измерения "
+"длины вектора. Рассчитывается как квадратный корень из суммы квадратов "
+"всех компонент вектора."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:179
+#: 8eddbc2496414302a9ee6a645d2df25b
+msgid ""
+":raw-html:`Для вектора v = (v<sub>1</sub>, v<sub>2</sub>, ..., "
+"v<sub>n</sub>)` в n-мерном пространстве:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:181
+#: a6ee0ce0b1ad414d89d4d63f9cd22d9c
+#, python-brace-format
+msgid "\\|v\\|_2 = \\sqrt{v_1^2 + v_2^2 + \\cdots + v_n^2}"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:188
+#: 07db4b6b1e514162b653a44aeb03e984
+msgid "Нормализация вектора"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:190
+#: 6edba59345484899b7a06673929d4a1d
+msgid ""
+"Нормализация вектора — это преобразование вектора в вектор единичной "
+"длины (с :ref:`L2-нормой <PhysiCell_java_L2_norm>`, равной 1), "
+"сохраняющий его направление."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:192
+#: 6c0e1409e02c4c12a2f9bfe80f6409fe
+msgid ""
+"Нормализованная версия вектора :raw-html:`v = (v<sub>1</sub>, "
+"v<sub>2</sub>, ..., v<sub>n</sub>)` представляет собой вектор v`, каждая "
+"координата которого меньше соответствующей координаты вектора v в "
+"L2-норму этого вектора:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:195
+#: a8df27b8213948adbb73c7763758ca5d
+msgid ""
+"{v'}_i = \\frac{v_i}{\\sqrt{v_1^2 + v_2^2 + \\cdots + v_n^2}}, \\quad "
+"\\text{где } i = 1, 2, \\ldots, n."
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:202
+#: 512b5ba80fbb420a95c19f5d14fb60de
+msgid "Расстояние между точками"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:204
+#: c62b6ab6863b4f3ea2d573562e34d095
+msgid ""
+"В двумерной системе координат расстояние (d) между точками :raw-"
+"html:`A(x<sub>1</sub>, y<sub>1</sub>) и B(x<sub>2</sub>, y<sub>2</sub>)` "
+"вычисляется следующим образом:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:206
+#: 8cfb4d635e2743eb9fdb97614246fae4
+#, python-brace-format
+msgid "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:210
+#: a558165330b44290b13c876bc8fbf72b
+msgid ""
+"В трехмерной системе координат расстояние (d) между точками :raw-"
+"html:`A(x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>) и B(x<sub>2</sub>, "
+"y<sub>2</sub>, z<sub>2</sub>)` вычисляется следующим образом:"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:212
+#: 8c8e257f913044808939d426f8f508e4
+#, python-brace-format
+msgid "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}"
+msgstr ""
+
