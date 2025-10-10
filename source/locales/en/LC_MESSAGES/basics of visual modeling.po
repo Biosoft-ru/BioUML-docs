@@ -6,32 +6,35 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: BioUML \n"
+"Project-Id-Version: BioUML\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-09 17:36+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: en\n"
 "Language-Team: en <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../source/basics 484f604a45634c8bb0335a74b6de0e8a modeling.rst:2 of
 #: visual
 msgid "Основы визуального моделирования"
-msgstr ""
+msgstr "Visual Modeling Basics"
 
 #: ../../source/basics d48ddcca05cf452e8f9dee558ac0d8bd modeling.rst:4 of
 #: visual
 msgid ""
-"Задача моделирования сложных систем может быть существенно упрощена с "
-"точки зрения исследователя путем представления моделей систем в виде "
-"диаграмм и использования компьютерных программ, поддерживающих визуальное"
-" моделирование."
+"Задача моделирования сложных систем может быть существенно упрощена с точки "
+"зрения исследователя путем представления моделей систем в виде диаграмм и "
+"использования компьютерных программ, поддерживающих визуальное "
+"моделирование."
 msgstr ""
+"The task of modeling complex systems can be greatly simplified from the "
+"researcher's point of view by representing system models in the form of "
+"diagrams and using computer programs that support visual modeling."
 
 #: ../../source/basics c2e9897448b24e8b95559ad33b47d30d modeling.rst:7 of
 #: visual
@@ -40,27 +43,34 @@ msgid ""
 "моделей и работа с ними в виде графических диаграмм. Численные расчеты "
 "проводятся на основе данного представления."
 msgstr ""
+"**Visual modeling** is the formal representation, creation of models and "
+"work with them in the form of graphical diagrams. Numerical calculations are"
+" carried out based on this representation."
 
 #: ../../source/basics 90c837d673dc466fa7263ff4a79d7e87 modeling.rst:9 of
 #: visual
 msgid ""
 "**Диаграммы** - это двумерные геометрические представления информации в "
-"соответствии с соглашениями о графических обозначенияx. Диаграмма состоит"
-" из узлов, ребер и компартентов, которые называются **элементами "
-"диаграммы**:"
+"соответствии с соглашениями о графических обозначенияx. Диаграмма состоит из"
+" узлов, ребер и компартентов, которые называются **элементами диаграммы**:"
 msgstr ""
+"**Diagrams** are two-dimensional geometric representations of information "
+"according to graphical notation conventions. A diagram consists of nodes, "
+"edges and compartments, which are called **diagram elements**:"
 
 #: ../../source/basics 1fff316c81f44ce5baa1519a2bf6a8f4 modeling.rst:12 of
 #: visual
 msgid ""
-"**узел** обычно представляет собой некоторую геометрическую фигуру, "
-"например прямоугольник или эллипс;"
+"**узел** обычно представляет собой некоторую геометрическую фигуру, например"
+" прямоугольник или эллипс;"
 msgstr ""
+"**node** usually represents some geometric figure, such as a rectangle or "
+"ellipse;"
 
 #: ../../source/basics e1da4c2948cd46a8a5880a9bd8d1344b modeling.rst:13 of
 #: visual
 msgid "**ребро** – это линия, соединяющая два узла;"
-msgstr ""
+msgstr "An **edge** is a line connecting two nodes;"
 
 #: ../../source/basics 40b059709c404e7785c76a1b60899e4d modeling.rst:14 of
 #: visual
@@ -68,6 +78,8 @@ msgid ""
 "**компартмент** — это особый тип узла, внутри которого могут находиться "
 "другие узлы."
 msgstr ""
+"A **compartment** is a special type of node within which other nodes can "
+"reside."
 
 #: ../../source/basics a0241824791844c49e69912ab444523a modeling.rst:16 of
 #: visual
@@ -75,6 +87,8 @@ msgid ""
 "BioUML упрощает создание сложных биологических моделей путем визуального "
 "моделирования:"
 msgstr ""
+"BioUML makes it easy to create complex biological models through visual "
+"modeling:"
 
 #: ../../source/basics 658ac0d1cfc64604b50bc334bbea23d5 modeling.rst:18 of
 #: visual
@@ -82,11 +96,13 @@ msgid ""
 "пользователь создаёт и редактирует модель биологической системы в виде "
 "диаграммы;"
 msgstr ""
+"the user creates and edits a model of a biological system in the form of a "
+"diagram;"
 
 #: ../../source/basics a5ba7b8a75fb4d009690f3c4cb345212 modeling.rst:19 of
 #: visual
 msgid "на основе созданной диаграммы ПК BioUML генерирует Java код;"
-msgstr ""
+msgstr "based on the created PC diagram, BioUML generates Java code;"
 
 #: ../../source/basics 20330358a6fa4742af96f6f317a50818 modeling.rst:20 of
 #: visual
@@ -94,32 +110,41 @@ msgid ""
 "сгенерированный Java код компилируется и используется соответствующими "
 "решателями для численного моделирования динамики исходной системы."
 msgstr ""
+"the generated Java code is compiled and used by the corresponding solvers to"
+" numerically simulate the dynamics of the original system."
 
 #: ../../source/basics 3867e5ab343d48b1a1616dc9ad839d7d modeling.rst:23 of
 #: visual
 msgid "Графическая нотация"
-msgstr ""
+msgstr "Graphic notation"
 
 #: ../../source/basics 93ed7a42ae464048a6900aef17a9317c modeling.rst:25 of
 #: visual
 msgid ""
 "Необходимой составной частью визуального моделирования является "
-"**графическая нотация** (визуальный синтаксис, графический язык), которая"
-" позволяет формально и полно описать модель. Графическая нотация может "
-"быть представлена несколькими типами диаграмм, позволяющими описать "
-"разные аспекты структуры и функционирования сложных систем с разным "
-"уровнем формальности и детализации. Далее на основе такого формального "
-"графического представления системы (диаграммы) компьютерная программа "
-"автоматически генерирует код для численного моделирования динамики этой "
-"системы."
+"**графическая нотация** (визуальный синтаксис, графический язык), которая "
+"позволяет формально и полно описать модель. Графическая нотация может быть "
+"представлена несколькими типами диаграмм, позволяющими описать разные "
+"аспекты структуры и функционирования сложных систем с разным уровнем "
+"формальности и детализации. Далее на основе такого формального графического "
+"представления системы (диаграммы) компьютерная программа автоматически "
+"генерирует код для численного моделирования динамики этой системы."
 msgstr ""
+"A necessary component of visual modeling is **graphical notation** (visual "
+"syntax, graphic language), which allows you to formally and completely "
+"describe the model. Graphic notation can be represented by several types of "
+"diagrams, allowing one to describe different aspects of the structure and "
+"functioning of complex systems with varying levels of formality and detail. "
+"Next, based on such a formal graphical representation of the system "
+"(diagram), the computer program automatically generates code for numerical "
+"simulation of the dynamics of this system."
 
 #: ../../source/basics d31ef8e482274483987b1906e9dd67a7 modeling.rst:29 of
 #: visual
 msgid ""
-"Основными компонентами формального определения графической нотации "
-"являются:"
+"Основными компонентами формального определения графической нотации являются:"
 msgstr ""
+"The main components of the formal definition of graphical notation are:"
 
 #: ../../source/basics 512d40589cd04aea807ec7c2ab94abbe modeling.rst:31 of
 #: visual
@@ -127,58 +152,77 @@ msgid ""
 "**типы вершин и ребер** – какие типы биологических (и математических) "
 "объектов и их взаимодействий могут быть показаны на диаграмме;"
 msgstr ""
+"**types of vertices and edges** – what types of biological (and "
+"mathematical) objects and their interactions can be shown on the diagram;"
 
 #: ../../source/basics e8708d9ceeb74d14882935423994bd74 modeling.rst:32 of
 #: visual
 msgid ""
 "**правила отрисовки объектов** – как биологические объекты должны быть "
-"представлены на диаграмме, учитывая их свойства. Например, РНК может быть"
-" представлена в виде волнистой линии, белок может быть представлен в виде"
-" круга, а маленькие круги на нем могут представлять различные модификации"
-" аминокислотных остатков (фосфорилирование, убиквитинирование и т.п.);"
+"представлены на диаграмме, учитывая их свойства. Например, РНК может быть "
+"представлена в виде волнистой линии, белок может быть представлен в виде "
+"круга, а маленькие круги на нем могут представлять различные модификации "
+"аминокислотных остатков (фосфорилирование, убиквитинирование и т.п.);"
 msgstr ""
+"**rules for drawing objects** – how biological objects should be presented "
+"on the diagram, taking into account their properties. For example, RNA can "
+"be represented as a wavy line, a protein can be represented as a circle, and"
+" the small circles on it can represent various modifications of amino acid "
+"residues (phosphorylation, ubiquitination, etc.);"
 
 #: ../../source/basics eae15655318e40cd9f937438c1cdcd4b modeling.rst:33 of
 #: visual
 msgid ""
 "**семантические правила и ограничения** – используются для обеспечения "
-"семантической целостности диаграммы в процессе ее создания и "
-"редактирования. Например, если пользователь удаляет вещество с диаграммы,"
-" то все реакции, в которых оно участвует должны быть тоже удалены."
+"семантической целостности диаграммы в процессе ее создания и редактирования."
+" Например, если пользователь удаляет вещество с диаграммы, то все реакции, в"
+" которых оно участвует должны быть тоже удалены."
 msgstr ""
+"**semantic rules and restrictions** – are used to ensure the semantic "
+"integrity of the diagram during its creation and editing. For example, if "
+"the user removes a substance from the diagram, then all reactions in which "
+"it participates must also be removed."
 
 #: ../../source/basics ed7a416367b14126b009f0745749ef36 modeling.rst:36 of
 #: visual
 msgid "Поддержка SBML и SBGN в BioUML"
-msgstr ""
+msgstr "Support for SBML and SBGN in BioUML"
 
 #: ../../source/basics c216a52ce6454cde9de4ff9333229566 modeling.rst:38 of
 #: visual
 msgid ""
-"BioUML полностью поддерживает и активно использует **SBML** (Systems "
-"Biology Markup Language) - язык разметки системной биологии в качестве "
-"стандарта для описания математических моделей с обыкновенными "
-"дифференциальными уравнениями (ОДУ) и дискретными событиями "
-"(https://sbml.org/). Модели, создаваемые в BioUML, в основном подчиняются"
-" математическому формализму, описываемому SBML."
+"BioUML полностью поддерживает и активно использует **SBML** (Systems Biology"
+" Markup Language) - язык разметки системной биологии в качестве стандарта "
+"для описания математических моделей с обыкновенными дифференциальными "
+"уравнениями (ОДУ) и дискретными событиями (https://sbml.org/). Модели, "
+"создаваемые в BioUML, в основном подчиняются математическому формализму, "
+"описываемому SBML."
 msgstr ""
+"BioUML fully supports and actively uses **SBML** (Systems Biology Markup "
+"Language) as a standard for describing mathematical models with ordinary "
+"differential equations (ODE) and discrete events (https://sbml.org/). Models"
+" created in BioUML generally follow the mathematical formalism described by "
+"SBML."
 
 #: ../../source/basics 4121a73041414b0a962dab27f42bb456 modeling.rst:42 of
 #: visual
 msgid ""
 "Наиболее известной графической нотацией в системной биологии является "
-"**SBGN** (Systems Biology Graphic Notation), которая поддерживается в "
-"BioUML :ref:`(Рисунок 1) <Pic.1_1>`. Подробное описание графической "
-"нотации SBGN можно найти по ссылке (https://sbgn.github.io/)."
+"**SBGN** (Systems Biology Graphic Notation), которая поддерживается в BioUML"
+" :ref:`(Рисунок 1) <Pic.1_1>`. Подробное описание графической нотации SBGN "
+"можно найти по ссылке (https://sbgn.github.io/)."
 msgstr ""
+"The most famous graphical notation in systems biology is **SBGN** (Systems "
+"Biology Graphic Notation), which is supported in BioUML :ref:`(Figure 1) "
+"<Pic.1_1>`. A detailed description of the SBGN graphical notation can be "
+"found at (https://sbgn.github.io/)."
 
 #: ../../source/basics aee134b1456049388d4c727cee99d67f modeling.rst:49 of
 #: visual
 msgid "SBGN нотация в BioUML"
-msgstr ""
+msgstr "SBGN notation in BioUML"
 
 #: ../../source/basics 176fc1fce63d478782c2cd19dbd1059b modeling.rst:54 of
 #: visual
 msgid "Рисунок 1. Адаптированная SBGN нотация в BioUML"
-msgstr ""
-
+msgstr "Figure 1. Adapted SBGN notation in BioUML"
