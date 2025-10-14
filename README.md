@@ -19,12 +19,27 @@ So it is not needed to convert already written pages.
 5. Install sphinx-intl
 <br/>```pip install sphinx-intl```
 
-6. ```make html``` - builds the project.
+6. Find the Sphinx scripts directory
+<br/>```where sphinx-build```
+
+7. Open System Properties
+<br/>```Win + R```
+
+8. Type the following and press Enter
+<br/>```sysdm.cpl```
+
+9. Go to Advanced tab
+
+10. Click the Environment Variables
+
+11. Paste the full path to the Sphinx scripts directory (from step 6) to the Path variable
+
+12. ```make html``` - builds the project.
 You can open in the browser generated html files fro 'target' directory.
 
-7. When you pull you chages int github, the documentation on readthedocs will be automatically rebuilded due to hit webhook.
+13. When you pull you chages int github, the documentation on readthedocs will be automatically rebuilded due to hit webhook.
 
-8. Open link
+14. Open link
 <br/>https://biouml.readthedocs.io
 <br/>https://biouml.rtfd.io
 
