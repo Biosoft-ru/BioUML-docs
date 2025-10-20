@@ -114,7 +114,7 @@ Model
        | Возвращает строковое значение параметра name.
        |
        | :ref:`Пример <PhysiCell_java_Biorobots_BiorobotsVisualizer_java>` использования.
-   * - setSaveFullInterval(double interval)
+   * - void setSaveFullInterval(double interval)
      - | interval - временной интервал.
        |
        | Устанавливает временной интервал interval для сохранения полных результатов расчета модели.

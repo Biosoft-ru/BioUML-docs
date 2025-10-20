@@ -250,7 +250,7 @@ Cell
        | Возвращает значение переменной с индексом index для данной клетки.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_CancerImmunityVisualizer_java>` использования.
-   * - set(String name, double value)
+   * - void set(String name, double value)
      - | name - название параметра.
        | value - значение.
        |
@@ -293,21 +293,21 @@ Cell
      - | Содержит название типа клеток, к которому относится данная клетка.
        |
        | :ref:`Пример <PhysiCell_java_Interactions_BacterialPhenotype_java>` использования.
-   * - static detachCells(Cell cell1, Cell cell2)
+   * - static void detachCells(Cell cell1, Cell cell2)
      - | cell1 - клетка.
        | cell2 - клетка.
        |
        | Расцепляет клетки cell1 и cell2.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_AdhesionContact_java>` использования.
-   * - static attachcCells(Cell cell1, Cell cell2)
+   * - static void attachcCells(Cell cell1, Cell cell2)
      - | cell1 - клетка.
        | cell2 - клетка.
        |
        | Сцепляет клетки cell1 и cell2.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellRule_java>` использования.
-   * - static createCell(CellDefinition cd, Model model, double[] position)
+   * - static void createCell(CellDefinition cd, Model model, double[] position)
      - | cd - тип клеток.
        | model - модель.
        | position - координаты клетки.
@@ -325,7 +325,7 @@ Cell
        | Возвращает значение градиента плотности субстрата с индексом index в ближайшей к клетке ячейке решетки.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellMotility_java>` использования.
-   * - startDeath(int index)
+   * - void startDeath(int index)
      - | index - индекс типа клеточной смерти.
        |
        | Запускает клеточную смерть с индексом index.
@@ -335,7 +335,7 @@ Cell
      - | Возвращает список клеток в ячейке данной клетки.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellRule_java>` использования.
-   * - removeAllAttachedCells()
+   * - void removeAllAttachedCells()
      - | Отсоединяет все клетки, прикрепленные к данной клетке.
        |
        | :ref:`Пример <PhysiCell_java_CancerBiorobots_CargoPhenotype_java>` использования.
@@ -347,7 +347,7 @@ Cell
      - | Возвращает массив плотностей всех субстратов в ячейке решетки, где находится данная клетка.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования.
-   * - ingestCell(Cell cell)
+   * - void ingestCell(Cell cell)
      - | cell - клетка.
        |
        | Клетка, к которой был применен данный метод, поглощает клетку cell.
@@ -359,7 +359,7 @@ Cell
        | Возвращает градиент субстрата substrate в ячейке решетки, в которой находится данная клетка.
        |
        | :ref:`Пример <PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` использования.
-   * - lyseCell()
+   * - void lyseCell()
      - | Активирует лизис данной клетки.
        |
        | :ref:`Пример <PhysiCell_java_VirusMacrophage_Epithelial_java>` использования.

@@ -221,7 +221,7 @@ Phenotype
        | Возвращает скорость перехода между фазами жизненного цикла с номерами phase1 и phase2.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_TumorPhenotype_java>` использования.
-   * - data.setTransitionRate(int phase1, int phase2, double speed)
+   * - void data.setTransitionRate(int phase1, int phase2, double speed)
      - | phase1 - номер фазы жизненного цикла.
        | phase2 - номер фазы жизненного цикла.
        | speed - скорость перехода между фазами жизненного цикла.
@@ -237,7 +237,7 @@ Phenotype
        | \*Используется, если клетка может перейти из фазы phase только в одну другую фазу.
        |
        | :ref:`Пример <PhysiCell_java_Interactions_BacterialPhenotype_java>` использования.
-   * - data.setExitRate(int phase, double probability)
+   * - void data.setExitRate(int phase, double probability)
      - | phase - номер фазы жизненного цикла.
        | probability - вероятность.
        |
@@ -265,7 +265,7 @@ Phenotype
      - | Возвращает количество вероятностей всех возможных клеточных смертей.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_Initial_java>` использования.
-   * - rates.set(int index, double probability)
+   * - void rates.set(int index, double probability)
      - | index - индекс типа клеточной смерти.
        | probability - вероятность.
        |
@@ -389,11 +389,11 @@ Phenotype
      - | Содержит массив, содержащий скорости постоянной (не зависящей от объема клетки) секреции/потребления всех возможных субстратов для данной клетки.
        |
        | :ref:`Пример <PhysiCell_java_Interactions_BacterialPhenotype_java>` использования.
-   * - setSecretionToZero()
+   * - void setSecretionToZero()
      - | Устанавливает скорость секреции, равной 0, для всех субстратов в модели для данной клетки.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования.
-   * - setUptakeToZero()
+   * - void setUptakeToZero()
      - | Устанавливает скорость потребления, равной 0, для всех субстратов в модели для данной клетки.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования.
@@ -440,11 +440,11 @@ Phenotype
    * - Член класса
      - Описание
    
-   * - start()
+   * - void start()
      - | Запускает расчеты внитриклеточной модели.
        |
        | :ref:`Пример <PhysiCell_java_ODEEnergy_Initial_java>` использования.
-   * - setParameterValue(String name, double value)
+   * - void setParameterValue(String name, double value)
      - | name - название параметра внутриклеточной модели.
        | value - значение.
        |

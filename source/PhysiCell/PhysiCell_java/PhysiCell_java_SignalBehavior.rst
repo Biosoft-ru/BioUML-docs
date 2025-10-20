@@ -81,7 +81,7 @@ SignalBehavior
        | Возвращает численное значение сигнала signal, описывающего тот или иной аспект жизни клетки cell.
        |
        | :ref:`Пример <PhysiCell_java_CancerBiorobots_CargoCellRule_java>` использования.
-   * - setSingleBehavior(Cell cell, String signal, double value)
+   * - void setSingleBehavior(Cell cell, String signal, double value)
      - | cell - клетка.
        | signal - название сигнала.
        | value - значение.

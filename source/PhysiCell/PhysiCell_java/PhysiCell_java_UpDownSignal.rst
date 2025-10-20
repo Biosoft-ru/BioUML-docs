@@ -89,7 +89,7 @@ UpDownSignal
      - | Содержит максимальное значение сигнала.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования.
-   * - addEffect(double value, String direction)
+   * - void addEffect(double value, String direction)
      - | value - значение.
        | direction - направленность*.
        |
@@ -101,11 +101,11 @@ UpDownSignal
        | Добавляет эффект со значением value и направленностью direction.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования.
-   * - computeEffect()
+   * - void computeEffect()
      - | Вычисляет значение сигнала.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования.
-   * - reset()
+   * - void reset()
      - | Обнуляет все параметры сигнала.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования.

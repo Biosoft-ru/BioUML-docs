@@ -110,7 +110,7 @@ VectorUtil
        | Возвращает :ref:`нормализованный <PhysiCell_java_Normalization>` вектор vector.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_AdhesionContact_java>` использования.
-   * - static normalize(double[] vector)
+   * - static void normalize(double[] vector)
      - | vector - трехмерный вектор.
        |
        | :ref:`Нормализует <PhysiCell_java_Normalization>` вектор vector.
@@ -142,7 +142,7 @@ VectorUtil
        | где i - каждая координата векторов vector1 и vector2.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_AdhesionContact_java>` использования.
-   * - static zero(double[] vector)
+   * - static void zero(double[] vector)
      - | vector - трехмерный вектор.
        |
        | Зануляет все координаты вектора vector.

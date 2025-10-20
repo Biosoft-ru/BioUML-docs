@@ -74,7 +74,7 @@ PhysiCellUtilities
    * - Член класса
      - Описание
 
-   * - static place(Model model, String type, int number)
+   * - static void place(Model model, String type, int number)
      - | model - модель.
        | type - название типа клеток.
        | number - целое положительное число.
@@ -82,7 +82,7 @@ PhysiCellUtilities
        | Добавляет в модель model клетки типа type, случайно распределенные по всей среде, в количестве number.
        |
        | :ref:`Пример <PhysiCell_java_Interactions_Initial_java>` использования.
-   * - static place2D(Model model, String type, int number)
+   * - static void place2D(Model model, String type, int number)
      - | model - модель.
        | type - название типа клеток.
        | number - целое положительное число.
