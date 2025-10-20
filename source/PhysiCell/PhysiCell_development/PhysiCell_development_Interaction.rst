@@ -3,7 +3,7 @@
 Создание взаимодействия
 =======================
 
-.. |icon_interaction| image:: /images/icons/Physicell/interaction.png
+.. |icon_interaction| image:: /images/icons/Physicell/interaction_corrected.png
 
 В результате взаимодействия клетки одного типа оказывают то или иное воздействие на клетки другого типа.
 

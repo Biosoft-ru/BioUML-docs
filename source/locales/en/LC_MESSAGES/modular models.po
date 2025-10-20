@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 17:36+0300\n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,13 +17,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
+"Generated-By: Babel 2.12.1\n"
 
-#: ../../source/modular 83e21a27252b4e3d85323233df621fa3 models.rst:2
+#: ../../source/modular e9c328abf5544b1f8ddc79d767608a19 models.rst:2
 msgid "Основы модульного моделирования"
 msgstr ""
 
-#: ../../source/modular 60a5f67aee7549e0b72e30c08f2428af models.rst:15
+#: ../../source/modular 19e1113801844482addfade9f7277910 models.rst:15
 msgid ""
 "*Модульный подход* к моделированию биологических систем в последние годы "
 "активно развивается. Он подразумевает декомпозицию системы на подсистемы,"
@@ -36,7 +36,7 @@ msgid ""
 "масштабы и даже формализмы."
 msgstr ""
 
-#: ../../source/modular 918e60385dfb42bf9109508be234e017 models.rst:24
+#: ../../source/modular fc80d34a6c204cada2b08f7f75b54eef models.rst:24
 msgid ""
 "В платформе BioUML диаграмма, описывающая модульную модель, содержит "
 "соединенные между собой элементы – **модули**, каждый из которых "
@@ -45,76 +45,76 @@ msgid ""
 "которая осуществляется засчет **портов**."
 msgstr ""
 
-#: ../../source/modular b61c8eb165724c74b31f3477dbb28e24 models.rst:31
+#: ../../source/modular a7edc47bcceb4c06972673776efb6604 models.rst:31
 msgid ""
 "В зависимости от *направления передачи сигнала* выделяется три типа "
 "портов: вход, выход и контакт :ref:`(Рисунок 1) <Pic.1_8>`."
 msgstr ""
 
-#: ../../source/modular e7fc45eb94064cbf964556b60e3982d9 models.rst:33
+#: ../../source/modular 10f5788353944434817bd4fb0587ab37 models.rst:33
 msgid ""
 "**Вход (input)** - значение переменной подается на вход модуля и не может"
 " быть изменено модулем;"
 msgstr ""
 
-#: ../../source/modular 7cf9c9047d8747dd89f310df4c78bbeb models.rst:34
+#: ../../source/modular 03d3f3a45e1d417eadd22f67bdcea96d models.rst:34
 msgid ""
 "**Выход (output)** - значение переменной полностью определяется "
 "(вычисляется) внутри модуля и подается на вход другим модулям;"
 msgstr ""
 
-#: ../../source/modular 5a8de521fa474894bd438779ae1b4102 models.rst:35
+#: ../../source/modular 9f2a8a1eee2844d5af3d5c82b26a4017 models.rst:35
 msgid ""
 "**Контакт (contact)** - переменная, значение которой могут изменять оба "
 "модуля."
 msgstr ""
 
-#: ../../source/modular 7c3bea16dc34422c87f8fc6f11364d1f models.rst:41
+#: ../../source/modular 9a6f978d78f0467185484f39817aea92 models.rst:46
 msgid "Концепция модуля"
 msgstr ""
 
-#: ../../source/modular 3a98bca61c6241c59d3f533642befbbb models.rst:46
+#: ../../source/modular a56bff3db21f403f949508dee684b45f models.rst:46
 msgid "Рисунок 1. Концепция модуля"
 msgstr ""
 
-#: ../../source/modular 8f5d85fee08d4e87a97a38bcb0b9536b models.rst:50
+#: ../../source/modular 111a0a4ccf1c4f36b5a780980a2a7258 models.rst:50
 msgid ""
 "Существует три типа *доступности портов*, они могут быть приватными, "
 "публичными и вынесенными:"
 msgstr ""
 
-#: ../../source/modular 603fd00cec3d49b79fcd889ca7a675bd models.rst:52
+#: ../../source/modular 5fb533055ee048639db3e02ded27c7e6 models.rst:52
 msgid "**Приватный порт** (private) используется для изменения поведения модулей."
 msgstr ""
 
-#: ../../source/modular ce31f96f8325467e83aee8d5cd106318 models.rst:53
+#: ../../source/modular 76d017d633ff404a858a78935872907d models.rst:53
 msgid ""
 "**Публичный порт** (public) используется для представления модульной "
 "модели в виде модцля и включения ее в другую модельную модель."
 msgstr ""
 
-#: ../../source/modular 2880709b99284752a2fa9aa6e153bf5f models.rst:54
+#: ../../source/modular 4550e8a8b1e54c948eaf1ace487da02b models.rst:54
 msgid "**Вынесенный порт** (propagated)..."
 msgstr ""
 
-#: ../../source/modular d0d6b62357324052a54d2f0dda1b0547 models.rst:57
+#: ../../source/modular a988d44b0746433a9099f6b8a823bb6b models.rst:57
 msgid ""
 "добавить что такое вынесенный порт и возможно дать объяснение попроще для"
 " приватного и публичного"
 msgstr ""
 
-#: ../../source/modular 45ec901c367846e7abd84c88bfc68690 models.rst:61
+#: ../../source/modular bf224fcad3ed47578962b6e386deaf93 models.rst:61
 msgid ""
 "Между выходом и входом устанавливается **направленная связь (directed)**,"
 " означающая передачу сигнала из одного модуля в другой. Между контактами "
 "– **ненаправленная связь (undirected)**, обозначающая обмен сигналами."
 msgstr ""
 
-#: ../../source/modular c3c8031371f5437ea143c4bb4aa805d2 models.rst:152
+#: ../../source/modular 87162199df824fd4b5a7ad7f6fed996e models.rst:152
 msgid "Создание модульной модели"
 msgstr ""
 
-#: ../../source/modular 93d1fd33b09b4b10b492ee98e8aba9f6 models.rst:166
+#: ../../source/modular fe83e0b90a7040ccb3a0a3c8cc4baf41 models.rst:166
 msgid ""
 "Для *создания модульной модели* создайте диаграмму следующего :ref:`типа "
 "<diagram_types>`: композиционную или композиционную модель SBML в нотации"
@@ -122,11 +122,11 @@ msgid ""
 "элементы, добавленные в BioUML."
 msgstr ""
 
-#: ../../source/modular 35419f75554d410d9fbdc142dfa076f9 models.rst:172
+#: ../../source/modular e2236c248aa9470dbbd269f17bf8911f models.rst:172
 msgid "Добавление модулей"
 msgstr ""
 
-#: ../../source/modular 902b73b6df83411c844a3954b404138b models.rst:174
+#: ../../source/modular 9c6f91ba621f4cb9860f5732ca7ba1f7 models.rst:174
 msgid ""
 "В открывшейся диаграмме **подмодель** добавляется путем нажатия на иконку"
 " |subdiagram|, расположенной на :ref:`панели инструментов <panel>`. "
@@ -136,36 +136,36 @@ msgid ""
 "|option| Diagram :ref:`(Рисунок 2) <Pic.2_8>`."
 msgstr ""
 
-#: ../../source/modular 1cf244b980cc4675b34a55404961c931 models.rst:154
+#: ../../source/modular 4fa9ca04832245d0909c66586344b096 models.rst:154
 msgid "subdiagram"
 msgstr ""
 
-#: ../../source/modular 1430de618eb54af5aff2ac599d248b94
-#: 2f2f1726b06d4359999dd6462c723041 438f85be196841ac98c78180f79f22f1
-#: 90beaf3358124b878ed58537a92d01ab 9777113add1c44bab9f0b9f9835ad747
-#: 9a58e0535d0f440084a5bf7f2915c028 c03e9cb710c845f2b882eefa191d224f
-#: c6731fab925a418bb5464c85d6a02455 d1ced963a3f64fd4b7c2566c83ca31da
-#: d3a5293cb5ba4f15b718c646c7a70d92 e8c267a02a4a493dbdb6c9f7017d27fd
-#: f55b85ed2ad34332ae2b939bc220ec5e models.rst:13
+#: ../../source/modular 11feb08522be4d6eae862318189875ab
+#: 2f618cf3ae4c46eab0916b117b63ced1 2fcb392191a74f38ae64400bd60d17ca
+#: 339dc8f1b5bd42c4b37610c0fed28a20 364f2c9029bd46b488e9d29310a1bc68
+#: 583b1d2a12e84a8dbdb098eba2a6f3f8 6d9401a724f5442db25d8e6b5f921624
+#: 81be1ee94e5447fead6aefc9a4abc45d 92624f82eaa64504841cd42a687c1ccf
+#: 9987b7390b204b11b50b4db7b90b4025 abc39408a9534c49bac81f2473f10d0d
+#: c83ece67941b417582f8ce4e75a77607 models.rst:13
 msgid "option"
 msgstr ""
 
-#: ../../source/modular 55e84fc326e6416e9553f832f5311168 models.rst:179
+#: ../../source/modular aa8afb1af2364810b4df695d1a312d30 models.rst:179
 msgid ""
 "При работе с модульной моделью, включающей подмодели, при нажатии на "
 "подмодель, в отдельном окне нижней части рабочего пространства, будет "
 "отображаться ее диаграмма."
 msgstr ""
 
-#: ../../source/modular b21b10e899d24523ac8ef6dd0d44c8fe models.rst:183
+#: ../../source/modular f550043bc32340e8bdbce94c9dddf81d models.rst:188
 msgid "Добавление подмодели"
 msgstr ""
 
-#: ../../source/modular e57d8fa335904aa4959cdaf79bb5e998 models.rst:188
+#: ../../source/modular 45ff9825ed854128bbb8f881f50e5637 models.rst:188
 msgid "Рисунок 2. Добавление подмодели"
 msgstr ""
 
-#: ../../source/modular 6b2d0e1287b245529a824333aecefaeb models.rst:190
+#: ../../source/modular 2b6f8eca62d544a1965637e619c66d23 models.rst:190
 msgid ""
 "Модулю **переключателя** соответствует иконка |switcher_icon|, а "
 "**константе** - |constant_icon|, для которой в поле |option| Value "
@@ -173,22 +173,22 @@ msgid ""
 "таким же образом на диаграмму, как и подмодель."
 msgstr ""
 
-#: ../../source/modular 2da1939778f24e6099107ba5efb6f7f3 models.rst:155
+#: ../../source/modular c5672872a977438bbc8b2aa5d0034cd8 models.rst:155
 msgid "switcher_icon"
 msgstr ""
 
-#: ../../source/modular 92aa71e3d91f474c898cbf587a4357b8 models.rst:159
+#: ../../source/modular 5950d08b63ea4760b1b48ddd0361a5d6 models.rst:159
 msgid "constant_icon"
 msgstr ""
 
-#: ../../source/modular 8b9d264d51ac4bd09f3607ba70893c50 models.rst:194
+#: ../../source/modular d872b1f67e5b4dddb7af48295c4cb058 models.rst:194
 msgid ""
 "нужно добавить что-то еще и про переключатель, потому что совсем "
 "непонятно как он используется, и какой сигнал он подает на вход из двух. "
 "как и должно быть более детальное объяснение про использование констант."
 msgstr ""
 
-#: ../../source/modular e511d72d2141441f9c9fe03ff64c9867 models.rst:197
+#: ../../source/modular dd2a0e9e4bd0422a828866c7aa48b195 models.rst:197
 msgid ""
 "Созданные подмодели отображаются в области :doc:`поля операций "
 "</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
@@ -198,19 +198,19 @@ msgid ""
 "подмодели. Столбец Diagram path содержит путь к диаграмме подмодели."
 msgstr ""
 
-#: ../../source/modular 71df43cdd823449cbe201270500b2b0a models.rst:203
+#: ../../source/modular 1b302779bab44cbdbbe072c2685a6eba models.rst:208
 msgid "Вкладка Subdiagrams в поле операций"
 msgstr ""
 
-#: ../../source/modular 91d1cca62a984a28b6f891b86515f838 models.rst:208
+#: ../../source/modular dd12b32bce03415297b7c5f69431e9a7 models.rst:208
 msgid "Рисунок 3. Вкладка Subdiagrams в поле операций"
 msgstr ""
 
-#: ../../source/modular b060b026c4324b04ab427862f25abd20 models.rst:213
+#: ../../source/modular 363ade0d62b34753832e27d3ac68c3f8 models.rst:213
 msgid "Создание портов"
 msgstr ""
 
-#: ../../source/modular ac30dd6b89c7429e839dbd2689271570 models.rst:215
+#: ../../source/modular 8a7f61db4c7247ef9873bc8abcbafecd models.rst:215
 msgid ""
 "*Чтобы создать порт* перейдите в документ подмодели и нажмите на иконку "
 "|port|. В открывшемся окне в поле |option| Access type выберите *тип "
@@ -221,19 +221,19 @@ msgid ""
 ":ref:`(Рисунок 4) <Pic.4_8>`."
 msgstr ""
 
-#: ../../source/modular c0c976a1cd174ab184da9f8c4680bcb3 models.rst:160
+#: ../../source/modular 2b7919994c70451c9374d451cff83fa9 models.rst:160
 msgid "port"
 msgstr ""
 
-#: ../../source/modular d9423191737f47309175ce82670cd1b8 models.rst:222
+#: ../../source/modular 746b4115dab4471e88fd3dca90a9a8cd models.rst:227
 msgid "Добавление порта в подмодели"
 msgstr ""
 
-#: ../../source/modular d66d8382be9b4778893343ac0009e1a0 models.rst:227
+#: ../../source/modular 0a4bd0bac9c34eefbe00a0ccff41a937 models.rst:227
 msgid "Рисунок 4. Добавление порта в подмодели"
 msgstr ""
 
-#: ../../source/modular f96c07644e8a4712babf6d797aeb3b67 models.rst:229
+#: ../../source/modular 2edb9e44178443aba028f3322716769c models.rst:229
 msgid ""
 "В подмодели порт, созданный для сущности :ref:`(переменной) "
 "<math_model>`, будет автоматически соединен с ней ребром, а в случае "
@@ -244,7 +244,7 @@ msgid ""
 ":ref:`рисунке, описывающем концепцию модуля <module_concept>`."
 msgstr ""
 
-#: ../../source/modular ae0d40614a424c3ea7292a26addae5a3 models.rst:235
+#: ../../source/modular a5013e5028c1413990e5faff1654f068 models.rst:235
 msgid ""
 "Для того чтобы изменения, сделанные в подмодели отобразились на модульной"
 " диаграмме, сохраните диаграмму и затем в документе модульной модели "
@@ -252,11 +252,11 @@ msgid ""
 "управления </user_interface>`."
 msgstr ""
 
-#: ../../source/modular e4a0f56ed1af405eac4d82329da9d4d8 models.rst:161
+#: ../../source/modular 9117051ca95a435b9dc9c6a463869e23 models.rst:161
 msgid "update submodel"
 msgstr ""
 
-#: ../../source/modular 7726e22118f64ecba2c86eddc1f31978 models.rst:237
+#: ../../source/modular 79a9649d07714d20a4b86fe88aafa2f0 models.rst:237
 msgid ""
 "Чтобы добавить порт на *верхнем уровне* - в модульной диаграмме, для "
 "начала необходимо :ref:`создать новый параметр <add_parameter>`. Далее, "
@@ -271,27 +271,27 @@ msgid ""
 "автоматически."
 msgstr ""
 
-#: ../../source/modular 8b6d1c5c18bf4fd4ab6fa7301bc505b6 models.rst:157
+#: ../../source/modular 41b510f198e54b4bbeb144c7556c92e9 models.rst:157
 msgid "input_port"
 msgstr ""
 
-#: ../../source/modular bf9ab14975f8453a8dc2147ecbcf12e3 models.rst:158
+#: ../../source/modular 07a4db611d484b99995d2ef8c1bb6445 models.rst:158
 msgid "output_port"
 msgstr ""
 
-#: ../../source/modular 23ced681abc047b28bcc70719585f764 models.rst:156
+#: ../../source/modular de7817e0f90542df8fed932268d5b0aa models.rst:156
 msgid "contact_port"
 msgstr ""
 
-#: ../../source/modular 6be0a06711cb48008772d4c452329138 models.rst:244
+#: ../../source/modular 2349c5d1e6194cfb9c8af39f1df9a3fc models.rst:249
 msgid "Добавление приватного порта на верхнем уровне модульной модели"
 msgstr ""
 
-#: ../../source/modular c08bd3bf60e749a9a759abc985d5deff models.rst:249
+#: ../../source/modular 9dfb321f728c496eb9a6715c1a7fdb7f models.rst:249
 msgid "Рисунок 5. Добавление приватного порта на верхнем уровне модульной модели"
 msgstr ""
 
-#: ../../source/modular 52f6f8f00a814be086186e2b29f304f4 models.rst:251
+#: ../../source/modular c4b7e80dcf594ca2b2a7873c2fb5d342 models.rst:251
 msgid ""
 "Для *установления связи между входным и выходным портом* в модульной "
 "модели, при ранее созданных портах в диаграммах подмодулей, нажмите на "
@@ -302,15 +302,15 @@ msgid ""
 "*ненаправленную связь*, и соединения контактных портов."
 msgstr ""
 
-#: ../../source/modular 95fafed76c9c4873bb3097bc3e66f065 models.rst:162
+#: ../../source/modular fc9391281cb54a689fc7e249a79bcb73 models.rst:162
 msgid "directed link"
 msgstr ""
 
-#: ../../source/modular 510ddd77626f4ed882ce2065954f7498 models.rst:163
+#: ../../source/modular 2a92586cf6ed4848be000f244d2a7c84 models.rst:163
 msgid "undirected link"
 msgstr ""
 
-#: ../../source/modular 5c27d85fb2b44bf99ee69f39c9e4c4d9 models.rst:255
+#: ../../source/modular 06591ae483da4e47b73ee0ebddf16b74 models.rst:255
 msgid ""
 "Созданные порты и связи отображаются в области :doc:`поля операций "
 "</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
@@ -319,27 +319,27 @@ msgid ""
 " <Pic.7_8>`, соответственно."
 msgstr ""
 
-#: ../../source/modular 6d64a1ee92d14a9295985d8ac2033284 models.rst:260
+#: ../../source/modular 06f7c1c5ec414949811077e176fceef3 models.rst:265
 msgid "Вкладка Ports в поле операций"
 msgstr ""
 
-#: ../../source/modular 17b9aeb8ffb24b898c70dad15adcc629 models.rst:265
+#: ../../source/modular 13fc679da19a48ff837e1931a6df23cd models.rst:265
 msgid "Рисунок 6. Вкладка Ports в поле операций"
 msgstr ""
 
-#: ../../source/modular 8f2861c3bcb44acb9681d783013b4d7d models.rst:269
+#: ../../source/modular 7097ea15198a469f8b1ec36e3824317b models.rst:274
 msgid "Вкладка Connections в поле операций"
 msgstr ""
 
-#: ../../source/modular 30939f8597fc45ceb4e9b1a5a94e6e4e models.rst:274
+#: ../../source/modular e5aeed254d274db59b11375ce36979b0 models.rst:274
 msgid "Рисунок 7. Вкладка Connections в поле операций"
 msgstr ""
 
-#: ../../source/modular 1fed6cfe879f48f08533fcb229cf4b38 models.rst:277
+#: ../../source/modular 1254820b798d42519eb26601c0470f9e models.rst:277
 msgid "Создание шин"
 msgstr ""
 
-#: ../../source/modular b0283e7b1ca94a1c811611652a452c6d models.rst:279
+#: ../../source/modular 9e872a000e55444b8f08769b47f8db0b models.rst:279
 msgid ""
 "**Шина** является вспомогательным элементом на модульных диаграммах "
 "являются, позволяющих устанавливать связи сразу между несколькими "
@@ -348,16 +348,16 @@ msgid ""
 "установлено несколько входящих направленных связей."
 msgstr ""
 
-#: ../../source/modular c002adff3f494e148d16b8e2915ba1a2
-#: f23b5917195e47e6919fcfc0d8425e0e models.rst:283 models.rst:308
+#: ../../source/modular a099e717652148f1931cab1dd29e6fea
+#: b962a17dc5a742f091acaaa71d5b10ea models.rst:288 models.rst:313
 msgid "Пример использование шин"
 msgstr ""
 
-#: ../../source/modular 9c366cbe8b2044c4afcc1d795ac74156 models.rst:288
+#: ../../source/modular c7f02ad6eeae4b09acc0f170645608e0 models.rst:288
 msgid "Рисунок 8. Пример использования шин"
 msgstr ""
 
-#: ../../source/modular 10ebbe164d644a879e77d1f99c1d6608 models.rst:290
+#: ../../source/modular 8dd3e69735374930b8ef1b0ec5d47c0d models.rst:290
 msgid ""
 "Для *добавления шины* на диаграмму, нажмите на иконку |bus_icon|, "
 "расположенную на :ref:`панели инструментов <panel>`. Опционально можно "
@@ -367,19 +367,19 @@ msgid ""
 ":ref:`\"Cоздание портов\" <ports>`."
 msgstr ""
 
-#: ../../source/modular 3dd767737f67407fba5d3fd0d85d2544 models.rst:164
+#: ../../source/modular c55dee55cca4444d9d5c181c7b618833 models.rst:164
 msgid "bus_icon"
 msgstr ""
 
-#: ../../source/modular 8ce8a5c88dcc4492bce26715a3feca63 models.rst:296
+#: ../../source/modular 8f15a7525abe4ad48a90a54a5e8dfce2 models.rst:301
 msgid "Добавление шины"
 msgstr ""
 
-#: ../../source/modular 570e595e12fc45f69c0767a004282d94 models.rst:301
+#: ../../source/modular 6a4488a2926e404e8ec532af4bc6d7d2 models.rst:301
 msgid "Рисунок 9. Добавление шины"
 msgstr ""
 
-#: ../../source/modular 8df958612da446668cd6995b96f87ac1 models.rst:303
+#: ../../source/modular 5d660d0be11b465d9b7ba54585677442 models.rst:303
 msgid ""
 "Созданные шины отображаются в области :doc:`поля операций "
 "</user_interface>` во вкладке :guilabel:`Model` на горизонтальной панели "
@@ -387,7 +387,7 @@ msgid ""
 ":ref:`(Рисунок 10) <Pic.10_8>`."
 msgstr ""
 
-#: ../../source/modular 117e82457ab84597a0e2806f770dc1eb models.rst:313
+#: ../../source/modular 3458b1e5f2b54c8ca838c76318bc8bf9 models.rst:313
 msgid "Рисунок 10. Вкладка Buses в поле операций"
 msgstr ""
 

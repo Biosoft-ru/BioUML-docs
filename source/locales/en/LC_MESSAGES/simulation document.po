@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 17:36+0300\n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,13 +17,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
+"Generated-By: Babel 2.12.1\n"
 
-#: ../../source/simulation 0ae1dae77af94360b0f61fccbc5a82ed document.rst:2
+#: ../../source/simulation 5747e85f27354380a67c1621f32b291b document.rst:2
 msgid "Introduction"
 msgstr ""
 
-#: ../../source/simulation 1114e599ef254455abca84df17c0737e document.rst:6
+#: ../../source/simulation 8efb3fac488e48d19042a2537fafae73 document.rst:6
 msgid ""
 "BioUML (Biological Universal Modeling Language) is a Java-based platform "
 "for collaborative reproducible analysis of omic data and visualisation of"

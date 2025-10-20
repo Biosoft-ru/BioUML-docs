@@ -3,7 +3,7 @@
 Создание хемотаксиса
 ====================
 
-.. |icon_chemotaxis| image:: /images/icons/Physicell/chemotaxis.png
+.. |icon_chemotaxis| image:: /images/icons/Physicell/chemotaxis_corrected.png
 .. |icon_option| image:: /images/icons/option.png
 
 В результате хемотаксиса клетка движется по градиенту вещества к нему или от него.

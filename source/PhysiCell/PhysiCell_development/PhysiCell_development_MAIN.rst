@@ -50,10 +50,10 @@
 .. |icon_opened_folder| image:: /images/icons/Physicell/opened_folder.png
 .. |icon_cell_definition| image:: /images/icons/Physicell/cell_definition.png
 .. |icon_substrate| image:: /images/icons/Physicell/substrate.png
-.. |icon_secretion| image:: /images/icons/Physicell/secretion.png
-.. |icon_chemotaxis| image:: /images/icons/Physicell/chemotaxis.png
-.. |icon_interaction| image:: /images/icons/Physicell/interaction.png
-.. |icon_transformation| image:: /images/icons/Physicell/transformation.png
+.. |icon_secretion| image:: /images/icons/Physicell/secretion_corrected.png
+.. |icon_chemotaxis| image:: /images/icons/Physicell/chemotaxis_corrected.png
+.. |icon_interaction| image:: /images/icons/Physicell/interaction_corrected.png
+.. |icon_transformation| image:: /images/icons/Physicell/transformation_corrected.png
 .. |icon_event| image:: /images/icons/Physicell/event.png
 
 Чтобы начать работать с моделью, сначала нужно ее открыть. Для этого два раза ЛКМ нажмите на |icon_Type_Diagram| или нажмите ПКМ на |icon_Type_Diagram| и в выпадающем списке нажмите ЛКМ на |icon_opened_folder| **Open**.
@@ -103,16 +103,16 @@
    * - .. image:: /images/icons/Physicell/note.png
           :alt: примечание
      - Примечание
-   * - .. image:: /images/icons/Physicell/secretion.png
+   * - .. image:: /images/icons/Physicell/secretion_corrected.png
           :alt: секреция
      - Секреция/Потребление
-   * - .. image:: /images/icons/Physicell/chemotaxis.png
+   * - .. image:: /images/icons/Physicell/chemotaxis_corrected.png
           :alt: хемотаксис
      - Хемотаксис
-   * - .. image:: /images/icons/Physicell/interaction.png
+   * - .. image:: /images/icons/Physicell/interaction_corrected.png
           :alt: взаимодействие
      - Взаимодействие
-   * - .. image:: /images/icons/Physicell/transformation.png
+   * - .. image:: /images/icons/Physicell/transformation_corrected.png
           :alt: трансформация
      - Трансформация
 

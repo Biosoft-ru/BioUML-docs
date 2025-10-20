@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-09 17:36+0300\n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,17 +17,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
+"Generated-By: Babel 2.12.1\n"
 
-#: ../../source/process creation.rst:2 e8f2ef41182f473f8b6d88c5120bbde4
+#: ../../source/process c138c17dff694feeae3a59485218c8ec creation.rst:2
 msgid "Создание процесса"
 msgstr ""
 
-#: ../../source/process 503789617cd4420bb627f3923da3cc3c creation.rst:10
+#: ../../source/process 6e5a266089344c8cbddf7375314ec3f3 creation.rst:10
 msgid "Визуальное моделирование процесса"
 msgstr ""
 
-#: ../../source/process creation.rst:16 e2d9e0a09cdd4929b286bb3c600818be
+#: ../../source/process 045510a5a7d242d8976e9677a8a12d2c creation.rst:16
 msgid ""
 "Для *создания процесса* нажмите на иконку |reaction|, расположенную на "
 ":ref:`панели инструментов <panel>`. В открывшемся окне в поле Reaction "
@@ -36,11 +36,11 @@ msgid ""
 "номер реакции."
 msgstr ""
 
-#: ../../source/process 33b8241888a0453d9007736df395a485 creation.rst:13
+#: ../../source/process creation.rst:13 d77832a622ca48c4ad74f5d765391163
 msgid "reaction"
 msgstr ""
 
-#: ../../source/process 59e50f9baf7f448da095b6d0875f736c creation.rst:20
+#: ../../source/process 43e8cfba992e426a872cd7e57b79710d creation.rst:20
 msgid ""
 "*Компоненты реакции* добавляются путем нажатия на ранее созданную "
 "сущность на диаграмме, название которой будет отображено в поле "
@@ -49,26 +49,26 @@ msgid ""
 "(product). После заполнения полей нажмите кнопку :guilabel:`Add`."
 msgstr ""
 
-#: ../../source/process aa78d24c9d134c89b7806fe2e19138dd creation.rst:26
+#: ../../source/process 69e456ab4fae422f857ac5382577b5cd creation.rst:26
 msgid "Одна и та же сущность может играть несколько ролей в одной реакции"
 msgstr ""
 
-#: ../../source/process 2d0130f52bea444cba6472c71859e60b creation.rst:28
+#: ../../source/process creation.rst:28 e848c04fd57c47208b047517ceeeabae
 msgid ""
 "При добавлении компонентов в реакцию, *заголовок реакции* будет "
 "автоматически сгенерирован в поле Reaction title, который так же можно "
 "изменить по желанию."
 msgstr ""
 
-#: ../../source/process 2f8be4783a5e4a139517e8e338630e26 creation.rst:30
+#: ../../source/process 66ddd58051df4280b8ac7ce1d54fd198 creation.rst:35
 msgid "Создание новой реакции в BioUML"
 msgstr ""
 
-#: ../../source/process 65c9326b6eee44e692aace355aa10fa4 creation.rst:35
+#: ../../source/process 4a74ad4f7e074b1099a8289981271644 creation.rst:35
 msgid "Рисунок 1. Создание новой реакции в BioUML"
 msgstr ""
 
-#: ../../source/process 4af34396952c4fb2a5755b1f0302cf36 creation.rst:39
+#: ../../source/process b92959d7e14543cb9d8846796db7d67c creation.rst:39
 msgid ""
 "После того, как реакция будет создана, можно редактировать "
 "*дополнительные свойства реакции*, путем нажатия правой кнопки мыши на "
@@ -82,26 +82,26 @@ msgid ""
 ":ref:`процесса <process>`."
 msgstr ""
 
-#: ../../source/process creation.rst:4 e812d517cfa042f49a18c4757b67249d
+#: ../../source/process 32edefbdf9c74adb87628f5e2d91efd0 creation.rst:4
 msgid "edit"
 msgstr ""
 
-#: ../../source/process 06c1632fe043459ebd49d98f6a16c15e
-#: 6841cc3d4cfa443fb35683c237cd12a6 7782b70b7c0b49a0b52b770e9d6924d8
-#: cdaa630a82bc4e888f211490efb0c520 creation.rst:12
+#: ../../source/process 036e7ae07bba4e87b3f1f14d3f96b46d
+#: 16d92b692e6d40b3ad4a1aeba24003da 41789517673a4d99951ae766851d6c1d
+#: a702602d4480462fb172e7ab9d495751 creation.rst:12
 msgid "folder"
 msgstr ""
 
-#: ../../source/process 01dee02813e44546bd7e969044b30ee7
-#: 048a3f0c80a147d4879ffeace7637f13 74cd9d575efd448698fa1589d17c70f9
-#: adfe9bacfdf243959159e5dff8bc413b bd5e3e069f9e4ec682a4102cf7aae72b
-#: creation.rst:5 d8872c09f3c242159f4091373528a2da
-#: dc92358e25b745df8c6c2af274e9721c dd86c682251747dbad42527a0d254ab3
-#: f83c2271eea9468d83fa53e81df4b274
+#: ../../source/process 145bd668a33b4a13b3d6f90010314c13
+#: 182bf5b5985b4b0b8922c261a3f4a65c 21e51f98f4a0458a8997f647218c0ace
+#: 4395854ab9594c38abcead65fecc668c 6efb52e768b144ae84be6bd94fbe2d73
+#: 72fb9c762abf40bd82fe20c0c5f4294c 8bcc4969848e4f71badb97552b712bc2
+#: 9dc024273fae4f5faef80372d48f68be a6a968d460694572a17a9578f2cd7e35
+#: creation.rst:5
 msgid "option"
 msgstr ""
 
-#: ../../source/process 6d20eef986514ae7953dda0c5effa128 creation.rst:44
+#: ../../source/process creation.rst:44 d299c3948f9c4a08ae511f31e236d33f
 msgid ""
 "Нажатие правой кнопкой мыши на :ref:`ребра реакции <edges>` открывает "
 "опции, позволяющие изменять *дополнительные свойства ребер*, также "
@@ -110,12 +110,12 @@ msgid ""
 "выпрямлять ребро (Straighten edge) и др."
 msgstr ""
 
-#: ../../source/process 84febbdb5d6947de84010c21e318e05a creation.rst:49
-#: creation.rst:54 f1fee641fce2448394defebdfbef693e
+#: ../../source/process 254a568cce464f138f55fddfba5cf13c
+#: 820cf377b8824b258269a4a60982d275 creation.rst:54
 msgid "Добавление логического оператора в реакцию в BioUML"
 msgstr ""
 
-#: ../../source/process 97063baeca58490cace39c91103ac10c creation.rst:56
+#: ../../source/process b9271ccbc1ae42609ddc6b59d6d92ee4 creation.rst:56
 msgid ""
 "Для того, чтобы добавить *логический оператор* в реакцию, создайте "
 "реакцию без добавления модификатора в компоненты реакции. Далее нажмите "
@@ -127,46 +127,46 @@ msgid ""
 "укажите тип влияния на процесс в поле |option| Modifier type."
 msgstr ""
 
-#: ../../source/process 5f4b53add073462cb807a22957b1b839 creation.rst:14
+#: ../../source/process 1cf37a0ea3784f1a87c5c7a9604e5293 creation.rst:14
 msgid "logical_operator"
 msgstr ""
 
-#: ../../source/process creation.rst:62 d3c27411b2d94862a9c627cd91410db7
+#: ../../source/process 30782c116cff461ca7489d19c5afb4e8 creation.rst:62
 msgid ""
 "Добавление нескольких модификаторов в реакцию осуществляет с помощью "
 "нажатия Shift и выбор нескольких строк."
 msgstr ""
 
-#: ../../source/process 8c2231a38f204057be1655a010ad88f7 creation.rst:67
+#: ../../source/process creation.rst:67 e4bd3f8f1961443a93895314f6c00b4d
 msgid "Переменная и параметр"
 msgstr ""
 
-#: ../../source/process b87b98d1bb5e42388211b4be12c68f73 creation.rst:69
+#: ../../source/process 6827dac727c744c9b733c78d87496051 creation.rst:69
 msgid ""
 "При создании :ref:`материальной сущности <entities>` создается "
 "**переменная**. Переменная описывает концентрацию или количество вещества"
 " соответствующей сущности и обладает следующими атрибутами:"
 msgstr ""
 
-#: ../../source/process 1078f6de9fe84686933e03ae7be80c1b creation.rst:72
+#: ../../source/process bf37adffa33f43da8ee27105244deb54 creation.rst:72
 msgid "идентификатор;"
 msgstr ""
 
-#: ../../source/process creation.rst:73 e85c380d1e1e400f8f10c4269e685d01
+#: ../../source/process creation.rst:73 e0fca6dec82f49d7871727424cd73508
 msgid "численное значение;"
 msgstr ""
 
-#: ../../source/process 71c6be59a50049deb2488bd6a66795f2 creation.rst:74
+#: ../../source/process a2156a2b3724419d923d2e7bea57fd7c creation.rst:74
 msgid "тип единицы измерения и единица измерения;"
 msgstr ""
 
-#: ../../source/process 6d1860b0839a422c9db126c9482ecceb creation.rst:75
+#: ../../source/process 5aa60209c8eb47f3af6fce40f8855d45 creation.rst:75
 msgid ""
 "флаг, обозначающий, является ли численное значение переменной "
 "фиксированным или может меняться."
 msgstr ""
 
-#: ../../source/process b2944b1e5af04537b8b7de0ca811e74a creation.rst:78
+#: ../../source/process 4a78520f446d40aa8a2877cba1137a25 creation.rst:78
 msgid ""
 "У сущности **идентификатор переменной** образуется путем добавления \"$\""
 " перед заданным ранее идентификатором сущности. Если сущность принадлежит"
@@ -177,17 +177,17 @@ msgid ""
 "</user_interface>` в поле Role - VariableRole."
 msgstr ""
 
-#: ../../source/process 2fd2b2a295504f699dc24d060789eba7 creation.rst:84
+#: ../../source/process 4b4732141e394a2fb8d7dfa6e1a44d30 creation.rst:84
 msgid "*Атрибуты переменной* могут устанавливаться следующими способами:"
 msgstr ""
 
-#: ../../source/process a5845f5a78ea40baa06bdaa33c696cc5 creation.rst:86
+#: ../../source/process creation.rst:86 da4fb945e2014a45a864b0d6cc9071ec
 msgid ""
 "В :ref:`дополнительных свойствах элемента <additional_options>` в опциях "
 "|folder| Role;"
 msgstr ""
 
-#: ../../source/process 278b00f3b7734a4f9dd7a4b3a837c534 creation.rst:87
+#: ../../source/process 380fd01da26646bb909de5808b1c3b84 creation.rst:87
 msgid ""
 "В области :doc:`поля операций </user_interface>` выберите вкладку "
 ":guilabel:`Model` на горизонтальной панели и в открывшемся окне на "
@@ -195,24 +195,24 @@ msgid ""
 "каждой созданной переменной :ref:`(Рисунок 2) <Pic.2_7>`."
 msgstr ""
 
-#: ../../source/process 5261d456b0d4450d90a201db03d42d24
-#: b81a4285ab9d449a8cf7452262088ef1 creation.rst:92 creation.rst:121
+#: ../../source/process 14b5ec6dd10d4147a9d943982613c2ed
+#: a57242b9637c4979a80ebf2a617b1c6c creation.rst:97 creation.rst:126
 msgid "Изменение атрибутов переменной"
 msgstr ""
 
-#: ../../source/process creation.rst:97 d7d34418e1504d1cad6785bf7ea77e61
+#: ../../source/process a8cf2ff278054867b1776308efd86dfd creation.rst:97
 msgid "Рисунок 2. Изменение атрибутов переменной в поле операций"
 msgstr ""
 
-#: ../../source/process 0fbe892207974123be63416e3cc3265b creation.rst:99
+#: ../../source/process 954fd8220dd94ad0ae166fdad97e9468 creation.rst:99
 msgid "**Численное значение** переменной задается в столбце Initial Value."
 msgstr ""
 
-#: ../../source/process 8a619a138bc5411fb5336529ccc2d866 creation.rst:102
+#: ../../source/process 37d5dabdd8294bb3a08ff6138ca018e4 creation.rst:102
 msgid "Обратите внимание, что в BioUML десятичным разделителем является точка."
 msgstr ""
 
-#: ../../source/process creation.rst:104 e1e64babbaf840ba81a442c4c82a2885
+#: ../../source/process aa46175c98274d5ebfcd866a9ba28940 creation.rst:104
 msgid ""
 "*Численное значение* переменной задается в столбце Initial Value. В "
 "столбце Initial units type указывается единица измерения начального "
@@ -223,13 +223,13 @@ msgid ""
 "график."
 msgstr ""
 
-#: ../../source/process 2321ed81044c496eaace8ce9bb663bc1 creation.rst:110
+#: ../../source/process 8fbe28c28b384ae2b9ce22ee5c0159a4 creation.rst:110
 msgid ""
 "Флаг **константы** ставится в столбце Constant и определяет является ли "
 "численное значение переменной постоянной и може ли быть изменено."
 msgstr ""
 
-#: ../../source/process 663ccaf0ccab44019faa0b674fa8c9ea creation.rst:112
+#: ../../source/process c93324fb7d5641e0983f2a4b8e6e477f creation.rst:112
 msgid ""
 "Флаг **граничного условия** может быть поставлен в столбце Boundary "
 "condition. В случае, если оно установлено – значение переменной не может "
@@ -237,7 +237,7 @@ msgid ""
 "дифференциальным или алгебраическим уравнением)."
 msgstr ""
 
-#: ../../source/process 1a9c844baadf4cdeb1a8e850eba53ffb creation.rst:116
+#: ../../source/process ccabd78798744976a5a84bd1adc377a4 creation.rst:116
 msgid ""
 "**Параметр** - математическая переменная модели, для которой нет "
 "выделенного элемента на диаграмме. Может быть добавлена в модель путем "
@@ -248,21 +248,21 @@ msgid ""
 ":guilabel:`Variables`."
 msgstr ""
 
-#: ../../source/process 976fbac49f1943b0bc6b71f407805f86 creation.rst:126
+#: ../../source/process 52557b40ed8d4ab0919b4d06f122259b creation.rst:126
 msgid "Рисунок 3. Вкладка Variables в поле операций"
 msgstr ""
 
-#: ../../source/process 86b9e8fe8edb45a787fd33df59be7b52 creation.rst:131
+#: ../../source/process 4ea73771ca3b4efea958b074c313a98a creation.rst:131
 msgid "Математическое описание процесса"
 msgstr ""
 
-#: ../../source/process 45fb9222c5a640da9bdd5ae11fb240cc creation.rst:136
+#: ../../source/process 20d018c1340545a586aea103ecb8582f creation.rst:136
 msgid ""
 "**Реакция** транслируется в дифференциальные уравнения, описывающие "
 "динамику переменных, соответствующих веществам-участникам реакции."
 msgstr ""
 
-#: ../../source/process creation.rst:138 d9e291a89afa4eba9fd0e88b636a8643
+#: ../../source/process creation.rst:138 d3293551f072477bb3147e8efd575ea4
 msgid ""
 "После того, как будет создан :ref:`процесс <process_creation>`, "
 "**формула** вводится в поле |option| Formula в открывшемся окне либо в "
@@ -273,22 +273,22 @@ msgid ""
 "соответствующий процессу."
 msgstr ""
 
-#: ../../source/process 164f120e53bf4f54b34d23089dc30368 creation.rst:142
+#: ../../source/process 3234b925fd8346c6bf1f5a7ab375091e creation.rst:142
 msgid ""
 "Добавленные реакции с формулой отображаются во вкладке :guilabel:`Model` "
 "на горизонтальной панели и в открывшемся окне на вертикальной панели во "
 "вкладке :guilabel:`Reactions` :ref:`(Рисунок 3) <Pic.3_7>`."
 msgstr ""
 
-#: ../../source/process 7cc23f5300ea4fb086d81d85db2a9be5 creation.rst:147
+#: ../../source/process 0aad33b77d3e4230893459233840254c creation.rst:152
 msgid "Вкладка  Reactions в поле операций"
 msgstr ""
 
-#: ../../source/process 9701b07e428940d986dbbbb730ca8b12 creation.rst:152
+#: ../../source/process 78cc7dac6a914d2b9065a8b66875b3b6 creation.rst:152
 msgid "Рисунок 3. Вкладка  Reactions в поле операций"
 msgstr ""
 
-#: ../../source/process 7382e367ff394d2f8042a3570bc77822 creation.rst:155
+#: ../../source/process 5bd4f89236cc49058e75b96b9147c2e2 creation.rst:155
 msgid ""
 "При создании формулы учитывайте, что *идентификатор переменной* включает "
 "знак \"$\", а перед параметром он не ставится. Для возведения в степень "
@@ -296,15 +296,15 @@ msgid ""
 "\"-\" для сложения и вычитания, соответственно."
 msgstr ""
 
-#: ../../source/process 1f5a218d1e2541ef8f6fc56826ebbfa4 creation.rst:159
+#: ../../source/process 2e991448b9ca486a861dd0b24813158a creation.rst:164
 msgid "Простейшие реакции с SBGN диаграммой и формулой для BioUML"
 msgstr ""
 
-#: ../../source/process bcbf7bc6732349d2819ff4188b9e3b5f creation.rst:164
+#: ../../source/process c0cd901c66a341ad8894511423eb28e0 creation.rst:164
 msgid "Рисунок 4. Простейшие реакции с SBGN диаграммой и формулой для BioUML"
 msgstr ""
 
-#: ../../source/process 538a984d90754856bdd72e77ee28dddb creation.rst:168
+#: ../../source/process 604bd8adb2064944928bc838723e034b creation.rst:168
 msgid ""
 "После введения формулы внесенные **параметры** добавляются в области "
 ":doc:`поля операций </user_interface>` во вкладке :guilabel:`Model` на "
@@ -315,19 +315,19 @@ msgid ""
 "и |plus|, cоответственно."
 msgstr ""
 
-#: ../../source/process 498b6c9707ad4bc38a937cb1dccc5e72 creation.rst:134
+#: ../../source/process 0a7b0733ff7040398ec904a300e5d4c6 creation.rst:134
 msgid "minus"
 msgstr ""
 
-#: ../../source/process 460e1946d70f437d959e7991402ad393 creation.rst:133
+#: ../../source/process 9371b741776441b9843be5242141addd creation.rst:133
 msgid "plus"
 msgstr ""
 
-#: ../../source/process creation.rst:174 dc82ccfaafd24ed9bcfa14ae986956c4
+#: ../../source/process 2baf6a913d1f4cef8c0adaf2d67dcfae creation.rst:179
 msgid "Вкладка Variables в поле операций"
 msgstr ""
 
-#: ../../source/process creation.rst:179 eb51525b5e1440ca96d9c225e66b4055
+#: ../../source/process 8642005c5de048ada8435a376f4d50d7 creation.rst:179
 msgid "Рисунок 5. Вкладка Variables в поле операций"
 msgstr ""
 

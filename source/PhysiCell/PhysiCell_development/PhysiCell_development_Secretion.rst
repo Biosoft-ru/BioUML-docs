@@ -3,7 +3,7 @@
 Создание секреции/потребления
 =============================
 
-.. |icon_secretion| image:: /images/icons/Physicell/secretion.png
+.. |icon_secretion| image:: /images/icons/Physicell/secretion_corrected.png
 
 При секреции клетка выделяет субстрат в среду, а при потреблении - поглощает его из среды.
 

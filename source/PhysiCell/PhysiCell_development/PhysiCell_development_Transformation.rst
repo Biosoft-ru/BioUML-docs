@@ -3,7 +3,7 @@
 Создание трансформации
 ======================
 
-.. |icon_transformation| image:: /images/icons/Physicell/transformation.png
+.. |icon_transformation| image:: /images/icons/Physicell/transformation_corrected.png
 
 При трансформации клетка одного типа превращается в клетку другого типа.
 

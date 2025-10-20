@@ -1,0 +1,2452 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Biosoft.Ru Ltd.
+# This file is distributed under the same license as the BioUML package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BioUML \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/Physicell_simulation.rst:4 34979fd824364220a715b64e6ce3957c
+msgid "Симуляция модели"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:27 fd09bfd00e4447819c015195d1ca517c
+msgid ""
+"Чтобы настроить и запустить симуляцию модели нужно нажать ЛКМ на вкладку "
+"**Simulation** :ref:`(Рисунок 1) <Physicell_simulation_Pic.1>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:36 f16bac44db6048629fd5dbbfe2fe1b25
+msgid "Simulation_tab"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:36 71ca99fa260442429e0132fd6369289d
+msgid "Рисунок 1. Открытие вкладки симуляции модели."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:38 548be69dbe7e44b78674d8b2b73d240b
+msgid ""
+"После этого в правом нижнем углу экрана у вас появится панель для "
+"настройки симуляции модели :ref:`(Рисунок 2) "
+"<Physicell_simulation_Pic.2>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:47 c91059c0872d4ef3aac76c02f846e771
+msgid "Simulation_panel"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:47 421a84a9adeb413c99d95a37d5673ca7
+msgid "Рисунок 2. Вкладка симуляции модели."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:49 950fc38ff499473f8a12dfbafd30d9f8
+msgid ""
+"На этой вкладке можно выделить несколько областей :ref:`(Рисунок 3) "
+"<Physicell_simulation_Pic.3>`:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:51 258e16be3c6345138086afd1f63cf4fd
+msgid "кнопки для управления процессом симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:52 9030fd5545ad451981be8f3dad724d50
+msgid ""
+"вкладки для настройки параметров симуляции (Engine) и добавления "
+"переменных для вывода на график (Plots),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:53 40f83b07873e41c092509883eefa8d60
+msgid ""
+"область редактирования параметров симуляции (Engine) и добавления "
+"переменных для вывода на график (Plots),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:54 9715cd7d8b374973842be6751e6c8d88
+msgid "область вывода логов."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:63 e602cff6ee6f448dbc5c88b51d166523
+msgid "Simulation_panel_composition"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:63 83c618b0e5104fbaa8884ac7048963aa
+msgid ""
+"Рисунок 3. Области вкладки симуляции модели. А) кнопки для управления "
+"процессом симуляции, Б) вкладки для настройки параметров симуляции "
+"(Engine) и добавления переменных для вывода на график (Plots), В) область"
+" редактирования параметров симуляции и добавления переменных для вывода "
+"на график, Г) область вывода логов."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:65 fbb4587ed58f43f1936003122bee1e51
+msgid "Далее мы подробно разберем каждую из этих областей."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:68 59362ea28cc541d9b2eda713a0e0fdda
+msgid "Кнопки для управления процессом симуляции"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:70 7350a0a48b4a44f88d9ff1489181d926
+msgid ""
+"Кнопки для управления процессом симуляции располагаются в самом верху "
+"панели настройки симуляции :ref:`(Рисунок 4) "
+"<Physicell_simulation_Pic.4>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:79 550c34b678da42b9aac205a8029e040b
+msgid "Simulation_buttons"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:79 e4b3440bfc414cb38e5a7f2173148fe8
+msgid "Рисунок 4. Кнопки для управления процессом симуляции."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:81 41b2e57a1a054615b6852ff854022468
+msgid "Всего имеется 6 кнопок для управления процессом симуляции:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:83 efbfa40b112b4e46b0d16fb1df63f0a0
+msgid ""
+"|icon_generates_code_for_the_model_simulation_button| :raw-"
+"html:`«<strong><u>Generates code for the model simulation</u></strong>»`:"
+" генерирует код для симуляции модели,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:9 ffd0621012b846ee80ccbc235e31c0f8
+msgid "icon_generates_code_for_the_model_simulation_button"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:84 4b16a749ab47448fa51bd493f8927408
+msgid ""
+"|icon_start_simulation_process| :raw-"
+"html:`«<strong><u>Start_simulation_process</u></strong>»`: запустить "
+"симуляцию,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:10 c635fae7ac0742f4ae2d6b91bd581c09
+msgid "icon_start_simulation_process"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:85 35dde9da75274215ab9d7a4876ef9d12
+msgid ""
+"|icon_stop_simulation_process| :raw-"
+"html:`«<strong><u>Stop_simulation_process</u></strong>»`: остановить "
+"симуляцию,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:11 3281754e75e6476492fbe1bb15426fc0
+#: d1966a64e2ec4d12bff7e59517373649
+msgid "icon_stop_simulation_process"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:86 1cf29e46cc0e4396ac1275f39b11b7a7
+msgid ""
+"|icon_save_simulation_result| :raw-html:`«<strong><u>Saves simulation "
+"results into the database</u></strong>»`: сохранить результаты симуляции "
+"в базу данных,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:12 0503167ceaa14f36ae149c6c827519ba
+#: f7ac56c8c2e946108c55bcf07d49e5c6
+msgid "icon_save_simulation_result"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:87 323b3f101a074574b20dba131c4dfe6c
+msgid ""
+"|icon_open_plot_dialog| :raw-html:`«<strong><u>Opens plot dialog to "
+"visualise simulation results</u></strong>»`: открыть диалоговое окно для "
+"визуализации результатов симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:13 61fd53210efa426691cc8dbeec00790e
+#: e3b6e36d8885485988b8b720ff72753e
+msgid "icon_open_plot_dialog"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:88 803840bf64b542f5a1f2f174ad38e507
+msgid ""
+"|icon_clear_log| :raw-html:`«<strong><u>Clear log</u></strong>»`: "
+"очистить логи."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:14 6f78b7f26843492aaa224f2a75c37fac
+msgid "icon_clear_log"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:90 30b8d7948ae540baa16c903544f9a428
+msgid ""
+"Наведя курсор на любую из этих кнопок, можно получить подсказку о ее "
+"назначении."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:93 23dff640ec8e417bb8a83309532b838f
+msgid ""
+"Сразу после открытия вкладки Simulation кнопки "
+"|icon_stop_simulation_process|, |icon_save_simulation_result| и "
+"|icon_open_plot_dialog| будут неактивны."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:96 8454c96be30248e3b2e4bc17f0b28ce1
+msgid ""
+"Вкладки для настройки параметров симуляции (Engine) и добавления "
+"переменных для вывода на график (Plots)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:98 28b9d0b9b1c041a39280e5212821b528
+msgid ""
+"Вкладки для настройки параметров симуляции (Engine) и добавления "
+"переменных для вывода на график (Plots) находятся в левой части панели "
+"настройки симуляции :ref:`(Рисунок 5) <Physicell_simulation_Pic.5>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:107 5c256cc44dab45b4ae1ba7ec87e962f7
+msgid "Engine_plots_buttons"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:107 2ae616e98e1e4600a9af95487850cce9
+msgid ""
+"Рисунок 5. Вкладки для настройки параметров симуляции (Engine) и "
+"добавления переменных для вывода на график (Plots)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:109 f974ed795951411ea9208b395b72f2b0
+msgid "Чтобы выбрать ту или иную вкладку нужно нажать на нее ЛКМ."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:111 bec443ca6cb7490f9d5e27ffcdc4d187
+msgid ""
+"При переключении между вкладками изменяется набор параметров в области "
+"редактирования :ref:`(Рисунок 6) <Physicell_simulation_Pic.6>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:120 70bead3d0d994664aa776a1881b4fc5e
+msgid "Engine_and_plots_parameters"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:120 9604a838c344485ea09d8972733c683b
+msgid "Рисунок 6. Параметры для редактирования во вкладке Engine (А) и Plots (Б)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:123 aea00b6bad9b4322904fbb0eb379af94
+msgid "При переключении на вкладку Plots исчезает область вывода логов справа."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:126 c4419bfea3ee4cf5a85af2a171de7249
+msgid ""
+"Область редактирования параметров симуляции и добавления переменных для "
+"вывода на график"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:128 8da5ef34585649e6bde1f72b4b02218f
+msgid ""
+"Далее мы подробно разберем, какие параметры симуляции можно редактировать"
+" во вкладке :ref:`Engine <Physicell_simulation_Engine_parameters>` и как "
+"добавлять переменные для вывода на график во вкладке :ref:`Plots "
+"<Physicell_simulation_Plots_creation>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:133 1dde5d08c8fd49239068848e49b7e8fd
+msgid "Параметры вкладки Engine"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:135 31c2b2becddf484cbe3e365a13e06ddb
+msgid ""
+"При переключении на вкладку Engine в области редактирования можно будет "
+"настроить следующие параметры :ref:`(Рисунок 7) "
+"<Physicell_simulation_Pic.7>`:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:137 2c278b0c73254287ab4deab25f8f95dc
+msgid ""
+"**Simulator name**: :ref:`численный решатель "
+"<Physicell_simulation_Simulator_name>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:138 25069b881908436a861a41be620e3c69
+msgid ""
+"**Log Model report**: отметьте ☑, если хотите выводить :ref:`данные о "
+"модели в консоль перед началом расчетов "
+"<Physicell_simulation_Log_Model_report>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:139 7fbf9878216343febd4e915c37497c1f
+msgid ""
+"**Result path**: путь в репозитории модуля для :ref:`сохранения "
+"результатов <Physicell_simulation_Result_path>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:140 b8761504e5bc4364b0d60f502689377c
+msgid "**Max Time**: модельное время, до которого будет продолжаться симуляция,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:141 4a601230b69e4f2aa164b8eeb49f7229
+msgid ""
+"**Parallel diffusion simulation**: отметьте ☑, если хотите использовать "
+"распараллеливание расчетов при моделировании процессов диффузии веществ,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:142 06611dc7325e45bb8f8cbe1302a396c8
+msgid ""
+"**Cell update type**: :ref:`способ расчетов поведения отдельных клеток "
+"<Physicell_simulation_Cell_update_type>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:143 60a79257decd4043b58170eed3c03bfc
+msgid "**Diffusion dt**: шаг модельного времени для расчета диффузии веществ,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:144 39b1b8bae623445cbe0d024db010253a
+msgid ""
+"**Mechanics dt**: шаг модельного времени, с которым происходит "
+"взаимодействие клеток друг с другом и веществами в среде,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:145 d31ac1f6afa64a738a6d1f1282a39f43
+msgid ""
+"**Phenotype dt**: шаг модельного времени, с которым происходит обновление"
+" внутреннего состояния клеток,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:146 4f978f2164f54f52b8eaf5bea192ccd4
+msgid ""
+"**Report interval**: шаг модельного времени, с которым выводится "
+"табличный отчет о состоянии модели при симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:147 030b634d760d44478bd19b9b3d1034aa
+msgid ""
+"**Image interval**: шаг модельного времени, с которым сохраняется "
+"визуальное отображение модели при симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:148 a32dc28d64f741e88e80f49b10420f79
+msgid ""
+"**Save report**: отметьте ☑, если хотите :ref:`сохранять таблицы "
+"<Physicell_simulation_Save_report>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:149 a10d5bc4e11c45a2b2f87ff9017e5c9e
+msgid ""
+"**Save cells data**: отметьте ☑, если хотите сохранять :ref:`данные о "
+"клетках в текстовых файлах <Physicell_simulation_Save_cells_data>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:150 21a1d58c8180427bafd0998930d0f0e4
+msgid ""
+"**Save cells data as table**: отметьте ☑, если хотите сохранять "
+":ref:`данные о клетках в таблицах "
+"<Physicell_simulation_Save_cells_data_as_table>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:151 7ec973da3e824058a87f4915267d952c
+msgid ""
+"**Save density**: отметьте ☑, если хотите сохранять :ref:`данные о "
+"веществах <Physicell_simulation_Save_density>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:152 c8233554824446c79194f81b42c1baae
+msgid ""
+"**Save images**: отметьте ☑, если хотите сохранять :ref:`изображения "
+"модели в процессе симуляции <Physicell_simulation_Save_images>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:153 fcca01d601d8412d87a47939bb6a915c
+msgid ""
+"**Save GIF**: отметьте ☑, если хотите сохранять :ref:`GIF-изображение "
+"модели в процессе симуляции <Physicell_simulation_Save_GIF>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:154 489c68a435304f17923e3ae485d5eb34
+msgid ""
+"**Save Video**: отметьте ☑, если хотите сохранять :ref:`видео модели в "
+"процессе симуляции <Physicell_simulation_Save_video>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:155 1fbbb4bd464a4eeda9c907ec3df30ffa
+msgid ""
+"**Save plots**: отметьте ☑, если хотите :ref:`сохранять графики "
+"<Physicell_simulation_Save_plots>`,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:156 99fece47507b4694b6f4c395449f6a98
+msgid ""
+"**Use manual seed**: отметьте ☑, если хотите использовать "
+"пользовательский seed для случайных процессов модели,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:157 c82ab2646efa432d871234e58db63bcf
+msgid "**Manual seed**: пользовательский seed для случайных процессов модели,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:158 9ad71936ccf640d6ae63ce0b05972098
+msgid ""
+"**Recalculate gradients**: отметьте ☑, если хотите пересчитывать "
+"градиенты веществ во время симуляции модели,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:159 a8f6d63e14c84e2892139528fc7d3457
+msgid ""
+"**Track inner substrates in cells**: отметьте ☑, если хотите отслеживать "
+"содержание веществ внутри клеток во время симуляции модели,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:160 0954f9763d6f4a26a79a733528e41ee6
+msgid "**Model type**: :ref:`тип модели <Physicell_simulation_Model_type>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:169 bc4472cdcc72477dae6e41f75bcb4d9a
+msgid "Engine_parameters_full_list"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:169 67f486c57c2c49e2917b5b13bb66a113
+msgid "Рисунок 7. Параметры для редактирования во вкладке Engine."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:172 25e8792747504f46a21b254826702f30
+msgid ""
+"Для симуляции диаграмм типа Physicell всегда используется движок "
+"PhysicellSimulationEngine (не редактируется)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:174 86d52b35351c412aac363f1049aeaf2e
+msgid "Ниже мы рассмотрим некоторые из параметров вкладки Engine более детально."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:179 d0e0b558e1114fcda33a50345472836d
+msgid "Численный решатель (Simulator name)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:181 6d14ed04e826489faf785fdc1a2b45fc
+msgid ""
+"Выбирается из раскрывающегося списка напротив поля |icon_option| "
+"**Simulator name**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:15 01f110485aaa47619a50de206fff1b67
+#: 02e97fd8ca074a04baefbcf613f30a80 0ed19a692f8d427390b534c9953995ba
+#: 30e5d6ab6ebf408db7d6cc56ad9b412f 43bd80d10c9a4c05bbf0ccec4fe105f3
+#: 60b75b2e60c640a78da6736478a240ca 64919e60b435403e8e3a9c77c48d304c
+#: 7139fafea2f3462e8269094eecd127c0 764ae1823af0495c902527c0a7be0b9f
+#: 8794074f2d6e4808a443e24d09962c25 a296f2becd1146c18568686e622d1e4c
+#: a45950a280544ae9abd1743cd840e95c b7ef6e0dd07340dea8f684c741f94838
+#: b8f6f6c888c04d5a8857a2edf57e024c c6a125b004984185bf0554128b6cb8df
+#: d03e980b54dd4d0b9392d75c6cfe8fd7 da0a01b34efa49a2b4fd746fa7bce960
+#: e8e5fbd5dd764e769fa153d2d24a43bf eaec776ecf2445f683b551f4efc8ca30
+#: f411d21204194f89804f81a164d06ba6 f4fe03fc5a6342c2a8d1897b495cbb6a
+#: f6c19604d20a40ad83361a94ce884ddb
+msgid "icon_option"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:183 db93a86ba0764d559d65310e751d84f6
+msgid "Доступен только один вариант: Physicell default."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:188 92ec48a438d249c1addacac782001c3f
+msgid "Вывод данных о модели в консоль (Log Model report)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:190 89fdbfe55bd64e8ab6e0be5ab8c779cb
+msgid ""
+"Если опция |icon_option| **Log Model report** НЕ включена, то при "
+"проведении симуляции в области вывода логов будет отображаться информация"
+" следующего вида:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:192 698ca7d2655b4af4a237e0424af50436
+msgid "Log Model report ☐"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:210 a273acf685e74539abceb25754e7f98b
+msgid ""
+"То есть будет указано, что задача (в данном случае, Simulation analysis) "
+"добавлена в очередь на выполнение:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:216 fed7a98591b34e6dbfb4543e11c0793e
+msgid "То, что задача началась:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:222 de3bb57ac7254f0689da503faeae6ef6
+msgid "Информация о каждом шаге симуляции модели:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:228 582f325396fc464b8990ac281c417f19
+msgid "А именно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:230 84658ba2cb9c48f3bd97bd5915d3f660
+msgid "время, когда данный шаг завершился ([ 17:19:04 ]),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:231 a0203617dd444c55bebd477d4b870fc5
+msgid ""
+"сколько всего прошло времени с момента начала выполнения задачи (Elapsed"
+"      0.093),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:232 c1c9e1fc4f3e480b84b38f36a1715387
+msgid "модельное время на данном шаге симуляции (Time:       0),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:233 b1f57f6ed9994de6983814ef60ab88d9
+msgid "общее количество клеток в модели на данном шаге симуляции (Cells      50)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:235 73f095de4b944702a07a2f8fc81e5aeb
+msgid "И то, что задача завершилась, а также ее общее время выпонения:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:241 4d0e055f38ca4cd2999b99bb761c043b
+msgid ""
+"Если опция |icon_option| **Log Model report** включена, то при проведении"
+" симуляции в области вывода логов будет отображаться информация "
+"следующего вида:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:243 e522728348ea40798acb32fd84e452bb
+msgid "Log Model report ☑"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:349 728b875f078447789c19caec26c55670
+msgid ""
+"То есть помимо основной информации о симуляции (**Global parameters**, "
+"которая отображается при выключенной опции Log Model report), будут также"
+" выводиться дополнительные данные, а именно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:351
+#: ../../source/Physicell_simulation.rst:1213 0c440e49d77f43f5bd5099fbda0d0d3a
+#: f4c3c00381724f7ca7f20de53aede70c
+msgid "параметры симуляции (**Simulation Options**),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:352
+#: ../../source/Physicell_simulation.rst:1214 1e52d94a82d44a0db4d6ab6dcc1f7887
+#: e7da3e3415d64ffe94403a7fcfc68d72
+msgid "отчет об общих свойствах модели (**Microenvironment summary**),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:353 64507f13f79d4f5283725942c6293e7f
+msgid ""
+"характеристика каждого типа клеток в модели (в данном случае, в модели "
+"присутствуют только клетки с названием **CellDefinition**)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:358 96cf403d55334b48be9462baaadc20be
+msgid "Путь для сохранения результатов (Result path)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:360 d90ef55797724dcaa6bada7afbe76e25
+msgid ""
+"Чтобы выбрать в репозитории путь для сохранения результатов симуляции, "
+"нужно напротив поля |icon_option| **Result path** нажать ЛКМ на "
+"|icon_option| **(select element)**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:362 c7ae46737cf34fba898377e5fdedc9bf
+msgid "После этого в появившемся окне, нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:364 ea48ce10f8d443629659b15d6793e18b
+msgid ""
+"напротив поля **Collection:** выбрать папку, в которой должен сохраниться"
+" результат,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:365 1f36f5f4aa1243cab9e12cbb8b7aa0ad
+msgid "напротив поля **Name:** ввести название папки с результатами симуляции,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:366 f2feb40b6a394af5b03b7d5bff4bc996
+msgid "нажать **Ok** :ref:`(Рисунок 8) <Physicell_simulation_Pic.8>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:375 8f90ab8b68e141308006dc817d3bf4ce
+msgid "Result_path_parameter"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:375 096b51386c7c4e11bedfaea71d8113d2
+msgid "Рисунок 8. Выбор директории для сохранения результатов симуляции."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:377 bf7c6bd7be7a4976a6cea6914a985b88
+msgid ""
+"После этого напротив поля |icon_option| **Result path** будет "
+"отображаться выбранный вами путь в репозитории, куда сохранятся "
+"результаты симуляции."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:382 674dcbfd70af4407bd15c1f4f5dde73d
+msgid "Способ расчетов поведения отдельных клеток (Cell update type)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:384 f48353a23f0341bf9636eba96c5b7cab
+msgid ""
+"Выбирается из раскрывающегося списка напротив поля |icon_option| **Cell "
+"update type**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:386 e37df767c3854bfdb65e03ff2ca1d391
+msgid "Доступно 3 варианта:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:388 896915d9cdb4430d81e0d6bf60c87834
+msgid "**Default**: расчеты для отдельных клеток проходят последовательно,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:389 38a010c993714df3a35a9a257143406a
+msgid ""
+"**Parallel**: расчеты для отдельных клеток проходят параллельно друг от "
+"друга (*рекомендуется*),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:390 05c4f125514642fdb6bd57df0741d7a2
+msgid ""
+"**Experimental**: экспериментальный режим в котором порядок проведения "
+"расчетов поведения клеток изменен для максимальной производительности (в "
+"данный момент проходит тестирование)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:395 20c8538e1107494fa8237de1cb2f78a8
+msgid "Сохранение таблиц (Save report)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:397 dc080b5ed36d4943bf33cc824cb59d9f
+msgid ""
+"Если опция |icon_option| **Save report** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться папка с "
+"названием **Reports**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:399 49dca99c504b4a50b90c858f38ca894e
+msgid ""
+"В этой папке находятся таблицы с названием **Report_[модельное время]**. "
+"Значение модельного времени, указанное в названии, говорит о том, через "
+"сколько временных единиц после начала симуляции была сгенерирована данная"
+" таблица."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:401
+#: ../../source/Physicell_simulation.rst:560 70946255b9714b2e95b7f158a0ededde
+#: 8dac05bc42e7410b8a769a20d40bfd8c
+msgid ""
+"Количество таблиц будет зависеть от значений параметров **Max Time** и "
+"**Report interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:403
+#: ../../source/Physicell_simulation.rst:468
+#: ../../source/Physicell_simulation.rst:535
+#: ../../source/Physicell_simulation.rst:562
+#: ../../source/Physicell_simulation.rst:630
+#: ../../source/Physicell_simulation.rst:673
+#: ../../source/Physicell_simulation.rst:721 658147825fa4425d8be7a752b94643dd
+#: 850ffe57feb74acabd161a9e4382460c b2d44cd3be9c45958ae5d49202d79dbc
+#: d136ced3a8244914ac45c72c8571b343 e35e015876b640458192ad3657e800bf
+#: f7491e852d224b60ab64480fd369c790 ff020c243af54e41bf8a9f1566bfc536
+msgid "Пример"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:422 23260332d9e44e928f6ea1e0f45c0a92
+msgid "В этих таблицах для каждой клетки в модели представлены следующие данные:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:424 d14ae0c0a69d4b83945e2546f2d94285
+msgid "**ID**: уникальный идентификатор каждой клетки,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:425
+#: ../../source/Physicell_simulation.rst:484 1a5c21624aed492b8163f4d9670ae7b1
+#: d4f51e023021475e961292e0749c6468
+msgid "**X**: координата клетки по оси X,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:426
+#: ../../source/Physicell_simulation.rst:485 46579bf9af954113b58b4576740f9589
+#: eeae48c3decf40bdb7586c7678b473d0
+msgid "**Y**: координата клетки по оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:427
+#: ../../source/Physicell_simulation.rst:486 0296bc9ecddb499ca5a5ededb93701ba
+#: 31891b21ff90464f9eac0518bd3e570e
+msgid "**Z**: координата клетки по оси Z,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:428 ee45ffd1775944f29b7498acc4b09e79
+msgid "**Cicle**: тип жизненного цикла клетки,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:429 5b80530fd7984f6cb5e2c881aee113e5
+msgid "**Elapsed**: время, проведенное клеткой в текущей фазе жизненного цикла."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:431
+#: ../../source/Physicell_simulation.rst:592 47faa6405f2e48c6a0819db1ff7679dd
+#: 99156d92b55a418faf02eb6c9fbbb405
+msgid "Пример такой таблицы представлен ниже:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:434
+#: ../../source/Physicell_simulation.rst:595 b3601ae9259f4758a2ac8797ce03ad4f
+#: ea240118ac7b4de8be3c0679a6b6b02c
+msgid "ID"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:434
+#: ../../source/Physicell_simulation.rst:595 bd7924fb69cc4cb49f1a53d39e7d3042
+#: eef86880d2df48c79127b8f2730c129d
+msgid "X"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:434
+#: ../../source/Physicell_simulation.rst:595 dbb79160af824ad5af7b0ce1677def6b
+#: f7f40a4c33e84f5f86bb77e5b4f7c16b
+msgid "Y"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:434
+#: ../../source/Physicell_simulation.rst:595 d0308655c3fe4e779d2789cc8f5f973c
+#: f3d1f012dda646cd8616880a4de60dcb
+msgid "Z"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:434 2a0bb5e1901143fb9779114bbd97cbce
+msgid "Cycle"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:434 4534589b3379417c92fd2649a93c9806
+msgid "Elapsed"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:436
+#: ../../source/Physicell_simulation.rst:438
+#: ../../source/Physicell_simulation.rst:597 067c66711aa84b2791ff4dbe0607d710
+#: 6058d422754346e9b5f1f8fc4222a765 61af118f7c4e4f45ac501314d8302efa
+msgid "1"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:436
+#: ../../source/Physicell_simulation.rst:876
+#: ../../source/Physicell_simulation.rst:884
+#: ../../source/Physicell_simulation.rst:894 0bdf39eb7436467d8e1c512a9456bd40
+#: 4889d43c4f694450a6db4d2d6645f712 91d92b19ef0f43b783fb9a36327540e5
+#: debc72c6520e4d23a03e65dd9101a198 e7460d4232e5499d9f28eeb8d7e426e5
+msgid "0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:436 71e66f2886cd4c40b0785c25c6c9826c
+msgid "12.096251085940921"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:436 2da19bd2f1674ba9b5e96ed8ed4c63a4
+msgid "54.53590904181374"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:436
+#: ../../source/Physicell_simulation.rst:438
+#: ../../source/Physicell_simulation.rst:440
+#: ../../source/Physicell_simulation.rst:442
+#: ../../source/Physicell_simulation.rst:444
+#: ../../source/Physicell_simulation.rst:446
+#: ../../source/Physicell_simulation.rst:448
+#: ../../source/Physicell_simulation.rst:450
+#: ../../source/Physicell_simulation.rst:452
+#: ../../source/Physicell_simulation.rst:454 0650b3a6fdd54a0e851eb440a47faa36
+#: 09a887af5e6749cca3fd8aabaabdffd4 2a1309b5e05940d9ae0afc02df384734
+#: 321f9594f2c8486cb6cb603d34ac50a3 5a9c005ee6a141d2b4101e76a82d4c5d
+#: 5fe94fcb54e64dcf822fb25cc3918664 6086bf084e6f4ada986e3a67c54a181d
+#: 7155e84016d1407483f4dcaa323e9fa1 7f162278a1de4760b3de7b87a101609b
+#: 8119f3edabf64007a250f5cfa3f53ade 916be9afc4c5446d9f86cf3735e4604b
+#: 94cc6fe3651f49cbbf8ea8d4bfcde2a3 951dde1d7c1d41fe8c573bdf9eae97ce
+#: 9e79e0edb4cb483e8ced1ca228e554a9 a71f527080c545feb47c81b28fd9ac45
+#: d75cff1b6ec94a4f91db798aab66a89c d8e8228297094cfc9cdd556b1d470e18
+#: f21d3a86032048f2bb6a7814a35f002e f527d22c0b464dfabd2e476830a5bc2d
+#: f62905970cb54def8d8ba351a63a5fef
+msgid "0.0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:436
+#: ../../source/Physicell_simulation.rst:438
+#: ../../source/Physicell_simulation.rst:440
+#: ../../source/Physicell_simulation.rst:442
+#: ../../source/Physicell_simulation.rst:444
+#: ../../source/Physicell_simulation.rst:446
+#: ../../source/Physicell_simulation.rst:448
+#: ../../source/Physicell_simulation.rst:450
+#: ../../source/Physicell_simulation.rst:452
+#: ../../source/Physicell_simulation.rst:454 351a304a6e334b6495897833c714f34c
+#: 39e4328c11d447b0bf65315cc77d6a47 5c2b75dd94b147579a34d52f86b9f244
+#: 99fb1031032d42baabbe0eb5976cb533 b5ab65326a2540a89704943bafd982d9
+#: b7a85c44582a4b8da6ed435dded21de7 b9e806abef424b32ae47a8f20d3ff16f
+#: be7635d9d1cd44dc8936f43428638045 bef4d09a4d964b3690192c56f8eddebe
+#: ff8327ca07d5450a846d1ecf617fe229
+msgid "Live"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:438
+#: ../../source/Physicell_simulation.rst:440
+#: ../../source/Physicell_simulation.rst:599 024a818568a44ad5831ba9ec6aeb441a
+#: a62ed9a0f2b54854a026c5f0fed85f92 e69972075c3d4506899a7e76681c0b59
+msgid "2"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:438 4379150490964433aba3b419c61af16b
+msgid "-16.7529715238615"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:438 99d3517b89ea4086bd95e370a2919275
+msgid "487.780772942137"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:440
+#: ../../source/Physicell_simulation.rst:442
+#: ../../source/Physicell_simulation.rst:601 3f7fc784001f4348865256ec9ddb54dd
+#: a59e758ba55a4eb096ab6985e7c02a36 ed8bb405102a40d286ed1ec7cd284fce
+msgid "3"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:440 3ff22df9c6844c3c8cda548fb1bcd249
+msgid "434.88945411017"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:440 6b3a1a245396411cb148eea95bbb6d57
+msgid "-235.8628174833683"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:442
+#: ../../source/Physicell_simulation.rst:444
+#: ../../source/Physicell_simulation.rst:603 0932b3eac5bd4abab74008c01088ec44
+#: 7cd792a67ac045988e6598c29ea134ca 95d79ab5f97e466090837e7ca759cbad
+msgid "4"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:442 ef5fbe79f3cf4e68811ab109cf637cae
+msgid "-317.708977450963"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:442 b707007b93f34fe08d8c7f8f2565e7ea
+msgid "70.60607004897084"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:444
+#: ../../source/Physicell_simulation.rst:446
+#: ../../source/Physicell_simulation.rst:605 82867000ed204f3992f1d300b1805802
+#: 8ba3a7b3c7a2404cabb84e349bb3f75e 9714637c66ef41579eee006c03767d37
+msgid "5"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:444 bc60b55dacbb416e9280d62beb1d5f49
+msgid "297.12023289402"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:444 43906486b0fc4c98bdd2b75e2c98f9a4
+msgid "-104.06874944129022"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:446
+#: ../../source/Physicell_simulation.rst:448 871c12ecaccf4f85864d7eca5835986c
+#: 9204f7e6754b4844af8127b62c954a78
+msgid "6"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:446 b9cfca5ab0024ca0ba0a2cb4ef3694a7
+msgid "498.91499172254876"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:446 7f32b7d5171d492999afc465035d5b15
+msgid "-157.9085845799884"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:448
+#: ../../source/Physicell_simulation.rst:450 ce7a631db7fd4fd08de8b31ed24ff06d
+#: deca86ba6f9c45cc8551a48e534d0b91
+msgid "7"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:448 3b0d6bb4d65d4a66915b3eb8b3ddc606
+msgid "-82.9177958205822"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:448 cb2b699b093245b4895f23bf025944f0
+msgid "92.277904605043"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:450
+#: ../../source/Physicell_simulation.rst:452 41a72e09fa3942d1b823225725e4ff07
+#: fdb945cc71dc41899a34e577dc3e9736
+msgid "8"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:450 d81b3b5f15b7469da1e0edf520fbe92c
+msgid "398.6983928720833"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:450 4e9cb708234c4694943ace9cb022bed2
+msgid "-41.58404501726561"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:452
+#: ../../source/Physicell_simulation.rst:454 a84b02cf0b09472b84092949f7055af5
+#: c3b5221236d049b4aef0010179711d12
+msgid "9"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:452 81893ac3702145db9010c16db3116193
+msgid "164.77007610049"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:452 34f0e1cc90394d0c95b3697586ffb54f
+msgid "318.61148406086864"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:454
+#: ../../source/Physicell_simulation.rst:878 4bbadba2fbb542d58686ef00b41d1003
+#: a089e558ed3743eeb16a42a71bfbc59b df6f9bffb4124776bc23665366cc807f
+msgid "10"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:454 07c4a6dc6be24111af7d2256daa89590
+msgid "986.6954360545525"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:454 3dab8dec426f4832a5462c761021aca3
+msgid "292.7179524650729"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:460 ed18bcaf3fba4eb1bda21202d1943335
+msgid "Сохранение данных о клетках в текстовых файлах (Save cells data)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:462 8aeb5b74d9584e9ebad5adf9f84aa0dd
+msgid ""
+"Если опция |icon_option| **Save cells data** включена, то после "
+"завершения симуляции в директории с результатами у вас будет находиться "
+"папка с названием **Cells**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:464 1321f3c43c684d5eb18c0b2e55d31b12
+msgid ""
+"В этой папке находятся текстовые файлы с названием **Cells_[модельное "
+"время]**. Значение модельного времени, указанное в названии, говорит о "
+"том, через сколько временных единиц после начала симуляции был "
+"сгенерирован данный текстовый файл."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:466 b8f09aa7cfcf471ab123fd90821c6676
+msgid ""
+"Количество текстовых файлов будет зависеть от значений параметров **Max "
+"Time** и **Image interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:482 801e5813c10c47e1a24d6f4a30a397f8
+msgid ""
+"В этих текстовых файлах для каждой клетки в модели представлены следующие"
+" данные:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:487 e96775f961a44320bd465fa5bb07ef21
+msgid "**Radius**: радиус клетки,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:488 b834bd7cfd3a4c029f59ab12f3b827a7
+msgid "**r**: радиус ядра клетки,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:489 eaab499d95df4a75b5809cd24e2ea8bd
+msgid ""
+"**Color1**: цвет, с помощью которого отрисовывается внутреннее содержимое"
+" клетки (Формат RGB),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:490 a4024f12c3144f0f87a0b5471bc5d56a
+msgid ""
+"**Color2**: цвет, с помощью которого отрисовывается контур клетки (Формат"
+" RGB),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:491 1e8abdb027e14ea3ba73ba7987e91643
+msgid ""
+"**Color3**: цвет, с помощью которого отрисовывается внутреннее содержимое"
+" ядра клетки (Формат RGB),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:492 83d99034ca824279ac853f5a7ca8108b
+msgid ""
+"**Color4**: цвет, с помощью которого отрисовывается контур ядра клетки "
+"(Формат RGB)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:495 6940df72c7c5494b9564b6abfbca1f4d
+msgid ""
+"Если в текстовом файле приведено значение **только Color1**, то "
+"считается, что:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:497
+#: ../../source/Physicell_simulation.rst:503 5089833d727b4157b164d4db040c4a7b
+#: b0342998cca640619269cf329b31de44
+msgid "ядро у клетки не отрисовывается,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:498 d617dfa96bd24a1e94e4aa2f5df3e182
+msgid "контур клетки отрисовывается черным цветом [0,0,0],"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:499
+#: ../../source/Physicell_simulation.rst:505 5f81193df2954d3196465c23fc3a508e
+#: b209e0cbf2a14463b8a116b06d3440fe
+msgid "все внутреннее содержимое клетки отрисовывается цветом Color1."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:501 569a9c62a3bf408bb56ac70ef54d017c
+msgid ""
+"Если в текстовом файле приведены значения **только Color1 и Color2**, то "
+"считается, что:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:504 f3e303c3291348ffa45128e9e46bdc5f
+msgid "контур клетки отрисовывается цветом Color2,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:507 cee71dd2f27249608a19fec27337bd21
+msgid "Пример такого текстового файла представлен ниже:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:509 12be5d5ee728435080a367d3d423cc69
+msgid "Пример текстового файла"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:527 5fa98f5d7e7d4f73837395cdcb5298ff
+msgid "Сохранение данных о клетках в таблицах (Save cells data as table)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:529 b9ad2f34005d4d378a74b0654d9630f3
+msgid ""
+"Если опция |icon_option| **Save cells data as table** включена, то после "
+"завершения симуляции в директории с результатами у вас будет находиться "
+"папка с названием **Cells tables**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:531 d831ee9c458941b092d82c073fde9a50
+msgid ""
+"В этой папке находятся таблицы с названием **Cells_[модельное время]**. "
+"Значение модельного времени, указанное в названии, говорит о том, через "
+"сколько временных единиц после начала симуляции была сгенерирована данная"
+" таблица."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:533 dfac11c45cbb47a8a5b3574d0afecb27
+msgid ""
+"Количество таблиц будет зависеть от значений параметров **Max Time** и "
+"**Image interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:549 e6e507c664fd4baf84aae845f42f7038
+msgid ""
+"В этих таблицах для каждой клетки в модели представлены те же данные, что"
+" и в текстовых файлах при :ref:`включенной опции Save cells data "
+"<Physicell_simulation_Save_cells_data>` (дополнительно указан ID для "
+"каждой клетки)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:554 301172e1f92a42089b99c51a41737f7b
+msgid "Сохранение данных о веществах (Save density)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:556 748f7e8a94334c5f9aabbfca9b44e33f
+msgid ""
+"Если опция |icon_option| **Save density** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться папка с "
+"названием **Density**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:558 ada3263b2ce142ae853563b3e847568d
+msgid ""
+"В этой папке находятся таблицы с названием **Density_[модельное время]**."
+" Значение модельного времени, указанное в названии, говорит о том, через "
+"сколько временных единиц после начала симуляции была сгенерирована данная"
+" таблица."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:576 445c246e7d7e448aac04c04fd56336a9
+msgid ""
+"В этих таблицах для каждой :ref:`ячейки внешней среды "
+"<Physicell_microenvironment_Domain>` представлены следующие данные:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:578 1244f7a92e3240d7a920d2ea3b73619b
+msgid "**ID**: уникальный идентификатор каждой ячейки,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:579 39203bfa05c74d4e9c140dd69527fbe0
+msgid "**X**: координата ячейки по оси X,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:580 4d8db96cedd943c38239ce7872bc2b71
+msgid "**Y**: координата ячейки по оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:581 05d9420010a945c8b60423d7a4ed6139
+msgid "**Z**: координата ячейки по оси Z,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:582 449f64d791b54fdeab959daf48c0de08
+msgid "**[Субстрат 1]**: количество субстрата 1 в данной ячейке,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:583 c69cd69f3d734b3a9ed79b8652c7ed66
+msgid "**[Субстрат 2]**: количество субстрата 2 в данной ячейке,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:584
+#: ../../source/Physicell_simulation.rst:585
+#: ../../source/Physicell_simulation.rst:586
+#: ../../source/Physicell_simulation.rst:607 2d4b67e1bcc14631bed6095579ab2a98
+#: 455c475114a848a5bcaeb23b35d3be7a 4f5777a89d5749dfa07752a4adea407f
+#: 5c58dc0b588e431ea9b41f4fcd57cc92 8e42a08827d04f91aaed7e2c0bb05bc7
+#: a171d5d3c3dd4d11ad7dd2edebb46b57 a1c64ee6d45b42b79590100135d05818
+#: bc005b3948e8479491ae63be03792185 ef2e71dcb474482ab0fd5df73bf7b5b3
+msgid "..."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:587 1c54492aa3da4e8bae059b80c0685013
+msgid "**[Субстрат n]**: количество субстрата n в данной ячейке."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:590 522a1a67d8f34beab056ca6387777502
+msgid ""
+"В таблице для каждого субстрата модели будет своя колонка, где будет "
+"указано количество именно этого субстрата в данной ячейке."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:595 3a4fa11220f3441eae300f2535e42b33
+msgid "Substrate"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:595 93017c6796f0429db0882958c84a378f
+msgid "Substrate_1"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:597
+#: ../../source/Physicell_simulation.rst:599
+#: ../../source/Physicell_simulation.rst:601
+#: ../../source/Physicell_simulation.rst:603
+#: ../../source/Physicell_simulation.rst:605 0bf0e0ec5106454794a83326d042768c
+#: 1de1cbb1f5304fcfba2a785c1caf463f 65362cc74b3c4eb4892f1897098e009d
+#: a339c8b6fc3347639681798adb4423d9 a8a46eaad91a4ebb9544b3380928a84f
+#: bbf0498d081f4694a10a89e032c4aa49
+msgid "-490,0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:597
+#: ../../source/Physicell_simulation.rst:599
+#: ../../source/Physicell_simulation.rst:601
+#: ../../source/Physicell_simulation.rst:603
+#: ../../source/Physicell_simulation.rst:605 369dd7c31a4d4a4cac333dc18ae9ff76
+#: 70c8f95ed360443789b345e94344a2f2 92e833846d7c43478cdb5cf7b2402f35
+#: ab8c52a6a7984928a6cacfde99334611 ed0f112edaa346778e4912e3fd6624d7
+msgid "0,0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:597
+#: ../../source/Physicell_simulation.rst:599
+#: ../../source/Physicell_simulation.rst:601
+#: ../../source/Physicell_simulation.rst:603
+#: ../../source/Physicell_simulation.rst:605 0957ae075c824b80bb004e9d58ba87a0
+#: 1cb9b0ec4ef542a69a611f200ba63542 a7ff3505ad1048208078d8447e0923d6
+#: ecacf84532af4d1d95875f4238e09d2b f18f59a27030420498945ddbc8c89516
+msgid "0,005"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:597
+#: ../../source/Physicell_simulation.rst:599
+#: ../../source/Physicell_simulation.rst:601
+#: ../../source/Physicell_simulation.rst:603
+#: ../../source/Physicell_simulation.rst:605 0111771761174394965357c639889c80
+#: 2299aba331c247b89ecb6a21f9e647f5 74edfbd76558409b96f10d7ac9d1445b
+#: b740197869e24a3b9847cd053040ebd6 bd68c191417c450889ae1ee0a922abfe
+msgid "100,0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:599 91897011a15c4c94b917abe5566677ac
+msgid "-470,0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:601 4eb481d07a0b481ba403683440e9baa5
+msgid "-450,0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:603 13859d144d664ec9a2c1ae6646204acd
+msgid "-430,0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:605 de796b3d8702467c8bb02fb5f7badaa7
+msgid "-410,0"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:610 e110be958d9b4f24a43378479e794903
+msgid "▼ таблица продолжается ▼"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:615 497d307c92054319aa42d6ce49f6579d
+msgid "Сохранение изображений модели в процессе симуляции (Save images)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:617 1eacdc82a4a04e2582618ea9b8f87d5d
+msgid ""
+"Если опция |icon_option| **Save images** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться папка с "
+"названием **Image**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:619 1306b11afbd248dcb62d92d3c3e757ea
+msgid ""
+"В этой папке для каждого субстрата модели будет находиться отдельная "
+"папка с названием, соответствующим названию субстрата."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:621 08b60ec4f46e457d826dcce7ef86d3c4
+msgid ""
+"В каждой такой папке находятся изображения с названием "
+"**Figure_[модельное время]**. Значение модельного времени, указанное в "
+"названии, говорит о том, через сколько временных единиц после начала "
+"симуляции было сгенерировано данное изображение."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:624 9afee69cf18e443d862fe96035b612a3
+msgid ""
+"В изображениях в одной папке отображается только субстрат с таким же "
+"названием, как и название этой папки (например, если в модели есть два "
+"субстрата (\"A\" и \"B\"), то после окончания симуляции в папке Image/A "
+"будут находиться изображения, на которых показан только субстрат \"A\", а"
+" в папке Image/B - только субстрат \"B\"."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:625
+#: ../../source/Physicell_simulation.rst:668 1f1ec2a6373b43539dde467c2f0c3426
+#: d1c558c15a644ad19dd5b8c8a85660e3
+msgid ""
+"На изображениях клетки отрисовываются тем цветом, который вы им задали, а"
+" субстраты всегда изображаются красными квадратами."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:626
+#: ../../source/Physicell_simulation.rst:669
+#: ../../source/Physicell_simulation.rst:717 0b5f6b59377d4e4e98d9b10281363ceb
+#: 30282c56280842658d005bf906f267cf eb0333022ba04c5da816e54a437461b6
+msgid ""
+"Чем больше субстрата в определенной ячейке среды, тем более ярким "
+"оттенком красного она будет закрашена (отрисовывается относительно ячейки"
+" с максимальным содержанием субстрата в данный момент)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:628 33b6ac734c384d30b7ea24af61a15aa1
+msgid ""
+"Количество изображений в каждой папке будет зависеть от значений "
+"параметров **Max Time** и **Image interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:644 54786e78897244eb803bdbb91e849d24
+msgid ""
+"Пример таких изображений представлен на :ref:`рисунке 9 "
+"<Physicell_simulation_Pic.9>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:653 1f1c0aaebfb94193b584a6da0d3a104f
+msgid "Save_images"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:653 492b182c9f1a48e7bb7445c10c7c4207
+msgid "Рисунок 9. Изображения модели в процессе симуляции."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:656 87f2f622174f4381a34db12707d9b9a7
+msgid ""
+"В верхней правой части каждого рисунка обозначено через сколько временных"
+" единиц после начала симуляции было сгенерировано данное изображение "
+"(**Time**), сколько клеток находится в модели (**Cells**) и по какому "
+"срезу внешнего пространства по оси Z сделано данное изображение (**Z**)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:661 197b9a0923ad441182762ca3fb750d9c
+msgid "Сохранение GIF-изображения модели в процессе симуляции (Save GIF)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:663 616dbef6c860435899ea3c340bb73fd0
+msgid ""
+"Если опция |icon_option| **Save GIF** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться папка с "
+"названием **Video**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:665 9475460ba2fa4a62839e5f78be4192f3
+msgid ""
+"В этой папке для каждого субстрата модели будет находиться свое "
+"GIF-изображение, на котором будут отображаться клетки и только субстрат с"
+" названием, аналогичным названию изображения."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:671 b1c4f37305cc43b69c69bca67e1e5a52
+msgid ""
+"Количество кадров в каждом GIF-изображении будет зависеть от значений "
+"параметров **Max Time** и **Image interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:689 c480ab45d5ef4c9b8b4349dde76cdc4b
+msgid ""
+"Пример такого GIF-изображения представлен на :ref:`рисунке 10 "
+"<Physicell_simulation_Pic.10>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:698 6fd3a7f6527e47468332bf6447d9fa8b
+msgid "Save_GIF"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:698 ef8a6159efac4ef49f23d87691fd0c5e
+msgid "Рисунок 10. GIF-изображение модели в процессе симуляции."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:701 023f7771525b42e4aa5c323533417932
+msgid ""
+"В верхней правой части GIF-изображения обозначено через сколько временных"
+" единиц после начала симуляции был сгенерирован данный кадр (**Time**), "
+"сколько клеток находится в модели (**Cells**) и по какому срезу внешнего "
+"пространства по оси Z сделано данное изображение (**Z**)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:704 df7268c5b3344f44b3bc656fe0265231
+msgid ""
+"При использовании Standalone-версии BioUML, при **экспорте "
+"GIF-изображения** необходимо указать расширение (**.gif**) в названии "
+"файла, иначе файл экспортируется без расширения."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:709 c61ddc9e396d49e59e348f05654c9618
+msgid "Сохранение видео модели в процессе симуляции (Save Video)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:711 356b0d26d5fe42bea2797d146e7d3a0e
+msgid ""
+"Если опция |icon_option| **Save Video** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться папка с "
+"названием **Video**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:713 deb6fab11df24a3a88d3f9d98d49bfa1
+msgid ""
+"В этой папке для каждого субстрата модели будет находиться свое видео, на"
+" котором будут отображаться клетки и только субстрат с названием, "
+"аналогичным названию видео."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:716 8c1beeb01b444b6c9eadae09b34247cf
+msgid ""
+"На видео клетки отрисовываются тем цветом, который вы им задали, а "
+"субстраты всегда изображаются красными квадратами."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:719 64efdd05a0cd4714bf948c4b38ac2f0f
+msgid ""
+"Количество кадров в каждом видео будет зависеть от значений параметров "
+"**Max Time** и **Image interval** (см. пример ниже)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:737 2ed6e49b1b0642b78c6d90539f1e9d50
+msgid "Пример такого видео представлен ниже."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:-1 d2df9c335a7c4eedacd5f7b0375baac2
+msgid "Save_video"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:744 f521eaaf10dd420fa954ec8b542016a1
+msgid ":raw-html:`<br>`"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:747 09632caa2016417ab46554409808bb06
+msgid ""
+"В верхней правой части видео обозначено через сколько временных единиц "
+"после начала симуляции был сгенерирован определенный кадр (**Time**), "
+"сколько клеток находится в модели (**Cells**) и по какому срезу внешнего "
+"пространства по оси Z сделан данный кадр (**Z**)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:750 b07efd1a43ef453bb6ced514220c125e
+msgid ""
+"При использовании Standalone-версии BioUML при **экспорте видео** "
+"необходимо указать расширение (**.mp4**) в названии файла, иначе файл "
+"экспортируется без расширения."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:755 7e013e27e09040e98ffa6e0f0c60d5ce
+msgid "Сохранение графиков (Save plots)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:758 12d5e5768cc24f9ba3e914b526c8c976
+msgid ""
+"Перед изучением данного раздела рекомендуется ознакомиться с принципами "
+"добавления переменных для вывода на график во вкладке :ref:`Plots "
+"<Physicell_simulation_Plots_creation>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:760 f9f2756c5f7648b6ae49c115c72a02b1
+msgid ""
+"Если опция |icon_option| **Save plots** включена, то после завершения "
+"симуляции в директории с результатами у вас будет находиться файл "
+"|icon_option| **Counts**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:762 aad10e6ae2e74ec99277a6cb0740fe9f
+msgid "Этот файл содержит данные о симуляции модели."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:764 b8f2ba9cbd2d46d08645b620abde2a77
+msgid "Чтобы на основе этого файла построить график нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:766 8c2dae51334f4f58b536cc42d18eaebd
+msgid "нажать ПКМ на |icon_option| **Counts**,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:767 1adcc3cfd16f4437b7a3bdb85aa25187
+msgid ""
+"в раскрывшемся списке нажать ЛКМ на |icon_new_plot_document| **New plot "
+"document** :ref:`(Рисунок 11) <Physicell_simulation_Pic.11>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:17 d211dfdf7fcf4163b8255a01f10cc131
+msgid "icon_new_plot_document"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:776 05c7fa71c9e443bf9a4453a8a89e0490
+msgid "New_plot_from_counts"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:776 295a7212254e4e1da087362ab9abfdb5
+msgid "Рисунок 11. Создание графика на основе файла Counts."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:778 17279c4f393c4e97906ff010d1d0ede7
+msgid ""
+"После этого в правой верхней части экрана у вас появится пустой график "
+":ref:`(Рисунок 12) <Physicell_simulation_Pic.12>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:787 417de622fc374f979fb3e91bb795fde5
+msgid "Empty_plot"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:787 963dfa9b8af84f009ab282c77ca2520d
+msgid "Рисунок 12. Пустой график."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:789 7be45cb2142b46e29e879aa322b7edf9
+msgid ""
+"Чтобы добавить на него какие-либо переменные (предварительно созданные во"
+" вкладке :ref:`Plots <Physicell_simulation_Plots_creation>`) или "
+"экспериментальные данные, нужно перейти во вкладку **Plot editor**, "
+"расположенную снизу :ref:`(Рисунок 13) <Physicell_simulation_Pic.13>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:798 bbb5e27eab1b4b88b4eb14ef2af64651
+msgid "Plot_editor_tab"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:798 785f3672aa1a47a6a944b8040ea67631
+msgid "Рисунок 13. Вкладка Plot editor для редактирования графика."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:800 3e9245c9a27749839cea21b31b399502
+msgid ""
+"После этого в правом нижнем углу появится меню для редактирования графика"
+" :ref:`(Рисунок 14) <Physicell_simulation_Pic.14>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:809 7a306d68720b47a18af46c19ba211d9d
+msgid "Plot_editor_opened_tab"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:809 c1a951d474ac41c19ad8d2f92ccfc73b
+msgid "Рисунок 14. Меню для редактирования графика."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:811 3bf32bcaa02a499c9eb3a2d6823aa1c9
+msgid "В этом меню можно выделить 3 основные части:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:813 058fb242cb454302a47ac869c56bd9b8
+msgid "часть для добавления переменных и экспериментальных данных,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:814 d0a6aca5179d45bfb5f5bc754d7fd804
+msgid "часть для редактирования общего вида графика,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:815 9b0d6f073e684f2d974379b43e0858db
+msgid ""
+"часть для редактирования добавленных переменных и экспериментальных "
+"данных :ref:`(Рисунок 15) <Physicell_simulation_Pic.15>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:824 259d928bb12142858989134e6c44dee5
+msgid "Parts_of_the_plot_editor_tab"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:824 ff8449f1d2e14a3daa56377abbb5731d
+msgid ""
+"Рисунок 15. Части меню для редактирования графика: А) часть для "
+"добавления переменных и экспериментальных данных, Б) часть для "
+"редактирования общего вида графика, В) часть для редактирования "
+"добавленных переменных и экспериментальных данных."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:827 0f5a17655b5a4d54b30da384f599c6e3
+msgid "Часть для добавления переменных и экспериментальных данных"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:829 06523a4ca6924d1a900eaface98b5249
+msgid ""
+"В части для добавления переменных и эксперименальных данных можно делать "
+"следующее:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:831 ff9eaae1701443ff887af75b716f382d
+msgid ":raw-html:`<u>1. Добавлять переменные</u>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:833 d29168abd6aa442ea6ba159f68752412
+msgid "Для этого нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:835 bbe79a8d027e420fb5ea5c5dc72e3088
+msgid ""
+"нажать ЛКМ на значок |icon_not_selected_point| слева от **Simulation "
+"Result** (значок изменится на |icon_selected_point|),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:18 338fa9e5d26f4d3da308466f25ed08e7
+#: e4d0035a93964c5e9c2b85be05516847
+msgid "icon_not_selected_point"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:19 51857f53ba01481495ed5358dd86b386
+#: ac2a652ff9304a5d82b07aa2935fa14c
+msgid "icon_selected_point"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:836 f5d7ff4322d94889bce755aa948bea7f
+msgid ""
+"нажать ЛКМ на поле справа от **Simulation Result** и в появившемся окне "
+"выбрать файл с данными о симуляции модели (сразу будет выбран файл "
+"**Counts**, на основе которого был создан график),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:837 cf45bfbfb2bb41088603c10db8e7fb6f
+msgid ""
+"нажать ЛКМ на *первое* поле справа от **Variable X** и из раскрывающегося"
+" списка выбрать модуль модели, в котором находится переменная оси X "
+"(:raw-html:`<span style=\"color: red;\">если переменная находится на "
+"самом верхнем уровне многомодульной модели или если модель не содержит "
+"модулей, то данное поле следует оставить пустым</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:838 0f928f7dac7047c08ce18eddd0d2fdf6
+msgid ""
+"нажать ЛКМ на *второе* поле справа от **Variable X** и из раскрывающегося"
+" списка выбрать параметр модели, значения которого будут отображаться по "
+"оси X (по умолчанию - time),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:839 25211225a8c94855a2e99db3341e3728
+msgid ""
+"нажать ЛКМ на *первое* поле справа от **Variable Y** и из раскрывающегося"
+" списка выбрать модуль модели, в котором находится переменная оси Y "
+"(:raw-html:`<span style=\"color: red;\">если переменная находится на "
+"самом верхнем уровне многомодульной модели или если модель не содержит "
+"модулей, то данное поле следует оставить пустым</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:840 dd47f1d213f6401b9483871c9281df9f
+msgid ""
+"нажать ЛКМ на *второе* поле справа от **Variable Y** и из раскрывающегося"
+" списка выбрать параметр модели, значения которого будут отображаться по "
+"оси Y (переменные, созданные во вкладке :ref:`Plots "
+"<Physicell_simulation_Plots_creation>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:841 7ad84301d9594df7bcfa506856065a2c
+msgid ""
+"нажать ЛКМ на кнопку **Add** :ref:`(Рисунок 16) "
+"<Physicell_simulation_Pic.16>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:850 4efbf3881bee44679e671173b34cb6ce
+msgid "Add_new_variable_on_plot"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:850 a41499378c4c4bd48ce1e1d2fd63dbf2
+msgid "Рисунок 16. Добавление переменной на график."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:852 637b6ed6b4864bc0b05afbc62fe4508d
+msgid ""
+"После этого на графике появится кривая зависимости переменной на оси Y от"
+" параметра на оси X, а также обозначение этой кривой в легенде (названа "
+"также, как и переменная оси Y) :ref:`(Рисунок 17) "
+"<Physicell_simulation_Pic.17>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:861 0764f09a6a334dddb905fa3617c760d2
+msgid "New_curve_on_the_plot"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:861 f94964cbe7ae43d5b5bc4905c50b7aa2
+msgid "Рисунок 17. Кривая на графике."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:863 783e82b5986048c9a2224733b60070f3
+msgid "Таким образом на график можно добавлять сколько угодно переменных."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:865 9c3f972132ce4f099d823f83567520c0
+msgid ":raw-html:`<u>2. Добавлять экспериментальные данные</u>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:867 d0938ff25cbc4e4d8575d70985a5561c
+msgid ""
+"Прежде чем добавлть экспериментальные данные на график, нужно их "
+"импортировать в BioUML."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:869 c700e8c3d06142c28863af4612c47920
+msgid "Для этого нужно сделать следующее:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:871 0e0dc49597434e098b8110decda3a223
+msgid ""
+"создать таблицу на своем компьютере (\\*.txt, \\*.xls, \\*.xlsx, \\*.tab "
+"и т.п.). Пример такой таблицы приведен ниже."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:874 503c62d4d83c48c79cbad2e1a6d7431f
+msgid "time"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:874 86d6e62d126a4faeb0b69b20fb9112a2
+msgid "Fed_cells_exp"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:880
+#: ../../source/Physicell_simulation.rst:886 47be0fa1eaae401e839226a8b9f28a21
+#: 6f2d0a529b8c46cb8206e0ee86d93dbc
+msgid "20"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:880 64a797ec254046cd80f9f13fef2265f9
+msgid "-10"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:882
+#: ../../source/Physicell_simulation.rst:890 2be974aee575408690b0eac0cad0db3c
+#: 641dfb19bb1a4f7bb6fd259edf08b9e7
+msgid "30"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:882
+#: ../../source/Physicell_simulation.rst:896 5870803eeea149e4ae9f64b4fe022782
+#: d558e585f43e47a389be253fdc4bd93d
+msgid "-15"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:884 4415c587cfee4b52a1f23130c5eeaecb
+msgid "40"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:886 10a7b725c4e14690936450e119757dc0
+msgid "50"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:888 6c3e15c15b0f482d856bd9b48971c20c
+msgid "60"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:888
+#: ../../source/Physicell_simulation.rst:892 6bc5b306e00d44aa83af7ce5d2a8e196
+#: 9d7253b469da43eb810245548fd4a920
+msgid "25"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:890 f0c71616910e4563a643173135eee325
+msgid "70"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:892 86ad4604ab8d4e9ab924131e6f4f8300
+msgid "80"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:894 a7c90d5a3cbc4fef8cc49c0265824273
+msgid "90"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:896 a4752f8a3ab240a58a093fe21141f770
+msgid "100"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:899 b49b3b850da54041a4b1e96ec12a74b2
+msgid ""
+"в репозитории в BioUML нажать ПКМ на директорию, в которую вы хотите "
+"импортировать таблицу с экспериментальными данными,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:900 a237cdd9d5f04089bc88b6a166cbed51
+msgid ""
+"в раскрывшемся списке нажать ЛКМ на |icon_import| **Import element** "
+":ref:`(Рисунок 18) <Physicell_simulation_Pic.18>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:20 77bc253caf144d74ba72b669b2d34c15
+msgid "icon_import"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:909 d8a19e2fa0824029840d98c95020cbde
+msgid "Import_element"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:909 13ffd527ade4429eb4ebcae92c39e9d0
+msgid "Рисунок 18. Импорт данных в BioUML."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:911 e05bd8d157ef4489b3d258a61162233f
+msgid "После этого у вас появится окно, в котором нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:913 560b991e3414410dadc52808a534d872
+msgid "нажать ЛКМ на кнопку |icon_3_points_button| справа от **File:**,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:21 9600438465ea4413898b793b0b1dc420
+msgid "icon_3_points_button"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:914 87a665a324814780bc132d3dc6ded09e
+msgid ""
+"в появившемся окне выбрать на своем компьютере таблицу с "
+"экспериментальными данными и нажать ЛКМ кнопку **Open**,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:915 4cf0ff3f023341ba9be4aaea48d71456
+msgid ""
+"из раскрывающегося списка справа от **Format:** выбрать **Tabular "
+"(\\*.txt, \\*.xls, \\*.tab, etc.)**,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:916 300cc4502579484d9467c290d8f59535
+msgid ""
+"нажать ЛКМ на кнопку **Import** :ref:`(Рисунок 19) "
+"<Physicell_simulation_Pic.19>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:925 45ffaf3adadf4454ba4c03253cb4c569
+msgid "Import_element_both_windows"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:925 6411f3560bf74cd19a21e9fe4bc4f23f
+msgid "Рисунок 19. Выбор импортируемого файла."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:927 5cbdb6a5c0bf4f69b98a5cc604bc1cac
+msgid ""
+"После этого появится новое окно, в котором нужно настроить следующие "
+"параметры импортируемого файла :ref:`(Рисунок 20) "
+"<Physicell_simulation_Pic.20>`:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:929 a3a2e9f027ae421db4abd522833492cb
+msgid ""
+"**Name for table**: название таблицы (нужно придумать название, под "
+"которым таблица будет сохранена в репозитории BioUML),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:930 44ea69a6c8fd44d58595a4ae059da323
+msgid ""
+"**Sheet name**: название листа Excel-таблицы, на котором располагается "
+"таблица с экспериментальными данными (:raw-html:`<span style=\"color: "
+"red;\">данный параметр имеется, только если импортируются файлы *.xls, "
+"*.xlsx</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:931 1d5257ad0a8847c2a6386d523c7ab4a5
+msgid ""
+"**Use new XLS(X) converter**: отметьте ☑, если хотите использовать новый "
+"XLS(X) конвертер, который дает лучший результат при обработке пыстых "
+"ячеек (:raw-html:`<span style=\"color: red;\">данный параметр имеется, "
+"только если импортируются файлы *.xls, *.xlsx</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:932 68df610de89f495481c0c41e2217bcbc
+msgid ""
+"**Column delimiter**: разделитель столбцов (:raw-html:`<span "
+"style=\"color: red;\">данный параметр имеется, если импортируются НЕ "
+"*.xls, *.xlsx файлы</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:933 6db00dad035649d9aac823f0ec19323f
+msgid ""
+"**Process quotes**: отметьте ☑, если хотите удалять кавычки и "
+"игнорировать разделители внутри них в импортируемой таблице,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:934 de6c6e0d01204218acb19eb896438de9
+msgid ""
+"**Header row index**: укажите номер строки таблицы, в которой "
+"располагаются названия колонок (строки нумеруются, начиная с 1),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:935 36836dc986ce4b8a8c1073db230b7bf0
+msgid ""
+"**First data row index**: укажите номер строки таблицы, с которой "
+"начинаются числовые данные (строки нумеруются, начиная с 1),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:936 808639a556884fb682a6494d2b0043a8
+msgid ""
+"**Comment prefix**: укажите какую-либо последовательность символов, и все"
+" строки импортируемой таблицы, которые начинаются с этой "
+"последовательности, не будут импортированы в BioUML (опционально),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:937 09f6a3c5d1fa4919b86ee36b16c2a7df
+msgid ""
+"**Column for ID**: укажите колонку таблицы, значения которой будут "
+"использоваться как уникальные идентификаторы строк остальной таблицы,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:938 8ecdfc4654f84924aa16a3ca0ea91f3a
+msgid ""
+"**Add suffixes to repeated ID**: отметьте ☑, если хотите добавлять "
+"суффиксы (_COPY_1, _COPY_2, и т.д.) к повторяющемся идентификаторам строк"
+" таблицы,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:939 101cc9e847924ac0859e3d2b77388dd0
+msgid "**Type of the table**: тип таблицы,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:940 c2e91f10b48b45df824cc18df2e19f65
+msgid "**Species**: виды, ассоциированные с данными в импортируемой таблице."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:949 451c2a63acc3450ab81de471cd64192d
+msgid "Import_element_final"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:949 ae14c111db894c69b974d36b24e709b8
+msgid "Рисунок 20. Настройка импорта файла в BioUML."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:951 bd2e4591f79d488cb0d45bc354afacc1
+msgid ""
+"Чтобы выбрать значение определенного параметра, нужно отметить ☑, вписать"
+" собственное значение или выбрать одно из доступных в раскрывающемся "
+"списке значений."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:953 fd0285b7fc0d49d884136fc7c1a854c7
+msgid "После завершения настройки, нажмите ЛКМ кнопку **Ok**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:955 f55ae4b740f94a2f9caf9c34a75cd539
+msgid ""
+"После этого в указанной директории у вас появится таблица (обозначается "
+"значком |icon_table|), которую можно открыть, нажав на нее 2 раза ЛКМ или"
+" нажав на нее ПКМ и в раскрывающемся списке нажав ЛКМ на "
+"|icon_opened_folder| **Open**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:22 3eb10f1b93d74bb49f4b23ea8e89fbc3
+msgid "icon_table"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:23 a6522db1c3cc4aea899684b3e2f26ccb
+msgid "icon_opened_folder"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:957 ba5938b52dcc44278d0ce16fa74dee54
+msgid ""
+"Теперь можно добавить импортированные эксперименальные данные на график. "
+"Для этого нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:959 8ec49acaf91f439494cfe24ed47914a3
+msgid ""
+"нажать ЛКМ на значок |icon_not_selected_point| слева от **Experimental "
+"Data** (значок изменится на |icon_selected_point|),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:960 0d22009eb7a54e2faa8fee36bf645f86
+msgid ""
+"нажать ЛКМ на поле **(select experimental file)** справа от "
+"**Experimental Data** и выбрать импортированную таблицу с "
+"экспериментальными данными,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:961 e37da9df5fab4a2189e4b341fc1c3728
+msgid ""
+"нажать ЛКМ на *второе* поле справа от **Variable X** и из раскрывающегося"
+" списка выбрать колонку таблицы, значения которой будут отображаться по "
+"оси X,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:962 48ab6c069e4e4ae6bc0b482196c57d09
+msgid ""
+"нажать ЛКМ на *второе* поле справа от **Variable Y** и из раскрывающегося"
+" списка выбрать колонку таблицы, значения которой будут отображаться по "
+"оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:963 63c4bbb4011d4eeb8942fbb0a3e29695
+msgid ""
+"нажать ЛКМ на кнопку **Add** :ref:`(Рисунок 21) "
+"<Physicell_simulation_Pic.21>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:966 8661ed1bebd54623bf7a5c3c8067bd2b
+msgid ""
+"При добавлении экспериментальных данных *первые* поля справа от "
+"**Variable X** и **Variable Y** следует оставить пустыми."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:975 919839aa96cf42f3bbd05ee864079607
+msgid "Add_new_experiment_on_plot"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:975 9a465d91469245289b4e34aa45520f01
+msgid "Рисунок 21. Добавление экспериментальных данных на график."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:977 61030da5b1d74734ab6307b914b8eb44
+msgid ""
+"После этого на графике появятся точки, обозначающие экспериментальные "
+"данные, и соответствующий им элемент в легенде :ref:`(Рисунок 22) "
+"<Physicell_simulation_Pic.22>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:986 bf6aa9d40ad540099f7733a672dcae9b
+msgid "New_experiment_on_the_plot"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:986 2e26c0251b654249886e356ce020d381
+msgid "Рисунок 22. Экспериментальные данные в виде точек на графике."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:988 03f897e7514548de9dd53c4c73640ab2
+msgid ""
+"Таким образом на график можно добавлять сколько угодно экспериментальных "
+"данных."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:991 4bc69174e5b94cb5909d5bbe85669de4
+msgid "Часть для редактирования добавленных переменных и экспериментальных данных"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:993 c4fe1ce6185041abad4e0cd1c7a3252b
+msgid ""
+"В части для редактирования добавленных переменных и экспериментальных "
+"данных можно настраивать то, как переменные и экспериментальные данные "
+"будут отображаться на графике, а также удалять их."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:995 0042f4dbbdd448bbbc49e85bf71cd549
+msgid ""
+"Каждой добавленной переменной или эксперименту соответствует одна строка "
+"в таблице."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:997 8e8365bba3164e599041d5d50b89429f
+msgid "В данной части можно делать следующее:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:999 29904b1566e24860b2b8ab8d0091d214
+msgid ":raw-html:`<u>1. Удалять переменные или экспериментальные данные</u>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1001 6bdcd5df17e14d8895a35359bb14cea6
+msgid "Для удаления нужно сделать следующее:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1003 de7af811c485459384a6926d3bbf9f08
+msgid ""
+"нажать ЛКМ на строку, соответствующую переменной или экспериментальным "
+"данным, которые нужно удалить,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1004 62e9451362b24779ae32865df28cdfd5
+msgid ""
+"надать ЛКМ кнопку **Remove** в части для добавления переменных и "
+"экспериментальных данных :ref:`(Рисунок 23) "
+"<Physicell_simulation_Pic.23>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1013 fd672f668ec5453ebf3d2688ea00aab6
+msgid "Remove_from_plot"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1013 1e652700510240c58a5229ddcf9560eb
+msgid "Рисунок 23. Удаление переменной или эксперимента с графика."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1015 b508aea3dccb4ba49d5c2b55ac56ace1
+msgid ""
+":raw-html:`<u>2. Изменять подпись переменных или экспериментальных данных"
+" в легенде графика</u>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1017 a36a54acc07c41f4918bf56d024c3781
+msgid "Для изменения легенды нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1019
+#: ../../source/Physicell_simulation.rst:1027 0345d800c7e940dcbf92ad6b0c3cfff2
+#: ceea297dedab474b8cf8aa6b0b10a114
+msgid "найти строку, соответствующую нужной переменной или эксперименту,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1020 dcf6d2bc02ea4dd4be7ffab9bd934155
+msgid "в этой строке в колонке **Legend** вписать новое обозначение в легенде,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1021 c3c6130cb1ec40b299b584a7542669ab
+msgid "нажать **Enter**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1023 6a6367c1c955476ba9dc69c309e92f0b
+msgid ":raw-html:`<u>3. Изменять цвет, ширину и тип линии на графике</u>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1025 cfae95fd9ef74564888001da9fb84fe9
+msgid "Для изменения цвета, ширины и типа линии на графике нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1028 4f6316c35a794509a61fbd9c6ac8bfff
+msgid ""
+"в этой строке в колонке **Specification+** нажать ЛКМ на кнопку "
+"|icon_edit_specification_button|,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:24 1bac786f1a0e42e99cd1ef45985706a2
+msgid "icon_edit_specification_button"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1029 5d1fd308217e49fd86767de808899bbe
+msgid ""
+"в появившемся окне выбрать цвет (|icon_option| **Color**), толщину "
+"(|icon_option| **Width**) и тип (|icon_option| **Stroke**) линии,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1030 d2447b0de0bc42529bb9e0753e89fa7e
+msgid "нажать ЛКМ на кнопку **Ok**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1033 c7b31d2770dd47e2bdcbed1e1fc3cc08
+msgid "У экспериментальных данных на графике можно изменить только цвет точек."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1036 030095846d684c53b7301bf5f26b361f
+msgid "Часть для редактирования общего вида графика"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1038 46ca4e4acf3d419c8aa335d6c1560626
+msgid ""
+"В части для редактирования общего вида графика можно настраивать "
+"следующие параметры :ref:`(Рисунок 24) <Physicell_simulation_Pic.24>`:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1040 dc5932bb053f4725a29f0cff12f4c0ca
+msgid "**Title**: название графика,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1041 9a01a058925846a9a3c8088e324a523d
+msgid "**Description**: описнаие графика,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1042 ec3bd1d0a3694065874d89e1c65a3556
+msgid "**X axis title**: подпись оси X,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1043 dd070d614de6498ba101e2a460eeb2ef
+msgid "**X axis title font**: вид, стиль, размер и цвет шрифта подписи оси X,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1044 6fdca6a956844296a5eca94d190210ba
+msgid ""
+"**X axis tick font**: вид, стиль, размер и цвет шрифта подписей делений "
+"на оси X,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1045 488b118fc29949e2b67fe2d7ef99ed3f
+msgid "**X axis type**: тип оси X,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1046 8cc46cdf9a8c4d159a43664a931ac35f
+msgid ""
+"**X axis auto range**: отметьте ☑, если хотите, чтобы диапазон значений "
+"оси X определялся автоматически,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1047 8cb84b29b86e4115bc8b4327b429d17c
+msgid ""
+"**X: from**: минимальное значение оси X (:raw-html:`<span style=\"color: "
+"red;\">выбирается, если НЕ отмечено поле X axis auto range</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1048 8c9d7edba5ee40d2aaac5c64c6f2b72e
+msgid ""
+"**X: to**: максимальное значение оси X (:raw-html:`<span style=\"color: "
+"red;\">выбирается, если НЕ отмечено поле X axis auto range</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1049 56e2dc4443594852ac6fb54dbafaf191
+msgid "**Y axis title**: подпись оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1050 27b6d04624d44fe89b207e608c65da0e
+msgid "**Y axis title font**: вид, стиль, размер и цвет шрифта подписи оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1051 90e66cb8f1aa4312832a3a51db7fb537
+msgid ""
+"**Y axis tick font**: вид, стиль, размер и цвет шрифта подписей делений "
+"на оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1052 bbabbc509ccc42d5b71f847503557a22
+msgid "**Y axis type**: тип оси Y,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1053 971c1f134d274d58b991f9317173a02a
+msgid ""
+"**Y axis auto range**: отметьте ☑, если хотите, чтобы диапазон значений "
+"оси Y определялся автоматически,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1054 f08cddbf03eb457da76ee8dfc8dc12aa
+msgid ""
+"**Y: from**: минимальное значение оси Y (:raw-html:`<span style=\"color: "
+"red;\">выбирается, если НЕ отмечено поле Y axis auto range</span>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1055 9cb86ae679c94aab8504d736c662db3b
+msgid ""
+"**Y: to**: максимальное значение оси Y (:raw-html:`<span style=\"color: "
+"red;\">выбирается, если НЕ отмечено поле Y axis auto range</span>`)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1064 3a9ee56e66df421dbc5f46a0c9e6912b
+msgid "Parameters_on_the_edit_side"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1064 a1cb546142cb4c7696579c8e3918ba45
+msgid "Рисунок 24. Параметры в части для редактирования общего вида графика."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1066 579d67331a054092a19468e9498b05c5
+msgid ""
+"Чтобы настроить значение определенного параметра, нужно нажать ЛКМ справа"
+" от соответствующего поля и отметить ☑, вписать собственное значение или "
+"выбрать одно из доступных в появившемся окне значений."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1071 bef552bc358542f0b0da839a4a4be32f
+msgid "Тип модели (Model type)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1073 f0544e2100d74ca28adbd09a9d0e2139
+msgid ""
+"Выбирается из раскрывающегося списка напротив поля |icon_option| **Model "
+"type**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1075 bce491185cc541fbb58104b8274b8f04
+msgid "Доступно два варианта: **Default** и **Covid**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1077 64da2094554644f69199c62949304b4b
+msgid ""
+"Вариант **Covid** используется только для проведения симуляции модели "
+"короновируса. Для проведения симуляции других моделей используется "
+"вариант **Default**."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1082 56426d97727c4f49a6115ae2c404a572
+msgid "Добавление переменных для вывода на график (Plots)"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1084 ec5fb45e72704dfa97cb946fe4db7468
+msgid ""
+"При переключении на вкладку Plots в области редактирования можно добавить"
+" те переменные, которые вы хотите отображать на графике. Для этого нужно:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1086 5774701ba8394dc892ef22492a928e42
+msgid "нажать ЛКМ на строку с |icon_option| **Curves**,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1087 11e443e239294e129f95df04bdc5d1a6
+msgid ""
+"нажать ЛКМ на значок |icon_add_new| :ref:`(Рисунок 25) "
+"<Physicell_simulation_Pic.25>`."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:16 8a590ad568c846d5a5f412b866c9fa56
+msgid "icon_add_new"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1096 29d14035626740f6895710b883b03cf7
+msgid "Add_new_curve"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1096 18b1b27b725e471d80efcc65344b0cef
+msgid "Рисунок 25. Добавление переменных для отображения на графике."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1098 83b420211f1d43d187e8018a965276e9
+msgid "Таким образом можно добавить сколько угодно переменных."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1100 a1b7bb4c9d2c41c3ad09242f99dd903c
+msgid ""
+"После этого появится вкладка со своим порядковм номером (начиная с [0]). "
+"В этой вкладке нужно описать переменную, которую вы хотите выводить на "
+"график. Для описания переменной используется 5 полей в этой вкладке "
+":ref:`(Рисунок 26) <Physicell_simulation_Pic.26>`:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1102 0f2b6dee047c407c92ec55c7b93c17b1
+msgid "**Name**: название переменной,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1103 29c84798c5a74fed920c44c0adc1514c
+msgid "**Cell type**: тип клеток,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1104 8cd036a961334fe6b9eff54b2e0a9ee7
+msgid "**Signal**: сигнал,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1105 26d0976578094b92b16cba316195d728
+msgid "**Relation**: отношение клеток к сигналу,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1106 404fbb465085402a87facb9f421d5d74
+msgid "**Value**: пороговое значение сигнала."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1115 0129566709424646a25da43219bdf573
+msgid "Variable_description"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1115 99bded6671b749dd889d0de0e1149c35
+msgid "Рисунок 26. Поля для описания переменной."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1118 384d00acf23c4b13be9e72ff2d21399e
+msgid ""
+"Чтобы задать значение полей Cell type, Signal и Relation нужно нажать ЛКМ"
+" справа от соответствующей иконки и из раскрывающегося списка выбрать "
+"нужный вариант."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1119 f5209dec8671467197157060b47754bf
+msgid ""
+"Сначала нужно указать значение поля Cell type, а потом - Signal (в "
+"раскрывающемся списке напротив поля Signal не будет ни одного значения, "
+"если поле Cell type еще не заполнено)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1120 36e184123e4d4089b6aa5fc19521400e
+msgid ""
+"Чтобы задать значение полей Name и Value, нужно нажать ЛКМ справа от "
+"соответствующей иконки и вписать свое значение."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1122 36b4caeaa80b4c6bbcab9e4c30bf3a3d
+msgid ""
+"Рассмотрим, как работает описание переменной с помощью этих 5 полей, на "
+"представленном ниже примере:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1124 f04b688ba1fb491ba568ae85d7e663dd
+msgid "Пример описания переменной"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1139 ad28006161574d8dac5d3bfa526df187
+msgid ""
+"В раскрывающемся списке напротив поля **Cell type** доступны все типы "
+"клеток модели."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1141 ce9f27d6fe4144d69ae79da48076af98
+msgid ""
+"В раскрывающемся списке напротив поля **Signal** доступны различные "
+"вещества, реакции, взаимодействия между клетками и т.п."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1143 31677edd1310472590311830c9b76575
+msgid ""
+"В раскрывающемся списке напротив поля **Relation** доступны следующие "
+"математические знаки: \"<\" (меньше), \"<=\" (меньше или равно), \">=\" "
+"(больше или равно) и \">\" (больше)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1145 c298d761f0c84e088773f405dce6fadf
+msgid ""
+"Для работы с уже существующими переменными используйте тот же "
+":ref:`функционал <Physicell_cell_properties_Tbl.1>`, что и при "
+"редактировании фаз и переходов между ними в жизненном цикле клетки."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1148 8cc1abad9fbd4c638a1c5e761c32f0e2
+msgid "Общие файлы после симуляции модели"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1150 6086a0fc4cd4436ba53cca8a9d4f1b0b
+msgid "После симуляции модели в директории с результатами всегда имеется 3 файла:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1152 f2db0ee01b1d4d049b2cd25d5bbde67d
+msgid "|icon_Java_code| info.txt,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:25 3b1a3d186c6a4cbd99ed9be5f2983178
+#: a3af1c6233e84555bcf4d9afb88522e4 d27315a519bb44eba09e295507921c95
+msgid "icon_Java_code"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1153 9e966a60a4c4400ea99e48b9a4d22379
+msgid "|icon_Java_code| log.txt,"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1154 e63654e2d32741eca1f2e2aed306aff2
+msgid "|icon_Java_code| model.txt."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1157 feb1d2784a43487fa912a5d2760a2436
+msgid "info.txt"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1159 295498c5232b47b09ed0fba554e7d552
+msgid ""
+"В **info.txt** содержится информация о пространстве внешней среды и "
+"веществах модели."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1161 97cc530b5e46444f95cf0181033251cc
+msgid "Пример файла info.txt"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1170 806a086c565c4fd1b1c4be4cf08d9405
+msgid "Файл **info.txt** из примера говорит о том, что:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1172 cd37c1345d5b43d1b0db95c051ef77eb
+msgid ""
+"ось X внешней среды имеет значения от -500 до 500 с шагом 20 (:raw-"
+"html:`<u>X:        -500.0  500.0   20.0</u>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1173 34edf74a8df341119f8d5882f4294b0f
+msgid ""
+"ось Y внешней среды имеет значения от -500 до 500 с шагом 20 (:raw-"
+"html:`<u>Y:        -500.0  500.0   20.0</u>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1174 664889c450414ffb9dab1c46e3e39e20
+msgid ""
+"ось Z внешней среды имеет значения от -10 до 10 с шагом 20 (:raw-"
+"html:`<u>Z:  -10.0   10.0    20.0</u>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1175 61386d2a004346e1bde1a5ad878d887b
+msgid "внешняя среда плоская (:raw-html:`<u>2D:      true</u>`),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1176 21304740d43545afb7d6cdc58f64e32d
+msgid ""
+"В модели есть всего одно вещество с названием **Substrate** (:raw-"
+"html:`<u>Substrates:        Substrate</u>`)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1179 71a7f820cf87426289959fe0f9d08a39
+msgid ""
+"Значения оси Z не ограничиваются 0, если среда плоская, т.к. сами клетки "
+"не плоские, а объемные, а значит имеют высоту (координата Z)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1182 9854e5c0e17144e6bb1a2b3a0550ddec
+msgid "log.txt"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1184 af02e0b7ddaa4d9aa79dbe0f85405d9d
+msgid "В **log.txt** содержится информация о каждом шаге симуляции модели."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1186 315517f1163d49f49e092c1553fa49f2
+msgid "Пример файла log.txt"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1201 e8ca35bff7b948dd8ea1434c7833d171
+msgid ""
+"Каждая строка файла **log.txt** соответствует отдельному шагу симуляции и"
+" содержит информацию о:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1203 19fee52a36184ce690e5d83a6c01253f
+msgid "времени, когда данный шаг симуляции завершился ([ 16:45:46 ]),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1204 0fc9b60e03334b63a64455f134b64425
+msgid "времени, прошедшего с момента начала симуляции (Elapsed       0.118),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1205 fdf6177a6ceb452282337af2bdcf5052
+msgid "модельном времени на данном шаге симуляции (Time:     0),"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1206 634965eda0e24ee1a8624aa71815028d
+msgid ""
+"общем количестве клеток в модели на данном шаге симуляции (Cells      "
+"100)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1209 10ce4b1e77d74963bfbea5c170f233e3
+msgid "model.txt"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1211 32811f6b659c4462b4b23e1a1b0b930b
+msgid "В **model.txt** содержится вся информация о модели:"
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1215 baa84c61b6cb47df8e2237adefdf5e8a
+msgid ""
+"характеристика каждого типа клеток в модели (тип жизненного цикла, тип "
+"клеточной смерти, подвижность, различные реакции и т.д.)."
+msgstr ""
+
+#: ../../source/Physicell_simulation.rst:1217 6a67b273fd1248e7874ed034640b8ff6
+msgid "Пример файла model.txt"
+msgstr ""
+

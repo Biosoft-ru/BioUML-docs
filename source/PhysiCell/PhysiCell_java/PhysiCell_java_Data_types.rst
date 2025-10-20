@@ -20,6 +20,7 @@
 
   - :ref:`String <PhysiCell_java_Data_types_String>`.
   - :ref:`Array <PhysiCell_java_Data_types_Array>`.
+  - :ref:`List <PhysiCell_java_Data_types_List>`.
 
 Далее в этом разделе мы подробно разберем каждый из этих типов.
 
@@ -33,3 +34,4 @@
    PhysiCell_java_Data_types/PhysiCell_java_Data_types_Boolean
    PhysiCell_java_Data_types/PhysiCell_java_Data_types_String
    PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array
+   PhysiCell_java_Data_types/PhysiCell_java_Data_types_List
