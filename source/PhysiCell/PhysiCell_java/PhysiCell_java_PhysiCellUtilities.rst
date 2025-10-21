@@ -90,7 +90,7 @@ PhysiCellUtilities
        | Добавляет в модель model клетки типа type, случайно распределенные по всей среде в плоскости z = 0, в количестве number.
        |
        | :ref:`Пример <PhysiCell_java_VirusMacrophage_Initial_java>` использования.
-   * - List<Cell> static getNeighbors(Cell cell)
+   * - static List<Cell> getNeighbors(Cell cell)
      - | cell - клетка.
        |
        | Возвращает массив, состоящий из соседей данной клетки - клеток в той же ячейке решетки и соседних ячейках.

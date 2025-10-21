@@ -74,7 +74,7 @@ ModelReader
    * - Член класса
      - Описание
 
-   * - static readColor(String color)
+   * - static Color readColor(String color)
      - | color - цвет, например "green", "red" или "rgb(100,100,255)".
        |
        | Возвращает цвет, описываемый строкой color.

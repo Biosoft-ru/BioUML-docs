@@ -78,7 +78,7 @@ UpDownSignal
    * - UpDownSignal sig = new UpDownSignal(Model model)
      - | model - модель.
        |
-       | Создает новый сигнал sig в модели model.
+       | Конструктор, создает новый сигнал sig в модели model.
        |
        | :ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования.
    * - double baseParameter

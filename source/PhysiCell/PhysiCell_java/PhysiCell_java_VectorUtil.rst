@@ -116,11 +116,11 @@ VectorUtil
        | :ref:`Нормализует <PhysiCell_java_Normalization>` вектор vector.
        |
        | :ref:`Пример <PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` использования.
-   * - static double dist(Cell cell1, Cell cell2)
-     - | cell1 - клетка.
-       | cell2 - клетка.
+   * - static double dist(double[] vector1, double[] vector2)
+     - | vector1 - трехмерный вектор.
+       | vector2 - трехмерный вектор.
        |
-       | Возвращает :ref:`расстояние <PhysiCell_java_Distance>` между клетками cell1 и cell2.
+       | Возвращает :ref:`расстояние <PhysiCell_java_Distance>` между векторами vector1 и vector2.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellRule_java>` использования.
    * - static double[] newProd(double[] vector, double const)

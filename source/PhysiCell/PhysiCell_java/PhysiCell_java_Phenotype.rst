@@ -69,118 +69,58 @@ Phenotype
 
    import ru.biosoft.physicell.core.Phenotype
 
-В этом классе можно выделить 12 членов, каждый из которых используется для работы с определенным набором свойств клетки.
+В этом классе можно выделить 12 отдельных классов, каждый из которых используется для работы с определенным набором свойств клетки.
 
-.. list-table:: Члены класса Phenotype
+.. list-table:: Классы Phenotype
    :header-rows: 1
 
-   * - Член класса
+   * - Класс
      - Описание
 
-   * - Cycle
+   * - Cycle cycle
      - | Используется для описания жизненного цикла клетки.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.cycle
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.1 <Physicell_java_Phenotype_Tbl.1.1>`.
-   * - Death
+   * - Death death
      - | Используется для описания модели смерти клетки.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.death
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.2 <Physicell_java_Phenotype_Tbl.1.2>`.
-   * - Volume
+   * - Volume volume
      - | Используется для описания объемных свойств клетки.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.volume
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.3 <Physicell_java_Phenotype_Tbl.1.3>`.
-   * - Geometry
+   * - Geometry geometry
      - | Используется для описания размеров клетки.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.geometry
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.4 <Physicell_java_Phenotype_Tbl.1.4>`.
-   * - Mechanics
+   * - Mechanics mechanics
      - | Используется для описания механических свойств клетки.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.mechanics
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.5 <Physicell_java_Phenotype_Tbl.1.5>`.
-   * - Motility
+   * - Motility motility
      - | Используется для описания подвижности клетки.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.motility
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.6 <Physicell_java_Phenotype_Tbl.1.6>`.
-   * - Secretion
+   * - Secretion secretion
      - | Используется для описания секреции и потребления веществ клеткой.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.secretion
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.7 <Physicell_java_Phenotype_Tbl.1.7>`.
-   * - Molecular
+   * - Molecular molecular
      - | Используется для описания содержания веществ внутри клетки.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.molecular
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.8 <Physicell_java_Phenotype_Tbl.1.8>`.
-   * - CellInteractions
+   * - CellInteractions cellInteractions
      - | Используется для описания взаимодействия между клетками разных типов.
-       |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.cellInteractions
-       |
-       | phenotype - свойства отдельной клетки.
-   * - CellTransformations
+   * - CellTransformations cellTransformations
      - | Используется для описания трансформации клетки из одного типа в другой.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.cellTransformations
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.10 <Physicell_java_Phenotype_Tbl.1.10>`.
-   * - Intracellular
+   * - Intracellular intracellular
      - | Используется для описания внутриклеточных процессов клетки с помощью обыкновенных дифференциальных уравнений или потоковой модели.
        |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.intracellular
-       |
-       | phenotype - свойства отдельной клетки.
-       |
        | Все члены данного класса представлены в :ref:`таблице 1.11 <Physicell_java_Phenotype_Tbl.1.11>`.
-   * - CellIntegrity
+   * - CellIntegrity cellIntegrity
      - | Используется для описания целостности клетки.
-       |
-       | Для вызова объекта данного класса используйте:
-       | phenotype.cellIntegrity
-       |
-       | phenotype - свойства отдельной клетки.
 
 .. _Physicell_java_Phenotype_Tbl.1.1:
 
@@ -194,7 +134,7 @@ Phenotype
      - | Содержит численный код жизненного цикла клетки.
        |
        | :ref:`Пример <PhysiCell_java_ODEEnergy_Report_java>` использования.
-   * - currentPhase()
+   * - Phase currentPhase()
      - | Возвращает текущую фазу жизненного цикла данной клетки.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_CancerImmunityVisualizer_java>` использования.
@@ -202,6 +142,12 @@ Phenotype
      - | Содержит численный код текущей фазы жизненного цикла данной клетки.
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_CancerImmunityVisualizer_java>` использования.
+   * - int currentPhase().index
+     - | Содержит внутренний текущей фазы жизненного цикла данной клетки.
+   * - boolean currentPhase().divisionAtExit
+     - | Содержит true, если клетка делится при выходе из данной фазы клеточного цикла.
+   * - boolean currentPhase().removalAtExit
+     - | Содержит true, если клетка исчезает при выходе из данной фазы клеточного цикла.
    * - String currentPhase().name
      - | Содержит название текущей фазы жизненного цикла данной клетки.
        |
