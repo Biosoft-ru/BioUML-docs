@@ -51,12 +51,12 @@ msgstr "Custom_data_menu"
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:21
 #: d461c8c6ac2e40de91928495f3a221da
 msgid ":raw-html:`<br>` Чтобы добавить новые данные, нужно:"
-msgstr ":raw-html:`:raw-html:`<br>`` To add new data, you need:"
+msgstr ":raw-html:`<br>` To add new data, you need:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:24
 #: d49ea6c73ec047f89c43e814811d621e
 msgid "Нажать ЛКМ на вкладку |icon_option| **Variables**."
-msgstr "Click LMB on the ||icon_option|| tab **Variables**."
+msgstr "Click LMB on the |icon_option| tab **Variables**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:9
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:51
@@ -136,7 +136,7 @@ msgstr "Click LMB on the ||icon_option|| tab **Variables**."
 #: ed9806470c7e4f61b432fa24ada2b9b4 f3aeeb0580c542feb75548c9be1ccf6a
 #: f7ddd8cef4f741bc91d38ca3942a6dc8 feeb558a0fcf4f92a02c96048bbdc687
 msgid "icon_option"
-msgstr ""
+msgstr "icon_option"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:25
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:144
@@ -145,7 +145,7 @@ msgstr ""
 #: 520f82e395aa4366bf4b4a1e771638f9 caeca17034f64b37ac74ad6ec86c34db
 #: cc91f955b8a54bc8af9c2c1b3e5399e5 df759629bce341599aa2355f329e31af
 msgid "Нажать ЛКМ на иконку |icon_add_new|."
-msgstr "Click LMB on the ||icon_add_new|| icon."
+msgstr "Click LMB on the |icon_add_new| icon."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:10
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:54
@@ -159,7 +159,7 @@ msgstr "Click LMB on the ||icon_add_new|| icon."
 #: 7a6f0eee57c94be89484637ceb80c710 ad42445f9a284972ad6837bcb1d7fbf5
 #: c177b6e25d5b44bcaebbae693782e1f5
 msgid "icon_add_new"
-msgstr ""
+msgstr "icon_add_new"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:27
 #: 1747d0c648cc4543a25916cc8f3c5fc4
@@ -172,7 +172,7 @@ msgid ""
 ":raw-html:`<br>` Таким образом можно добавить сколько угодно "
 "пользовательских данных для выбранного типа клеток."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` This way you can add as much custom data as you"
+":raw-html:`<br>` This way you can add as much custom data as you"
 " want for the selected cell type."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:35
@@ -285,7 +285,7 @@ msgstr "Edit_custom_data"
 #: ed829ff38dc4484e90c6605fbfc76a3b f3fb899a1492457996e40a9d67e399f1
 #: f42e362ba71948fa9efc7e79e310e171
 msgid ":raw-html:`<br>`"
-msgstr ":raw-html:`:raw-html:`<br>``"
+msgstr ":raw-html:`<br>`"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:44
 #: f0688b965f314457ad576a0db54d1356
@@ -366,7 +366,7 @@ msgid ""
 "При нажатии слева от кнопки |icon_option| **Name** раскрывается список, в "
 "котором можно выбрать тип жизненного цикла клетки:"
 msgstr ""
-"When clicking to the left of the ||icon_option|| **Name** opens a list in "
+"When clicking to the left of the |icon_option| **Name** opens a list in "
 "which you can select the type of cell life cycle:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:70
@@ -432,7 +432,7 @@ msgid ""
 "При выборе **Custom...** справа от поля |icon_option| **Custom cycle** нужно"
 " будет указать путь к модели, описывающий жизненный цикл клетки."
 msgstr ""
-"When you select **Custom...** to the right of the ||icon_option|| **Custom "
+"When you select **Custom...** to the right of the |icon_option| **Custom "
 "cycle** you will need to specify the path to the model that describes the "
 "life cycle of the cell."
 
@@ -470,9 +470,9 @@ msgid ""
 "Чтобы закрыть вкладку, нужно нажать ЛКМ на значок |icon_opened_clue| слева "
 "от вкладки."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To open any tab of the **Phases** or "
-"**Transitions** fields, you need to click LMB on the ||icon_clue|| to the "
-"left of the tab. To close a tab, click LMB on the icon ||icon_opened_clue|| "
+":raw-html:`<br>` To open any tab of the **Phases** or "
+"**Transitions** fields, you need to click LMB on the |icon_clue| to the "
+"left of the tab. To close a tab, click LMB on the icon |icon_opened_clue| "
 "to the left of the tab."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:52
@@ -497,8 +497,8 @@ msgid ""
 "значок |icon_option| **Division on exit**. Отметьте ☑, если хотите, чтобы "
 "клетка делилась по окончании выбранной фазы жизненного цикла."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` When you open any of the tabs in the **Phases**"
-" field, the icon ||icon_option|| appears **Division on exit**. Check ☑ if "
+":raw-html:`<br>` When you open any of the tabs in the **Phases**"
+" field, the icon |icon_option| appears **Division on exit**. Check ☑ if "
 "you want the cell to divide at the end of the selected phase of the life "
 "cycle."
 
@@ -513,7 +513,7 @@ msgid ""
 ":raw-html:`<br>` При открытии любой из вкладок поля **Transitions** появятся"
 " два значка:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` When you open any of the tabs in the "
+":raw-html:`<br>` When you open any of the tabs in the "
 "**Transitions** field, two icons will appear:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:122
@@ -528,7 +528,7 @@ msgid ""
 "жизненного цикла клетки (можно изменять, нажав ЛКМ на число слева и вписав "
 "собственное значение),"
 msgstr ""
-"||icon_option|| **Rate**: the rate of transition between the corresponding "
+"|icon_option| **Rate**: the rate of transition between the corresponding "
 "phases of the cell’s life cycle (can be changed by clicking LMB on the "
 "number on the left and entering your own value),"
 
@@ -538,7 +538,7 @@ msgid ""
 "|icon_option| **Fixed**: отметьте ☑, если хотите, чтобы время перехода между"
 " соответствующими фазами жизненного цикла клетки было зафиксировано."
 msgstr ""
-"||icon_option|| **Fixed**: Check ☑ if you want the transition time between "
+"|icon_option| **Fixed**: Check ☑ if you want the transition time between "
 "the corresponding phases of the cell's life cycle to be fixed."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:133
@@ -586,7 +586,7 @@ msgid ""
 "Нажать ЛКМ на вкладку |icon_option| **Phases** или |icon_option| "
 "**Transitions**."
 msgstr ""
-"Click LMB on the |||icon_option||| tab **Phases** or |||icon_option||| "
+"Click LMB on the ||icon_option|| tab **Phases** or ||icon_option|| "
 "**Transitions**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:146
@@ -600,7 +600,7 @@ msgid ""
 ":raw-html:`<br>` После этого в соответствующем разделе у вас появится новая "
 "фаза или переход."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, a new phase or transition will "
+":raw-html:`<br>` After this, a new phase or transition will "
 "appear in the corresponding section."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:154
@@ -615,7 +615,7 @@ msgid ""
 "переходами. Чтобы их отобразить, нужно нажать ЛКМ на любую фазу или переход,"
 " после чего сверху появится панель с возможными действиями."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` In addition, other actions with phases and "
+":raw-html:`<br>` In addition, other actions with phases and "
 "transitions are possible. To display them, you need to click LMB on any "
 "phase or transition, after which a panel with possible actions will appear "
 "at the top."
@@ -629,7 +629,7 @@ msgstr "Actions_with_phases_or_transitions"
 #: bbe30012b1014d35aa375f3f34c80862
 msgid ":raw-html:`<br>` Описание каждого из этих действий приведено ниже."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` A description of each of these actions is given"
+":raw-html:`<br>` A description of each of these actions is given"
 " below."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:172
@@ -752,9 +752,9 @@ msgid ""
 "models** сверху появится иконка |icon_add_new|, нажав на которую, можно "
 "будет добавить еще один возможный тип смерти клетки."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` By default, a cell has two types of death: "
+":raw-html:`<br>` By default, a cell has two types of death: "
 "**Apoptosis** (apoptosis) and **Necrosis** (necrosis). When you click LMB on"
-" the **Death models** panel, the icon ||icon_add_new|| will appear at the "
+" the **Death models** panel, the icon |icon_add_new| will appear at the "
 "top; by clicking on it, you can add another possible type of cell death."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:22
@@ -768,7 +768,7 @@ msgid ""
 ":raw-html:`<br>` Выбрав конкретный тип смерти клетки, можно использовать "
 ":ref:`этот функционал <Physicell_cell_properties_Actions>`."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` Having selected a specific type of cell death, "
+":raw-html:`<br>` Having selected a specific type of cell death, "
 "you can use :ref:`this <Physicell_cell_properties_Actions>` functionality."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:30
@@ -876,7 +876,7 @@ msgid ""
 ":raw-html:`<br>` После этого у вас появятся новые поля, которые можно "
 "редактировать."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, you will have new fields that can "
+":raw-html:`<br>` After this, you will have new fields that can "
 "be edited."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:66
@@ -926,7 +926,7 @@ msgid ""
 "|icon_option| **Remove on exit**. Отметьте ☑, если хотите, чтобы клетка "
 "исчезала из модели при выходе из данной фазы."
 msgstr ""
-"When you open any of the **Phases** field tabs, the ||icon_option|| icon "
+"When you open any of the **Phases** field tabs, the |icon_option| icon "
 "appears. **Remove on exit**. Check ☑ if you want the cell to disappear from "
 "the model when leaving this phase."
 
@@ -944,7 +944,7 @@ msgid ""
 "цикла клеточной смерти (можно изменять, нажав ЛКМ на число и вписав "
 "собственное значение),"
 msgstr ""
-"||icon_option|| **Rate**: rate of transition between the corresponding "
+"|icon_option| **Rate**: rate of transition between the corresponding "
 "phases of the cell death cycle (can be changed by clicking LMB on the number"
 " and entering your own value),"
 
@@ -954,7 +954,7 @@ msgid ""
 "|icon_option| **Fixed**: отметьте ☑, если хотите, чтобы время перехода между"
 " соответствующими фазами цикла клеточной смерти было зафиксировано."
 msgstr ""
-"||icon_option|| **Fixed**: Check ☑ if you want the transition time between "
+"|icon_option| **Fixed**: Check ☑ if you want the transition time between "
 "the corresponding phases of the cell death cycle to be fixed."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:88
@@ -993,9 +993,9 @@ msgid ""
 " асимметрично, то отметьте ☑ справа от поля |icon_option| **Asymmetric "
 "division**."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` If the division of the selected cell type "
+":raw-html:`<br>` If the division of the selected cell type "
 "should occur asymmetrically, then check the ☑ to the right of the "
-"||icon_option|| field. **Asymmetric division**."
+"|icon_option| field. **Asymmetric division**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Division.rst:23
 #: 83e9d84866454e4ea25986e2042e4d69
@@ -1026,7 +1026,7 @@ msgid ""
 ":raw-html:`<br>` Чтобы добавить вероятность появления клетки другого типа "
 "при делении, нужно:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To add the probability of a cell of a different"
+":raw-html:`<br>` To add the probability of a cell of a different"
 " type appearing during division, you need:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Division.rst:35
@@ -1038,7 +1038,7 @@ msgstr "Click LMB on the line with the **Probabilities** field."
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:15
 #: 36c4dda4a71d4e5cbc31461e7147ac7f cfa653f23dc34d189b152c7082a94bd9
 msgid "Нажать ЛКМ на значок |icon_add_new|."
-msgstr "Click LMB on the ||icon_add_new|| icon."
+msgstr "Click LMB on the |icon_add_new| icon."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Division.rst:38
 #: cf171ce7e71d47ea8e6290e1cc1d6d0f
@@ -1052,7 +1052,7 @@ msgid ""
 "для выбранного типа клеток (при открытии вкладки **Probabilities** каждая "
 "вероятность будет иметь свой порядковый номер, начиная с [0])."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` In this way, you can add as many probabilities "
+":raw-html:`<br>` In this way, you can add as many probabilities "
 "as you like for the selected cell type (when you open the **Probabilities** "
 "tab, each probability will have its own serial number, starting from [0])."
 
@@ -1146,7 +1146,7 @@ msgid ""
 ":raw-html:`<br>` Всего можно редактировать 11 функций, каждая из которых "
 "описывает отдельный аспект жизни клетки."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` In total, you can edit 11 functions, each of "
+":raw-html:`<br>` In total, you can edit 11 functions, each of "
 "which describes a separate aspect of cell life."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:21
@@ -1161,7 +1161,7 @@ msgid ""
 "сценариев поведения. Выбрать тот или иной сценарий можно, нажав ЛКМ справа "
 "от соответствующей функции и выбрав в раскрывающемся списке нужный сценарий."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` For each of these functions, there are several "
+":raw-html:`<br>` For each of these functions, there are several "
 "behavior scenarios to choose from. You can select a particular scenario by "
 "clicking LMB to the right of the corresponding function and selecting the "
 "desired scenario from the drop-down list."
@@ -1177,7 +1177,7 @@ msgid ""
 ":raw-html:`<br>` Ниже представлен список всех функций и доступных сценариев "
 "для каждой из них:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` Below is a list of all functions and available "
+":raw-html:`<br>` Below is a list of all functions and available "
 "scripts for each of them:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:96
@@ -1190,7 +1190,7 @@ msgid ""
 "клетки в рамках соответствующей функции."
 msgstr ""
 "You can also select the “**Custom...**” scenario for each function. With "
-"this selection, an additional tab ||icon_option|| will appear below the "
+"this selection, an additional tab |icon_option| will appear below the "
 "function for which this scenario was selected. “**Custom [function name]**”,"
 " in which you need to specify the path to the Java code that will describe "
 "the behavior of the cell within the framework of the corresponding function."
@@ -1227,13 +1227,13 @@ msgstr "Initial_distribution_menu"
 msgid ""
 ":raw-html:`<br>` Чтобы добавить распределение одной характеристики, нужно:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To add a distribution of one characteristic, "
+":raw-html:`<br>` To add a distribution of one characteristic, "
 "you need:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:22
 #: bc786e30d8474900a8b9c90650f0e92d
 msgid "Нажать ЛКМ на строку со вкладкой |icon_option| **Distributions**."
-msgstr "Click LMB on the line with the ||icon_option|| tab **Distributions**."
+msgstr "Click LMB on the line with the |icon_option| tab **Distributions**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:25
 #: a9da82fdf7484800a190730855e76ab8
@@ -1247,7 +1247,7 @@ msgid ""
 " порядковым номером (начиная с [0]). Раскрыв эту вкладку, можно увидеть "
 "доступные для редактирования параметры:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After adding a distribution, you will have a "
+":raw-html:`<br>` After adding a distribution, you will have a "
 "tab with its serial number (starting from [0]). By opening this tab, you can"
 " see the parameters available for editing:"
 
@@ -1302,7 +1302,7 @@ msgid ""
 ":raw-html:`<br>` Для каждого параметра доступны следующие формы "
 "распределений:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` The following distribution forms are available "
+":raw-html:`<br>` The following distribution forms are available "
 "for each parameter:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:55
@@ -1515,7 +1515,7 @@ msgid ""
 "было несколько, то для каждого из них было бы соответствующее поле."
 msgstr ""
 "In the figure above, the selected cell type in the diagram already has an "
-"interaction (||icon_interaction||), so under the **Cell types** field there "
+"interaction (|icon_interaction|), so under the **Cell types** field there "
 "is already a field with the name of the cell type (in this case, "
 "**CellDefinition_1**) with which the cells of the selected type interact. If"
 " there were several such types of cells, then for each of them there would "
@@ -1608,7 +1608,7 @@ msgid ""
 " выбранного типа."
 msgstr ""
 "After clicking on the **Intracellular** tab on the property panel on the "
-"right, you will see a menu in which opposite the field ||icon_option|| "
+"right, you will see a menu in which opposite the field |icon_option| "
 "**Diagram** you can specify the path to an SBML model that will describe the"
 " behavior inside cells of the selected type."
 
@@ -1624,8 +1624,8 @@ msgid ""
 "|icon_option| **(select element)** и в появившемся меню указать, где в вашем"
 " репозитории находится SBML-модель."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To specify the path to the SBML model, you need"
-" to click LMB on ||icon_option|| **(select element)** and in the menu that "
+":raw-html:`<br>` To specify the path to the SBML model, you need"
+" to click LMB on |icon_option| **(select element)** and in the menu that "
 "appears, indicate where the SBML model is located in your repository."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:24
@@ -1636,7 +1636,7 @@ msgstr "SBML_model_path"
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:29
 #: 2eb238f64aa841ea81dab3271ab49391
 msgid ":raw-html:`<br>` После этого у вас появятся два новых поля:"
-msgstr ":raw-html:`:raw-html:`<br>`` After this you will have two new fields:"
+msgstr ":raw-html:`<br>` After this you will have two new fields:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:32
 #: 6eb2d520ed1b4a2083cea9cfaa7215ff
@@ -1683,7 +1683,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:49
 #: 690db6b71767465a875d7d85951b5da1
 msgid "Нажать ЛКМ на |icon_option| **Variables**."
-msgstr "Click LMB on ||icon_option|| **Variables**."
+msgstr "Click LMB on |icon_option| **Variables**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:52
 #: 63d9d469463e44719f61f414739afdc3
@@ -1695,7 +1695,7 @@ msgstr "New_correspondance"
 msgid ""
 ":raw-html:`<br>` Таким образом можно добавить сколько угодно соответствий."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` This way you can add as many matches as you "
+":raw-html:`<br>` This way you can add as many matches as you "
 "like."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:60
@@ -1704,7 +1704,7 @@ msgid ""
 "После этого под |icon_option| **Variables** появится новая вкладка, в "
 "которой можно редактировать три параметра:"
 msgstr ""
-"After that, under ||icon_option|| **Variables** A new tab will appear in "
+"After that, under |icon_option| **Variables** A new tab will appear in "
 "which you can edit three parameters:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:62
@@ -1760,8 +1760,8 @@ msgid ""
 "параметр выбранной SBML-модели и любое свойство выбранного типа клеток, "
 "соответственно."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` In the drop-down lists opposite the fields "
-"|||icon_option||| **Variable** and |||icon_option||| **Phenotype property** "
+":raw-html:`<br>` In the drop-down lists opposite the fields "
+"||icon_option|| **Variable** and ||icon_option|| **Phenotype property** "
 "you can find any parameter of the selected SBML model and any property of "
 "the selected cell type, respectively."
 
@@ -1771,7 +1771,7 @@ msgid ""
 "В раскрывающемся списке напротив |icon_option| **Type** всегда можно выбрать"
 " один из 3-ех типов соответствия:"
 msgstr ""
-"In the drop-down list opposite ||icon_option|| **Type** you can always "
+"In the drop-down list opposite |icon_option| **Type** you can always "
 "choose one of 3 match types:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:85
@@ -1870,7 +1870,7 @@ msgid ""
 msgstr ""
 "To select a mathematical formalism (Selected engine) or a numerical solver "
 "for simulating an SBML model (Simulator), you need to click LMB to the right"
-" of the icon |||icon_option||| **Selected engine** or |||icon_option||| "
+" of the icon ||icon_option|| **Selected engine** or ||icon_option|| "
 "**Simulator**, respectively, and select one of the available options from "
 "the drop-down list."
 
@@ -1886,9 +1886,9 @@ msgid ""
 "increment), нужно нажать ЛКМ справа от иконки |icon_option| **Time "
 "increment** и вписать собственное значение."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To specify the size of the SBML model "
+":raw-html:`<br>` To specify the size of the SBML model "
 "simulation step (Time increment), you need to click LMB to the right of the "
-"icon ||icon_option|| **Time increment** and enter your own value."
+"icon |icon_option| **Time increment** and enter your own value."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:120
 #: 1d40e62133344e878bbbf5e6377adf89
@@ -1903,7 +1903,7 @@ msgid ""
 " справа от названия параметра вписать собственное значение, выбрать "
 "предложенное значение из раскрывающегося списка или отметить ☑."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To edit the parameters of the selected "
+":raw-html:`<br>` To edit the parameters of the selected "
 "numerical solver (Simulator options), you need to open the **Simulator "
 "options** tab and to the right of the parameter name, enter your own value, "
 "select the proposed value from the drop-down list, or mark ☑."
@@ -1962,7 +1962,7 @@ msgid ""
 ":raw-html:`<br>` После этого в правом нижнем окошке у вас появится перечень "
 "свойств типа клеток."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the lower right window you will "
+":raw-html:`<br>` After this, in the lower right window you will "
 "see a list of cell type properties."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_MAIN.rst:20
@@ -2185,7 +2185,7 @@ msgid ""
 "Motile**, если выбранный тип клеток должен быть подвижен."
 msgstr ""
 "After clicking on the **Motility** tab on the property panel on the right, "
-"you will see a menu in which you need to put ☑ next to ||icon_option|| **Is "
+"you will see a menu in which you need to put ☑ next to |icon_option| **Is "
 "Motile** if the selected cell type must be motile."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:14
@@ -2199,7 +2199,7 @@ msgid ""
 ":raw-html:`<br>` Если выбранный тип клеток должен быть неподвижен, то "
 "оставьте вкладку **Motility** без изменений."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` If the selected cell type should be motionless,"
+":raw-html:`<br>` If the selected cell type should be motionless,"
 " then leave the **Motility** tab unchanged."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:22
@@ -2264,7 +2264,7 @@ msgid ""
 "(отдельное поле для каждого хемотаксиса на диаграмме)."
 msgstr ""
 "In the figure above, the selected cell type in the diagram already has "
-"chemotaxis (||icon_chemotaxis||), so under the **Chemotaxis** field there is"
+"chemotaxis (|icon_chemotaxis|), so under the **Chemotaxis** field there is"
 " already a field with the name of the substrate (in this case, "
 "**Substrate**) to or from which the cells of the selected type move. If the "
 "cells of the selected type on the diagram had several chemotaxis, then there"
@@ -2299,7 +2299,7 @@ msgid ""
 ":raw-html:`<br>` Также чувствительность клетки к субстрату можно настроить "
 "непосредственно на диаграмме модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` Also, the sensitivity of the cell to the "
+":raw-html:`<br>` Also, the sensitivity of the cell to the "
 "substrate can be adjusted directly on the model diagram."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Motility.rst:50
@@ -2463,7 +2463,7 @@ msgid ""
 msgstr ""
 "After clicking on the **Rules** tab on the property panel on the right, you "
 "will see a menu in which you can add a new rule by clicking LMB on the "
-"||icon_plus|| icon."
+"|icon_plus| icon."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:9
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:9
@@ -2482,7 +2482,7 @@ msgstr "Add_new_rule"
 #: cbd6b42c01bd4838b407d071d7b1f6a2
 msgid ":raw-html:`<br>` Таким образом можно добавить сколько угодно правил."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` This way you can add as many rules as you like."
+":raw-html:`<br>` This way you can add as many rules as you like."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:70
 #: d95c4c4eec57424cab0887c4f40944d2
@@ -2502,7 +2502,7 @@ msgstr "Raw_for_rule"
 #: 3f3bc399594b40d5bf21ecd8a07fd7f4
 msgid ":raw-html:`<br>` В данной строке можно настроить следующие параметры:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` In this line you can configure the following "
+":raw-html:`<br>` In this line you can configure the following "
 "parameters:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:80
@@ -2573,7 +2573,7 @@ msgid ""
 "**Half-max** и **Hill power**, нужно нажать ЛКМ в ячейку строки под "
 "соответствующим заголовком и вписать собственное значение."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To select the value of the parameters "
+":raw-html:`<br>` To select the value of the parameters "
 "**Saturation value**, **Half-max** and **Hill power**, you need to click LMB"
 " in the cell of the row under the corresponding heading and enter your own "
 "value."
@@ -2591,7 +2591,7 @@ msgstr "Click LMB anywhere on the line corresponding to this rule."
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:101
 #: 5e789ba2ba2f493ba77e512dd5552798
 msgid "Нажать ЛКМ иконку |icon_minus|."
-msgstr "Click the ||icon_minus|| icon."
+msgstr "Click the |icon_minus| icon."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:10
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:10
@@ -2634,7 +2634,7 @@ msgid ""
 "то на вкладке **Secretion** не будет доступных для редактирования "
 "параметров."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` If the selected cell type in the diagram does "
+":raw-html:`<br>` If the selected cell type in the diagram does "
 "not have secretions, then there will be no parameters available for editing "
 "on the **Secretion** tab."
 
@@ -2649,7 +2649,7 @@ msgid ""
 "(отдельное поле для каждой секреции на диаграмме)."
 msgstr ""
 "In the figure above, the selected cell type in the diagram already has "
-"secretion (||icon_secretion||), so under the **Substrates** field there is "
+"secretion (|icon_secretion|), so under the **Substrates** field there is "
 "already a field with the name of the substrate (in this case, **Substrate**)"
 " that the cells of the selected type secrete or consume. If the selected "
 "cell type in the diagram had multiple secretions, then there would be "
@@ -2742,7 +2742,7 @@ msgid ""
 "трансформаций, то на вкладке **Transformations** не будет доступных для "
 "редактирования параметров."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` If the selected cell type in the diagram does "
+":raw-html:`<br>` If the selected cell type in the diagram does "
 "not have transformations, then there will be no parameters available for "
 "editing on the **Transformations** tab."
 
@@ -2757,7 +2757,7 @@ msgid ""
 "несколько (отдельное поле для каждой трансформации на диаграмме)."
 msgstr ""
 "In the figure above, the selected cell type in the diagram already has a "
-"transformation (||icon_transformation||), so under the **Cell types** field "
+"transformation (|icon_transformation|), so under the **Cell types** field "
 "there is already a field with the name of the cell type (in this case, "
 "**CellDefinition**), into which the cells of the selected type are "
 "transformed. If the selected cell type in the diagram had several "
@@ -2794,7 +2794,7 @@ msgid ""
 ":raw-html:`<br>` Также этот параметр можно настроить непосредственно на "
 "диаграмме модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` This parameter can also be configured directly "
+":raw-html:`<br>` This parameter can also be configured directly "
 "on the model diagram."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Transformations.rst:34
@@ -2905,7 +2905,7 @@ msgid ""
 "инструментов."
 msgstr ""
 "To add a cell type to the model, you need to click LMB on "
-"||icon_cell_definition|| in the top panel, and then click LMB anywhere under"
+"|icon_cell_definition| in the top panel, and then click LMB anywhere under"
 " the toolbar."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:9
@@ -2925,7 +2925,7 @@ msgid ""
 ":raw-html:`<br>` После этого в появившемся окне необходимо задать параметры "
 "создаваемого типа клеток:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the window that appears, you "
+":raw-html:`<br>` After this, in the window that appears, you "
 "need to set the parameters of the cell type to be created:"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:24
@@ -3016,7 +3016,7 @@ msgid ""
 ":raw-html:`<br>` Таким образом можно создавать любое количество типов клеток"
 " в модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` In this way you can create any number of cell "
+":raw-html:`<br>` In this way you can create any number of cell "
 "types in the model."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:54
@@ -3097,7 +3097,7 @@ msgid ""
 "Напротив поля |icon_option| **Predefined style** выбрать из раскрывающегося "
 "списка **Not selected**."
 msgstr ""
-"Opposite the field ||icon_option|| **Predefined style** select from the "
+"Opposite the field |icon_option| **Predefined style** select from the "
 "**Not selected** drop-down list."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Change_color.rst:16
@@ -3123,7 +3123,7 @@ msgid ""
 " типа на диаграмме (всех типов клеток, всех субстратов, всех секреций и "
 "т.д.), нужно:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To change the designation at once for all "
+":raw-html:`<br>` To change the designation at once for all "
 "elements of a given type on the diagram (all cell types, all substrates, all"
 " secretions, etc.), you need:"
 
@@ -3133,7 +3133,7 @@ msgid ""
 "Нажать ЛКМ на иконку |icon_view_option| **Open diagram view options dialog**"
 " на верхней панели инструментов."
 msgstr ""
-"Click LMB on the icon ||icon_view_option|| **Open diagram view options "
+"Click LMB on the icon |icon_view_option| **Open diagram view options "
 "dialog** on the top toolbar."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Change_color.rst:10
@@ -3177,7 +3177,7 @@ msgstr "To create chemotaxis in the model, you need:"
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Chemotaxis.rst:13
 #: 8b4fdadf783b456690305234c20765a0
 msgid "Нажать ЛКМ на значок |icon_chemotaxis| на панели инструментов."
-msgstr "Click LMB on the icon ||icon_chemotaxis|| on the toolbar."
+msgstr "Click LMB on the icon |icon_chemotaxis| on the toolbar."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Chemotaxis.rst:14
 #: b922e47fb4b44bf5a8190f5aec3b6b99
@@ -3207,7 +3207,7 @@ msgid ""
 ":raw-html:`<br>` После этого на диаграмме появится стрелочка фиолетового "
 "цвета, направленная от субстрата к клетке."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, a purple arrow will appear on the "
+":raw-html:`<br>` After this, a purple arrow will appear on the "
 "diagram, directed from the substrate to the cell."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Chemotaxis.rst:25
@@ -3222,7 +3222,7 @@ msgid ""
 " нажать ПКМ на стрелку на диаграмме, обозначающую данный хемотаксис, и в "
 "раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To edit the parameters of the created "
+":raw-html:`<br>` To edit the parameters of the created "
 "chemotaxis, you need to right-click on the arrow on the diagram indicating "
 "this chemotaxis, and in the drop-down list, click on the **Edit** button."
 
@@ -3325,7 +3325,7 @@ msgstr "To create an event in the model, you need:"
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:15
 #: 0c5356020f3c44e0b733bb85b440dd1b
 msgid "Нажать ЛКМ на значок |icon_event| на верхней панели инструментов."
-msgstr "Click LMB on the icon ||icon_event|| on the top toolbar."
+msgstr "Click LMB on the icon |icon_event| on the top toolbar."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:9
 #: b707950505914117bd5147d3c59ea16a
@@ -3348,7 +3348,7 @@ msgid ""
 ":raw-html:`<br>` После этого в появившемся окне необходимо задать параметры "
 "создаваемого события:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the window that appears, you "
+":raw-html:`<br>` After this, in the window that appears, you "
 "need to set the parameters of the event to be created:"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:26
@@ -3427,7 +3427,7 @@ msgid ""
 ":raw-html:`<br>` Таким образом можно создать любое количество событий в "
 "модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` In this way you can create any number of events"
+":raw-html:`<br>` In this way you can create any number of events"
 " in the model."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:53
@@ -3470,7 +3470,7 @@ msgstr "To create an interaction in a model, you need to:"
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:12
 #: 8745c4a0b15949218ed84f70c8316177
 msgid "Нажать ЛКМ на значок |icon_interaction| на панели инструментов."
-msgstr "Click LMB on the icon ||icon_interaction|| on the toolbar."
+msgstr "Click LMB on the icon |icon_interaction| on the toolbar."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:13
 #: 01243d92496745b1baf506aece39b359
@@ -3501,7 +3501,7 @@ msgid ""
 " направленная от одного типа клеток, оказывающих воздействие, к другому, над"
 " которыми совершается действие."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, a red arrow will appear on the "
+":raw-html:`<br>` After this, a red arrow will appear on the "
 "diagram, directed from one type of cell that has an effect to another, on "
 "which the action is performed."
 
@@ -3517,7 +3517,7 @@ msgid ""
 "нажать ПКМ на стрелку на диаграмме, обозначающую данное взаимодействие, и в "
 "раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To configure the parameters of the created "
+":raw-html:`<br>` To configure the parameters of the created "
 "interaction, you need to right-click on the arrow on the diagram indicating "
 "this interaction, and in the drop-down list, click on the **Edit** button."
 
@@ -3574,9 +3574,9 @@ msgid ""
 "|icon_opened_folder| **Open**."
 msgstr ""
 "To start working with a model, you first need to open it. To do this, "
-"double-click on |||icon_Type_Diagram||| or right-click on "
-"|||icon_Type_Diagram||| and in the drop-down list, click LMB on "
-"||icon_opened_folder|| **Open**."
+"double-click on ||icon_Type_Diagram|| or right-click on "
+"||icon_Type_Diagram|| and in the drop-down list, click LMB on "
+"|icon_opened_folder| **Open**."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:49
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:12
@@ -3602,7 +3602,7 @@ msgid ""
 ":raw-html:`<br>` После этого в левой верхней части экрана появится окно, в "
 "котором можно создавать модель."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, a window will appear in the upper "
+":raw-html:`<br>` After this, a window will appear in the upper "
 "left part of the screen in which you can create a model."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:69
@@ -3616,7 +3616,7 @@ msgid ""
 ":raw-html:`<br>` В верхней части этого окна можно видеть панель "
 "инструментов, которые используются для построения PhysiCell модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` At the top of this window you can see a toolbar"
+":raw-html:`<br>` At the top of this window you can see a toolbar"
 " that is used to build a PhysiCell model."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:77
@@ -3630,7 +3630,7 @@ msgid ""
 ":raw-html:`<br>` Выбрать тот или иной инструмент можно нажатием на "
 "соответствующую иконку ЛКМ. Описание каждого инструмента представлено ниже."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` You can select a particular tool by clicking on"
+":raw-html:`<br>` You can select a particular tool by clicking on"
 " the corresponding LMB icon. A description of each tool is provided below."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:85
@@ -3742,7 +3742,7 @@ msgid ""
 "(|icon_cell_definition|) и субстраты (|icon_substrate|)."
 msgstr ""
 "The main participants of the PhysiCell model are cells of various types "
-"(||icon_cell_definition||) and substrates (||icon_substrate||)."
+"(|icon_cell_definition|) and substrates (|icon_substrate|)."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:52
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:6
@@ -3761,7 +3761,7 @@ msgid ""
 "**Секреция/Потребление** (|icon_secretion|): выделение/поглощение клеткой "
 "того или иного субстрата."
 msgstr ""
-"**Secretion/Consumption** (||icon_secretion||): secretion/absorption of a "
+"**Secretion/Consumption** (|icon_secretion|): secretion/absorption of a "
 "particular substrate by a cell."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:124
@@ -3770,7 +3770,7 @@ msgid ""
 "**Хемотаксис** (|icon_chemotaxis|): движение клетки к или от определенного "
 "субстрата."
 msgstr ""
-"**Chemotaxis** (||icon_chemotaxis||): movement of a cell towards or away "
+"**Chemotaxis** (|icon_chemotaxis|): movement of a cell towards or away "
 "from a specific substrate."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:125
@@ -3779,7 +3779,7 @@ msgid ""
 "**Взаимодействие** (|icon_interaction|): воздействие клеток одного типа на "
 "клетки другого типа,"
 msgstr ""
-"**Interaction** (||icon_interaction||): the effect of cells of one type on "
+"**Interaction** (|icon_interaction|): the effect of cells of one type on "
 "cells of another type,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:126
@@ -3788,7 +3788,7 @@ msgid ""
 "**Трансформация** (|icon_transformation|): превращение клеток одного типа в "
 "клетки другого типа."
 msgstr ""
-"**Transformation** (||icon_transformation||): transformation of cells of one"
+"**Transformation** (|icon_transformation|): transformation of cells of one"
 " type into cells of another type."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:4
@@ -3813,7 +3813,7 @@ msgstr "To create a secretion/consumption model, you need:"
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:12
 #: 4b1bb21c49294e04b9de31ee7fb265ce
 msgid "Нажать ЛКМ на значок |icon_secretion| на панели инструментов."
-msgstr "Click LMB on the icon ||icon_secretion|| on the toolbar."
+msgstr "Click LMB on the icon |icon_secretion| on the toolbar."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:13
 #: 719212a04eb34123b409f2a590081f61
@@ -3843,7 +3843,7 @@ msgid ""
 ":raw-html:`<br>` После этого на диаграмме появится стрелочка серого цвета, "
 "направленная от типа клеток к субстрату."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, a gray arrow will appear on the "
+":raw-html:`<br>` After this, a gray arrow will appear on the "
 "diagram, directed from the cell type to the substrate."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:24
@@ -3859,7 +3859,7 @@ msgid ""
 "секрецию/потребление, и в раскрывающемся списке нажать ЛКМ на кнопку "
 "**Edit**."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To configure the parameters of the created "
+":raw-html:`<br>` To configure the parameters of the created "
 "secretion/consumption, you need to right-click on the arrow on the diagram "
 "indicating this secretion/consumption, and in the drop-down list, click LMB "
 "on the **Edit** button."
@@ -3875,7 +3875,7 @@ msgid ""
 ":raw-html:`<br>` После этого в появившемся окне необходимо задать параметры "
 "изменяемой секреции/потребления:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the window that appears, you "
+":raw-html:`<br>` After this, in the window that appears, you "
 "need to set the parameters of the variable secretion/consumption:"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:40
@@ -4014,7 +4014,7 @@ msgid ""
 "Чтобы создать субстрат, нужно на верхней панели нажать ЛКМ на "
 "|icon_substrate|, а затем нажать ЛКМ в любое место под панелью инструментов."
 msgstr ""
-"To create a substrate, you need to click LMB on ||icon_substrate|| in the "
+"To create a substrate, you need to click LMB on |icon_substrate| in the "
 "top panel, and then click LMB anywhere under the toolbar."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:11
@@ -4028,7 +4028,7 @@ msgid ""
 ":raw-html:`<br>` После этого в появившемся окне необходимо задать параметры "
 "создаваемого субстрата:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the window that appears, you "
+":raw-html:`<br>` After this, in the window that appears, you "
 "need to set the parameters of the substrate being created:"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:19
@@ -4155,7 +4155,7 @@ msgid ""
 ":raw-html:`<br>` Таким образом можно создать любое количество субстратов в "
 "модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` In this way you can create any number of "
+":raw-html:`<br>` In this way you can create any number of "
 "substrates in the model."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:53
@@ -4208,7 +4208,7 @@ msgstr "To create a transformation in the model, you need:"
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:12
 #: 555b5f09229d4b9b9433a2cf9cd9b34b
 msgid "Нажать ЛКМ на значок |icon_transformation| на панели инструментов."
-msgstr "Click LMB on the icon ||icon_transformation|| on the toolbar."
+msgstr "Click LMB on the icon |icon_transformation| on the toolbar."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:13
 #: d8d778945d6446b4947b65c047f76cc9
@@ -4236,7 +4236,7 @@ msgid ""
 "направленная от одного типа клеток, которые будут трансформироваться, к "
 "другому, в которые превратятся первые в результате трансформации."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, a blue arrow will appear on the "
+":raw-html:`<br>` After this, a blue arrow will appear on the "
 "diagram, directed from one type of cell that will be transformed to another,"
 " into which the first will turn as a result of the transformation."
 
@@ -4252,7 +4252,7 @@ msgid ""
 "нажать ПКМ на стрелку на диаграмме, обозначающую данную трансформацию, и в "
 "раскрывающемся списке нажать ЛКМ на кнопку **Edit**."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To configure the parameters of the created "
+":raw-html:`<br>` To configure the parameters of the created "
 "transformation, you need to right-click on the arrow on the diagram "
 "indicating this transformation, and in the drop-down list, click on the "
 "**Edit** button."
@@ -7041,7 +7041,7 @@ msgid ""
 "В раскрывающемся списке нажать ЛКМ на |icon_new_Java_code| **New Java "
 "code**."
 msgstr ""
-"In the drop-down list, click LMB on ||icon_new_Java_code|| **New Java "
+"In the drop-down list, click LMB on |icon_new_Java_code| **New Java "
 "code**."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:72
@@ -7074,10 +7074,10 @@ msgid ""
 " него 2 раза ЛКМ или нажав на него ПКМ и в раскрывающемся списке нажав ЛКМ "
 "на |icon_opened_folder| **Open**."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the specified folder you will "
-"have a java file (indicated by the icon ||icon_new_Java_code||), which can "
+":raw-html:`<br>` After this, in the specified folder you will "
+"have a java file (indicated by the icon |icon_new_Java_code|), which can "
 "be opened by clicking on it 2 times with LMB or by clicking on it with RMB "
-"and in the drop-down list by clicking LMB on ||icon_opened_folder|| "
+"and in the drop-down list by clicking LMB on |icon_opened_folder| "
 "**Open**."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:108
@@ -7097,7 +7097,7 @@ msgid ""
 "используемых для задания пользовательского поведения клеток, и их краткое "
 "описание представлены ниже."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` A list of the main java classes of the "
+":raw-html:`<br>` A list of the main java classes of the "
 "ru.biosoft.Physicell package, used to set custom cell behavior, and their "
 "brief description are presented below."
 
@@ -9724,7 +9724,7 @@ msgstr ""
 #: 98cf5725104e431f9f52df0a19eca8a0
 #, python-brace-format
 msgid "\\|v\\|_2 = \\sqrt{v_1^2 + v_2^2 + \\cdots + v_n^2}"
-msgstr "\\||v\\||_2 = \\sqrt{v_1^2 + v_2^2 + \\cdots + v_n^2}"
+msgstr "\\|v\\|_2 = \\sqrt{v_1^2 + v_2^2 + \\cdots + v_n^2}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:188
 #: 457a609fec604c228157545b9af76f67
@@ -9828,7 +9828,7 @@ msgid ""
 ":raw-html:`<br>` На данной вкладке можно редактировать все свойства типов "
 "клеток:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` On this tab you can edit all properties of cell"
+":raw-html:`<br>` On this tab you can edit all properties of cell"
 " types:"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:24
@@ -9863,7 +9863,7 @@ msgid ""
 " нужно в конце раскрывающегося списка под полем **Color** выбрать **more "
 "colors...** и в появившемся окне задать нужный цвет."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To configure the color of cells of the selected"
+":raw-html:`<br>` To configure the color of cells of the selected"
 " type in more detail, you need to select **more colors...** at the end of "
 "the drop-down list under the **Color** field and set the desired color in "
 "the window that appears."
@@ -9879,7 +9879,7 @@ msgid ""
 ":raw-html:`<br>` Также свойства типов клеток можно настраивать напрямую на "
 "диаграмме при их создании или редактировании."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` Also, the properties of cell types can be "
+":raw-html:`<br>` Also, the properties of cell types can be "
 "configured directly on the diagram when creating or editing them."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:45
@@ -9943,7 +9943,7 @@ msgid ""
 "новую цветовую схему."
 msgstr ""
 "After clicking on the **Color schemes** tab on the property panel on the "
-"right, you will see a menu in which, by clicking LMB on the ||icon_plus|| "
+"right, you will see a menu in which, by clicking LMB on the |icon_plus| "
 "icon, you can add a new color scheme."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:51
@@ -9957,7 +9957,7 @@ msgid ""
 ":raw-html:`<br>` После этого у вас появится строка, соответствующая одной "
 "цветовой схеме."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this you will have a line corresponding "
+":raw-html:`<br>` After this you will have a line corresponding "
 "to one color scheme."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:59
@@ -9970,7 +9970,7 @@ msgstr "Color_scheme_string"
 msgid ""
 ":raw-html:`<br>` Таким образом можно добавить сколько угодно цветовых схем."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` This way you can add as many color schemes as "
+":raw-html:`<br>` This way you can add as many color schemes as "
 "you like."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:67
@@ -10059,7 +10059,7 @@ msgstr "Click LMB on the line corresponding to a specific color scheme."
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:82
 #: a0d7d1bdef7d46e986374a88887457b5
 msgid "Нажать ЛКМ на значок |icon_minus|."
-msgstr "Click LMB on the ||icon_minus|| icon."
+msgstr "Click LMB on the |icon_minus| icon."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:84
 #: 6136b2ae73974f67b44e2c60fcdce3a3
@@ -10210,7 +10210,7 @@ msgid ""
 ":raw-html:`<br>` На данной вкладке можно редактировать все настройки "
 "событий:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` On this tab you can edit all event settings:"
+":raw-html:`<br>` On this tab you can edit all event settings:"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:27
 #: 183b8cc20c5244a99c6db1b625eba7e9
@@ -10257,7 +10257,7 @@ msgid ""
 msgstr ""
 "After clicking on the **Initial Condition** tab on the property panel on the"
 " right, you will see a menu in which you need to put ☑ next to "
-"||icon_option|| **Custom condition**, if you want to set a specific initial "
+"|icon_option| **Custom condition**, if you want to set a specific initial "
 "arrangement of cells."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:15
@@ -10272,7 +10272,7 @@ msgid ""
 "расположение клеток (хотите оставить случайное расположение), то оставьте "
 "вкладку **Initial Condition** без изменений."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` If you do not want to configure a specific "
+":raw-html:`<br>` If you do not want to configure a specific "
 "initial arrangement of cells (you want to leave the arrangement random), "
 "then leave the **Initial Condition** tab unchanged."
 
@@ -10282,7 +10282,7 @@ msgid ""
 "При выборе ☑ напротив |icon_option| **Custom condition** у вас появится "
 "меню, в котором можно настроить 2 параметра:"
 msgstr ""
-"When you select ☑ opposite ||icon_option|| **Custom condition** you will see"
+"When you select ☑ opposite |icon_option| **Custom condition** you will see"
 " a menu in which you can configure 2 parameters:"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:25
@@ -10296,7 +10296,7 @@ msgid ""
 "|icon_option| **Custom Java code**: путь до Java-кода в репозитории, "
 "описывающего начальное расположение клеток в модели,"
 msgstr ""
-"||icon_option|| **Custom Java code**: path to the Java code in the "
+"|icon_option| **Custom Java code**: path to the Java code in the "
 "repository that describes the initial location of cells in the model,"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:33
@@ -10305,7 +10305,7 @@ msgid ""
 "|icon_option| **Custom table**: путь до таблицы в репозитории, описывающей "
 "начальное расположение клеток в модели."
 msgstr ""
-"||icon_option|| **Custom table**: path to a table in the repository that "
+"|icon_option| **Custom table**: path to a table in the repository that "
 "describes the initial location of cells in the model."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:35
@@ -10316,7 +10316,7 @@ msgid ""
 " соответственно, и в появившемся окне выбрать нужный файл в репозитории."
 msgstr ""
 "To specify the path to the Java code or table, you need to click LMB on "
-"||icon_Java_code|| **(select element)** or ||icon_table|| **(select "
+"|icon_Java_code| **(select element)** or |icon_table| **(select "
 "element)**, respectively, and in the window that appears, select the desired"
 " file in the repository."
 
@@ -10365,7 +10365,7 @@ msgstr ""
 #: efc1bece74b24e459f82d08392593252
 msgid ":raw-html:`<br>` Чтобы ее открыть, нужно нажать на нее ЛКМ."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To open it, you need to click on it with LMB."
+":raw-html:`<br>` To open it, you need to click on it with LMB."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:69
 #: 9fdda76eb24140c28b5e11b94e549c12
@@ -10503,7 +10503,7 @@ msgid ""
 "|icon_option| **Custom report**: поставьте ☑, если хотите задать Java-код, "
 "по которому будет создаваться отчет по модели в табличной форме,"
 msgstr ""
-"||icon_option|| **Custom report**: put ☑ if you want to specify the Java "
+"|icon_option| **Custom report**: put ☑ if you want to specify the Java "
 "code that will be used to create a report on the model in tabular form,"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:22
@@ -10513,7 +10513,7 @@ msgid ""
 "Java-код, который будет определять вывод логов в консль во время симуляции "
 "модели,"
 msgstr ""
-"||icon_option|| **Custom global report**: put ☑ if you want to specify Java "
+"|icon_option| **Custom global report**: put ☑ if you want to specify Java "
 "code that will determine the output of logs to the console during model "
 "simulation,"
 
@@ -10523,7 +10523,7 @@ msgid ""
 "|icon_option| **Custom visualizer**: поставьте ☑, если хотите задать Java-"
 "код, по которому будет изменяться расцветка клеток при симуляции модели."
 msgstr ""
-"||icon_option|| **Custom visualizer**: check ☑ if you want to specify the "
+"|icon_option| **Custom visualizer**: check ☑ if you want to specify the "
 "Java code that will change the colors of the cells when simulating the "
 "model."
 
@@ -10537,13 +10537,13 @@ msgid ""
 " этих полей можно нажать ЛКМ на |icon_Java_code| **(select element)**, а "
 "затем в появившемся окне указать путь до нужного Java-кода в репозитории."
 msgstr ""
-"When specifying ☑ opposite |||||||icon_option||||||| **Custom report**, "
-"|||||||icon_option||||||| **Custom global report** or "
-"|||||||icon_option||||||| **Custom visualizer** a new field will appear "
-"below the selected field |||||||icon_option||||||| **Report**, "
-"|||||||icon_option||||||| **Global report** or |||||||icon_option||||||| "
+"When specifying ☑ opposite ||icon_option|| **Custom report**, "
+"||icon_option|| **Custom global report** or "
+"||icon_option|| **Custom visualizer** a new field will appear "
+"below the selected field ||icon_option|| **Report**, "
+"||icon_option|| **Global report** or ||icon_option|| "
 "**Visualizer**, respectively. Opposite these fields you can click LMB on "
-"||icon_Java_code|| **(select element)**, and then in the window that "
+"|icon_Java_code| **(select element)**, and then in the window that "
 "appears, specify the path to the desired Java code in the repository."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:27
@@ -10576,7 +10576,7 @@ msgid ""
 ":raw-html:`<br>` На данной вкладке можно редактировать все свойства "
 "субстратов:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` On this tab you can edit all properties of "
+":raw-html:`<br>` On this tab you can edit all properties of "
 "substrates:"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:23
@@ -10627,11 +10627,11 @@ msgid ""
 " нужно нажать ЛКМ на название этой же характеристики еще раз, после чего "
 "рядом с ней появится значок |icon_decrease_sorting|."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, an icon ||icon_increase_sorting|| "
+":raw-html:`<br>` After this, an icon |icon_increase_sorting| "
 "will appear next to the name of the selected characteristic, indicating "
 "sorting from smallest to largest. To sort from largest to smallest, you need"
 " to click LMB on the name of the same characteristic again, after which the "
-"||icon_decrease_sorting|| icon will appear next to it."
+"|icon_decrease_sorting| icon will appear next to it."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:9
 #: f5e567ce18554d3b8ed90043d634c1cf
@@ -10704,7 +10704,7 @@ msgid ""
 "кнопки |icon_plus| и |icon_minus|, соответственно."
 msgstr ""
 "To add and remove conditions for applying color schemes, use the "
-"||icon_plus|| buttons. and ||icon_minus||, respectively."
+"|icon_plus| buttons. and |icon_minus|, respectively."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:77
 #: 340560a5a55f44f68c77d3db342e4d94
@@ -10865,7 +10865,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:113
 #: 2f5b8ad1e7724ef3a968b534a83f156b
 msgid "**Color 1**: |icon_blue_circle|,"
-msgstr "**Color 1**: ||icon_blue_circle||,"
+msgstr "**Color 1**: |icon_blue_circle|,"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:63
 #: 40c9617eeb404d0fa1a9fb5df4002e24 9c42845419ad47eabc3d70b3f006f4bd
@@ -10878,7 +10878,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:114
 #: 5c8962330796494a9bd423459292b613
 msgid "**Color 2**: |icon_red_circle|,"
-msgstr "**Color 2**: ||icon_red_circle||,"
+msgstr "**Color 2**: |icon_red_circle|,"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:64
 #: 0260d4f06ce544ca8f2adef1fbcc7957 0840fe82452f40a7a136efe21f933767
@@ -10937,7 +10937,7 @@ msgstr "Fixed color"
 #: 8a44e49f39704da2930569025890b587 9945ddad13c04413801c2d9b31ba18ed
 #: e9b47ad6182646f18e4d0852a43f0e8c f27896c62fa3400d8d62ef88a6442651
 msgid "|icon_blue_circle|"
-msgstr "||icon_blue_circle||"
+msgstr "|icon_blue_circle|"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:130
 #: 12560156912944b28d58a7277a77dbf5
@@ -10947,7 +10947,7 @@ msgstr "Gradient"
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:132
 #: 433274a9b7d449d28be0d88211aaba81
 msgid "|icon_purple_circle|"
-msgstr "||icon_purple_circle||"
+msgstr "|icon_purple_circle|"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:65
 #: 463416ae15eb41dfb1dbaed45427b2c0
@@ -10963,7 +10963,7 @@ msgstr ""
 #: 46ae5b6d9b5648568023a95a045fbbc9 6e67931f6dfd4e919d7900d64f55ed38
 #: f7b072a1cd1b4c43a1b3ead543c011c8
 msgid "|icon_red_circle|"
-msgstr "||icon_red_circle||"
+msgstr "|icon_red_circle|"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:134
 #: 5eab6efb92b54cfbac16aec9eb868920
@@ -10999,7 +10999,7 @@ msgstr "Simulation_buttons"
 msgid ""
 ":raw-html:`<br>` Всего имеется 6 кнопок для управления процессом симуляции:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` There are a total of 6 buttons to control the "
+":raw-html:`<br>` There are a total of 6 buttons to control the "
 "simulation process:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:26
@@ -11009,7 +11009,7 @@ msgid ""
 "html:`«<strong><u>Generates code for the model simulation</u></strong>»`: "
 "сгенерировать код для симуляции модели,"
 msgstr ""
-"||icon_generates_code_for_the_model_simulation_button|| :raw-"
+"|icon_generates_code_for_the_model_simulation_button| :raw-"
 "html:`<strong><u>Generates code for the model simulation</u></strong>`: "
 "generate code for the model simulation,"
 
@@ -11025,7 +11025,7 @@ msgid ""
 "html:`«<strong><u>Start_simulation_process</u></strong>»`: запустить "
 "симуляцию,"
 msgstr ""
-"||icon_start_simulation_process|| :raw-"
+"|icon_start_simulation_process| :raw-"
 "html:`«<strong><u>Start_simulation_process</u></strong>»`: start the "
 "simulation,"
 
@@ -11041,7 +11041,7 @@ msgid ""
 "html:`«<strong><u>Stop_simulation_process</u></strong>»`: остановить "
 "симуляцию,"
 msgstr ""
-"||icon_stop_simulation_process|| :raw-"
+"|icon_stop_simulation_process| :raw-"
 "html:`<strong><u>Stop_simulation_process</u></strong>`: stop the simulation,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:11
@@ -11056,7 +11056,7 @@ msgid ""
 "results into the database</u></strong>»`: сохранить результаты симуляции в "
 "базу данных,"
 msgstr ""
-"||icon_save_simulation_result|| :raw-html:`<strong><u>Saves simulation "
+"|icon_save_simulation_result| :raw-html:`<strong><u>Saves simulation "
 "results into the database</u></strong>`: save simulation results into the "
 "database,"
 
@@ -11072,7 +11072,7 @@ msgid ""
 "visualise simulation results</u></strong>»`: открыть диалоговое окно для "
 "визуализации результатов симуляции,"
 msgstr ""
-"||icon_open_plot_dialog|| :raw-html:`<strong><u>Opens plot dialog to "
+"|icon_open_plot_dialog| :raw-html:`<strong><u>Opens plot dialog to "
 "visualize simulation results</u></strong>`: open a dialog box to visualize "
 "simulation results,"
 
@@ -11087,7 +11087,7 @@ msgid ""
 "|icon_clear_log| :raw-html:`«<strong><u>Clear log</u></strong>»`: очистить "
 "логи."
 msgstr ""
-"||icon_clear_log|| :raw-html:`<strong><u>Clear log</u></strong>`: clear "
+"|icon_clear_log| :raw-html:`<strong><u>Clear log</u></strong>`: clear "
 "logs."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:14
@@ -11113,8 +11113,8 @@ msgid ""
 "|icon_open_plot_dialog| будут неактивны."
 msgstr ""
 "Immediately after opening the Simulation tab, the buttons "
-"||icon_stop_simulation_process||, ||icon_save_simulation_result|| and "
-"||icon_open_plot_dialog|| will be inactive."
+"|icon_stop_simulation_process|, |icon_save_simulation_result| and "
+"|icon_open_plot_dialog| will be inactive."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:4
 #: 40c1641f715e40d087dba94e8acdaabc
@@ -11370,7 +11370,7 @@ msgid ""
 "Выбирается из раскрывающегося списка напротив поля |icon_option| **Cell "
 "update type**."
 msgstr ""
-"Selected from the drop-down list next to the ||icon_option|| field. **Cell "
+"Selected from the drop-down list next to the |icon_option| field. **Cell "
 "update type**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Cell_update_type.rst:13
@@ -11415,7 +11415,7 @@ msgid ""
 " симуляции в области вывода логов будет отображаться информация следующего "
 "вида:"
 msgstr ""
-"If the option ||icon_option|| **Log Model report** is NOT enabled, then "
+"If the option |icon_option| **Log Model report** is NOT enabled, then "
 "during the simulation the following information will be displayed in the log"
 " output area:"
 
@@ -11485,7 +11485,7 @@ msgid ""
 "симуляции в области вывода логов будет отображаться информация следующего "
 "вида:"
 msgstr ""
-"If the option ||icon_option|| **Log Model report** is enabled, then during "
+"If the option |icon_option| **Log Model report** is enabled, then during "
 "the simulation the following information will be displayed in the log output"
 " area:"
 
@@ -11546,7 +11546,7 @@ msgid ""
 "Выбирается из раскрывающегося списка напротив поля |icon_option| **Model "
 "type**."
 msgstr ""
-"Selected from the drop-down list next to the ||icon_option|| field. **Model "
+"Selected from the drop-down list next to the |icon_option| field. **Model "
 "type**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Model_type.rst:10
@@ -11576,8 +11576,8 @@ msgid ""
 "**(select element)**."
 msgstr ""
 "To select the path in the repository to save the simulation results, you "
-"need to opposite the |||icon_option||| field. **Result path** click LMB on "
-"|||icon_option||| **(select element)**."
+"need to opposite the ||icon_option|| field. **Result path** click LMB on "
+"||icon_option|| **(select element)**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Result_path.rst:13
 #: 169b6593038b4997aa3f38fb32a5f07c
@@ -11613,7 +11613,7 @@ msgid ""
 "будет отображаться выбранный вами путь в репозитории, куда сохранятся "
 "результаты симуляции."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After that, opposite the field ||icon_option|| "
+":raw-html:`<br>` After that, opposite the field |icon_option| "
 "**Result path** will display the path you selected in the repository where "
 "the simulation results will be saved."
 
@@ -11629,7 +11629,7 @@ msgid ""
 "симуляции в директории с результатами у вас будет находиться папка с "
 "названием **Video**."
 msgstr ""
-"If the option ||icon_option|| **Save GIF** is enabled, then after the "
+"If the option |icon_option| **Save GIF** is enabled, then after the "
 "simulation is completed, in the results directory you will have a folder "
 "called **Video**."
 
@@ -11723,7 +11723,7 @@ msgid ""
 "симуляции в директории с результатами у вас будет находиться папка с "
 "названием **Cells**."
 msgstr ""
-"If the option ||icon_option|| **Save cells data** is enabled, then after the"
+"If the option |icon_option| **Save cells data** is enabled, then after the"
 " simulation is completed, in the results directory you will have a folder "
 "called **Cells**."
 
@@ -11880,7 +11880,7 @@ msgid ""
 "завершения симуляции в директории с результатами у вас будет находиться "
 "папка с названием **Cells tables**."
 msgstr ""
-"If the option ||icon_option|| **Save cells data as table** is enabled, then "
+"If the option |icon_option| **Save cells data as table** is enabled, then "
 "after the simulation is completed, in the results directory you will have a "
 "folder called **Cells tables**."
 
@@ -11930,7 +11930,7 @@ msgid ""
 "симуляции в директории с результатами у вас будет находиться папка с "
 "названием **Density**."
 msgstr ""
-"If the option ||icon_option|| **Save density** is enabled, then after the "
+"If the option |icon_option| **Save density** is enabled, then after the "
 "simulation is completed, in the results directory you will have a folder "
 "called **Density**."
 
@@ -12178,7 +12178,7 @@ msgid ""
 "симуляции в директории с результатами у вас будет находиться папка с "
 "названием **Image**."
 msgstr ""
-"If the option ||icon_option|| **Save images** is enabled, then after the "
+"If the option |icon_option| **Save images** is enabled, then after the "
 "simulation is completed, in the results directory you will have a folder "
 "called **Image**."
 
@@ -12273,9 +12273,9 @@ msgid ""
 "симуляции в директории с результатами у вас будет находиться файл "
 "|icon_option| **Counts**."
 msgstr ""
-"If the option |||icon_option||| **Save plots** is enabled, then after the "
+"If the option ||icon_option|| **Save plots** is enabled, then after the "
 "completion of the simulation in the results directory you will have a file "
-"|||icon_option||| **Counts**."
+"||icon_option|| **Counts**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_plots.rst:13
 #: 4cd9d0dc27c64a8d9f2bd567a6f06bf2
@@ -12297,7 +12297,7 @@ msgid ""
 "симуляции в директории с результатами у вас будет находиться папка с "
 "названием **Reports**."
 msgstr ""
-"If the option ||icon_option|| **Save report** is enabled, then after the "
+"If the option |icon_option| **Save report** is enabled, then after the "
 "simulation is completed, in the results directory you will have a folder "
 "called **Reports**."
 
@@ -12548,7 +12548,7 @@ msgid ""
 "симуляции в директории с результатами у вас будет находиться папка с "
 "названием **Video**."
 msgstr ""
-"If the option ||icon_option|| **Save Video** is enabled, then after the "
+"If the option |icon_option| **Save Video** is enabled, then after the "
 "simulation is completed, in the results directory you will have a folder "
 "called **Video**."
 
@@ -12626,7 +12626,7 @@ msgid ""
 "Выбирается из раскрывающегося списка напротив поля |icon_option| **Simulator"
 " name**."
 msgstr ""
-"Selected from the drop-down list next to the ||icon_option|| field. "
+"Selected from the drop-down list next to the |icon_option| field. "
 "**Simulator name**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Simulator_name.rst:13
@@ -12649,17 +12649,17 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:10
 #: 4bab9889e7dc43a792040fb1b6a7525f
 msgid "|icon_Java_code| info.txt,"
-msgstr "||icon_Java_code|| info.txt,"
+msgstr "|icon_Java_code| info.txt,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:11
 #: 1c71ff83c7444196a0f92ddae4b7443b
 msgid "|icon_Java_code| log.txt,"
-msgstr "||icon_Java_code|| log.txt"
+msgstr "|icon_Java_code| log.txt"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:12
 #: a370a321eb2749d5b2b5692f2b954691
 msgid "|icon_Java_code| model.txt."
-msgstr "||icon_Java_code|| model.txt."
+msgstr "|icon_Java_code| model.txt."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:14
 #: b6df44b258954674a65a39a0c0e4ddfa
@@ -12828,7 +12828,7 @@ msgid ""
 ":raw-html:`<br>` После этого в правом нижнем углу экрана у вас появится "
 "панель для настройки симуляции модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the lower right corner of the "
+":raw-html:`<br>` After this, in the lower right corner of the "
 "screen you will have a panel for setting up the model simulation."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_MAIN.rst:37
@@ -12840,7 +12840,7 @@ msgstr "Simulation_panel"
 #: aa75e15dcaaf4fad8f98344decf54f21
 msgid ":raw-html:`<br>` На этой вкладке можно выделить несколько областей:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` On this tab you can select several areas:"
+":raw-html:`<br>` On this tab you can select several areas:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_MAIN.rst:45
 #: a21dec190a7e4e5ab3fac581485c2856
@@ -12897,7 +12897,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:14
 #: 88ed4c15276647a399aea17d5b4f927f
 msgid "Нажать ЛКМ на строку с |icon_option| **Curves**."
-msgstr "Click LMB on the line with ||icon_option|| **Curves**."
+msgstr "Click LMB on the line with |icon_option| **Curves**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:17
 #: 80f5937eb6024b8b9a2bb6ebd746edc4
@@ -12909,7 +12909,7 @@ msgstr "Add_new_curve"
 msgid ""
 ":raw-html:`<br>` Таким образом можно добавить сколько угодно переменных."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` This way you can add as many variables as you "
+":raw-html:`<br>` This way you can add as many variables as you "
 "like."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:25
@@ -13061,7 +13061,7 @@ msgstr "Engine_plots_buttons"
 msgid ""
 ":raw-html:`<br>` Чтобы выбрать ту или иную вкладку нужно нажать на нее ЛКМ."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To select one or another tab you need to click "
+":raw-html:`<br>` To select one or another tab you need to click "
 "on it with LMB."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:19
@@ -13108,7 +13108,7 @@ msgstr "Buttons_of_the_options_menu"
 #: 7d82a1f69dc24d94802fd417610291c6
 msgid ":raw-html:`<br>` Всего имеется 4 кнопки для просмотра симуляции:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` There are 4 buttons in total to view the "
+":raw-html:`<br>` There are 4 buttons in total to view the "
 "simulation:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:24
@@ -13117,7 +13117,7 @@ msgid ""
 "|icon_play_button| :raw-html:`«<strong><u>Play</u></strong>»`: начать "
 "просмотр симуляции."
 msgstr ""
-"||icon_play_button|| :raw-html:`«<strong><u>Play</u></strong>»`: start "
+"|icon_play_button| :raw-html:`«<strong><u>Play</u></strong>»`: start "
 "viewing the simulation."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:9
@@ -13133,7 +13133,7 @@ msgid ""
 "|icon_pause_button| :raw-html:`«<strong><u>Pause</u></strong>»`: поставить "
 "на паузу просмотр симуляции."
 msgstr ""
-"||icon_pause_button|| :raw-html:`«<strong><u>Pause</u></strong>»`: pause the"
+"|icon_pause_button| :raw-html:`«<strong><u>Pause</u></strong>»`: pause the"
 " simulation view."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:10
@@ -13148,7 +13148,7 @@ msgid ""
 "|icon_stop_button| :raw-html:`«<strong><u>Stop</u></strong>»`: остановить "
 "просмотр симуляции."
 msgstr ""
-"||icon_stop_button|| :raw-html:`<strong><u>Stop</u></strong>`: Stop viewing "
+"|icon_stop_button| :raw-html:`<strong><u>Stop</u></strong>`: Stop viewing "
 "the simulation."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:11
@@ -13163,7 +13163,7 @@ msgid ""
 "|icon_record_button| :raw-html:`«<strong><u>Record</u></strong>»`: записать "
 "просмотр симуляции на видео."
 msgstr ""
-"||icon_record_button|| :raw-html:`<strong><u>Record</u></strong>`: Record "
+"|icon_record_button| :raw-html:`<strong><u>Record</u></strong>`: Record "
 "the simulation on video."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:12
@@ -13219,7 +13219,7 @@ msgid ""
 ":raw-html:`<br>` После этого в правой верхней части экрана появится "
 "изображение вашей модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, an image of your model will appear "
+":raw-html:`<br>` After this, an image of your model will appear "
 "in the upper right part of the screen."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:25
@@ -13233,7 +13233,7 @@ msgid ""
 ":raw-html:`<br>` На ней обозначены клетки, оси, а также модельное время, "
 "количество клеток и срез по оси Z."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` It shows cells, axes, as well as model time, "
+":raw-html:`<br>` It shows cells, axes, as well as model time, "
 "number of cells and slice along the Z axis."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:34
@@ -13248,7 +13248,7 @@ msgid ""
 "симуляции, нужно нажать ЛКМ на вкладку **Options**, которая расположена "
 "снизу."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` To view how the model changed during the "
+":raw-html:`<br>` To view how the model changed during the "
 "simulation, you need to click LMB on the **Options** tab, which is located "
 "below."
 
@@ -13263,7 +13263,7 @@ msgid ""
 ":raw-html:`<br>` После этого в правой нижней части экрана появится меню, в "
 "котором можно настраивать просмотр симуляции модели."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, a menu will appear in the lower "
+":raw-html:`<br>` After this, a menu will appear in the lower "
 "right part of the screen in which you can configure the viewing of the model"
 " simulation."
 
@@ -13275,7 +13275,7 @@ msgstr "Options_menu"
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:55
 #: 31b9f44e84b44d00918bb75037db4e88
 msgid ":raw-html:`<br>` В этом меню можно выделить 2 части:"
-msgstr ":raw-html:`:raw-html:`<br>`` There are 2 parts to this menu:"
+msgstr ":raw-html:`<br>` There are 2 parts to this menu:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:58
 #: fe23218ac2894c3db7a125994851c3be
@@ -13296,7 +13296,7 @@ msgstr "Parts_of_the_options_menu"
 #: 55035314cfd84357baf16b80231d96b5
 msgid ":raw-html:`<br>` Далее разберем каждую из этих частей подробнее."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` Next, let's look at each of these parts in more"
+":raw-html:`<br>` Next, let's look at each of these parts in more"
 " detail."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:4
@@ -13559,7 +13559,7 @@ msgid ""
 "Если поле |icon_option| **2D** отмечено, то изображение модели выводится в "
 "2-ух измерениях (А), если нет - в 3-ех (Б)."
 msgstr ""
-"If the field ||icon_option|| **2D** is checked, then the model image is "
+"If the field |icon_option| **2D** is checked, then the model image is "
 "displayed in 2 dimensions (A), if not - in 3 dimensions (B)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_2D.rst:13
@@ -13574,7 +13574,7 @@ msgid ""
 "модель в пространстве, а не на срезе, поэтому значение среза по оси Z в "
 "левом верхнем углу отсутствует."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` When displaying an image in 3 dimensions, we "
+":raw-html:`<br>` When displaying an image in 3 dimensions, we "
 "look at the model in space, and not on a slice, so there is no Z-axis slice "
 "value in the upper left corner."
 
@@ -13614,7 +13614,7 @@ msgid ""
 "Если поле |icon_option| **Axes** отмечено, то на изображении модели будут "
 "отрисовываться оси системы координат модели (А)."
 msgstr ""
-"If the field ||icon_option|| **Axes** is checked, then the axes of the model"
+"If the field |icon_option| **Axes** is checked, then the axes of the model"
 " coordinate system (A) will be drawn on the model image."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Axes.rst:13
@@ -13623,7 +13623,7 @@ msgid ""
 "Если поле |icon_option| **Axes** не отмечено, то оси отображаться не будут "
 "(Б)."
 msgstr ""
-"If the field ||icon_option|| **Axes** is not checked, then the axes will not"
+"If the field |icon_option| **Axes** is not checked, then the axes will not"
 " be displayed (B)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Axes.rst:15
@@ -13642,7 +13642,7 @@ msgid ""
 "Если поле |icon_option| **Cells** отмечено, то на изображении модели будут "
 "отрисовываться клетки (А)."
 msgstr ""
-"If the field ||icon_option|| **Cells** is checked, cells (A) will be drawn "
+"If the field |icon_option| **Cells** is checked, cells (A) will be drawn "
 "on the model image."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Cells.rst:13
@@ -13651,7 +13651,7 @@ msgid ""
 "Если поле |icon_option| **Cells** не отмечено, то клетки отображаться не "
 "будут (Б)."
 msgstr ""
-"If the field ||icon_option|| **Cells** is not checked, then the cells will "
+"If the field |icon_option| **Cells** is not checked, then the cells will "
 "not be displayed (B)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Cells.rst:15
@@ -13670,7 +13670,7 @@ msgid ""
 "Если поле |icon_option| **Draw nuclei** отмечено, то на изображении модели в"
 " клетках будут отрисовываться ядра (А)."
 msgstr ""
-"If the field ||icon_option|| **Draw nuclei** is checked, then nuclei (A) "
+"If the field |icon_option| **Draw nuclei** is checked, then nuclei (A) "
 "will be drawn in the cells in the model image."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:13
@@ -13679,7 +13679,7 @@ msgid ""
 "Если поле |icon_option| **Draw nuclei** не отмечено, то ядра в клетках "
 "отображаться не будут (Б)."
 msgstr ""
-"If the field ||icon_option|| **Draw nuclei** is not checked, then the nuclei"
+"If the field |icon_option| **Draw nuclei** is not checked, then the nuclei"
 " in the cells will not be displayed (B)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:15
@@ -13707,7 +13707,7 @@ msgid ""
 "Для этого нужно нажать ЛКМ справа от поля |icon_option| **Spheres quality** "
 "и из раскрывающегося списка выбрать одно из доступных значений:"
 msgstr ""
-"To do this, click LMB to the right of the ||icon_option|| field. **Spheres "
+"To do this, click LMB to the right of the |icon_option| field. **Spheres "
 "quality** and select one of the available values ​​from the drop-down list:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Options_3D.rst:12
@@ -13747,7 +13747,7 @@ msgid ""
 "выводятся значения модельного времени, количества клеток и среза по оси Z в "
 "случае двумерной модели (А)."
 msgstr ""
-"If the field ||icon_option|| **Statistics** is marked, then the model image "
+"If the field |icon_option| **Statistics** is marked, then the model image "
 "displays the values ​​of model time, number of cells and slice along the Z "
 "axis in the case of a two-dimensional model (A)."
 
@@ -13757,7 +13757,7 @@ msgid ""
 "Если поле |icon_option| **Statistics** не отмечено, то такая информация "
 "указываться не будет (Б)."
 msgstr ""
-"If the field ||icon_option|| **Statistics** is not checked, then such "
+"If the field |icon_option| **Statistics** is not checked, then such "
 "information will not be indicated (B)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics.rst:15
@@ -13804,8 +13804,8 @@ msgid ""
 "**Statistics Y**, можно регулировать расположение дополнительной информации "
 "о модели на изображении."
 msgstr ""
-"By changing the field values ​​|||icon_option||| **Statistics X** and "
-"|||icon_option||| **Statistics Y**, you can adjust the location of "
+"By changing the field values ​​||icon_option|| **Statistics X** and "
+"||icon_option|| **Statistics Y**, you can adjust the location of "
 "additional information about the model in the image."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics_XY.rst:25
@@ -13832,7 +13832,7 @@ msgid ""
 "справа от поля |icon_option| **Substrate**."
 msgstr ""
 "To display the substrate when viewing a model simulation, you need to put a "
-"☑ to the right of the ||icon_option|| **Substrate**."
+"☑ to the right of the |icon_option| **Substrate**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Substrate.rst:13
 #: bdf61b88247e43749bf73a50c5a22af9
@@ -13846,7 +13846,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Substrate.rst:15
 #: f8aedb0df9364b218569f4901ce65446
 msgid "Нажать ЛКМ справа от поля |icon_option| **Substrate name**."
-msgstr "Click LMB to the right of the ||icon_option|| **Substrate name**."
+msgstr "Click LMB to the right of the |icon_option| **Substrate name**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Substrate.rst:16
 #: a0ab2ead77c44c5fb2054314df20cfa5
@@ -13865,7 +13865,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Substrate.rst:20
 #: 40462c86befe4d4c8728be718865c0f6
 msgid "Нажать ЛКМ справа от поля |icon_option| **Density Color**."
-msgstr "Click LMB to the right of the ||icon_option|| **Density Color**."
+msgstr "Click LMB to the right of the |icon_option| **Density Color**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Substrate.rst:21
 #: d925050f818d4d7a8b2be4b8c286068f
@@ -13889,7 +13889,7 @@ msgstr ""
 #: a32e9832ea1e4a75ba90a7e36b11fd1b
 msgid ""
 "Справа от |icon_option| **Time** ввести любое значение модельного времени."
-msgstr "To the right of ||icon_option|| **Time** enter any model time value."
+msgstr "To the right of |icon_option| **Time** enter any model time value."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time.rst:14
 #: a368cec964db47eb86c80f9df2d28026
@@ -13911,13 +13911,13 @@ msgid ""
 "Справа от |icon_option| **Time** ввести значение модельного времени, начиная"
 " с которого вы хотите воспроизвести симуляцию."
 msgstr ""
-"To the right of ||icon_option|| **Time** enter the model time value from "
+"To the right of |icon_option| **Time** enter the model time value from "
 "which you want to play the simulation."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time.rst:19
 #: 7e3f2c9396724bce9539ccc9e3f362e7
 msgid "Нажать ЛКМ кнопку |icon_play_button|."
-msgstr "Click the ||icon_play_button|| button."
+msgstr "Click the |icon_play_button| button."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time.rst:21
 #: 75d90f7ba96248b2b482a1613ad90ea9
@@ -13927,8 +13927,8 @@ msgid ""
 "нажать ЛКМ кнопку |icon_play_button|."
 msgstr ""
 "At any time during the simulation playback, you can stop it by pressing LMB "
-"on the ||icon_pause_button|| button. To continue playback, you need to press"
-" the ||icon_play_button|| button again."
+"on the |icon_pause_button| button. To continue playback, you need to press"
+" the |icon_play_button| button again."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time.rst:23
 #: 482d36201c044742a79561186da22f99
@@ -13936,8 +13936,8 @@ msgid ""
 "Чтобы остановить воспроизведение симуляции, нужно нажать ЛКМ кнопку "
 "|icon_stop_button| (Значение |icon_option| **Time** станет равным 0)."
 msgstr ""
-"To stop playing the simulation, click LMB on the ||icon_stop_button|| (The "
-"value of ||icon_option|| **Time** will become 0)."
+"To stop playing the simulation, click LMB on the |icon_stop_button| (The "
+"value of |icon_option| **Time** will become 0)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time_step.rst:4
 #: 33ed8f54e9364926a826fa19d6ff7daa
@@ -13950,7 +13950,7 @@ msgid ""
 "По умолчанию значение поля |icon_option| **Time step** будет равным "
 "параметру **Image interval**, указываемому при настройке симуляции модели."
 msgstr ""
-"The default field value is ||icon_option|| **Time step** will be equal to "
+"The default field value is |icon_option| **Time step** will be equal to "
 "the **Image interval** parameter specified when setting up the model "
 "simulation."
 
@@ -13991,8 +13991,8 @@ msgid ""
 "Нажать ЛКМ на |icon_option| **(select element)** справа от |icon_option| "
 "**Result video path**."
 msgstr ""
-"Click LMB on |||icon_option||| **(select element)** to the right of "
-"|||icon_option||| **Result video path**."
+"Click LMB on ||icon_option|| **(select element)** to the right of "
+"||icon_option|| **Result video path**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:17
 #: 94d4f58843cb4a9d8523acf1a472fb6e
@@ -14025,9 +14025,9 @@ msgid ""
 "секунду (FPS, frame per second), в видео. Для этого укажите нужное вам "
 "значение справа от поля |icon_option| **Frame per second**."
 msgstr ""
-":raw-html:`:raw-html:`<br>`` You also need to select the number of frames "
+":raw-html:`<br>` You also need to select the number of frames "
 "shown per 1 second (FPS, frame per second) in the video. To do this, specify"
-" the value you need to the right of the ||icon_option|| field. **Frame per "
+" the value you need to the right of the |icon_option| field. **Frame per "
 "second**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:29
@@ -14044,8 +14044,8 @@ msgid ""
 " видео началась."
 msgstr ""
 "To start recording video, you need to click LMB on the "
-"|||icon_record_button||| on the button panel. After this, the button "
-"|||icon_record_button||| will become ||icon_recorded_button||, which means "
+"||icon_record_button|| on the button panel. After this, the button "
+"||icon_record_button|| will become |icon_recorded_button|, which means "
 "that video recording has started."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:11
@@ -14071,8 +14071,8 @@ msgid ""
 "|icon_recorded_button|. Кнопка станет |icon_record_button|, что означает, "
 "что запись видео завершена."
 msgstr ""
-"To stop video recording, click LMB on the ||icon_recorded_button|| button. "
-"The button will become ||icon_record_button||, which means the video "
+"To stop video recording, click LMB on the |icon_recorded_button| button. "
+"The button will become |icon_record_button|, which means the video "
 "recording is complete."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:37
@@ -14081,7 +14081,7 @@ msgid ""
 "Теперь в выбранной директории появится файл |icon_video| "
 "**[ваше_название].mp4**, в котором записано ваше видео."
 msgstr ""
-"Now the file ||icon_video|| will appear in the selected directory. "
+"Now the file |icon_video| will appear in the selected directory. "
 "**[your_name].mp4**, which contains your video."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:12
@@ -14160,8 +14160,8 @@ msgid ""
 "выпадающем списке нажмите ЛКМ на |icon_option| **New Diagram**."
 msgstr ""
 "After creating the project, you can proceed directly to creating the model. "
-"To do this, right-click on ||icon_folder||, where you want to create the "
-"model, and in the drop-down list, click LMB on ||icon_option|| **New "
+"To do this, right-click on |icon_folder|, where you want to create the "
+"model, and in the drop-down list, click LMB on |icon_option| **New "
 "Diagram**."
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:10
@@ -14185,7 +14185,7 @@ msgid ""
 ":raw-html:`<br>` После этого в появившемся окне вы можете настроить свою "
 "модель:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the window that appears, you can"
+":raw-html:`<br>` After this, in the window that appears, you can"
 " configure your model:"
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:30
@@ -14229,7 +14229,7 @@ msgid ""
 "В результате, в выбранной папке появится созданная вами модель со значком "
 "|icon_Type_Diagram|."
 msgstr ""
-"As a result, the model you created with the ||icon_Type_Diagram|| icon will "
+"As a result, the model you created with the |icon_Type_Diagram| icon will "
 "appear in the selected folder."
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:48
@@ -14240,7 +14240,7 @@ msgstr "Diagram"
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:53
 #: 119326d8596e4ce2b9750ccdeedbeb79
 msgid ":raw-html:`<br>` Чтобы удалить модель, нужно:"
-msgstr ":raw-html:`:raw-html:`<br>`` To delete a model, you need to:"
+msgstr ":raw-html:`<br>` To delete a model, you need to:"
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:56
 #: d2df3c08e8464b0d8c27b39486aea60e
@@ -14250,7 +14250,7 @@ msgstr "Right-click on the model designation in the tree."
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:57
 #: 4d1fc0b7931b4976ae5f01fa096569cd
 msgid "В выпадающем списке нажать ЛКМ |icon_delete| **Remove**."
-msgstr "In the drop-down list, click LMB ||icon_delete|| **Remove**."
+msgstr "In the drop-down list, click LMB |icon_delete| **Remove**."
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:9
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:9
@@ -14290,7 +14290,7 @@ msgid ""
 ":raw-html:`<br>` После этого в появившемся окне вы можете настроить свой "
 "проект:"
 msgstr ""
-":raw-html:`:raw-html:`<br>`` After this, in the window that appears, you can"
+":raw-html:`<br>` After this, in the window that appears, you can"
 " configure your project:"
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:22
@@ -14364,7 +14364,7 @@ msgstr "Right-click on the project designation in the tree."
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:54
 #: f573e537a8384c4d80e6fe4ed8b7c534
 msgid "В выпадающем списке нажать ЛКМ |icon_delete| **Remove database**."
-msgstr "In the drop-down list, click LMB ||icon_delete|| **Remove database**."
+msgstr "In the drop-down list, click LMB |icon_delete| **Remove database**."
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:56
 #: d1664be0b16249a59e0a4dd450fbe905
