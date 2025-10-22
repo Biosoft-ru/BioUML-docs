@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BioUML \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-12 15:06+0300\n"
+"POT-Creation-Date: 2025-10-22 12:27+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../source/index.rst:13
 msgid "Начало работы в BioUML"
@@ -52,14 +52,14 @@ msgid "Численный анализ модели"
 msgstr ""
 
 #: ../../source/index.rst:67
-msgid "Physicell модели"
+msgid "Physicell"
 msgstr ""
 
-#: ../../source/index.rst:2 26b31f87a2c74b04a499d60324b8e07c
+#: ../../source/index.rst:2 55453d37d32b4ab9a6838a8c4130e284
 msgid "BioUML platform"
 msgstr ""
 
-#: ../../source/index.rst:12 0a4d02677a0b433f86b5e3845607a9b3
+#: ../../source/index.rst:12 66ac2e01e59147fdbe581faaefdf77f5
 msgid ""
 "BioUML is an integrated platform for systems biology br and collaborative"
 " analysis of biomedical data"
