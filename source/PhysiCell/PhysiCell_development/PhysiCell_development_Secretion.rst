@@ -29,9 +29,9 @@
 :raw-html:`<br>`
 Чтобы настроить параметры созданной секреции/потребления, нужно нажать ПКМ на стрелку на диаграмме, обозначающую данную секрецию/потребление, и в раскрывающемся списке нажать ЛКМ на кнопку **Edit**.
 
-.. figure:: /images/Physicell/Physicell_model_development/Edit_reaction.png
+.. figure:: /images/Physicell/Physicell_model_development/Edit_secretion.png
    :width: 80%
-   :alt: Edit_reaction
+   :alt: Edit_secretion
    :align: center
 
 :raw-html:`<br>`

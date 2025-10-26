@@ -35,7 +35,7 @@
 :raw-html:`<br>`
 
 - **Diagram name**: название модели,
-- **Diagram type**: тип модели (:raw-html:`<span style="color: red;">нужно выбрать PhysicellDiagramType</span>`),
+- **Diagram type**: тип модели (:raw-html:`<span style="color: red;">нужно выбрать Physicell model</span>`),
 - **Diagram type description**: описание выбранного типа диаграммы.
 
 После настройки диаграммы нажмите **Ok**.

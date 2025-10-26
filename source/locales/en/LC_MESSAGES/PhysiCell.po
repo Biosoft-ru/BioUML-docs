@@ -363,10 +363,10 @@ msgstr "Name of the cell life cycle (Name)"
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:68
 #: cf67b1d365524ebfb0af2aff79950ac0
 msgid ""
-"При нажатии слева от кнопки |icon_option| **Name** раскрывается список, в "
+"При нажатии справа от кнопки |icon_option| **Name** раскрывается список, в "
 "котором можно выбрать тип жизненного цикла клетки:"
 msgstr ""
-"When clicking to the left of the |icon_option| **Name** opens a list in "
+"When clicking to the right of the |icon_option| **Name** opens a list in "
 "which you can select the type of cell life cycle:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:70
@@ -386,12 +386,12 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:78
 #: d0dff57681e34e53b63a2c3de4b7c573
 msgid ""
-"**Ki67 (advanced**: жизненный цикл, состоящий из трех фаз - :raw-"
+"**Ki67 (advanced)**: жизненный цикл, состоящий из трех фаз - :raw-"
 "html:`«<u>Ki67-</u>», «<u>Ki67+ (premitotic)</u>» и «<u>Ki67+ "
 "(postmitotic)</u>»`,"
 msgstr ""
-"**Ki67 (advanced**: life cycle consisting of three phases - :raw-"
-"html:`\"<u>Ki67-</u>\", \"<u>Ki67+ (premitotic)</u>\" and \"<u>Ki67+ "
+"**Ki67 (advanced)**: life cycle consisting of three phases - :raw-"
+"html:`\"<u>Ki67-</u>\", \"<u>Ki67+ (premitotic)</u>\", and \"<u>Ki67+ "
 "(postmitotic)</u>\"`,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:79
@@ -410,7 +410,7 @@ msgid ""
 ":raw-html:`«<u>G0/G1</u>», «<u>S</u>» и «<u>G2/M</u>»`,"
 msgstr ""
 "**Flow cytometry model (basic)**: life cycle consisting of three phases - "
-":raw-html:`“<u>G0/G1</u>”, “<u>S</u>” and “<u>G2/M</u>”`,"
+":raw-html:`“<u>G0/G1</u>”, “<u>S</u>”, and “<u>G2/M</u>”`,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:81
 #: 72633a4ffd0242dcbada9d989b0d04f9
@@ -419,12 +419,12 @@ msgid ""
 "фаз - :raw-html:`«<u>G0/G1</u>», «<u>S</u>», «<u>G2</u>» и «<u>M</u>»`,"
 msgstr ""
 "**Flow cytometry model (separated)**: life cycle consisting of four phases -"
-" :raw-html:`“<u>G0/G1</u>”, “<u>S</u>”, “<u>G2</u>” and “<u>M</u>”`,"
+" :raw-html:`“<u>G0/G1</u>”, “<u>S</u>”, “<u>G2</u>”, and “<u>M</u>”`,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:82
 #: 5d98c3e18a2c4971a448597f2ed69413
 msgid "**Custom**: пользовательский жизненный цикл."
-msgstr "**Custom**: Custom lifecycle."
+msgstr "**Custom**: custom lifecycle."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:84
 #: baf07be539854529b75c01bbf63b69bf
@@ -498,7 +498,7 @@ msgid ""
 "клетка делилась по окончании выбранной фазы жизненного цикла."
 msgstr ""
 ":raw-html:`<br>` When you open any of the tabs in the **Phases**"
-" field, the icon |icon_option| appears **Division on exit**. Check ☑ if "
+" field, the icon |icon_option| **Division on exit** appears. Check ☑ if "
 "you want the cell to divide at the end of the selected phase of the life "
 "cycle."
 
@@ -525,12 +525,12 @@ msgstr "Transitions_rate_fixed"
 #: 07d9d4bb99484a6086d7d946370df230
 msgid ""
 "|icon_option| **Rate**: скорость перехода между соответствующими фазами "
-"жизненного цикла клетки (можно изменять, нажав ЛКМ на число слева и вписав "
+"жизненного цикла клетки (можно изменять, нажав ЛКМ на число справа и вписав "
 "собственное значение),"
 msgstr ""
 "|icon_option| **Rate**: the rate of transition between the corresponding "
 "phases of the cell’s life cycle (can be changed by clicking LMB on the "
-"number on the left and entering your own value),"
+"number on the right and entering your own value),"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:130
 #: 9dc453e52df0403099baff7b7d13d9bb
@@ -586,7 +586,7 @@ msgid ""
 "Нажать ЛКМ на вкладку |icon_option| **Phases** или |icon_option| "
 "**Transitions**."
 msgstr ""
-"Click LMB on the |icon_option| tab **Phases** or |icon_option| "
+"Click LMB on the tab |icon_option| **Phases** or |icon_option| "
 "**Transitions**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:146
@@ -995,7 +995,7 @@ msgid ""
 msgstr ""
 ":raw-html:`<br>` If the division of the selected cell type "
 "should occur asymmetrically, then check the ☑ to the right of the "
-"|icon_option| field. **Asymmetric division**."
+"field |icon_option| **Asymmetric division**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Division.rst:23
 #: 83e9d84866454e4ea25986e2042e4d69
@@ -1118,6 +1118,11 @@ msgstr ""
 #: d7b1bbd039a64f848dc3da81c2dc5117
 msgid "Пример настройки асимметричного деления клетки"
 msgstr "Example of setting up asymmetric cell division"
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Division.rst:83
+#: 
+msgid "│   ├── Cell type: Нейрон"
+msgstr "│   ├── Cell type: The neuron"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:4
 #: 48741c2aab5d4ecbbb1ce1d125e53af2
@@ -2018,7 +2023,7 @@ msgstr "**Interactions**: intercellular interactions,"
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_MAIN.rst:36
 #: 0f9fba295d1142728a16d1f058e77ebc
 msgid "**Transformations**: трансформация клетки,"
-msgstr "**Transformations**: cell transformation,"
+msgstr "**Transformations**: cell transformations,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_MAIN.rst:37
 #: 4a0082859b5c4a43963e1b3718060c83
@@ -2979,7 +2984,7 @@ msgid ""
 msgstr ""
 "When specifying a color in this window, it will be assumed that all the "
 "internal contents of cells of this type will have the selected color, the "
-"outline of the cells will be black, and the nucleus will not be drawn."
+"border of the cells will be black, and the nucleus will not be drawn."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:40
 #: 72d894eddd7d4ff29550d676430f364d
@@ -3097,8 +3102,8 @@ msgid ""
 "Напротив поля |icon_option| **Predefined style** выбрать из раскрывающегося "
 "списка **Not selected**."
 msgstr ""
-"Opposite the field |icon_option| **Predefined style** select from the "
-"**Not selected** drop-down list."
+"Opposite the field |icon_option| **Predefined style** select **Not selected** "
+"from the drop-down list."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Change_color.rst:16
 #: 1706112edd7547ac99917b495b192e1a
@@ -3233,7 +3238,7 @@ msgid ""
 "хемотаксиса:"
 msgstr ""
 "After this, in the window that appears, you need to set the parameters of "
-"the variable chemotaxis:"
+"the chemotaxis:"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Chemotaxis.rst:35
 #: 797dda097cca4d40aa4a983ac2dd5daa
@@ -3264,7 +3269,7 @@ msgid ""
 " изменяется!</span>`),"
 msgstr ""
 "**Substrate**: name of the substrate (:raw-html:`<span style=\"color: "
-"red;\">does not change!</span>`),"
+"red;\">unchangeable!</span>`),"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Chemotaxis.rst:45
 #: f84730a259cd47b3ad5d08f40ed5e054
@@ -3370,16 +3375,6 @@ msgid ""
 "событие,"
 msgstr ""
 "**Execution time**: model time, upon reaching which the event is triggered,"
-
-#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:35
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:21
-#: 0f0b4ec2e2594e0b8c00fe09ae018fb2 d8e72e791d5d4182a1e0815623b8e8fe
-msgid ""
-"**Custom Execution code**: выберите ☑, чтобы задать путь до Java-кода, "
-"который выполнится при срабатывании события,"
-msgstr ""
-"**Custom Execution code**: select ☑ to set the path to the Java code that "
-"will be executed when the event is triggered,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:36
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:22
@@ -3547,7 +3542,7 @@ msgid ""
 "(:raw-html:`<span style=\"color: red;\">не изменяется!</span>`),"
 msgstr ""
 "**Cell type**: name of the type of cells on which the action is performed "
-"(:raw-html:`<span style=\"color: red;\">does not change!</span>`),"
+"(:raw-html:`<span style=\"color: red;\">unchangeable!</span>`),"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:49
 #: b0ded96c39c14540855c1dfeb4c8dc85
@@ -3631,7 +3626,7 @@ msgid ""
 "соответствующую иконку ЛКМ. Описание каждого инструмента представлено ниже."
 msgstr ""
 ":raw-html:`<br>` You can select a particular tool by clicking on"
-" the corresponding LMB icon. A description of each tool is provided below."
+" the corresponding icon. A description of each tool is provided below."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:85
 #: f3a05914c7c945dc82db7b4053a189af
@@ -3761,7 +3756,7 @@ msgid ""
 "**Секреция/Потребление** (|icon_secretion|): выделение/поглощение клеткой "
 "того или иного субстрата."
 msgstr ""
-"**Secretion/Consumption** (|icon_secretion|): secretion/absorption of a "
+"**Secretion/Consumption** (|icon_secretion|): secretion/consumption of a "
 "particular substrate by a cell."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:124
@@ -3808,7 +3803,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:10
 #: b6064ac82d6c4b27977c57915b228efb
 msgid "Чтобы создать в модели секрецию/потребление, нужно:"
-msgstr "To create a secretion/consumption model, you need:"
+msgstr "To create a secretion/consumption, you need:"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:12
 #: 4b1bb21c49294e04b9de31ee7fb265ce
@@ -3876,7 +3871,7 @@ msgid ""
 "изменяемой секреции/потребления:"
 msgstr ""
 ":raw-html:`<br>` After this, in the window that appears, you "
-"need to set the parameters of the variable secretion/consumption:"
+"need to set the parameters of the secretion/consumption:"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:40
 #: 8f620211f58a42d4acf9e4a39d8d8be2
@@ -3895,7 +3890,7 @@ msgid ""
 "html:`<span style=\"color: red;\">не изменяется!</span>`),"
 msgstr ""
 "**Substrate**: name of the allocated/consumed substrate (:raw-html:`<span "
-"style=\"color: red;\">does not change!</span>`),"
+"style=\"color: red;\">unchangeable!</span>`),"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:50
 #: 91cfc2bd7120450688e639d43fd878a0
@@ -3970,7 +3965,7 @@ msgid ""
 "T - значение «насыщения», при котором прекращается секреция (Secretiom "
 "Target),"
 msgstr ""
-"T is the “saturation” value at which secretion stops (Secretiom Target),"
+"T - “saturation” value at which secretion stops (Secretiom Target),"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:73
 #: ddec7efd9eaf44828f2c8f2833d239b6
@@ -3994,7 +3989,7 @@ msgid ""
 "следующего вида:"
 msgstr ""
 "In cases where all secretion/consumption parameters, except **Net export "
-"rate** (S, T and U), have zero values, the formula can be simplified to the "
+"rate** (S, T, and U), have zero values, the formula can be simplified to the "
 "following form:"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:78
@@ -4048,20 +4043,20 @@ msgid ""
 "**Initial condition**: исходное количество субстрата в каждой :ref:`ячейке "
 "среды <Physicell_microenvironment_Domain>`,"
 msgstr ""
-"**Initial condition**: initial amount of substrate in each :ref:`cell of the"
+"**Initial condition**: initial amount of substrate in each :ref:`cell of the "
 "environment <Physicell_microenvironment_Domain>`,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:28
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:24
 #: 0f99216a78f44479abc41a97d5dd7b8c a276f06df8f84bb395f627243106dd9d
 msgid "**Decay rate**: скорость разложения субстрата в среде,"
-msgstr "**Decay rate**: rate of decomposition of the substrate in the medium,"
+msgstr "**Decay rate**: rate of decomposition of the substrate in the environment,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:29
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:25
 #: 255d1bb071014d218cfb32673ca6f5bb a3eb51e265bd428f958936ef39b302ce
 msgid "**Diffusion coefficient**: скорость диффузии субстрата в среде,"
-msgstr "**Diffusion coefficient**: substrate diffusion rate in the medium,"
+msgstr "**Diffusion coefficient**: substrate diffusion rate in the environment,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:30
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:26
@@ -4071,7 +4066,7 @@ msgid ""
 "границе среды X = X<sub>min</sub>`,"
 msgstr ""
 "**X min**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the medium X = X<sub>min</sub>`,"
+"substrate at the boundary of the environment X = X<sub>min</sub>`,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:31
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:27
@@ -4081,7 +4076,7 @@ msgid ""
 "границе среды X = X<sub>max</sub>`,"
 msgstr ""
 "**X max**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the medium X = X<sub>max</sub>`,"
+"substrate at the boundary of the environment X = X<sub>max</sub>`,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:32
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:28
@@ -4091,7 +4086,7 @@ msgid ""
 "границе среды Y = Y<sub>min</sub>`,"
 msgstr ""
 "**Y min**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the medium Y = Y<sub>min</sub>`,"
+"substrate at the boundary of the environment Y = Y<sub>min</sub>`,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:33
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:29
@@ -4101,7 +4096,7 @@ msgid ""
 "границе среды Y = Y<sub>max</sub>`,"
 msgstr ""
 "**Y max**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the medium Y = Y<sub>max</sub>`,"
+"substrate at the boundary of the environment Y = Y<sub>max</sub>`,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:34
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:30
@@ -4111,7 +4106,7 @@ msgid ""
 "границе среды Z = Z<sub>min</sub>`,"
 msgstr ""
 "**Z min**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the medium Z = Z<sub>min</sub>`,"
+"substrate at the boundary of the environment Z = Z<sub>min</sub>`,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:35
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:31
@@ -4121,7 +4116,7 @@ msgid ""
 "границе среды Z = Z<sub>max</sub>`."
 msgstr ""
 "**Z max**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the medium Z = Z<sub>max</sub>`."
+"substrate at the boundary of the environment Z = Z<sub>max</sub>`."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:38
 #: fe65d6b9d18b41abaa5cc92f9260b028
@@ -4129,7 +4124,7 @@ msgid ""
 "Граничное значение означает что на соответствующей границе среды "
 "поддерживается заданное значение концентрации постоянно."
 msgstr ""
-"The limit value means that at the corresponding boundary of the medium the "
+"The limit value means that at the corresponding boundary of the environment the "
 "specified concentration value is constantly maintained."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:39
@@ -9337,7 +9332,7 @@ msgstr "result[0] - color of the internal contents of the cell."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:60
 #: 26d061c8501e416eb5a705232c9a2c75 2e7a2de5b5674680876eaf2302fa0d84
 msgid "result[1] - цвет контура клетки."
-msgstr "result[1] - cell outline color."
+msgstr "result[1] - cell border color."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:54
 #: e3c1b2d791634f59895b5154a6ba59ba
@@ -9347,7 +9342,7 @@ msgstr "result[3] - color of the cell nucleus."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:55
 #: f23e31d1e51e43828f85edcf337962ff
 msgid "result[4] - цвет контура ядра."
-msgstr "result[4] - core outline color."
+msgstr "result[4] - core border color."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:57
 #: 101620aff38849f4b94ad595a9ffe003
@@ -9361,7 +9356,7 @@ msgid ""
 "внутренее содержимое клетки, а ее контур будет черным."
 msgstr ""
 "If the array consists of 1 color, then the internal contents of the cell "
-"will be drawn with this color, and its outline will be black."
+"will be drawn with this color, and its border will be black."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:64
 #: 346ba7520d9f46009605850006afd594
@@ -9995,7 +9990,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:71
 #: bdae0699df7d45d58c6026211b51d6e2
 msgid "**Has border**: отметьте ☑, если хотите отрисовывать контур клетки,"
-msgstr "**Has border**: check ☑ if you want to draw the outline of the cell,"
+msgstr "**Has border**: check ☑ if you want to draw the border of the cell,"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:72
 #: 590d55f81fa74000bf9c3a193150851a
@@ -10004,7 +9999,7 @@ msgid ""
 "(:raw-html:`<span style=\"color: red;\">редактируется, только если выбрано "
 "свойство \"Has border\"</span>`),"
 msgstr ""
-"**Border color**: the color with which the cell outline is drawn (:raw-"
+"**Border color**: the color with which the cell border is drawn (:raw-"
 "html:`<span style=\"color: red;\">editable only if the \"Has "
 "border\"</span>` property is selected),"
 
@@ -10031,7 +10026,7 @@ msgid ""
 "клетки (:raw-html:`<span style=\"color: red;\">редактируется, только если "
 "выбрано свойство \"Has core\"</span>`)."
 msgstr ""
-"**Core border Color**: the color with which the outline of the cell core is "
+"**Core border Color**: the color with which the border of the cell core is "
 "drawn (:raw-html:`<span style=\"color: red;\">editable only if the \"Has "
 "core\"</span>` property is selected)."
 
@@ -11796,7 +11791,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:39
 #: 1c00391086394d13bb5b75e0f25c1927
 msgid "**Color2**: цвет, с помощью которого отрисовывается контур клетки,"
-msgstr "**Color2**: color used to draw the cell outline,"
+msgstr "**Color2**: color used to draw the cell border,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:40
 #: 3b0f5f5c11c84b5cb0d7a88b72aac8dc
@@ -11811,7 +11806,7 @@ msgstr ""
 #: 97ce82f5516e47b587ed4eab935ee249
 msgid ""
 "**Color4**: цвет, с помощью которого отрисовывается контур ядра клетки."
-msgstr "**Color4**: the color used to draw the outline of the cell nucleus."
+msgstr "**Color4**: the color used to draw the border of the cell nucleus."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:44
 #: 5f3dd0b4384f4c7a8486b7d60d6fed13
@@ -11836,7 +11831,7 @@ msgstr "the nucleus of the cell is not drawn,"
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:50
 #: e43d70a21ad94ee999ec235b0809b78f
 msgid "контур клетки отрисовывается черным цветом [0,0,0],"
-msgstr "the cell outline is drawn in black [0,0,0],"
+msgstr "the cell border is drawn in black [0,0,0],"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:51
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:57
@@ -11856,7 +11851,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:56
 #: b2186e7dcc794a29a1262760972166b5
 msgid "контур клетки отрисовывается цветом Color2,"
-msgstr "the outline of the cell is drawn with Color2,"
+msgstr "the border of the cell is drawn with Color2,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:59
 #: 6e4f369f627b41ec83ba169876d5f8aa
@@ -14202,10 +14197,10 @@ msgstr "**Diagram name**: model name,"
 #: 0bf0ca6356384026b5b9b55a9d490546
 msgid ""
 "**Diagram type**: тип модели (:raw-html:`<span style=\"color: red;\">нужно "
-"выбрать PhysicellDiagramType</span>`),"
+"выбрать Physicell model</span>`),"
 msgstr ""
 "**Diagram type**: model type (:raw-html:`<span style=\"color: red;\">you "
-"need to select PhysicellDiagramType</span>`),"
+"need to select Physicell model</span>`),"
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:39
 #: 3d0cff36e295462aab13debb144db51b
@@ -14216,7 +14211,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:41
 #: b781ba6386ff4a12870f3385c1bc1720
 msgid "После настройки диаграммы нажмите **Ok**."
-msgstr "After setting up the chart, click **Ok**."
+msgstr "After setting up the diagram, click **Ok**."
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Model.rst:44
 #: 24af3a2b200846629832b9ab477647ed
@@ -14301,17 +14296,17 @@ msgstr "Project_creation"
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:29
 #: 93eee24bb2994e15a40c7b8e65574ced
 msgid "**Project name**: название проекта,"
-msgstr "**Project name**: project name,"
+msgstr "**Project name**,"
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:30
 #: 1ee815df5d7d48b7ada2d4ef38f56ab2
 msgid "**Table implementation**: реализация таблиц (File или SQL),"
-msgstr "**Table implementation**: table implementation (File or SQL),"
+msgstr "**Table implementation**: File or SQL,"
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:31
 #: 5b4f00b41cc34d759b71a8727f0b8c29
 msgid "**SQL connection**: SQL-соединение,"
-msgstr "**SQL connection**: SQL connection,"
+msgstr "**SQL connection**,"
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:32
 #: dc77d752413e4ad99828f226584e5377

@@ -29,6 +29,12 @@
 :raw-html:`<br>`
 Чтобы настроить параметры созданного взаимодействия, нужно нажать ПКМ на стрелку на диаграмме, обозначающую данное взаимодействие, и в раскрывающемся списке нажать ЛКМ на кнопку **Edit**.
 
+.. figure:: /images/Physicell/Physicell_model_development/Edit_interaction.png
+   :width: 80%
+   :alt: Edit_interaction
+   :align: center
+
+:raw-html:`<br>`
 После этого в появившемся окне необходимо задать параметры изменяемого взаимодействия:
 
 .. figure:: /images/Physicell/Physicell_model_development/Interaction_parameters.png

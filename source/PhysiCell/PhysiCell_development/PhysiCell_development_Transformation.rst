@@ -29,6 +29,12 @@
 :raw-html:`<br>`
 Чтобы настроить параметры созданной трансформации, нужно нажать ПКМ на стрелку на диаграмме, обозначающую данную трансформацию, и в раскрывающемся списке нажать ЛКМ на кнопку **Edit**.
 
+.. figure:: /images/Physicell/Physicell_model_development/Edit_transformation.png
+   :width: 80%
+   :alt: Edit_transformation
+   :align: center
+
+:raw-html:`<br>`
 После этого в появившемся окне необходимо задать параметры изменяемой трансформации:
 
 .. figure:: /images/Physicell/Physicell_model_development/Transformation_parameters.png

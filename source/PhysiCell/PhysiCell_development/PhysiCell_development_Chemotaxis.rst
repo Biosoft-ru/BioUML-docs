@@ -30,6 +30,12 @@
 :raw-html:`<br>`
 Чтобы редактировать параметры созданного хемотаксиса, нужно нажать ПКМ на стрелку на диаграмме, обозначающую данный хемотаксис, и в раскрывающемся списке нажать ЛКМ на кнопку **Edit**.
 
+.. figure:: /images/Physicell/Physicell_model_development/Edit_chemotaxis.png
+   :width: 80%
+   :alt: Edit_chemotaxis
+   :align: center
+
+:raw-html:`<br>`
 После этого в появившемся окне необходимо задать параметры изменяемого хемотаксиса:
 
 .. figure:: /images/Physicell/Physicell_model_development/Chemotaxis_parameters.png
