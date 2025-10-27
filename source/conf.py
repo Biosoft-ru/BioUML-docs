@@ -51,8 +51,9 @@ simplepdf_vars = {
 # -- Internationalization ----------------------------------------------------
 
 locale_dirs = ['locales/']  # path is example but recommended.
-gettext_compact = True     # optional.
+gettext_compact = True     # optional - make 1 pot file from 1 folder, not 1 pot file for every rst file.
 gettext_uuid = True
+gettext_additional_targets = ['literal-block'] # to add code-blocks in pot files
 
 # -- Options for HTML output -------------------------------------------------
 
