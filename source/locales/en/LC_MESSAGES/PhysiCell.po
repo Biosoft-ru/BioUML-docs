@@ -1223,7 +1223,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:39
 #: 247490eb211f4d9b855b0523215f19f8
-#, fuzzy
 msgid ""
 "*Default O2-based phenotype* - описывает жизнедеятельность клетки в "
 "зависимости от концентрации кислорода в среде."
@@ -1252,7 +1251,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:45
 #: 9664d8afaa134234bc9338bd70d42aa5
-#, fuzzy
 msgid "**Custom rule**: дополнительная функция поведения клетки."
 msgstr ""
 "**Custom rule**: additional cell behavior function."
@@ -1277,7 +1275,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:50
 #: 4369c59eb71e4b498a51b076415431b6
-#, fuzzy
 msgid "**Velocity update**: описывает изменение скорости передвижения клетки."
 msgstr ""
 "**Velocity update**: describes changes in cell movement speed."
@@ -1295,7 +1292,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:54
 #: f36aaa12d6a14fc9b69f05267e5c1d51
-#, fuzzy
 msgid "**Migration update**: описывает передвижения клетки."
 msgstr ""
 "**Migration update**: describes cell movement."
@@ -1345,7 +1341,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:64
 #: edc0e870b2d04091938b9b41787c8989
-#, fuzzy
 msgid ""
 "**Membrane distance calculator**: описывает расчет клеткой расстояния до "
 "базальной мембраны."
@@ -1355,7 +1350,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:66
 #: 8a65fea4064141068a8df993c8b1fa3c
-#, fuzzy
 msgid "*Domain edge distance* - рассчитывает расстояние до края мембраны."
 msgstr ""
 "*Domain edge distance* - calculates the distance to the membrane edge."
@@ -1368,7 +1362,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:70
 #: 13ea30c223ab4516bf6560ba8b9771c9
-#, fuzzy
 msgid "*Up orientation* - ориентация параллельно оси Z."
 msgstr ""
 "*Up orientation* - orientation parallel to the Z-axis."
@@ -1398,14 +1391,12 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:78
 #: 875b48e5492f49a9a9803fef46fe4619
-#, fuzzy
 msgid "**Cell division**: описывает процесс деления клетки."
 msgstr ""
 "**Cell division**: describes the cell division process."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:80
 #: ef968d30203e40c4ba54b090805ad969
-#, fuzzy
 msgid "*Standard asymmetric division* - клетка делится асимметрично."
 msgstr ""
 "*Standard asymmetric division* - the cell divides asymmetrically."
