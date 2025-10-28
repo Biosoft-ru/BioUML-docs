@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  BioUML\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-27 23:14+0300\n"
+"POT-Creation-Date: 2025-10-28 13:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -58,7 +58,7 @@ msgstr ":raw-html:`<br>` To add new data, you need:"
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:24
 #: d49ea6c73ec047f89c43e814811d621e
 msgid "Нажать ЛКМ на вкладку |icon_option| **Variables**."
-msgstr "Click LMB on the |icon_option| tab **Variables**."
+msgstr "Click LMB on the tab |icon_option| **Variables**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Custom_data.rst:9
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Cycle.rst:51
@@ -199,7 +199,7 @@ msgstr "Edit_custom_data"
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:37
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:71
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Division.rst:66
-#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:103
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:89
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:38
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:60
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Integrity.rst:16
@@ -765,7 +765,7 @@ msgid ""
 ":ref:`этот функционал <Physicell_cell_properties_Actions>`."
 msgstr ""
 ":raw-html:`<br>` Having selected a specific type of cell death, you can "
-"use :ref:`this <Physicell_cell_properties_Actions>` functionality."
+"use :ref:`this functionality <Physicell_cell_properties_Actions>`."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:30
 #: 251bc48b25a24109adad16f999e60eb3
@@ -838,7 +838,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:47
 #: a746bd4156ab4f30bf27ed62ac07c189
 msgid "**Time Units**: единицы измерения времени."
-msgstr "**Time Units**: Time units."
+msgstr "**Time Units**: time units."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:51
 #: ac0243a9c40e43e083efcd90253f419b
@@ -908,8 +908,8 @@ msgid ""
 "Настройка фаз и переходов происходит с помощью :ref:`этого функционал "
 "<Physicell_cell_properties_Actions>`."
 msgstr ""
-"Setting up phases and transitions occurs using :ref:`this "
-"<Physicell_cell_properties_Actions>` functionality."
+"Setting up phases and transitions occurs using :ref:`this functionality "
+"<Physicell_cell_properties_Actions>`."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:80
 #: 225476d8d67d45ee9281241a87873a7a
@@ -918,8 +918,8 @@ msgid ""
 "|icon_option| **Remove on exit**. Отметьте ☑, если хотите, чтобы клетка "
 "исчезала из модели при выходе из данной фазы."
 msgstr ""
-"When you open any of the **Phases** field tabs, the |icon_option| icon "
-"appears. **Remove on exit**. Check ☑ if you want the cell to disappear "
+"When you open any of the **Phases** field tabs, the icon |icon_option| "
+"**Remove on exit** appears. Check ☑ if you want the cell to disappear "
 "from the model when leaving this phase."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Death.rst:82
@@ -1144,9 +1144,9 @@ msgstr ""
 "    ├── Cell type: Fibroblast\n"
 "    └── Probability: 0.2\n"
 "\n"
-"This configuration means that when the selected cell type divides, "
-"it can form either a neuron (with 30% probability), an erythrocyte (with "
-"50% probability), or a fibroblast (with 20% probability).\n"
+"This configuration means that when the selected cell type divides, it can"
+" form either a neuron (with 30% probability), an erythrocyte (with 50% "
+"probability), or a fibroblast (with 20% probability).\n"
 "\n"
 "The sum of all probabilities is 1 (0.3 + 0.5 + 0.2)"
 
@@ -1212,7 +1212,205 @@ msgstr ""
 ":raw-html:`<br>` Below is a list of all functions and available scripts "
 "for each of them:"
 
-#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:96
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:37
+#: 3bb7210a579748e8973f60bce4f0c47d
+msgid ""
+"**Phenotype update**: общее описание поведения клетки, изменения ее "
+"поведения в зависимости от внешних и внутренних сигналов."
+msgstr ""
+"**Phenotype update**: general description of cell behavior, changes in its "
+"behavior depending on external and internal signals."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:39
+#: 247490eb211f4d9b855b0523215f19f8
+#, fuzzy
+msgid ""
+"*Default O2-based phenotype* - описывает жизнедеятельность клетки в "
+"зависимости от концентрации кислорода в среде."
+msgstr ""
+"*Default O2-based phenotype* - describes the cell's life activity depending "
+"on the oxygen concentration in the environment."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:41
+#: 9305a98cb40542f8b703c1142c628827
+msgid ""
+"**Volume update**: описывает изменение всех объемных свойств клетки "
+"(количество жидкости, объем ядра и т.д.), включая и сам общий объем "
+"клетки."
+msgstr ""
+"**Volume update**: describes changes in all volumetric properties of the cell "
+"(amount of fluid, nucleus volume, etc.), including the overall cell volume "
+"itself."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:43
+#: 0c0267c3e5b84c9698b37d23d32fac57
+msgid ""
+"*Standard volume update* - задает зависимость свойств от объема по "
+"умолчанию."
+msgstr ""
+"*Standard volume update* - sets the default volume-dependent properties."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:45
+#: 9664d8afaa134234bc9338bd70d42aa5
+#, fuzzy
+msgid "**Custom rule**: дополнительная функция поведения клетки."
+msgstr ""
+"**Custom rule**: additional cell behavior function."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:47
+#: 67406c611dbc4178a3e68ba5f21390ae
+msgid ""
+"*Avoid microenvironment boundaries* - клетка избегает границ внешней "
+"среды,"
+msgstr ""
+"*Avoid microenvironment boundaries* - the cell avoids external environment "
+"boundaries,"
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:48
+#: 616d27d3bc424cebbc57104bcd49e660
+msgid ""
+"*Wrap microenvironment boundaries* - клетка проходит сквозь границу на "
+"другой край внешней среды."
+msgstr ""
+"*Wrap microenvironment boundaries* - the cell passes through the boundary to "
+"the opposite edge of the external environment."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:50
+#: 4369c59eb71e4b498a51b076415431b6
+#, fuzzy
+msgid "**Velocity update**: описывает изменение скорости передвижения клетки."
+msgstr ""
+"**Velocity update**: describes changes in cell movement speed."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:52
+#: 34beeb1b0808446d82fd4c3033d89787
+msgid ""
+"*Standard Velocity* - скорость клетки меняется по правилам по умолчанию в"
+" зависимости от заданных свойств хемотаксисов, степеней адгезии и "
+"отклонения и присутствия других клеток вокруг."
+msgstr ""
+"*Standard Velocity* - the cell's speed changes according to default rules "
+"depending on the specified properties of chemotaxis, adhesion degrees, "
+"deviation, and presence of other cells around."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:54
+#: f36aaa12d6a14fc9b69f05267e5c1d51
+#, fuzzy
+msgid "**Migration update**: описывает передвижения клетки."
+msgstr ""
+"**Migration update**: describes cell movement."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:56
+#: 5cedb8fbac9849528a4e96adfa37d752
+msgid "*Chemotaxis* - хемотаксис по градиенту одного вещества,"
+msgstr ""
+"*Chemotaxis* - chemotaxis along the gradient of one substance,"
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:57
+#: 6af647fb2198494d9cff7370c7162cc3
+msgid ""
+"*Advanced chemotaxis (weighted combination of gradients)* - хемотаксис по"
+" градиентам нескольких веществ с соответствующими чувствительностями,"
+msgstr ""
+"*Advanced chemotaxis (weighted combination of gradients)* - chemotaxis along "
+"gradients of multiple substances with corresponding sensitivities,"
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:58
+#: 4270530edfd14b20a300e3b9bd08cec0
+msgid ""
+"*Advanced normalize chemotaxis (weighted combination of normalized "
+"gradients)* - хемотаксис по нормализованным градиентам нескольких веществ"
+" с соответствующими чувствительностями."
+msgstr ""
+"*Advanced normalize chemotaxis (weighted combination of normalized gradients)*"
+" - chemotaxis along normalized gradients of multiple substances with "
+"corresponding sensitivities."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:60
+#: 3fe203f3b74c455cb651db0ff295c1ea
+msgid ""
+"**Membrane interaction**: описывает взаимодействие клетки с базальной "
+"мембраной (сама базальная мембрана не моделируется, предполагается, что "
+"вся система расположена на ней)."
+msgstr ""
+"**Membrane interaction**: describes the cell's interaction with the basement "
+"membrane (the basement membrane itself is not modeled; it is assumed that the "
+"entire system is located on it)."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:62
+#: 05982e7f3ede449580aa30296023e24f
+msgid "*Avoid domain edge* - клетка избегает границы мембраны."
+msgstr ""
+"*Avoid domain edge* - the cell avoids the membrane boundary."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:64
+#: edc0e870b2d04091938b9b41787c8989
+#, fuzzy
+msgid ""
+"**Membrane distance calculator**: описывает расчет клеткой расстояния до "
+"базальной мембраны."
+msgstr ""
+"**Membrane distance calculator**: describes the cell's calculation of "
+"distance to the basement membrane."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:66
+#: 8a65fea4064141068a8df993c8b1fa3c
+#, fuzzy
+msgid "*Domain edge distance* - рассчитывает расстояние до края мембраны."
+msgstr ""
+"*Domain edge distance* - calculates the distance to the membrane edge."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:68
+#: b2187fe4a83449b58205245e8b15a188
+msgid "**Orientation**: описывает изменение ориентации клетки в пространстве."
+msgstr ""
+"**Orientation**: describes changes in the cell's orientation in space."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:70
+#: 13ea30c223ab4516bf6560ba8b9771c9
+#, fuzzy
+msgid "*Up orientation* - ориентация параллельно оси Z."
+msgstr ""
+"*Up orientation* - orientation parallel to the Z-axis."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:72
+#: 27ed58ff06dd44f88f99a2c6365d659e
+msgid "**Contact**: описывает контакт клетки с другими клетками."
+msgstr ""
+"**Contact**: describes the cell's contact with other cells."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:74
+#: c1d0d9c411684b37963cb1661d7402a4
+msgid ""
+"*Standard Elastic Contact* - эластичная адгезия/отталкивание от других "
+"типов клеток."
+msgstr ""
+"*Standard Elastic Contact* - elastic adhesion/repulsion from other cell types."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:76
+#: 458a051e8f564b5999172ba0e5b71dfe
+msgid ""
+"**Cell creation**: описывает процесс создания новой клетки во время "
+"деления или при начальной инициализации."
+msgstr ""
+"**Cell creation**: describes the process of creating a new cell during "
+"division or during initial initialization."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:78
+#: 875b48e5492f49a9a9803fef46fe4619
+#, fuzzy
+msgid "**Cell division**: описывает процесс деления клетки."
+msgstr ""
+"**Cell division**: describes the cell division process."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:80
+#: ef968d30203e40c4ba54b090805ad969
+#, fuzzy
+msgid "*Standard asymmetric division* - клетка делится асимметрично."
+msgstr ""
+"*Standard asymmetric division* - the cell divides asymmetrically."
+
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:82
 #: 0829f3236b3e440fa2f5ed39b64d4314
 msgid ""
 "Также для каждой функции можно выбрать сценарий «**Custom...**». При "
@@ -1228,7 +1426,7 @@ msgstr ""
 "will describe the behavior of the cell within the framework of the "
 "corresponding function."
 
-#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:98
+#: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:84
 #: 15818f5a3d604276b931864da8b6836f
 msgid "Custom_scenario"
 msgstr "Custom_scenario"
@@ -2124,7 +2322,7 @@ msgstr "**Cell adhesion strength**: intercellular adhesion strength,"
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Mechanics.rst:19
 #: 4f3f4736060949899ca8b4bfb3970afc
 msgid "**Cell repulsion strength**: сила межклеточного отталкивания,"
-msgstr "**Cell repulsion strength**: intercellular repulsion force,"
+msgstr "**Cell repulsion strength**: intercellular repulsion strength,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Mechanics.rst:20
 #: 77d6839e40cc41d7a32e0f4f0e4bd5c3
@@ -2139,8 +2337,8 @@ msgid ""
 "**Membrane repulsion strength**: сила отталкивания клетки от базальной "
 "мембраны,"
 msgstr ""
-"**Membrane repulsion strength**: the force of repulsion of a cell from "
-"the basement membrane,"
+"**Membrane repulsion strength**: the strength of repulsion of a cell from"
+" the basement membrane,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Mechanics.rst:22
 #: 1903f43192a54c67a175f4e80d53a1fd
@@ -2664,20 +2862,21 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Secretion.rst:21
 #: b6fe14d38f40423f9aef13fd9b9a7bd5
 msgid ""
-"На рисунке выше выбранный тип клеток на диаграмме уже имеет секрецию "
-"(|icon_secretion|), поэтому под полем **Substrates** уже располагается "
-"поле с названием субстрата (в данном случае, **Substrate**), который "
-"клетки выбранного типа секретируют или потребляют. Если бы выбранный тип "
-"клеток на диаграмме имел несколько секреций, то таких полей было бы "
-"несколько (отдельное поле для каждой секреции на диаграмме)."
+"На рисунке выше выбранный тип клеток на диаграмме уже имеет "
+"секрецию/потребление (|icon_secretion|), поэтому под полем **Substrates**"
+" уже располагается поле с названием субстрата (в данном случае, "
+"**Substrate**), который клетки выбранного типа секретируют/потребляют. "
+"Если бы выбранный тип клеток на диаграмме имел несколько "
+"секреций/потреблений, то таких полей было бы несколько (отдельное поле "
+"для каждой секреции/потребления на диаграмме)."
 msgstr ""
 "In the figure above, the selected cell type in the diagram already has "
-"secretion (|icon_secretion|), so under the **Substrates** field there is "
-"already a field with the name of the substrate (in this case, "
-"**Substrate**) that the cells of the selected type secrete or consume. If"
-" the selected cell type in the diagram had multiple secretions, then "
-"there would be several such fields (a separate field for each secretion "
-"in the diagram)."
+"secretion/consumption (|icon_secretion|), so under the **Substrates** "
+"field there is already a field with the name of the substrate (in this "
+"case, **Substrate**) that the cells of the selected type secrete/consume."
+" If the selected cell type in the diagram had multiple "
+"secretions/consumptions, then there would be several such fields (a "
+"separate field for each secretion/consumption in the diagram)."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Secretion.rst:9
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_MAIN.rst:53

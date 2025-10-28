@@ -6,7 +6,7 @@
 .. role:: raw-html(raw)
    :format: html
 
-.. |icon_interaction| image:: /images/icons/Physicell/interaction.png
+.. |icon_interaction| image:: /images/icons/Physicell/interaction_corrected.png
 
 После нажатия на вкладку **Interactions** на панели свойств справа у вас появится меню, в котором отображаются параметры межклеточных взаимодействий клеткок выбранного типа.
 

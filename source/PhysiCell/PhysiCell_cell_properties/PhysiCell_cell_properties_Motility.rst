@@ -7,7 +7,7 @@
    :format: html
 
 .. |icon_option| image:: /images/icons/option.png
-.. |icon_chemotaxis| image:: /images/icons/Physicell/chemotaxis.png
+.. |icon_chemotaxis| image:: /images/icons/Physicell/chemotaxis_corrected.png
 
 После нажатия на вкладку **Motility** на панели свойств справа у вас появится меню, в котором нужно поставить ☑ напротив |icon_option| **Is Motile**, если выбранный тип клеток должен быть подвижен.
 

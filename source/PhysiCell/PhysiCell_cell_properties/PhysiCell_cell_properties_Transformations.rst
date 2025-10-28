@@ -6,7 +6,7 @@
 .. role:: raw-html(raw)
    :format: html
 
-.. |icon_transformation| image:: /images/icons/Physicell/transformation.png
+.. |icon_transformation| image:: /images/icons/Physicell/transformation_corrected.png
 
 После нажатия на вкладку **Transformations** на панели свойств справа у вас появится меню, в котором отображаются параметры трансформаций клеток выбранного типа.
 
