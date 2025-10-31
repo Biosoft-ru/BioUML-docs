@@ -8,9 +8,9 @@
 
 .. |icon_option| image:: /images/icons/option.png
 
-Если поле |icon_option| **Axes** отмечено, то на изображении модели будут отрисовываться оси системы координат модели (А).
+Если поле |icon_option| **Axes** отмечено, то на изображении модели будут отрисовываться оси системы координат модели.
 
-Если поле |icon_option| **Axes** не отмечено, то оси отображаться не будут (Б).
+Если поле |icon_option| **Axes** не отмечено, то оси отображаться не будут.
 
 .. figure:: /images/Physicell/Physicell_simulation_result/Axes_yes_no.png
    :width: 100%

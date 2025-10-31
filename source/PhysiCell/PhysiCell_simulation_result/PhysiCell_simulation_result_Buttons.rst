@@ -21,9 +21,9 @@
 :raw-html:`<br>`
 Всего имеется 4 кнопки для просмотра симуляции:
 
-- |icon_play_button| :raw-html:`«<strong><u>Play</u></strong>»`: начать просмотр симуляции.
-- |icon_pause_button| :raw-html:`«<strong><u>Pause</u></strong>»`: поставить на паузу просмотр симуляции.
-- |icon_stop_button| :raw-html:`«<strong><u>Stop</u></strong>»`: остановить просмотр симуляции.
-- |icon_record_button| :raw-html:`«<strong><u>Record</u></strong>»`: записать просмотр симуляции на видео.
+- |icon_play_button| :raw-html:`<strong><u>Play</u></strong>`: начать просмотр симуляции.
+- |icon_pause_button| :raw-html:`<strong><u>Pause</u></strong>`: поставить на паузу просмотр симуляции.
+- |icon_stop_button| :raw-html:`<strong><u>Stop</u></strong>`: остановить просмотр симуляции.
+- |icon_record_button| :raw-html:`<strong><u>Record</u></strong>`: записать просмотр симуляции на видео.
 
 Наведя курсор на любую из этих кнопок, можно получить подсказку о ее назначении.

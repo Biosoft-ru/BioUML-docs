@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  BioUML\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-28 13:28+0300\n"
+"POT-Creation-Date: 2025-10-31 13:05+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -1218,8 +1218,8 @@ msgid ""
 "**Phenotype update**: общее описание поведения клетки, изменения ее "
 "поведения в зависимости от внешних и внутренних сигналов."
 msgstr ""
-"**Phenotype update**: general description of cell behavior, changes in its "
-"behavior depending on external and internal signals."
+"**Phenotype update**: general description of cell behavior, changes in "
+"its behavior depending on external and internal signals."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:39
 #: 247490eb211f4d9b855b0523215f19f8
@@ -1227,8 +1227,8 @@ msgid ""
 "*Default O2-based phenotype* - описывает жизнедеятельность клетки в "
 "зависимости от концентрации кислорода в среде."
 msgstr ""
-"*Default O2-based phenotype* - describes the cell's life activity depending "
-"on the oxygen concentration in the environment."
+"*Default O2-based phenotype* - describes the cell's life activity "
+"depending on the oxygen concentration in the environment."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:41
 #: 9305a98cb40542f8b703c1142c628827
@@ -1237,23 +1237,21 @@ msgid ""
 "(количество жидкости, объем ядра и т.д.), включая и сам общий объем "
 "клетки."
 msgstr ""
-"**Volume update**: describes changes in all volumetric properties of the cell "
-"(amount of fluid, nucleus volume, etc.), including the overall cell volume "
-"itself."
+"**Volume update**: describes changes in all volumetric properties of the "
+"cell (amount of fluid, nucleus volume, etc.), including the overall cell "
+"volume itself."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:43
 #: 0c0267c3e5b84c9698b37d23d32fac57
 msgid ""
 "*Standard volume update* - задает зависимость свойств от объема по "
 "умолчанию."
-msgstr ""
-"*Standard volume update* - sets the default volume-dependent properties."
+msgstr "*Standard volume update* - sets the default volume-dependent properties."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:45
 #: 9664d8afaa134234bc9338bd70d42aa5
 msgid "**Custom rule**: дополнительная функция поведения клетки."
-msgstr ""
-"**Custom rule**: additional cell behavior function."
+msgstr "**Custom rule**: additional cell behavior function."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:47
 #: 67406c611dbc4178a3e68ba5f21390ae
@@ -1261,8 +1259,8 @@ msgid ""
 "*Avoid microenvironment boundaries* - клетка избегает границ внешней "
 "среды,"
 msgstr ""
-"*Avoid microenvironment boundaries* - the cell avoids external environment "
-"boundaries,"
+"*Avoid microenvironment boundaries* - the cell avoids external "
+"environment boundaries,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:48
 #: 616d27d3bc424cebbc57104bcd49e660
@@ -1270,14 +1268,13 @@ msgid ""
 "*Wrap microenvironment boundaries* - клетка проходит сквозь границу на "
 "другой край внешней среды."
 msgstr ""
-"*Wrap microenvironment boundaries* - the cell passes through the boundary to "
-"the opposite edge of the external environment."
+"*Wrap microenvironment boundaries* - the cell passes through the boundary"
+" to the opposite edge of the external environment."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:50
 #: 4369c59eb71e4b498a51b076415431b6
 msgid "**Velocity update**: описывает изменение скорости передвижения клетки."
-msgstr ""
-"**Velocity update**: describes changes in cell movement speed."
+msgstr "**Velocity update**: describes changes in cell movement speed."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:52
 #: 34beeb1b0808446d82fd4c3033d89787
@@ -1286,21 +1283,19 @@ msgid ""
 " зависимости от заданных свойств хемотаксисов, степеней адгезии и "
 "отклонения и присутствия других клеток вокруг."
 msgstr ""
-"*Standard Velocity* - the cell's speed changes according to default rules "
-"depending on the specified properties of chemotaxis, adhesion degrees, "
+"*Standard Velocity* - the cell's speed changes according to default rules"
+" depending on the specified properties of chemotaxis, adhesion degrees, "
 "deviation, and presence of other cells around."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:54
 #: f36aaa12d6a14fc9b69f05267e5c1d51
 msgid "**Migration update**: описывает передвижения клетки."
-msgstr ""
-"**Migration update**: describes cell movement."
+msgstr "**Migration update**: describes cell movement."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:56
 #: 5cedb8fbac9849528a4e96adfa37d752
 msgid "*Chemotaxis* - хемотаксис по градиенту одного вещества,"
-msgstr ""
-"*Chemotaxis* - chemotaxis along the gradient of one substance,"
+msgstr "*Chemotaxis* - chemotaxis along the gradient of one substance,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:57
 #: 6af647fb2198494d9cff7370c7162cc3
@@ -1308,8 +1303,8 @@ msgid ""
 "*Advanced chemotaxis (weighted combination of gradients)* - хемотаксис по"
 " градиентам нескольких веществ с соответствующими чувствительностями,"
 msgstr ""
-"*Advanced chemotaxis (weighted combination of gradients)* - chemotaxis along "
-"gradients of multiple substances with corresponding sensitivities,"
+"*Advanced chemotaxis (weighted combination of gradients)* - chemotaxis "
+"along gradients of multiple substances with corresponding sensitivities,"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:58
 #: 4270530edfd14b20a300e3b9bd08cec0
@@ -1318,9 +1313,9 @@ msgid ""
 "gradients)* - хемотаксис по нормализованным градиентам нескольких веществ"
 " с соответствующими чувствительностями."
 msgstr ""
-"*Advanced normalize chemotaxis (weighted combination of normalized gradients)*"
-" - chemotaxis along normalized gradients of multiple substances with "
-"corresponding sensitivities."
+"*Advanced normalize chemotaxis (weighted combination of normalized "
+"gradients)* - chemotaxis along normalized gradients of multiple "
+"substances with corresponding sensitivities."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:60
 #: 3fe203f3b74c455cb651db0ff295c1ea
@@ -1329,15 +1324,14 @@ msgid ""
 "мембраной (сама базальная мембрана не моделируется, предполагается, что "
 "вся система расположена на ней)."
 msgstr ""
-"**Membrane interaction**: describes the cell's interaction with the basement "
-"membrane (the basement membrane itself is not modeled; it is assumed that the "
-"entire system is located on it)."
+"**Membrane interaction**: describes the cell's interaction with the "
+"basement membrane (the basement membrane itself is not modeled; it is "
+"assumed that the entire system is located on it)."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:62
 #: 05982e7f3ede449580aa30296023e24f
 msgid "*Avoid domain edge* - клетка избегает границы мембраны."
-msgstr ""
-"*Avoid domain edge* - the cell avoids the membrane boundary."
+msgstr "*Avoid domain edge* - the cell avoids the membrane boundary."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:64
 #: edc0e870b2d04091938b9b41787c8989
@@ -1351,26 +1345,22 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:66
 #: 8a65fea4064141068a8df993c8b1fa3c
 msgid "*Domain edge distance* - рассчитывает расстояние до края мембраны."
-msgstr ""
-"*Domain edge distance* - calculates the distance to the membrane edge."
+msgstr "*Domain edge distance* - calculates the distance to the membrane edge."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:68
 #: b2187fe4a83449b58205245e8b15a188
 msgid "**Orientation**: описывает изменение ориентации клетки в пространстве."
-msgstr ""
-"**Orientation**: describes changes in the cell's orientation in space."
+msgstr "**Orientation**: describes changes in the cell's orientation in space."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:70
 #: 13ea30c223ab4516bf6560ba8b9771c9
 msgid "*Up orientation* - ориентация параллельно оси Z."
-msgstr ""
-"*Up orientation* - orientation parallel to the Z-axis."
+msgstr "*Up orientation* - orientation parallel to the Z-axis."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:72
 #: 27ed58ff06dd44f88f99a2c6365d659e
 msgid "**Contact**: описывает контакт клетки с другими клетками."
-msgstr ""
-"**Contact**: describes the cell's contact with other cells."
+msgstr "**Contact**: describes the cell's contact with other cells."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:74
 #: c1d0d9c411684b37963cb1661d7402a4
@@ -1378,7 +1368,8 @@ msgid ""
 "*Standard Elastic Contact* - эластичная адгезия/отталкивание от других "
 "типов клеток."
 msgstr ""
-"*Standard Elastic Contact* - elastic adhesion/repulsion from other cell types."
+"*Standard Elastic Contact* - elastic adhesion/repulsion from other cell "
+"types."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:76
 #: 458a051e8f564b5999172ba0e5b71dfe
@@ -1392,14 +1383,12 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:78
 #: 875b48e5492f49a9a9803fef46fe4619
 msgid "**Cell division**: описывает процесс деления клетки."
-msgstr ""
-"**Cell division**: describes the cell division process."
+msgstr "**Cell division**: describes the cell division process."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:80
 #: ef968d30203e40c4ba54b090805ad969
 msgid "*Standard asymmetric division* - клетка делится асимметрично."
-msgstr ""
-"*Standard asymmetric division* - the cell divides asymmetrically."
+msgstr "*Standard asymmetric division* - the cell divides asymmetrically."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Functions.rst:82
 #: 0829f3236b3e440fa2f5ed39b64d4314
@@ -1410,10 +1399,10 @@ msgid ""
 "функции]**», в которой нужно указать путь до Java-кода, который будет "
 "описывать поведение клетки в рамках соответствующей функции."
 msgstr ""
-"You can also select the “**Custom...**” scenario for each function. With "
-"this selection, an additional tab |icon_option| will appear below the "
-"function for which this scenario was selected. “**Custom [function "
-"name]**”, in which you need to specify the path to the Java code that "
+"You can also select the **Custom...** scenario for each function. With "
+"this selection, an additional tab |icon_option| **Custom [function "
+"name]** will appear below the function for which this scenario was "
+"selected. In this tab you need to specify the path to the Java code that "
 "will describe the behavior of the cell within the framework of the "
 "corresponding function."
 
@@ -1452,7 +1441,7 @@ msgstr ":raw-html:`<br>` To add a distribution of one characteristic, you need:"
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:22
 #: bc786e30d8474900a8b9c90650f0e92d
 msgid "Нажать ЛКМ на строку со вкладкой |icon_option| **Distributions**."
-msgstr "Click LMB on the line with the |icon_option| tab **Distributions**."
+msgstr "Click LMB on the line with the tab |icon_option| **Distributions**."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:25
 #: a9da82fdf7484800a190730855e76ab8
@@ -1479,20 +1468,20 @@ msgstr "Initial_distribution_parameters"
 #: 6c0c928f755042ebbb263efee20fa07a
 msgid ""
 "**Model parameter**: характеристика клеток выбранного типа, начальное "
-"распределение которой мы хотим задать,"
+"распределение которой мы хотим задать."
 msgstr ""
 "**Model parameter**: characteristic of cells of the selected type, the "
-"initial distribution of which we want to set,"
+"initial distribution of which we want to set."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:41
 #: 2035e568e965421881a1db5d887019c6
-msgid "**Distribution**: форма распределения,"
-msgstr "**Distribution**: distribution form,"
+msgid "**Distribution**: форма распределения."
+msgstr "**Distribution**: distribution form."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:42
 #: 31800319f0db4918af05c2f4c44a1971
-msgid "**Min**: минимально возможное значение характеристики,"
-msgstr "**Min**: minimum possible value of the characteristic,"
+msgid "**Min**: минимально возможное значение характеристики."
+msgstr "**Min**: minimum possible value of the characteristic."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:43
 #: 5b941f33264a4323991c3cb825a06b17
@@ -1531,23 +1520,23 @@ msgstr "Distributions"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:62
 #: e16c7f5be4b24a1ca13fd04a21c08fc5
-msgid "**Uniform**: равномерное распределение,"
-msgstr "**Uniform**: uniform distribution,"
+msgid "**Uniform**: равномерное распределение."
+msgstr "**Uniform**: uniform distribution."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:63
 #: 265c35eff93e4c1ebd572bb7ef1a0434
-msgid "**LogUniform**: лог-равномерное распределение,"
-msgstr "**LogUniform**: log-uniform distribution,"
+msgid "**LogUniform**: лог-равномерное распределение."
+msgstr "**LogUniform**: log-uniform distribution."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:64
 #: 947c992858c2436badc0f24420f87b84
-msgid "**Normal**: нормальное (Гауссово) распределение,"
-msgstr "**Normal**: normal (Gaussian) distribution,"
+msgid "**Normal**: нормальное (Гауссово) распределение."
+msgstr "**Normal**: normal (Gaussian) distribution."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:65
 #: 01603355ca2045808390bf9ec8159c12
-msgid "**LogNormal**: лог-нормальное распределение,"
-msgstr "**LogNormal**: log-normal distribution,"
+msgid "**LogNormal**: лог-нормальное распределение."
+msgstr "**LogNormal**: log-normal distribution."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Initial_distribution.rst:66
 #: 74bcdb7a71ed4f048213b1b5a0ca77a4
@@ -1921,7 +1910,7 @@ msgid ""
 "После этого под |icon_option| **Variables** появится новая вкладка, в "
 "которой можно редактировать три параметра:"
 msgstr ""
-"After that, under |icon_option| **Variables** A new tab will appear in "
+"After that, under |icon_option| **Variables** a new tab will appear in "
 "which you can edit three parameters:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:62
@@ -1961,7 +1950,7 @@ msgid ""
 msgstr ""
 "To specify the value of each of these three parameters, you need to click"
 " LMB to the right of the corresponding field (**Variable**, **Phenotype "
-"property** or **Type**) and select the desired value from the drop-down "
+"property**, or **Type**) and select the desired value from the drop-down "
 "list."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:75
@@ -2024,8 +2013,8 @@ msgid ""
 "Для работы с уже существующими соответствиями используйте :ref:`этот "
 "функционал <Physicell_cell_properties_Actions>`."
 msgstr ""
-"To work with existing matches, use :ref:`this "
-"<Physicell_cell_properties_Actions>` functionality."
+"To work with existing matches, use :ref:`this functionality "
+"<Physicell_cell_properties_Actions>`."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Intracellular.rst:92
 #: aefd1d68074f42b18ce6705e63f5fd78
@@ -2586,17 +2575,17 @@ msgstr "Where:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:29
 #: 03010581250743128611f8bdcd623dc0
-msgid ":math:`S_i` - текущее значение i-ого сигнала,"
-msgstr ":math:`S_i` - current value of the i-th signal,"
+msgid ":math:`S_i` - текущее значение i-ого сигнала."
+msgstr ":math:`S_i` - current value of the i-th signal."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:30
 #: ae4e6753bffd47cca771db9827593ad9
 msgid ""
 ":math:`H_i` - значение i-ого сигнала, при котором результирующая функция "
-"достигает половины от максимального значения,"
+"достигает половины от максимального значения."
 msgstr ""
 ":math:`H_i` - the value of the i-th signal at which the resulting "
-"function reaches half of the maximum value,"
+"function reaches half of the maximum value."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:31
 #: 4c728026f9174a45af3608e35c4205ce
@@ -2643,17 +2632,17 @@ msgstr "B = B_{Up} + (min - B_{Up}) \\cdot Hill_{Down}"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:53
 #: facfd311e3024a0e9053b46758c9f66c
-msgid ":math:`base` - начальное значение данного поведения,"
-msgstr ":math:`base` - the initial value of this behavior,"
+msgid ":math:`base` - начальное значение данного поведения."
+msgstr ":math:`base` - the initial value of this behavior."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:54
 #: 4b0d2c56c2984bed9f07ecea597a8833
 msgid ""
 ":math:`min` - значение насыщения для всех ингибирующих это поведение "
-"сигналов (одинаково для всех сигналов),"
+"сигналов (одинаково для всех сигналов)."
 msgstr ""
 ":math:`min` - saturation value for all signals inhibiting this behavior "
-"(same for all signals),"
+"(same for all signals)."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:55
 #: a9461b119cd540ceb9289dc8688d4073
@@ -2718,8 +2707,7 @@ msgid ":raw-html:`<br>` В данной строке можно настроит
 msgstr ":raw-html:`<br>` In this line you can configure the following parameters:"
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:80
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:36
-#: 2a528b728a1140aba1b0737abed350f6 5c52a3c749964287b9e7ba2810edd55a
+#: 5c52a3c749964287b9e7ba2810edd55a
 msgid "**Signal**: сигнал,"
 msgstr "**Signal**: signal,"
 
@@ -2770,7 +2758,7 @@ msgid ""
 "**Behavior**, нужно нажать ЛКМ в ячейку строки под соответствующим "
 "заголовком и из раскрывающегося списка выбрать нужное значение."
 msgstr ""
-"To select the value of the **Signal**, **Direction** and **Behavior** "
+"To select the value of the **Signal**, **Direction**, and **Behavior** "
 "parameters, you need to click LMB in the row cell under the corresponding"
 " heading and select the desired value from the drop-down list."
 
@@ -2787,7 +2775,7 @@ msgid ""
 "соответствующим заголовком и вписать собственное значение."
 msgstr ""
 ":raw-html:`<br>` To select the value of the parameters **Saturation "
-"value**, **Half-max** and **Hill power**, you need to click LMB in the "
+"value**, **Half-max**, and **Hill power**, you need to click LMB in the "
 "cell of the row under the corresponding heading and enter your own value."
 
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:98
@@ -3146,35 +3134,32 @@ msgid "Cell_parameters"
 msgstr "Cell_parameters"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:31
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:19
-#: 3a11b2c193de44cc83cdad5e7b978104 65510c62c1b04097a9361cc6aa9488d5
-msgid "**Name**: название типа клеток,"
-msgstr "**Name**: name of the cell type,"
+#: 65510c62c1b04097a9361cc6aa9488d5
+msgid "**Name**: название типа клеток."
+msgstr "**Name**: name of the cell type."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:32
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:20
-#: da1b7082f51c447880859fb83436d377 e66d4fb064f74e9a8e97aa1004ef61a1
-msgid "**Initial number**: исходное количество клеток данного типа,"
-msgstr "**Initial number**: initial number of cells of this type,"
+#: da1b7082f51c447880859fb83436d377
+msgid "**Initial number**: исходное количество клеток данного типа."
+msgstr "**Initial number**: initial number of cells of this type."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:33
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:21
-#: 6fb1e134dbb04533a5233e8762d48eb3 a3100905bcc9400b998de9040505d1a0
+#: a3100905bcc9400b998de9040505d1a0
 msgid ""
 "**Color**: цвет, с помощью которого клетки данного типа будут "
-"отображаться при симуляции модели,"
+"отображаться при симуляции модели."
 msgstr ""
 "**Color**: the color with which cells of this type will be displayed when"
-" simulating the model,"
+" simulating the model."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:34
 #: 59920d614a324cf8b101bd9928edd634
 msgid ""
 "**Gradient**: отметьте ☑, если необходимо применить градиент к выбранному"
-" цвету,"
+" цвету."
 msgstr ""
 "**Gradient**: check ☑ if you want to apply a gradient to the selected "
-"color,"
+"color."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Cells.rst:35
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:22
@@ -3464,13 +3449,10 @@ msgid "**Title**: название хемотаксиса,"
 msgstr "**Title**: name of chemotaxis,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Chemotaxis.rst:49
-#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:36
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:48
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:48
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:48
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:23
-#: 400a92c6205940659bc5a73d1283771b 5b3e7a656c0f432780a95fe7fd17fa4d
-#: 6e0b432beaa547a1bddbe715eb7c841b b067d8cdefe94d0388ad736b4bbe8349
+#: 5b3e7a656c0f432780a95fe7fd17fa4d b067d8cdefe94d0388ad736b4bbe8349
 #: bfc8fb4de54d446a8b78d05695dfb023 d48dd31804a245e39296e900506cedd0
 msgid "**Comment**: комментарий,"
 msgstr "**Comment**: comment,"
@@ -3577,41 +3559,48 @@ msgstr "Event_parameters"
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:33
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:19
 #: 773ea8e24e9a453e933cb2696b6e04bd 8d0e244d33d14777b0a40fe3a50a3f7f
-msgid "**Name**: название события,"
-msgstr "**Name**: event name,"
+msgid "**Name**: название события."
+msgstr "**Name**: event name."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:34
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:20
 #: 87ae91709c1d4fa49e76ecb5fb87d160 ddad7ccf22c14c94b2a890c2ed413758
 msgid ""
 "**Execution time**: модельное время, при достижении которого срабатывает "
-"событие,"
+"событие."
 msgstr ""
 "**Execution time**: model time, upon reaching which the event is "
-"triggered,"
+"triggered."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:35
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:22
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:21
 #: 0a273d7a29724d12ae0ef07045475747 a5eb81f9aa5747ffb86e623cdbecd6df
 msgid ""
 "**Execution code**: путь до Java-кода, который выполняется при "
-"срабатывании события,"
+"срабатывании события."
 msgstr ""
 "**Execution code**: path to the Java code that is executed when the event"
-" is triggered,"
+" is triggered."
+
+#: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:36
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:22
+#: 400a92c6205940659bc5a73d1283771b 6e0b432beaa547a1bddbe715eb7c841b
+#, fuzzy
+msgid "**Comment**: комментарий."
+msgstr "**Comment**: comment,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:37
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:24
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:23
 #: 3bcffa9361464ca1bd4bf9f0f901a445 50ce817e57914196a971028defb42fed
 msgid ""
 "**Show code**: выберите ☑, если хотите полностью показывать код на "
-"диаграмме модели,"
+"диаграмме модели."
 msgstr ""
 "**Show code**: select ☑ if you want to show the entire code on the model "
-"diagram,"
+"diagram."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:38
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:25
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:24
 #: 4d038fea524d45e39deb8621669ef770 e196aa372ec14676ba07475a41efe461
 msgid ""
 "**Format code**: выберите ☑, если хотите форматировать показываемый на "
@@ -4253,30 +4242,33 @@ msgid "Substrate_parameters"
 msgstr "Substrate_parameters"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:26
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:22
-#: 904d1b81ec0a4a8190a6c3c4846f176e bb12c95f6f5b4e8493088b3e133eae94
+#: bb12c95f6f5b4e8493088b3e133eae94
+#, fuzzy
 msgid "**Name**: название субстрата,"
-msgstr "**Name**: name of the substrate,"
+msgstr "**Name**: name of the substrate."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:27
 #: 4f9551d39cc4444a8dbae2577b5f490f
+#, fuzzy
 msgid ""
 "**Initial condition**: исходное количество субстрата в каждой "
-":ref:`ячейке среды <Physicell_microenvironment_Domain>`,"
+":ref:`ячейке среды <Physicell_microenvironment_Domain>`."
 msgstr ""
 "**Initial condition**: initial amount of substrate in each :ref:`cell of "
-"the environment <Physicell_microenvironment_Domain>`,"
+"the environment <PhysiCell_microenvironment_Domain>`."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:28
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:24
 #: 0f99216a78f44479abc41a97d5dd7b8c a276f06df8f84bb395f627243106dd9d
-msgid "**Decay rate**: скорость разложения субстрата в среде,"
+#, fuzzy
+msgid "**Decay rate**: скорость разложения субстрата в среде."
 msgstr "**Decay rate**: rate of decomposition of the substrate in the environment,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:29
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:25
 #: 255d1bb071014d218cfb32673ca6f5bb a3eb51e265bd428f958936ef39b302ce
-msgid "**Diffusion coefficient**: скорость диффузии субстрата в среде,"
+#, fuzzy
+msgid "**Diffusion coefficient**: скорость диффузии субстрата в среде."
 msgstr "**Diffusion coefficient**: substrate diffusion rate in the environment,"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:30
@@ -4284,50 +4276,50 @@ msgstr "**Diffusion coefficient**: substrate diffusion rate in the environment,"
 #: 9def84f4a45645b98460b8516a9b1fbe e1f90574f3264932a9fab1ed85157c6f
 msgid ""
 "**X min**: :raw-html:`граничное условие для концентрации субстрата на "
-"границе среды X = X<sub>min</sub>`,"
+"границе среды X = X<sub>min</sub>`."
 msgstr ""
 "**X min**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the environment X = X<sub>min</sub>`,"
+"substrate at the boundary of the environment X = X<sub>min</sub>`."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:31
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:27
 #: 3cfb5bb0d5ae4a93b50294f282a3842e 5e0708a4583f4f47bf14e03d2e880ae3
 msgid ""
 "**X max**: :raw-html:`граничное условие для концентрации субстрата на "
-"границе среды X = X<sub>max</sub>`,"
+"границе среды X = X<sub>max</sub>`."
 msgstr ""
 "**X max**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the environment X = X<sub>max</sub>`,"
+"substrate at the boundary of the environment X = X<sub>max</sub>`."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:32
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:28
 #: 1cb3ac0d53a0424686fb67a2dd16ba6c 9887a4ed5e6d40829c207a519fd12886
 msgid ""
 "**Y min**: :raw-html:`граничное условие для концентрации субстрата на "
-"границе среды Y = Y<sub>min</sub>`,"
+"границе среды Y = Y<sub>min</sub>`."
 msgstr ""
 "**Y min**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the environment Y = Y<sub>min</sub>`,"
+"substrate at the boundary of the environment Y = Y<sub>min</sub>`."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:33
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:29
 #: c48399fff36046e39e293377dfdd3a46 f89030d37aa74892b1d03a6b31e225c9
 msgid ""
 "**Y max**: :raw-html:`граничное условие для концентрации субстрата на "
-"границе среды Y = Y<sub>max</sub>`,"
+"границе среды Y = Y<sub>max</sub>`."
 msgstr ""
 "**Y max**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the environment Y = Y<sub>max</sub>`,"
+"substrate at the boundary of the environment Y = Y<sub>max</sub>`."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:34
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:30
 #: 0fa1e653089247d188f35d6ad86158ef 4b267026741c4b6eae5268641d0a3483
 msgid ""
 "**Z min**: :raw-html:`граничное условие для концентрации субстрата на "
-"границе среды Z = Z<sub>min</sub>`,"
+"границе среды Z = Z<sub>min</sub>`."
 msgstr ""
 "**Z min**: :raw-html:`boundary condition for the concentration of the "
-"substrate at the boundary of the environment Z = Z<sub>min</sub>`,"
+"substrate at the boundary of the environment Z = Z<sub>min</sub>`."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:35
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:31
@@ -6183,9 +6175,10 @@ msgstr ":ref:`List <PhysiCell_java_Data_types_List>` - list."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types.rst:21
 #: 1f76a3dc3b1a4a75b074f42b8242e22c
+#, fuzzy
 msgid ""
 "В этом разделе приведены не все типы данных языка java, а только те из "
-"них, которые чаще всего используются в Physicell."
+"них, которые чаще всего используются в PhysiCell."
 msgstr ""
 "This section does not list all java data types, but only those that are "
 "most commonly used in Physicell."
@@ -6228,6 +6221,9 @@ msgid ""
 "\n"
 "где L - длина массива"
 msgstr ""
+"int[] numbers = {L};\n"
+"\n"
+"where L is the array length"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Array.rst:19
 #: 9db369266484462b9bb4710e3431427d
@@ -6439,6 +6435,16 @@ msgid ""
 "• new — оператор, который создаёт новый объект.\n"
 "• ArrayList<>() - конкретный класс, реализующий интерфейс List."
 msgstr ""
+"List<Cell> cells = new ArrayList<>();\n"
+"\n"
+"where:\n"
+"\n"
+"• List - indicates that the List interface is being implemented.\n"
+"• <Cell> - specifies that the collection will only contain objects of the"
+" \"Cell\" class.\n"
+"• cells - the name of the created collection.\n"
+"• new - the operator that creates a new object.\n"
+"• ArrayList<>() - the concrete class implementing the List interface."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_List.rst:49
 #: 46bf37b24e8e484393411be4b48a2cf9
@@ -6460,6 +6466,11 @@ msgid ""
 "List<double> my_list = ArrayList<>(); // Неправильный вариант, т.к. "
 "double (со строчной буквы) является примитивным типом данных"
 msgstr ""
+"List<Double> my_list = ArrayList<>(); // Correct version because Double "
+"(with capital letter) is a class\n"
+"\n"
+"List<double> my_list = ArrayList<>(); // Incorrect version because double"
+" (with lowercase letter) is a primitive data type"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_List.rst:57
 #: 1b11c9b0cbe541ba9c15a6dff1f7f66c
@@ -6650,6 +6661,10 @@ msgid ""
 "\n"
 "System.out.println(first_two_cells); // [cell2, cell3]"
 msgstr ""
+"List<Cell> first_two_cells = cells.subList(0, 2); // collection elements "
+"from index 0 to 2 (excluding 2)\n"
+"\n"
+"System.out.println(first_two_cells); // [cell2, cell3]"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_List.rst:175
 #: 7c19e54e3ae043fcafd9dcca178d3df4
@@ -6776,9 +6791,9 @@ msgstr "The class is created as follows:"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Class.rst:28
 #: 24db46de377e4a3fa8921e238d9a2006
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid ""
-"public class MyClass {\n"
+"public class Cell {\n"
 "\n"
 " // поля, методы, конструкторы данного класса\n"
 "\n"
@@ -6787,8 +6802,18 @@ msgid ""
 "• public - модификатор доступа, обозначающий, что данный класс доступен "
 "из любого другого класса, в любом пакете.\n"
 "• class - указание на то, что создается класс.\n"
-"• MyClass - название класса"
+"• Cell - название класса"
 msgstr ""
+"public class MyClass {\n"
+"\n"
+" // fields, methods, constructors of this class\n"
+"\n"
+"}\n"
+"\n"
+"• public - access modifier indicating that this class is accessible from "
+"any other class in any package.\n"
+"• class - indicates that a class is being created.\n"
+"• MyClass - the class name"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Class.rst:41
 #: 62d659fe3af6419c9f3d49b0b127c7e7
@@ -6797,8 +6822,8 @@ msgstr "The name of the class must match the name of the java file."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Class.rst:43
 #: b6ae2cfecc784dbda9fc24ee0458308f
-#, python-brace-format
-msgid "Например: MyClass.java ⭢ public class MyClass { ... }"
+#, fuzzy, python-brace-format
+msgid "Например: Report.java ⭢ public class Report { ... }"
 msgstr "For example: MyClass.java ⭢ public class MyClass { ... }"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Constructor.rst:4
@@ -6831,6 +6856,13 @@ msgid ""
 "• CellDefinition cd - аргумент (cd) и его тип/класс (CellDefinition), "
 "передаваемый в конструктор."
 msgstr ""
+"Cell cell1 = new Cell(CellDefinition cd, Model model)\n"
+"\n"
+"• Cell cell1 - indicates that an object cell1 belonging to the Cell class"
+" is being created.\n"
+"• new Cell - creation of a new object.\n"
+"• CellDefinition cd - the argument (cd) and its type/class "
+"(CellDefinition) passed to the constructor."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Constructor.rst:32
 #: 00625743b4a14686a87775ea88fa2d2d
@@ -6876,6 +6908,25 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"// Cell class\n"
+"public class Cell {\n"
+"\n"
+"   // Class fields:\n"
+"   // cd - an object of CellDefinition class\n"
+"   // model - an object of Model class\n"
+"   private CellDefinition cd;\n"
+"   private Model model;\n"
+"\n"
+"   // Constructor that takes two parameters\n"
+"   public Cell(CellDefinition cd, Model model) {\n"
+"\n"
+"      // Assign the parameters received by the constructor to the class "
+"fields\n"
+"      this.cd = cd;\n"
+"      this.model = model;\n"
+"   }\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Field.rst:4
 #: 010afccd04e94b51afd0cbf41bc7e36f
@@ -6898,8 +6949,9 @@ msgstr "The field is created as follows:"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Field.rst:24
 #: d41732dafd4e45e8881d584167b2be99
+#, fuzzy
 msgid ""
-"static int MyField\n"
+"static int apoptotic\n"
 "\n"
 "где:\n"
 "\n"
@@ -6907,8 +6959,17 @@ msgid ""
 "Если не указано, то считается, что поле нестатическое (применяется к "
 "объекту класса).\n"
 "• int - тип данных, которые содержит поле.\n"
-"• MyField - название поля."
+"• apoptotic - название поля."
 msgstr ""
+"static int MyField\n"
+"\n"
+"where:\n"
+"\n"
+"• static - indicates that the field is static (applies to the class). If "
+"not specified, the field is considered non-static (applies to an object "
+"of the class).\n"
+"• int - the data type contained in the field.\n"
+"• MyField - the field name."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Field.rst:34
 #: d9230d6a76294f4b965cf500e0a75623
@@ -6928,6 +6989,14 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"// Circle class\n"
+"public class Circle {\n"
+"\n"
+"   // Class fields:\n"
+"   // radius - circle radius (double data type)\n"
+"   private double radius;\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Field.rst:47
 #: b6981e283eda49d4941493d0f973b11f
@@ -6958,6 +7027,9 @@ msgid ""
 "\n"
 "• PhysiCellConstants - название класса."
 msgstr ""
+"PhysiCellConstants.apoptotic;\n"
+"\n"
+"• PhysiCellConstants - the class name."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Field.rst:57
 #: 3b9a8f3b16604574a7133215cb655dc9
@@ -7003,19 +7075,19 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:24
 #: 750778d0ee0342f6ad63fb7dba6a47b8
 msgid ""
-"static int MyMethod(int variable1, int variable2)\n"
+"static double norm(double[] vector)\n"
 "\n"
 "где:\n"
 "\n"
 "• static - указание на то, что метод статический (применяется к классу). "
 "Если не указано, то считается, что метод нестатический (применяется к "
 "объекту класса).\n"
-"• int - тип данных, который возращает метод. Если не указано, то "
+"• double - тип данных, который возращает метод. Если не указано, то "
 "считается, что метод ничего не возвращает (\"void\").\n"
-"• MyMethod - название метода.\n"
-"• int variable1 - название аргумента, который принимает метод "
-"(variable1), и его тип данных/класс (int). Если не указано, то считается,"
-" что метод ничего не принимает на вход."
+"• norm - название метода.\n"
+"• double[] vector - название аргумента, который принимает метод (vector),"
+" и его тип данных/класс (double[]). Если не указано, то считается, что "
+"метод ничего не принимает на вход."
 msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:35
@@ -10577,7 +10649,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:98
 #: c390da3e3a1a4ac7ac9c2f89589efdcc
 msgid "Нажать ЛКМ кнопку **Ok**."
-msgstr "Click the LMB button **Ok**."
+msgstr "Left-click on the **Ok** button."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_MAIN.rst:100
 #: 30b4801fb02846aaa15e4d6658fb615c
@@ -13684,6 +13756,28 @@ msgid ""
 " клеток:"
 msgstr ":raw-html:`<br>` On this tab you can edit all properties of cell types:"
 
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:19
+#: 3a11b2c193de44cc83cdad5e7b978104
+#, fuzzy
+msgid "**Name**: название типа клеток,"
+msgstr "**Name**: name of the cell type."
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:20
+#: e66d4fb064f74e9a8e97aa1004ef61a1
+#, fuzzy
+msgid "**Initial number**: исходное количество клеток данного типа,"
+msgstr "**Initial number**: initial number of cells of this type."
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:21
+#: 6fb1e134dbb04533a5233e8762d48eb3
+#, fuzzy
+msgid ""
+"**Color**: цвет, с помощью которого клетки данного типа будут "
+"отображаться при симуляции модели,"
+msgstr ""
+"**Color**: the color with which cells of this type will be displayed when"
+" simulating the model."
+
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Cell_types.rst:24
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:33
 #: 266a1a7d2bef4f7b9063570a013597a4 46d668d060774907ad8d78fe611133f3
@@ -13820,6 +13914,36 @@ msgid ""
 "будет сразу визуально оценить интенсивность распространения вируса в "
 "клетках."
 msgstr ""
+"Suppose you are modeling a viral infection of cells.\n"
+"\n"
+"Cells can be either healthy (containing no virus inside) or infected\n"
+"(containing the virus).\n"
+"\n"
+"At the same time, infected cells can contain different amounts of viral "
+"particles\n"
+"(10, 100, 1000, etc.).\n"
+"\n"
+"In this case, it is convenient to use several color schemes to visualize "
+"the simulation results,\n"
+"making it immediately clear which cells are healthy and which are "
+"infected, and to what extent.\n"
+"\n"
+"For example, healthy cells (0 viral particles) can be displayed in blue, "
+"while infected ones\n"
+"(> 0 viral particles) - in yellow.\n"
+"Furthermore, depending on the number of viral particles inside a cell, "
+"you can render them using\n"
+"different shades of yellow:\n"
+"\n"
+"- from 1 to 10 - light yellow,\n"
+"- from 10 to 100 - yellow,\n"
+"- from 100 to 1000 - bright yellow,\n"
+"- > 1000 - dark yellow.\n"
+"\n"
+"Using such color schemes when viewing the model simulation results allows"
+" for\n"
+"an immediate visual assessment of the intensity of the virus spread "
+"within the cells."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:47
 #: 51d708a7d49840028454281001d912c0
@@ -13870,49 +13994,49 @@ msgstr "In each color scheme, you can configure the following parameters:"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:69
 #: 32bd7be576644cdda2aa1c3869ef7e50
-msgid "**Name**: название цветовой схемы,"
-msgstr "**Name**: name of the color scheme,"
+msgid "**Name**: название цветовой схемы."
+msgstr "**Name**: name of the color scheme."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:70
 #: 089d75053ca5444885689f3411f029f1
 msgid ""
 "**Inner Color**: цвет, с помощью которого отрисовывается внутреннее "
-"содержимое клетки,"
+"содержимое клетки."
 msgstr ""
 "**Inner Color**: the color with which the internal contents of the cell "
-"are drawn,"
+"are drawn."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:71
 #: bdae0699df7d45d58c6026211b51d6e2
-msgid "**Has border**: отметьте ☑, если хотите отрисовывать контур клетки,"
-msgstr "**Has border**: check ☑ if you want to draw the border of the cell,"
+msgid "**Has border**: отметьте ☑, если хотите отрисовывать контур клетки."
+msgstr "**Has border**: check ☑ if you want to draw the border of the cell."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:72
 #: 590d55f81fa74000bf9c3a193150851a
 msgid ""
 "**Border color**: цвет, с помощью которого отрисовывается контур клетки "
 "(:raw-html:`<span style=\"color: red;\">редактируется, только если "
-"выбрано свойство \"Has border\"</span>`),"
+"выбрано свойство \"Has border\"</span>`)."
 msgstr ""
 "**Border color**: the color with which the cell border is drawn (:raw-"
-"html:`<span style=\"color: red;\">editable only if the \"Has "
-"border\"</span>` property is selected),"
+"html:`<span style=\"color: red;\">editable only if the \"Has border\" "
+"property is selected</span>`)."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:73
 #: cd7f8ee5c79848048f9fdd3a9e294121
-msgid "**Has core**: отметьте ☑, если хотите отрисовывать ядро в клетке,"
-msgstr "**Has core**: check ☑ if you want to draw the core in a cell,"
+msgid "**Has core**: отметьте ☑, если хотите отрисовывать ядро в клетке."
+msgstr "**Has core**: check ☑ if you want to draw the core in a cell."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:74
 #: 5381d777d052492aa2bed9802622f649
 msgid ""
 "**Core color**: цвет, с помощью которого отрисовывается внутреннее "
 "содержимое ядра клетки (:raw-html:`<span style=\"color: "
-"red;\">редактируется, только если выбрано свойство \"Has core\"</span>`),"
+"red;\">редактируется, только если выбрано свойство \"Has core\"</span>`)."
 msgstr ""
 "**Core color**: the color with which the internal contents of the cell "
 "core are drawn (:raw-html:`<span style=\"color: red;\">editable only if "
-"the \"Has core\" property is selected</span>`),"
+"the \"Has core\" property is selected</span>`)."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:75
 #: 97f310727e3e4b7bb5760c181db15195
@@ -13923,7 +14047,7 @@ msgid ""
 msgstr ""
 "**Core border Color**: the color with which the border of the cell core "
 "is drawn (:raw-html:`<span style=\"color: red;\">editable only if the "
-"\"Has core\"</span>` property is selected)."
+"\"Has core\" property is selected</span>`)."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:77
 #: f2b9e6d0e2114bb4bebae5e5487d1020
@@ -13933,7 +14057,7 @@ msgid ""
 " или выбрать нужный цвет из раскрывающегося списка."
 msgstr ""
 "To set the value of any parameter, you need to click LMB in the row cell "
-"under the corresponding heading and enter your own value, mark ☑ or "
+"under the corresponding heading and enter your own value, mark ☑, or "
 "select the desired color from the drop-down list."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Color_schemes.rst:79
@@ -13991,48 +14115,48 @@ msgstr "Domain_menu"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:20
 #: be4605b4d8c5470c9a7c2e8a58d6f14c
-msgid "**Xmin**: минимальное значение координаты по оси X,"
-msgstr "**Xmin**: minimum value of the X-axis coordinate,"
+msgid "**Xmin**: минимальное значение координаты по оси X."
+msgstr "**Xmin**: minimum value of the coordinate along the X axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:21
 #: d36d82f6095341f3a236d42051f03698
-msgid "**Ymin**: минимальное значение координаты по оси Y,"
-msgstr "**Ymin**: minimum value of the coordinate along the Y axis,"
+msgid "**Ymin**: минимальное значение координаты по оси Y."
+msgstr "**Ymin**: minimum value of the coordinate along the Y axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:22
 #: 54476b7fbf28443ba52938d0194b47dd
-msgid "**Zmin**: минимальное значение координаты по оси Z,"
-msgstr "**Zmin**: minimum value of the coordinate along the Z axis,"
+msgid "**Zmin**: минимальное значение координаты по оси Z."
+msgstr "**Zmin**: minimum value of the coordinate along the Z axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:23
 #: 2a6e51b4c8444b2c91f1cc3bd6b5bf20
-msgid "**Xmax**: максимальное значение координаты по оси X,"
-msgstr "**Xmax**: maximum coordinate value along the X axis,"
+msgid "**Xmax**: максимальное значение координаты по оси X."
+msgstr "**Xmax**: maximum value of the coordinate along the X axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:24
 #: 25647b48f2034c20a68fb25af0437d3d
-msgid "**Ymax**: максимальное значение координаты по оси Y,"
-msgstr "**Ymax**: maximum coordinate value along the Y axis,"
+msgid "**Ymax**: максимальное значение координаты по оси Y."
+msgstr "**Ymax**: maximum value of the coordinate along the Y axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:25
 #: 940245e18e63483999c650ec0fd123c3
-msgid "**Zmax**: максимальное значение координаты по оси Z,"
-msgstr "**Zmax**: maximum value of the coordinate along the Z axis,"
+msgid "**Zmax**: максимальное значение координаты по оси Z."
+msgstr "**Zmax**: maximum value of the coordinate along the Z axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:26
 #: 2757efca215749acaea3729c9a256752
-msgid "**dx**: шаг сетки по оси X,"
-msgstr "**dx**: grid spacing along the X axis,"
+msgid "**dx**: шаг сетки по оси X."
+msgstr "**dx**: grid spacing along the X axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:27
 #: 91ab017b2fb84f76acad0ff1f97221cc
-msgid "**dy**: шаг сетки по оси Y,"
-msgstr "**dy**: grid spacing along the Y axis,"
+msgid "**dy**: шаг сетки по оси Y."
+msgstr "**dy**: grid spacing along the Y axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:28
 #: 581380143636401e99ffa904066cfb0e
-msgid "**dz**: шаг сетки по оси Z,"
-msgstr "**dz**: grid spacing along the Z axis,"
+msgid "**dz**: шаг сетки по оси Z."
+msgstr "**dz**: grid spacing along the Z axis."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:29
 #: 60ff37ad81c24aa48afcff0536f8a03f
@@ -14049,8 +14173,8 @@ msgid ""
 "Параметры Zmin, Zmax и dz доступны для редактирования, только если НЕ "
 "выбрано Use 2D."
 msgstr ""
-"The Zmin, Zmax and dz parameters are available for editing only if Use 2D"
-" is NOT selected."
+"The Zmin, Zmax, and dz parameters are available for editing only if Use "
+"2D is NOT selected."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:34
 #: e38548cfa2f644ed8df310db1b05152c
@@ -14068,7 +14192,7 @@ msgid ""
 "-500, Ymax = 500, dy = 100 представлен ниже."
 msgstr ""
 "An example of a 2D mesh with parameters Xmin = -500, Xmax = 500, dx = "
-"100, Ymin = -500, Ymax = 500, dy = 100 is shown below."
+"100, Ymin = -500, Ymax = 500, and dy = 100 is shown below."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Domain.rst:38
 #: 2685d1bed29e4498baf26d52080715c3
@@ -14101,17 +14225,7 @@ msgid ""
 "событий:"
 msgstr ":raw-html:`<br>` On this tab you can edit all event settings:"
 
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:21
-#: 0f0b4ec2e2594e0b8c00fe09ae018fb2
-#, fuzzy
-msgid ""
-"**Custom Execution code**: выберите ☑, чтобы задать путь до Java-кода, "
-"который выполнится при срабатывании события,"
-msgstr ""
-"**Execution code**: path to the Java code that is executed when the event"
-" is triggered,"
-
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:27
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:26
 #: 183b8cc20c5244a99c6db1b625eba7e9
 msgid ""
 "Чтобы задать значение любого параметра, нужно нажать ЛКМ в ячейку строки "
@@ -14122,17 +14236,17 @@ msgstr ""
 "the line under the corresponding heading and enter your own value, "
 "indicate the path to the desired file, or mark ☑."
 
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:29
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:28
 #: 2c88f0050ecc4f69a1a619621073122d
 msgid "Также настройки событий можно редактировать напрямую на диаграмме."
 msgstr "You can also edit event settings directly on the diagram."
 
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:32
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:31
 #: 38398c220a29427d9fc9900e39bf1278
 msgid "Добавлять и удалять новые события на данной вкладке нельзя."
 msgstr "You cannot add or delete new events on this tab."
 
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:34
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Events.rst:33
 #: cf309e108bdb4528885a02b2ef0d2766
 msgid ""
 "Сортировка событий по значениям какой-либо из их настроек выполняется "
@@ -14195,10 +14309,10 @@ msgstr "Initial_condition_parameters"
 #: 84d961af029f43a5b29586f4cb749148
 msgid ""
 "|icon_option| **Custom Java code**: путь до Java-кода в репозитории, "
-"описывающего начальное расположение клеток в модели,"
+"описывающего начальное расположение клеток в модели."
 msgstr ""
 "|icon_option| **Custom Java code**: path to the Java code in the "
-"repository that describes the initial location of cells in the model,"
+"repository that describes the initial location of cells in the model."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:33
 #: a7b703dff9de4e1ebf2b83233aaf94ec
@@ -14285,48 +14399,48 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:78
 #: 9885b4b8ea264b99b54a263c08f2b50e
-msgid "**Domain**: свойства сетки,"
-msgstr "**Domain**: grid properties,"
+msgid "**Domain**: свойства сетки."
+msgstr "**Domain**: grid properties."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:79
 #: c401306b55334a73a3fcd7eca87bd7a6
-msgid "**Substrates**: вещества,"
-msgstr "**Substrates**: substances,"
+msgid "**Substrates**: вещества."
+msgstr "**Substrates**: substances."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:80
 #: 02a40895b6034c52848c3acb47fe59e2
-msgid "**Cell types**: типы клеток,"
-msgstr "**Cell types**: cell types,"
+msgid "**Cell types**: типы клеток."
+msgstr "**Cell types**: cell types."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:81
 #: 17948a70d1214f41a0737dd79e7ac357
-msgid "**Events**: события,"
-msgstr "**Events**: events,"
+msgid "**Events**: события."
+msgstr "**Events**: events."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:82
 #: eaed084ee9874058ad0e9e00d308ab78
-msgid "**User Parameters**: пользовательские параметры модели,"
-msgstr "**User Parameters**: user model parameters,"
+msgid "**User Parameters**: пользовательские параметры модели."
+msgstr "**User Parameters**: user model parameters."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:83
 #: 302251162d9b48b5910e9c266eb57809
-msgid "**Initial Condition**: начальное расположение клеток,"
-msgstr "**Initial Condition**: initial arrangement of cells,"
+msgid "**Initial Condition**: начальное расположение клеток."
+msgstr "**Initial Condition**: initial arrangement of cells."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:84
 #: 790eec6a68d14d8e9eaca74f49232518
-msgid "**Model Report**: отчет по модели,"
-msgstr "**Model Report**: model report,"
+msgid "**Model Report**: отчет по модели."
+msgstr "**Model Report**: model report."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:85
 #: 8dcc668dbf5049ea9807ebad09aacd0d
-msgid "**Visualizer**: визуализация клеток,"
-msgstr "**Visualizer**: visualization of cells,"
+msgid "**Visualizer**: визуализация клеток."
+msgstr "**Visualizer**: visualization of cells."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:86
 #: a77e15d9058349698aa4c1293ee25110
-msgid "**Color schemes**: цветовые схемы,"
-msgstr "**Color schemes**: color schemes,"
+msgid "**Color schemes**: цветовые схемы."
+msgstr "**Color schemes**: color schemes."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_MAIN.rst:87
 #: 3ec22ba168064050ade275c4ec429939
@@ -14404,21 +14518,21 @@ msgstr "Model_report_menu"
 msgid ""
 "|icon_option| **Custom report**: поставьте ☑, если хотите задать "
 "Java-код, по которому будет создаваться отчет по модели в табличной "
-"форме,"
+"форме."
 msgstr ""
 "|icon_option| **Custom report**: put ☑ if you want to specify the Java "
-"code that will be used to create a report on the model in tabular form,"
+"code that will be used to create a report on the model in tabular form."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:22
 #: 15746a1c455546c7a39d4e24008d2230
 msgid ""
 "|icon_option| **Custom global report**: поставьте ☑, если хотите задать "
 "Java-код, который будет определять вывод логов в консль во время "
-"симуляции модели,"
+"симуляции модели."
 msgstr ""
 "|icon_option| **Custom global report**: put ☑ if you want to specify Java"
 " code that will determine the output of logs to the console during model "
-"simulation,"
+"simulation."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:23
 #: b3dc566312e8403391369b8c52a30260
@@ -14443,9 +14557,9 @@ msgid ""
 "Java-кода в репозитории."
 msgstr ""
 "When specifying ☑ opposite |icon_option| **Custom report**, |icon_option|"
-" **Custom global report** or |icon_option| **Custom visualizer** a new "
+" **Custom global report**, or |icon_option| **Custom visualizer** a new "
 "field will appear below the selected field |icon_option| **Report**, "
-"|icon_option| **Global report** or |icon_option| **Visualizer**, "
+"|icon_option| **Global report**, or |icon_option| **Visualizer**, "
 "respectively. Opposite these fields you can click LMB on |icon_Java_code|"
 " **(select element)**, and then in the window that appears, specify the "
 "path to the desired Java code in the repository."
@@ -14481,14 +14595,19 @@ msgid ""
 "субстратов:"
 msgstr ":raw-html:`<br>` On this tab you can edit all properties of substrates:"
 
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:22
+#: 904d1b81ec0a4a8190a6c3c4846f176e
+msgid "**Name**: название субстрата."
+msgstr "**Name**: name of the substrate."
+
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:23
 #: 1f9af70bb52c43e08b99979aded3197a
 msgid ""
 "**Initial condition**: исходное количество субстрата в каждой "
-":ref:`ячейке среды <PhysiCell_microenvironment_Domain>`,"
+":ref:`ячейке среды <PhysiCell_microenvironment_Domain>`."
 msgstr ""
 "**Initial condition**: initial amount of substrate in each :ref:`cell of "
-"the environment <PhysiCell_microenvironment_Domain>`,"
+"the environment <PhysiCell_microenvironment_Domain>`."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Substrates.rst:35
 #: b714240fadc14909b2a24003fab68fb5
@@ -14606,7 +14725,7 @@ msgid ""
 "кнопки |icon_plus| и |icon_minus|, соответственно."
 msgstr ""
 "To add and remove conditions for applying color schemes, use the "
-"|icon_plus| buttons. and |icon_minus|, respectively."
+"|icon_plus| and |icon_minus| buttons, respectively."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:77
 #: 340560a5a55f44f68c77d3db342e4d94
@@ -14620,43 +14739,43 @@ msgstr "Add_new_color_scheme_condition"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:86
 #: ad64e4438c64431abbaf0b67fbda3adf
-msgid "**Cell Type**: тип клеток, к которому будет применяться условие,"
-msgstr "**Cell Type**: the cell type to which the condition will be applied,"
+msgid "**Cell Type**: тип клеток, к которому будет применяться условие."
+msgstr "**Cell Type**: the cell type to which the condition will be applied."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:87
 #: 43315d9b8e0c4ff383547d9b34006471
-msgid "**Priority**: приотритет применения данного условия,"
-msgstr "**Priority**: priority for applying this condition,"
+msgid "**Priority**: приотритет применения данного условия."
+msgstr "**Priority**: priority for applying this condition."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:88
 #: c255f3e3ff9c4202b2ffedae3d87ac53
-msgid "**Color type**: правило применения цветовой схемы,"
-msgstr "**Color type**: rule for applying a color scheme,"
+msgid "**Color type**: правило применения цветовой схемы."
+msgstr "**Color type**: rule for applying a color scheme."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:89
 #: 7ccbd1cd51314c3c906ae849e561e279
-msgid "**Signal**: свойство клетки, значения которого применяются в условии,"
-msgstr "**Signal**: cell property whose values ​​are applied in the condition"
+msgid "**Signal**: свойство клетки, значения которого применяются в условии."
+msgstr "**Signal**: cell property whose values ​​are applied in the condition."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:90
 #: 0da5949519084acb980d329a783a7f27
-msgid "**Color 1**: 1-ая цветовая схема,"
-msgstr "**Color 1**: 1st color scheme,"
+msgid "**Color 1**: 1-ая цветовая схема."
+msgstr "**Color 1**: 1st color scheme."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:91
 #: ad3aa5215a344a58b07c5a0a3b586030
-msgid "**Color 2**: 2-ая цветовая схема,"
-msgstr "**Color 2**: 2nd color scheme,"
+msgid "**Color 2**: 2-ая цветовая схема."
+msgstr "**Color 2**: 2nd color scheme."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:92
 #: b00032e6f20c43299f022f9b4a46e5ef
-msgid "**Min value**: минимальное значение выбранного свойства клетки (Signal),"
-msgstr "**Min value**: minimum value of the selected cell property (Signal),"
+msgid "**Min value**: минимальное значение выбранного свойства клетки (Signal)."
+msgstr "**Min value**: the minimum value of the selected cell property (Signal)."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:93
 #: 1bc05c409ff240df842af0793b4ab18e
 msgid "**Max value**: максимальное значение выбранного свойства клетки (Signal)."
-msgstr "**Max value**: The maximum value of the selected cell property (Signal)."
+msgstr "**Max value**: the maximum value of the selected cell property (Signal)."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:95
 #: 1a5cf317e458457e88a1522175e4c7b8
@@ -14664,7 +14783,7 @@ msgid ""
 "Значения полей **Cell Type**, **Color type**, **Signal**, **Color 1** и "
 "**Color 2** выбираются из раскрывающихся списков."
 msgstr ""
-"The **Cell Type**, **Color type**, **Signal**, **Color 1** and **Color "
+"The **Cell Type**, **Color type**, **Signal**, **Color 1**, and **Color "
 "2** field values ​​are selected from the drop-down lists."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:97
@@ -14674,8 +14793,8 @@ msgid ""
 "нужно нажать ЛКМ под соответствующим заголовком и вписать собственное "
 "значение."
 msgstr ""
-"To set the values ​​of the **Priority**, **Min value** and **Max value** "
-"fields, you need to click LMB under the corresponding heading and enter "
+"To set the values ​​of the **Priority**, **Min value**, and **Max value**"
+" fields, you need to click LMB under the corresponding heading and enter "
 "your own value."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:99
@@ -14692,11 +14811,11 @@ msgstr ""
 msgid ""
 "**Fixed color**: всегда применяется только одна цветовая схема, заданная "
 "в поле Color 1 (:raw-html:`<span style=\"color: red;\">поле Color 2 при "
-"выборе такого правила становится неактивным</span>`),"
+"выборе такого правила становится неактивным</span>`)."
 msgstr ""
 "**Fixed color**: only one color scheme is always applied, specified in "
 "the Color 1 field (:raw-html:`<span style=\"color: red;\">the Color 2 "
-"field becomes inactive when such a rule is selected</span>`),"
+"field becomes inactive when such a rule is selected</span>`)."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:102
 #: da173a0010a24577b41be9b6b428fc10
@@ -14704,23 +14823,23 @@ msgid ""
 "**Gradient**: цвет клетки изменяется по градиенту от 1-ой цветовой схемы "
 "(Color 1) ко 2-ой (Color 2) в зависимости от значения выбранного свойства"
 " клетки (Signal) относительно минимума (Min value) и максимума (Max "
-"value),"
+"value)."
 msgstr ""
 "**Gradient**: the color of the cell changes along a gradient from the 1st"
 " color scheme (Color 1) to the 2nd (Color 2) depending on the value of "
 "the selected cell property (Signal) relative to the minimum (Min value) "
-"and maximum (Max value),"
+"and maximum (Max value)."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:103
 #: 97d118e172d243149769276ca17e2a98
 msgid ""
 "**Larger than max**: если значение свойства клетки (Siganl) больше, чем "
 "максимум (Max value), то к клетке применяется 1-ая цветовая схема (Color "
-"1); во всех остальных случаях применяется 2-ая цветовая схема (Color 2),"
+"1); во всех остальных случаях применяется 2-ая цветовая схема (Color 2)."
 msgstr ""
 "**Larger than max**: if the cell property value (Siganl) is greater than "
 "the maximum (Max value), then the 1st color scheme (Color 1) is applied "
-"to the cell; in all other cases, the 2nd color scheme (Color 2) is used,"
+"to the cell; in all other cases, the 2nd color scheme (Color 2) is used."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:104
 #: 18e2152988a840268380f882d13f738b
@@ -14765,8 +14884,8 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:113
 #: 2f5b8ad1e7724ef3a968b534a83f156b
-msgid "**Color 1**: |icon_blue_circle|,"
-msgstr "**Color 1**: |icon_blue_circle|,"
+msgid "**Color 1**: |icon_blue_circle|."
+msgstr "**Color 1**: |icon_blue_circle|."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:63
 #: 40c9617eeb404d0fa1a9fb5df4002e24 9c42845419ad47eabc3d70b3f006f4bd
@@ -14778,8 +14897,8 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:114
 #: 5c8962330796494a9bd423459292b613
-msgid "**Color 2**: |icon_red_circle|,"
-msgstr "**Color 2**: |icon_red_circle|,"
+msgid "**Color 2**: |icon_red_circle|."
+msgstr "**Color 2**: |icon_red_circle|."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:64
 #: 0260d4f06ce544ca8f2adef1fbcc7957 0840fe82452f40a7a136efe21f933767
@@ -14790,8 +14909,8 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:115
 #: a966dca829d1498e9c79e1cc9fe93844
-msgid "**Min value**: 10,"
-msgstr "**Min value**: 10,"
+msgid "**Min value**: 10."
+msgstr "**Min value**: 10."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Visualizer.rst:116
 #: eaba0c71d3324bd5a842a628ab169298
@@ -14908,12 +15027,11 @@ msgstr ""
 #: 08cca1e2d02549ee89396e6d02bf636f
 msgid ""
 "|icon_generates_code_for_the_model_simulation_button| :raw-"
-"html:`«<strong><u>Generates code for the model simulation</u></strong>»`:"
-" сгенерировать код для симуляции модели,"
+"html:`<strong><u>Generates code for the model simulation</u></strong>`: "
+"сгенерировать код для симуляции модели."
 msgstr ""
 "|icon_generates_code_for_the_model_simulation_button| :raw-"
-"html:`<strong><u>Generates code for the model simulation</u></strong>`: "
-"generate code for the model simulation,"
+"html:`<strong><u>Generates code for the model simulation</u></strong>`."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:9
 #: 7c36c583d0ad4a3694aa7ecec1cf4a16
@@ -14924,12 +15042,11 @@ msgstr ""
 #: 5b24017d4c2a48bd9b6520d5d1b025d4
 msgid ""
 "|icon_start_simulation_process| :raw-"
-"html:`«<strong><u>Start_simulation_process</u></strong>»`: запустить "
-"симуляцию,"
+"html:`<strong><u>Start_simulation_process</u></strong>`: запустить "
+"симуляцию."
 msgstr ""
 "|icon_start_simulation_process| :raw-"
-"html:`«<strong><u>Start_simulation_process</u></strong>»`: start the "
-"simulation,"
+"html:`<strong><u>Start_simulation_process</u></strong>`."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:10
 #: b68b479325ed45408d35fd6db8bf584b
@@ -14940,12 +15057,11 @@ msgstr ""
 #: 488eca0587704210b99b862a6f97cb57
 msgid ""
 "|icon_stop_simulation_process| :raw-"
-"html:`«<strong><u>Stop_simulation_process</u></strong>»`: остановить "
-"симуляцию,"
+"html:`<strong><u>Stop_simulation_process</u></strong>`: остановить "
+"симуляцию."
 msgstr ""
 "|icon_stop_simulation_process| :raw-"
-"html:`<strong><u>Stop_simulation_process</u></strong>`: stop the "
-"simulation,"
+"html:`<strong><u>Stop_simulation_process</u></strong>`."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:11
 #: 2b15f1e528c14eee86c8ade2e4060b85 ec3183ed6a924b3797f55f7674bd1f1d
@@ -14955,13 +15071,12 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:29
 #: f9ad483f47e04760baa322d471b1bb0f
 msgid ""
-"|icon_save_simulation_result| :raw-html:`«<strong><u>Saves simulation "
-"results into the database</u></strong>»`: сохранить результаты симуляции "
-"в базу данных,"
+"|icon_save_simulation_result| :raw-html:`<strong><u>Saves simulation "
+"results into the database</u></strong>`: сохранить результаты симуляции в"
+" базу данных."
 msgstr ""
 "|icon_save_simulation_result| :raw-html:`<strong><u>Saves simulation "
-"results into the database</u></strong>`: save simulation results into the"
-" database,"
+"results into the database</u></strong>`."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:12
 #: afc48bd15d984e03ad74aa4626648122 d965269a8e4f401dbd365e034844e680
@@ -14971,13 +15086,12 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:30
 #: d968843dc969428ba41ca7491bf1f94d
 msgid ""
-"|icon_open_plot_dialog| :raw-html:`«<strong><u>Opens plot dialog to "
-"visualise simulation results</u></strong>»`: открыть диалоговое окно для "
-"визуализации результатов симуляции,"
+"|icon_open_plot_dialog| :raw-html:`<strong><u>Opens plot dialog to "
+"visualise simulation results</u></strong>`: открыть диалоговое окно для "
+"визуализации результатов симуляции."
 msgstr ""
 "|icon_open_plot_dialog| :raw-html:`<strong><u>Opens plot dialog to "
-"visualize simulation results</u></strong>`: open a dialog box to "
-"visualize simulation results,"
+"visualize simulation results</u></strong>`."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:13
 #: 17f956a2d82649059d831a54c72ac4cf 8cc082d117444cbc9e9996c881d8fa6d
@@ -14987,11 +15101,9 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:31
 #: 9ea5a147d586474c8d07809d1ecaa311
 msgid ""
-"|icon_clear_log| :raw-html:`«<strong><u>Clear log</u></strong>»`: "
-"очистить логи."
-msgstr ""
-"|icon_clear_log| :raw-html:`<strong><u>Clear log</u></strong>`: clear "
-"logs."
+"|icon_clear_log| :raw-html:`<strong><u>Clear log</u></strong>`: очистить "
+"логи."
+msgstr "|icon_clear_log| :raw-html:`<strong><u>Clear log</u></strong>`."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Buttons.rst:14
 #: eb1d6293a48142308ce39c022b2a8662
@@ -15016,7 +15128,7 @@ msgid ""
 "|icon_open_plot_dialog| будут неактивны."
 msgstr ""
 "Immediately after opening the Simulation tab, the buttons "
-"|icon_stop_simulation_process|, |icon_save_simulation_result| and "
+"|icon_stop_simulation_process|, |icon_save_simulation_result|, and "
 "|icon_open_plot_dialog| will be inactive."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine.rst:4
@@ -15275,7 +15387,7 @@ msgid ""
 "Выбирается из раскрывающегося списка напротив поля |icon_option| **Cell "
 "update type**."
 msgstr ""
-"Selected from the drop-down list next to the |icon_option| field. **Cell "
+"Selected from the drop-down list next to the field |icon_option| **Cell "
 "update type**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Cell_update_type.rst:13
@@ -15285,14 +15397,16 @@ msgstr "There are 3 options available:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Cell_update_type.rst:15
 #: 7abcbcdafb5147639829884270d8ef7a
-msgid "**Default**: расчеты для отдельных клеток проходят последовательно,"
+#, fuzzy
+msgid "**Default**: расчеты для отдельных клеток проходят последовательно."
 msgstr "**Default**: calculations for individual cells are performed sequentially,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Cell_update_type.rst:16
 #: 5ab22e2d57e448c6bb4edb7c2bf64327
+#, fuzzy
 msgid ""
 "**Parallel**: расчеты для отдельных клеток проходят параллельно друг от "
-"друга (*рекомендуется*),"
+"друга (*рекомендуется*)."
 msgstr ""
 "**Parallel**: calculations for individual cells run parallel to each "
 "other (*recommended*),"
@@ -15577,10 +15691,12 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Log_model_report.rst:186
 #: bdfd79376432451b9e3c0c72947c7697
+#, fuzzy
 msgid ""
 "Также краткую информацию о всей модели можно просмотреть, не запуская "
-"симуляцию. Для этого нужно в левом нижнем углу выбрать в раскрывающемся "
-"списке **Summary**."
+"симуляцию. Для этого нужно нажать ЛКМ на любое свободное место на "
+"диаграмме, а затем в левом нижнем углу выбрать в раскрывающемся списке "
+"**Summary**."
 msgstr ""
 "You can also view a summary of the entire model without running the "
 "simulation. To do this, select **Summary** from the drop-down list in the"
@@ -15602,8 +15718,8 @@ msgid ""
 "Выбирается из раскрывающегося списка напротив поля |icon_option| **Model "
 "type**."
 msgstr ""
-"Selected from the drop-down list next to the |icon_option| field. **Model"
-" type**."
+"Selected from the drop-down list next to the field |icon_option| **Model "
+"type**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Model_type.rst:10
 #: 0f41ca9610a3473c969864b00cff7d2e
@@ -15632,8 +15748,8 @@ msgid ""
 "|icon_option| **(select element)**."
 msgstr ""
 "To select the path in the repository to save the simulation results, you "
-"need to opposite the |icon_option| field. **Result path** click LMB on "
-"|icon_option| **(select element)**."
+"need to click LMB on the |icon_option| **(select element)** opposite the "
+"field |icon_option| **Result path**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Result_path.rst:13
 #: 169b6593038b4997aa3f38fb32a5f07c
@@ -15646,14 +15762,14 @@ msgid ""
 "Напротив поля **Collection:** выбрать папку, в которой должен сохраниться"
 " результат."
 msgstr ""
-"Opposite the **Collection:** field, select the folder in which the result"
-" should be saved."
+"Opposite the field **Collection**: select the folder in which the result "
+"should be saved."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Result_path.rst:16
 #: e18de110f455488c9aeabc64c09293b7
 msgid "Напротив поля **Name:** ввести название папки с результатами симуляции."
 msgstr ""
-"Opposite the **Name:** field, enter the name of the folder with the "
+"Opposite the field **Name**: enter the name of the folder with the "
 "simulation results."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Result_path.rst:19
@@ -15668,9 +15784,8 @@ msgid ""
 "будет отображаться выбранный вами путь в репозитории, куда сохранятся "
 "результаты симуляции."
 msgstr ""
-":raw-html:`<br>` After that, opposite the field |icon_option| **Result "
-"path** will display the path you selected in the repository where the "
-"simulation results will be saved."
+":raw-html:`<br>` After that, the specified path will be displayed "
+"opposite the field |icon_option| **Result path**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:4
 #: 7a1dfb0ca0294b04a4f82cd86dd21894
@@ -15719,9 +15834,9 @@ msgid ""
 "оттенком красного она будет закрашена (отрисовывается относительно ячейки"
 " с максимальным содержанием субстрата в данный момент)."
 msgstr ""
-"The more substrate there is in a certain cell of the environment, the "
-"brighter shade of red it will be painted (drawn relative to the cell with"
-" the maximum substrate content at the moment)."
+"The more substrate there is in a certain space cell of the environment, "
+"the brighter shade of red it will be painted (drawn relative to the space"
+" cell with the maximum substrate content at the moment)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:19
 #: 611e25b402ec4968a0c73be2b1c0c9d1
@@ -15750,6 +15865,19 @@ msgid ""
 "- ...,\n"
 "- 1000."
 msgstr ""
+"Image interval = 20 (frames are saved every 20 model time units).\n"
+"Max Time = 1000 (simulation lasts for 1000 model time units).\n"
+"\n"
+"Frames in the GIF image will be generated for the following time points "
+"during the model simulation:\n"
+"- 0,\n"
+"- 20,\n"
+"- 40,\n"
+"- 60,\n"
+"- ...,\n"
+"- ...,\n"
+"- ...,\n"
+"- 1000."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:37
 #: 7cb59b787188435c89c6d1de7a6eed97
@@ -15771,8 +15899,8 @@ msgid ""
 msgstr ""
 "The upper right part of the GIF image indicates how many time units after"
 " the start of the simulation this frame was generated (**Time**), how "
-"many cells are in the model (**Cells**) and along which slice of external"
-" space along the Z axis this image was taken (**Z**)."
+"many cells are in the model (**Cells**), and along which slice of "
+"external space along the Z axis this image was taken (**Z**)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_GIF.rst:50
 #: 105d6e4d816b46a9ad70c392c7c442ad
@@ -15837,6 +15965,16 @@ msgid ""
 "- Cells_0080,\n"
 "- Cells_0100."
 msgstr ""
+"Image interval = 20 (text files are saved every 20 model time units).\n"
+"Max Time = 100 (simulation lasts for 100 model time units).\n"
+"\n"
+"Text files in the Cells folder:\n"
+"- Cells_0000,\n"
+"- Cells_0020,\n"
+"- Cells_0040,\n"
+"- Cells_0060,\n"
+"- Cells_0080,\n"
+"- Cells_0100."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:31
 #: 46e223d21458402a8051b202fd49aef6
@@ -15848,50 +15986,58 @@ msgstr "These text files provide the following data for each cell in the model:"
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:33
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:82
 #: 4b7b7af4de5b43ebb9b5b42dc613fe94 c058963be4914dbbb73f4590951ed5be
-msgid "**X**: координата клетки по оси X,"
+#, fuzzy
+msgid "**X**: координата клетки по оси X."
 msgstr "**X**: cell coordinate along the X axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:34
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:83
 #: 3577182e8c4f463e8098894a6ad57977 d488bee7469d49219d774339e76796d3
-msgid "**Y**: координата клетки по оси Y,"
+#, fuzzy
+msgid "**Y**: координата клетки по оси Y."
 msgstr "**Y**: cell coordinate along the Y axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:35
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:84
 #: 3e1c6c0a9f464411bdd8db54471a153f ddb73911e4224dc5863c3f326a8e27fe
-msgid "**Z**: координата клетки по оси Z,"
+#, fuzzy
+msgid "**Z**: координата клетки по оси Z."
 msgstr "**Z**: cell coordinate along the Z axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:36
 #: e4d54536f2d640f1a32080879126e5f5
-msgid "**Radius**: радиус клетки,"
+#, fuzzy
+msgid "**Radius**: радиус клетки."
 msgstr "**Radius**: cell radius,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:37
 #: abb08caf1f5c4223a0919a7cd40fb166
-msgid "**r**: радиус ядра клетки,"
+#, fuzzy
+msgid "**r**: радиус ядра клетки."
 msgstr "**r**: cell nucleus radius,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:38
 #: 2ddfb40d41ae4e9385cd40cfeff57a4d
+#, fuzzy
 msgid ""
 "**Color1**: цвет, с помощью которого отрисовывается внутреннее содержимое"
-" клетки,"
+" клетки."
 msgstr ""
 "**Color1**: the color with which the internal contents of the cell are "
 "drawn,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:39
 #: 1c00391086394d13bb5b75e0f25c1927
-msgid "**Color2**: цвет, с помощью которого отрисовывается контур клетки,"
-msgstr "**Color2**: color used to draw the cell border,"
+#, fuzzy
+msgid "**Color2**: цвет, с помощью которого отрисовывается контур клетки."
+msgstr "**Color2**: the color used to draw the cell border,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:40
 #: 3b0f5f5c11c84b5cb0d7a88b72aac8dc
+#, fuzzy
 msgid ""
 "**Color3**: цвет, с помощью которого отрисовывается внутреннее содержимое"
-" ядра клетки,"
+" ядра клетки."
 msgstr ""
 "**Color3**: the color with which the internal contents of the cell "
 "nucleus are drawn,"
@@ -15912,8 +16058,8 @@ msgid ""
 "Если в текстовом файле приведено значение **только Color1**, то "
 "считается, что:"
 msgstr ""
-"If the text file contains the value **only Color1**, then it is "
-"considered that:"
+"If the text file contains **only Color1** value, then it is considered "
+"that:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:49
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:55
@@ -15938,8 +16084,8 @@ msgid ""
 "Если в текстовом файле приведены значения **только Color1 и Color2**, то "
 "считается, что:"
 msgstr ""
-"If the text file contains the values ​​**only Color1 and Color2**, then "
-"it is considered that:"
+"If the text file contains **only Color1 and Color2** values ​​, then it "
+"is considered that:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data.rst:56
 #: b2186e7dcc794a29a1262760972166b5
@@ -16025,6 +16171,16 @@ msgid ""
 "- Cells_0080,\n"
 "- Cells_0100."
 msgstr ""
+"Image interval = 20 (tables are saved every 20 model time units).\n"
+"Max Time = 100 (simulation lasts for 100 model time units).\n"
+"\n"
+"Tables in the Cells tables folder:\n"
+"- Cells_0000,\n"
+"- Cells_0020,\n"
+"- Cells_0040,\n"
+"- Cells_0060,\n"
+"- Cells_0080,\n"
+"- Cells_0100."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_cells_data_as_table.rst:28
 #: 498afc49adec4bfd8216473fb5c22788
@@ -16092,6 +16248,16 @@ msgid ""
 "- Density_0040,\n"
 "- Density_0050."
 msgstr ""
+"Report interval = 10 (tables are saved every 10 model time units).\n"
+"Max Time = 50 (simulation lasts for 50 model time units).\n"
+"\n"
+"Tables in the Density folder:\n"
+"- Density_0000,\n"
+"- Density_0010,\n"
+"- Density_0020,\n"
+"- Density_0030,\n"
+"- Density_0040,\n"
+"- Density_0050."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:73
 #: 00921139ae6b4348a45520aa71c599dc
@@ -16099,38 +16265,44 @@ msgid ""
 "В этих таблицах для каждой ячейки внешней среды представлены следующие "
 "данные:"
 msgstr ""
-"These tables present the following data for each cell of the external "
-"environment:"
+"These tables present the following data for each space cell of the "
+"external environment:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:75
 #: 9e3f6ad6a32e4f5385648536fd720492
-msgid "**ID**: уникальный идентификатор каждой ячейки,"
-msgstr "**ID**: unique identifier for each cell,"
+#, fuzzy
+msgid "**ID**: уникальный идентификатор каждой ячейки."
+msgstr "**ID**: unique identifier for each space cell,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:76
 #: fd30c2479f4e45e9ad7706cead7a6429
-msgid "**X**: координата ячейки по оси X,"
-msgstr "**X**: cell coordinate along the X axis,"
+#, fuzzy
+msgid "**X**: координата ячейки по оси X."
+msgstr "**X**: space cell coordinate along the X axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:77
 #: 42b2bc355e1f4b3d9a3681645a292ece
-msgid "**Y**: координата ячейки по оси Y,"
-msgstr "**Y**: cell coordinate along the Y axis,"
+#, fuzzy
+msgid "**Y**: координата ячейки по оси Y."
+msgstr "**Y**: space cell coordinate along the Y axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:78
 #: f1fe06bb13304e26b5b0d9dbd27cbd70
-msgid "**Z**: координата ячейки по оси Z,"
-msgstr "**Z**: cell coordinate along the Z axis,"
+#, fuzzy
+msgid "**Z**: координата ячейки по оси Z."
+msgstr "**Z**: space cell coordinate along the Z axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:79
 #: bb29dba15178463485f83377c0a4cdd2
-msgid "**[Субстрат 1]**: количество субстрата 1 в данной ячейке,"
-msgstr "**[Substrate 1]**: amount of substrate 1 in this cell,"
+#, fuzzy
+msgid "**[Субстрат 1]**: количество субстрата 1 в данной ячейке."
+msgstr "**[Substrate 1]**: amount of substrate 1 in this space cell,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:80
 #: 18f67261990f45eca9326ed7b7ccc5c0
-msgid "**[Субстрат 2]**: количество субстрата 2 в данной ячейке,"
-msgstr "**[Substrate 2]**: amount of substrate 2 in this cell,"
+#, fuzzy
+msgid "**[Субстрат 2]**: количество субстрата 2 в данной ячейке."
+msgstr "**[Substrate 2]**: amount of substrate 2 in this space cell,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:81
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:82
@@ -16151,7 +16323,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:84
 #: 5788e92d3c674bbabccd08836a7c85e4
 msgid "**[Субстрат n]**: количество субстрата n в данной ячейке."
-msgstr "**[Substrate n]**: The amount of substrate n in this cell."
+msgstr "**[Substrate n]**: The amount of substrate n in this space cell."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:87
 #: 61ae6e33343d4efbb7b9a5cb86d6ccfe
@@ -16160,7 +16332,8 @@ msgid ""
 "указано количество именно этого субстрата в данной ячейке."
 msgstr ""
 "In the table, each substrate in the model will have its own column, which"
-" will indicate the amount of this particular substrate in a given cell."
+" will indicate the amount of this particular substrate in a given space "
+"cell."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:89
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:88
@@ -16370,6 +16543,16 @@ msgid ""
 "- Figure_0080,\n"
 "- Figure_0100."
 msgstr ""
+"Image interval = 20 (images are saved every 20 model time units).\n"
+"Max Time = 100 (simulation lasts for 100 model time units).\n"
+"\n"
+"Images in the Image/Substrate_name folder:\n"
+"- Figure_0000,\n"
+"- Figure_0020,\n"
+"- Figure_0040,\n"
+"- Figure_0060,\n"
+"- Figure_0080,\n"
+"- Figure_0100."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:38
 #: eeb0730ce68f46349d7f30507e764e59
@@ -16391,7 +16574,7 @@ msgid ""
 msgstr ""
 "The upper right part of each figure indicates how many time units after "
 "the start of the simulation this image was generated (**Time**), how many"
-" cells are in the model (**Cells**) and along which slice of external "
+" cells are in the model (**Cells**), and along which slice of external "
 "space along the Z axis this image was taken (**Z**)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_plots.rst:4
@@ -16476,6 +16659,21 @@ msgid ""
 "- Report_0090,\n"
 "- Report_0100."
 msgstr ""
+"Report interval = 10 (tables are saved every 10 model time units).\n"
+"Max Time = 100 (simulation lasts for 100 model time units).\n"
+"\n"
+"Tables in the Reports folder:\n"
+"- Report_0000,\n"
+"- Report_0010,\n"
+"- Report_0020,\n"
+"- Report_0030,\n"
+"- Report_0040,\n"
+"- Report_0050,\n"
+"- Report_0060,\n"
+"- Report_0070,\n"
+"- Report_0080,\n"
+"- Report_0090,\n"
+"- Report_0100."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:79
 #: 166560a5d8fb4e5cb45247003112aa2b
@@ -16484,18 +16682,20 @@ msgstr "These tables present the following data for each cell in the model:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:81
 #: ac31f6f0ec1d49ddb9d4d48280422b4a
-msgid "**ID**: уникальный идентификатор каждой клетки,"
+#, fuzzy
+msgid "**ID**: уникальный идентификатор каждой клетки."
 msgstr "**ID**: unique identifier for each cell,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:85
 #: 2e4532a28e5e4209b2b57dc6690fcb84
-msgid "**Cicle**: тип жизненного цикла клетки,"
+#, fuzzy
+msgid "**Cycle**: тип жизненного цикла клетки."
 msgstr "**Cicle**: type of cell life cycle,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:86
 #: 7fc69638d51b4e7dbd065a659f8c7faa
 msgid "**Elapsed**: время, проведенное клеткой в текущей фазе жизненного цикла."
-msgstr "**Elapsed**: Time spent by a cell in the current phase of its life cycle."
+msgstr "**Elapsed**: time spent by a cell in the current phase of its life cycle."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:97
 #: 30fdb2693a2144bda808837312af54fd
@@ -16749,6 +16949,19 @@ msgid ""
 "- ...,\n"
 "- 1000."
 msgstr ""
+"Image interval = 20 (frames are saved every 20 model time units).\n"
+"Max Time = 1000 (simulation lasts for 1000 model time units).\n"
+"\n"
+"Frames in the video will be generated for the following time points "
+"during the model simulation:\n"
+"- 0,\n"
+"- 20,\n"
+"- 40,\n"
+"- 60,\n"
+"- ...,\n"
+"- ...,\n"
+"- ...,\n"
+"- 1000."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_video.rst:37
 #: 7987463277a34377975fc1ddf8a3b844
@@ -16770,8 +16983,8 @@ msgid ""
 msgstr ""
 "The upper right part of the video indicates how many time units after the"
 " start of the simulation a certain frame was generated (**Time**), how "
-"many cells are in the model (**Cells**) and along which slice of external"
-" space along the Z axis this frame was taken (**Z**)."
+"many cells are in the model (**Cells**), and along which slice of "
+"external space along the Z axis this frame was taken (**Z**)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_video.rst:50
 #: 2a8abd1d30bd438392574eb84d9af8dc
@@ -16817,12 +17030,14 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:10
 #: 4bab9889e7dc43a792040fb1b6a7525f
-msgid "|icon_Java_code| info.txt,"
+#, fuzzy
+msgid "|icon_Java_code| info.txt."
 msgstr "|icon_Java_code| info.txt,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:11
 #: 1c71ff83c7444196a0f92ddae4b7443b
-msgid "|icon_Java_code| log.txt,"
+#, fuzzy
+msgid "|icon_Java_code| log.txt."
 msgstr "|icon_Java_code| log.txt"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files.rst:12
@@ -16871,34 +17086,38 @@ msgstr "The **info.txt** file from the example says that:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:19
 #: 404fb21a3aa04bc39efbd481f044caff
+#, fuzzy
 msgid ""
 "ось X внешней среды имеет значения от -500 до 500 с шагом 20 (X:      "
-"-500.0  500.0   20.0),"
+"-500.0  500.0   20.0)."
 msgstr ""
 "The X axis of the external environment has values ​​from -500 to 500 in "
 "increments of 20 (X: -500.0 500.0 20.0),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:20
 #: cbf2e39f39754e1084386fa285106e10
+#, fuzzy
 msgid ""
 "ось Y внешней среды имеет значения от -500 до 500 с шагом 20 (Y:      "
-"-500.0  500.0   20.0),"
+"-500.0  500.0   20.0)."
 msgstr ""
 "The Y axis of the external environment has values ​​from -500 to 500 in "
 "increments of 20 (Y: -500.0 500.0 20.0),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:21
 #: 89715499345c4d7088bb39f29a408456
+#, fuzzy
 msgid ""
 "ось Z внешней среды имеет значения от -10 до 10 с шагом 20 (Z:        "
-"-10.0   10.0    20.0),"
+"-10.0   10.0    20.0)."
 msgstr ""
 "The Z axis of the external environment has values ​​from -10 to 10 in "
 "increments of 20 (Z: -10.0 10.0 20.0),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:22
 #: a0980910b46c486aad837a49ed1c8b7d
-msgid "внешняя среда плоская (2D:    true),"
+#, fuzzy
+msgid "внешняя среда плоская (2D:    true)."
 msgstr "external environment is flat (2D: true),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Info_txt.rst:23
@@ -16917,7 +17136,7 @@ msgid ""
 "клетки имеют объем."
 msgstr ""
 "Z-axis values ​​are not limited to 0, even if the environment is flat, "
-"because The cells themselves have volume."
+"because the cells themselves have volume."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Log_txt.rst:4
 #: 50ff34804cff471baac960578b67688a
@@ -16961,17 +17180,20 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Log_txt.rst:27
 #: 2ec65f044f81491bb3f2039c7780102e
-msgid "времени, когда данный шаг симуляции завершился ([ 16:45:46 ]),"
+#, fuzzy
+msgid "времени, когда данный шаг симуляции завершился ([ 16:45:46 ])."
 msgstr "time when this simulation step ended ([ 16:45:46 ]),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Log_txt.rst:28
 #: 5cf5bd728a364b8082cb2f237a3c0b25
-msgid "времени, прошедшего с момента начала симуляции (Elapsed       0.118),"
+#, fuzzy
+msgid "времени, прошедшего с момента начала симуляции (Elapsed       0.118)."
 msgstr "time elapsed since the start of the simulation (Elapsed 0.118),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Log_txt.rst:29
 #: 58231e47a4144f86ab0704ad48949dd5
-msgid "модельном времени на данном шаге симуляции (Time:     0),"
+#, fuzzy
+msgid "модельном времени на данном шаге симуляции (Time:     0)."
 msgstr "model time at a given simulation step (Time: 0),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_General_files/PhysiCell_simulation_General_files_Log_txt.rst:30
@@ -17145,31 +17367,31 @@ msgstr "Simulation_panel_composition"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_MAIN.rst:52
 #: ff5e26b22fa545d6aa52f9e576372cde
-msgid "кнопки для управления процессом симуляции (А),"
-msgstr "buttons to control the simulation process (A),"
+msgid "Кнопки для управления процессом симуляции (A)."
+msgstr "Buttons to control the simulation process (A)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_MAIN.rst:53
 #: ff1af86cb6f2443096d2d282e2c91e88
 msgid ""
-"вкладки для переключения между настройками параметров симуляции (Engine) "
-"и меню добавления переменных для вывода на график (Plots) (Б),"
+"Вкладки для переключения между настройками параметров симуляции (Engine) "
+"и меню добавления переменных для вывода на график (Plots) (B)."
 msgstr ""
-"tabs for switching between settings for simulation parameters (Engine) "
-"and a menu for adding variables for display on a graph (Plots) (B),"
+"Tabs for switching between settings for simulation parameters (Engine) "
+"and a menu for adding variables for display on a graph (Plots) (B)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_MAIN.rst:54
 #: b45e5d1e7f8340cdad3924d17408d53f
 msgid ""
-"область редактирования параметров симуляции (Engine) и меню добавления "
-"переменных для вывода на график (Plots) (В),"
+"Область редактирования параметров симуляции (Engine) и меню добавления "
+"переменных для вывода на график (Plots) (C)."
 msgstr ""
-"area for editing simulation parameters (Engine) and menu for adding "
-"variables for display on a graph (Plots) (B),"
+"Area for editing simulation parameters (Engine) and menu for adding "
+"variables for display on a graph (Plots) (C),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_MAIN.rst:55
 #: e02abaf069a645928340480e84a3d07f
-msgid "область вывода логов (Г)."
-msgstr "log output area (D)."
+msgid "Область вывода логов (D)."
+msgstr "Log output area (D)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_MAIN.rst:57
 #: bc7005e905da43eda75b1000b9da55ea
@@ -17224,17 +17446,26 @@ msgstr "Variable_description"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:34
 #: 111f3d72c3c946a2a4993dd4ee10a036
-msgid "**Name**: название переменной,"
+#, fuzzy
+msgid "**Name**: название переменной."
 msgstr "**Name**: variable name,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:35
 #: cf94578cce6b492a9bd4983e1bb1f28e
-msgid "**Cell type**: тип клеток,"
-msgstr "**Cell type**: cell type,"
+#, fuzzy
+msgid "**Cell type**: тип клеток."
+msgstr "**Cell types**: cell types."
+
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:36
+#: 2a528b728a1140aba1b0737abed350f6
+#, fuzzy
+msgid "**Signal**: сигнал."
+msgstr "**Signal**: signal,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:37
 #: cc6321cd27f443e2bc434cde71d3f026
-msgid "**Relation**: отношение клеток выбранного типа к сигналу,"
+#, fuzzy
+msgid "**Relation**: отношение клеток выбранного типа к сигналу."
 msgstr "**Relation**: the ratio of the selected cell type to the signal,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:38
@@ -17249,7 +17480,7 @@ msgid ""
 "нужно нажать ЛКМ справа от соответствующей иконки и из раскрывающегося "
 "списка выбрать нужный вариант."
 msgstr ""
-"To set the values ​​of the **Cell type**, **Signal** and **Relation** "
+"To set the values ​​of the **Cell type**, **Signal**, and **Relation** "
 "fields, you need to click LMB to the right of the corresponding icon and "
 "select the desired option from the drop-down list."
 
@@ -17302,6 +17533,18 @@ msgid ""
 "потребивших субстрат\n"
 "с названием Food (Signal) в количестве большем (Relation), чем 10 (Value)."
 msgstr ""
+"Name = Fed_cells,\n"
+"Cell type = Amoeba,\n"
+"Signal = Food,\n"
+"Relation = \">\",\n"
+"Value = 10.\n"
+"\n"
+"This means that the graph will show the value of the Fed_cells variable "
+"(Name),\n"
+"which corresponds to the number of cells of type Amoeba (Cell type) that "
+"have consumed\n"
+"the substrate named Food (Signal) in an amount greater (Relation) than 10"
+" (Value)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Plots.rst:62
 #: bebf1d5e490b4b738a3156c58b0296df
@@ -17339,7 +17582,7 @@ msgid ""
 "функционал <Physicell_cell_properties_Actions>`."
 msgstr ""
 "To work with existing variables, use :ref:`this "
-"<Physicell_cell_properties_Actions>` functionality."
+"functionality<Physicell_cell_properties_Actions>`."
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Settings.rst:4
 #: 70ad59d749ac4a9984ee3c83ab6a706a
@@ -17420,8 +17663,9 @@ msgstr ":raw-html:`<br>` There are 4 buttons in total to view the simulation:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:24
 #: ac7ae4174d3347ef8d966987bfd3269c
+#, fuzzy
 msgid ""
-"|icon_play_button| :raw-html:`«<strong><u>Play</u></strong>»`: начать "
+"|icon_play_button| :raw-html:`<strong><u>Play</u></strong>`: начать "
 "просмотр симуляции."
 msgstr ""
 "|icon_play_button| :raw-html:`«<strong><u>Play</u></strong>»`: start "
@@ -17436,9 +17680,10 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:25
 #: f6cdc4c05419442b8b317721575de0cd
+#, fuzzy
 msgid ""
-"|icon_pause_button| :raw-html:`«<strong><u>Pause</u></strong>»`: "
-"поставить на паузу просмотр симуляции."
+"|icon_pause_button| :raw-html:`<strong><u>Pause</u></strong>`: поставить "
+"на паузу просмотр симуляции."
 msgstr ""
 "|icon_pause_button| :raw-html:`«<strong><u>Pause</u></strong>»`: pause "
 "the simulation view."
@@ -17451,9 +17696,10 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:26
 #: 8e81970759b642c797c5420646a305cc
+#, fuzzy
 msgid ""
-"|icon_stop_button| :raw-html:`«<strong><u>Stop</u></strong>»`: остановить"
-" просмотр симуляции."
+"|icon_stop_button| :raw-html:`<strong><u>Stop</u></strong>`: остановить "
+"просмотр симуляции."
 msgstr ""
 "|icon_stop_button| :raw-html:`<strong><u>Stop</u></strong>`: Stop viewing"
 " the simulation."
@@ -17466,9 +17712,10 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Buttons.rst:27
 #: ffe064ea7c3645e2a77d1753a9ccd9ad
+#, fuzzy
 msgid ""
-"|icon_record_button| :raw-html:`«<strong><u>Record</u></strong>»`: "
-"записать просмотр симуляции на видео."
+"|icon_record_button| :raw-html:`<strong><u>Record</u></strong>`: записать"
+" просмотр симуляции на видео."
 msgstr ""
 "|icon_record_button| :raw-html:`<strong><u>Record</u></strong>`: Record "
 "the simulation on video."
@@ -17497,7 +17744,7 @@ msgid ""
 "файлы info.txt, log.txt и model.txt)."
 msgstr ""
 "Right-click on the folder with the simulation result (the one in which "
-"the files info.txt, log.txt and model.txt are located)."
+"the files info.txt, log.txt, and model.txt are located)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:12
 #: ac717ae69c7b4820abfa31d450e02973
@@ -17541,7 +17788,7 @@ msgid ""
 "количество клеток и срез по оси Z."
 msgstr ""
 ":raw-html:`<br>` It shows cells, axes, as well as model time, number of "
-"cells and slice along the Z axis."
+"cells, and slice along the Z axis."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:34
 #: 164a561dcd314156b5e12daa6092957d
@@ -17585,12 +17832,14 @@ msgstr ":raw-html:`<br>` There are 2 parts to this menu:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:58
 #: fe23218ac2894c3db7a125994851c3be
-msgid "Кнопки для просмотра симуляции (А),"
+#, fuzzy
+msgid "Кнопки для просмотра симуляции (A)."
 msgstr "Buttons for viewing the simulation (A),"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:59
 #: 0c10a0c6731147f7b81864d0ec23914c
-msgid "Параметры настройки просмотра симуляции (Б)."
+#, fuzzy
+msgid "Параметры настройки просмотра симуляции (B)."
 msgstr "Simulation View Settings (B)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_MAIN.rst:61
@@ -17615,27 +17864,30 @@ msgstr "You can edit the following simulation viewing parameters:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:11
 #: d4fffc82aabf43718e59355036e92cca
+#, fuzzy
 msgid ""
 "**Time**: :ref:`модельное время симуляции "
-"<PhysiCell_simulation_result_Settings_Time>`,"
+"<PhysiCell_simulation_result_Settings_Time>`."
 msgstr ""
 "**Time**: :ref:`model simulation time "
 "<PhysiCell_simulation_result_Settings_Time>`,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:12
 #: 0f4bd7c83f164a969f6412962f5c6482
+#, fuzzy
 msgid ""
 "**Time step**: :ref:`шаг модельного времени симуляции "
-"<PhysiCell_simulation_result_Settings_Time_step>`,"
+"<PhysiCell_simulation_result_Settings_Time_step>`."
 msgstr ""
 "**Time step**: :ref:`model simulation time step "
 "<PhysiCell_simulation_result_Settings_Time_step>`,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:13
 #: bbf851811db641538346e8c59395b048
+#, fuzzy
 msgid ""
 "**2D**: отметьте ☑, если хотите, чтобы изображение модели выводилось в "
-":ref:`двух измерениях <PhysiCell_simulation_result_Settings_2D>`,"
+":ref:`двух измерениях <PhysiCell_simulation_result_Settings_2D>`."
 msgstr ""
 "**2D**: check ☑ if you want the model to be displayed in :ref:`two "
 "dimensions <PhysiCell_simulation_result_Settings_2D>`,"
@@ -17653,12 +17905,14 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:16
 #: efdd15068ebb40948374cee9b8a80500
-msgid "*Slice* - сечение внешней среды для просмотра симуляции,"
+#, fuzzy
+msgid "*Slice*: сечение внешней среды для просмотра симуляции."
 msgstr "*Slice* - section of the external environment for viewing the simulation,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:17
 #: 64c22eba70f844a69ae3763dcaad4bff
-msgid "*Section* - плоскость для просмотра симуляции,"
+#, fuzzy
+msgid "*Section*: плоскость для просмотра симуляции."
 msgstr "*Section* - plane for viewing the simulation,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:19
@@ -17670,69 +17924,77 @@ msgid ""
 msgstr ""
 "**Options 3D**: options for viewing the model in :ref:`three dimensions "
 "<PhysiCell_simulation_result_Settings_Options_3D>` (:raw-html:`<span "
-"style=\"color: red;\">available only if the option is NOT selected "
-"2D</span>`):"
+"style=\"color: red;\">available only if the 2D option is NOT "
+"selected</span>`):"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:21
 #: d5ea6e4cca0047878f24e13232e1cefb
-msgid "*Heading* - угол поворота вокруг оси Y,"
+#, fuzzy
+msgid "*Heading*: угол поворота вокруг оси Y."
 msgstr "*Heading* - angle of rotation around the Y axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:22
 #: 9f36ea6fb348453fb800998f4a66b4d7
-msgid "*Pitch* - угол поворота вокруг оси X,"
+#, fuzzy
+msgid "*Pitch*: угол поворота вокруг оси X."
 msgstr "*Pitch* - angle of rotation around the X axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:23
 #: 0622c5ebf5554b87a91eff11a9a3089d
+#, fuzzy
 msgid ""
 "*YZ slice, X =*: на каком расстоянии от точки X = 0 делать сечение по "
-"плоскости YZ,"
+"плоскости YZ."
 msgstr ""
 "*YZ slice, X =*: at what distance from the point X = 0 to make a section "
 "along the YZ plane,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:24
 #: f95bb40ff5cf4fb985856f424bd71f6f
+#, fuzzy
 msgid ""
 "*XZ slice, Y =*: на каком расстоянии от точки Y = 0 делать сечение по "
-"плоскости XZ,"
+"плоскости XZ."
 msgstr ""
 "*XZ slice, Y =*: at what distance from the point Y = 0 to make a section "
 "along the XZ plane,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:25
 #: 347136533d114629869f6643add6cb36
+#, fuzzy
 msgid ""
 "*XY slice, Z =*: на каком расстоянии от точки Z = 0 делать сечение по "
-"плоскости XY,"
+"плоскости XY."
 msgstr ""
 "*XY slice, Z =*: at what distance from the point Z = 0 to make a section "
 "along the XY plane,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:26
 #: b81e3794ec784167b10f30d36820b345
+#, fuzzy
 msgid ""
 "*Density XY plane*: отметьте ☑, если хотите отображать субстраты в "
-"плоскости XY,"
+"плоскости XY."
 msgstr ""
 "*Density XY plane*: check ☑ if you want to display substrates in the XY "
 "plane,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:27
 #: ee5d95880eec49d294b5472269b0ae58
+#, fuzzy
 msgid ""
 "*Density XZ plane*: отметьте ☑, если хотите отображать субстраты в "
-"плоскости XZ,"
+"плоскости XZ."
 msgstr ""
 "*Density XZ plane*: check ☑ if you want to display substrates in the XZ "
 "plane,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:28
 #: c2211f5f45c24d58b4967f0e30222130
+#, fuzzy
 msgid ""
 "*Density YZ plane*: отметьте ☑, если хотите отображать субстраты в "
-"плоскости YZ,"
+"плоскости YZ."
 msgstr ""
 "*Density YZ plane*: check ☑ if you want to display substrates in the YZ "
 "plane,"
@@ -17744,19 +18006,21 @@ msgstr "*Spheres quality*: rendering quality of 3D spheres (cells)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:31
 #: 91d6386044924835aa02370198a29935
+#, fuzzy
 msgid ""
 "**Statistics**: отметьте ☑, если хотите, чтобы отрисовывалась "
 ":ref:`дополнительная информация о модели "
-"<PhysiCell_simulation_result_Settings_Statistics>`,"
+"<PhysiCell_simulation_result_Settings_Statistics>`."
 msgstr ""
 "**Statistics**: check ☑ if you want :ref:`additional model information "
 "<PhysiCell_simulation_result_Settings_Statistics>` to be drawn,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:32
 #: f08d8dfdb08842208dcc07bfcd4bb86f
+#, fuzzy
 msgid ""
 "**Axes**: отметьте ☑, если хотите, чтобы на изображении модели "
-"отрисовывались :ref:`оси <PhysiCell_simulation_result_Settings_Axes>`,"
+"отрисовывались :ref:`оси <PhysiCell_simulation_result_Settings_Axes>`."
 msgstr ""
 "**Axes**: check ☑ if you want the :ref:`axes "
 "<PhysiCell_simulation_result_Settings_Axes>` to be drawn on the model "
@@ -17764,10 +18028,11 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:33
 #: ba407212391349da8d6d58c32811f7ed
+#, fuzzy
 msgid ""
 "**Cells**: отметьте ☑, если хотите, чтобы на изображении модели "
 "отрисовывались :ref:`клетки "
-"<PhysiCell_simulation_result_Settings_Cells>`,"
+"<PhysiCell_simulation_result_Settings_Cells>`."
 msgstr ""
 "**Cells**: check ☑ if you want the :ref:`cells "
 "<PhysiCell_simulation_result_Settings_Cells>` to be drawn on the model "
@@ -17775,10 +18040,11 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:34
 #: 92b440ec004b4715b7fb8b03756bcf4b
+#, fuzzy
 msgid ""
 "**Draw nuclei**: отметьте ☑, если хотите, чтобы на изображении модели в "
 "клетках отрисовывались :ref:`ядра "
-"<PhysiCell_simulation_result_Settings_Draw_nuclei>`,"
+"<PhysiCell_simulation_result_Settings_Draw_nuclei>`."
 msgstr ""
 "**Draw nuclei**: check ☑ if you want :ref:`nuclei "
 "<PhysiCell_simulation_result_Settings_Draw_nuclei>` to be drawn in the "
@@ -17786,17 +18052,19 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:35
 #: e1716ce0dae74009b9d7125b205fce79
-msgid "**Substrate name**: название субстрата,"
+#, fuzzy
+msgid "**Substrate name**: название субстрата."
 msgstr "**Substrate name**: name of the substrate,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:36
 #: 1a95366d5e9041d09d15488f84773f27
+#, fuzzy
 msgid ""
 "**Substrate**: отметьте ☑, если хотите отображать :ref:`субстрат "
 "<PhysiCell_simulation_result_Settings_Substrate>`, выбранный в поле "
 "Substrate name, на изображении модели (:raw-html:`<span style=\"color: "
 "red;\">проверьте, что при запуске симуляции было отмечено поле Save "
-"density, иначе субстраты не будут отображаться</span>`),"
+"density, иначе субстраты не будут отображаться</span>`)."
 msgstr ""
 "**Substrate**: check ☑ if you want to display the :ref:`substrate "
 "<PhysiCell_simulation_result_Settings_Substrate>` selected in the "
@@ -17806,38 +18074,42 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:37
 #: 7f6232eda1e84b869f61a10d6e9ab8e5
+#, fuzzy
 msgid ""
 "**Density Color**: цвет, с помощью которого субстрат, выбранный в поле "
-"Substrate name, быдет вырисовываться на изображении модели,"
+"Substrate name, быдет вырисовываться на изображении модели."
 msgstr ""
 "**Density Color**: the color with which the substrate selected in the "
 "Substrate name field will appear on the model image,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:38
 #: d72ca58a012840e6aa25aba41af65ab4
+#, fuzzy
 msgid ""
 "**Statistics X**: :ref:`координаты "
 "<PhysiCell_simulation_result_Settings_Statistics_XY>` отрисовки "
-"дополнительной информации о модели по оси X,"
+"дополнительной информации о модели по оси X."
 msgstr ""
-"**Statistics X**: :ref:`coordinates of "
+"**Statistics X**: :ref:`coordinates "
 "<PhysiCell_simulation_result_Settings_Statistics_XY>` for drawing "
 "additional information about the model along the X axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:39
 #: 397534804fae4125b394736cf4e29c4a
+#, fuzzy
 msgid ""
 "**Statistics Y**: :ref:`координаты "
 "<PhysiCell_simulation_result_Settings_Statistics_XY>` отрисовки "
-"дополнительной информации о модели по оси Y,"
+"дополнительной информации о модели по оси Y."
 msgstr ""
-"**Statistics Y**: :ref:`coordinates of "
+"**Statistics Y**: :ref:`coordinates "
 "<PhysiCell_simulation_result_Settings_Statistics_XY>` for drawing "
 "additional information about the model along the Y axis,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:40
 #: 14af8d3582af4962ba277d601404ba54
-msgid "**Frame per second**: количество кадров в секунду в видео,"
+#, fuzzy
+msgid "**Frame per second**: количество кадров в секунду в видео."
 msgstr "**Frame per second**: number of frames per second in the video,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings.rst:41
@@ -17861,9 +18133,10 @@ msgstr "Image of the model in two dimensions (2D)"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_2D.rst:11
 #: 4cb60c6a999c4395af79e0677e9790e6
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **2D** отмечено, то изображение модели выводится "
-"в 2-ух измерениях (А), если нет - в 3-ех (Б)."
+"в 2-ух измерениях, если нет - в 3-ех."
 msgstr ""
 "If the field |icon_option| **2D** is checked, then the model image is "
 "displayed in 2 dimensions (A), if not - in 3 dimensions (B)."
@@ -17916,18 +18189,20 @@ msgstr "Image of axes (Axes)"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Axes.rst:11
 #: ecf0b00637c0402087bdd31d79e4e44e
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **Axes** отмечено, то на изображении модели будут"
-" отрисовываться оси системы координат модели (А)."
+" отрисовываться оси системы координат модели."
 msgstr ""
 "If the field |icon_option| **Axes** is checked, then the axes of the "
 "model coordinate system (A) will be drawn on the model image."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Axes.rst:13
 #: 40568f96b5504fb3a93cdaecb54e3d9d
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **Axes** не отмечено, то оси отображаться не "
-"будут (Б)."
+"будут."
 msgstr ""
 "If the field |icon_option| **Axes** is not checked, then the axes will "
 "not be displayed (B)."
@@ -17944,18 +18219,20 @@ msgstr "Image of cells (Cells)"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Cells.rst:11
 #: 43d6aa31a1ef4a58aa2800bfb4fb87b2
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **Cells** отмечено, то на изображении модели "
-"будут отрисовываться клетки (А)."
+"будут отрисовываться клетки."
 msgstr ""
 "If the field |icon_option| **Cells** is checked, cells (A) will be drawn "
 "on the model image."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Cells.rst:13
 #: e013ccfca0434711a2a73a9287fa2ed2
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **Cells** не отмечено, то клетки отображаться не "
-"будут (Б)."
+"будут."
 msgstr ""
 "If the field |icon_option| **Cells** is not checked, then the cells will "
 "not be displayed (B)."
@@ -17972,18 +18249,20 @@ msgstr "Image of nuclei in cells (Draw nuclei)"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:11
 #: 8b5360c525ec4bdcaabac55327083c57
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **Draw nuclei** отмечено, то на изображении "
-"модели в клетках будут отрисовываться ядра (А)."
+"модели в клетках будут отрисовываться ядра."
 msgstr ""
 "If the field |icon_option| **Draw nuclei** is checked, then nuclei (A) "
 "will be drawn in the cells in the model image."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Draw_nuclei.rst:13
 #: 57280cc5c3e74e6d92b5240bfb626f72
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **Draw nuclei** не отмечено, то ядра в клетках "
-"отображаться не будут (Б)."
+"отображаться не будут."
 msgstr ""
 "If the field |icon_option| **Draw nuclei** is not checked, then the "
 "nuclei in the cells will not be displayed (B)."
@@ -18013,13 +18292,14 @@ msgid ""
 "Для этого нужно нажать ЛКМ справа от поля |icon_option| **Spheres "
 "quality** и из раскрывающегося списка выбрать одно из доступных значений:"
 msgstr ""
-"To do this, click LMB to the right of the |icon_option| field. **Spheres "
+"To do this, click LMB to the right of the field |icon_option| **Spheres "
 "quality** and select one of the available values ​​from the drop-down "
 "list:"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Options_3D.rst:12
 #: 61ddf1719de045d2b734e2bd0e578b23
-msgid "**Poor**: quality = 2,"
+#, fuzzy
+msgid "**Poor**: quality = 2."
 msgstr "**Poor**: quality = 2,"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Options_3D.rst:13
@@ -18049,20 +18329,22 @@ msgstr "Additional information about the model (Statistics)"
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics.rst:11
 #: 40d259047c58450182c319538526cd06
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **Statistics** отмечено, то на изображении модели"
 " выводятся значения модельного времени, количества клеток и среза по оси "
-"Z в случае двумерной модели (А)."
+"Z в случае двумерной модели."
 msgstr ""
 "If the field |icon_option| **Statistics** is marked, then the model image"
-" displays the values ​​of model time, number of cells and slice along the"
-" Z axis in the case of a two-dimensional model (A)."
+" displays the values ​​of model time, number of cells, and slice along "
+"the Z axis in the case of a two-dimensional model (A)."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Statistics.rst:13
 #: 85989b1fe18b42178b9e008c55caf2e3
+#, fuzzy
 msgid ""
 "Если поле |icon_option| **Statistics** не отмечено, то такая информация "
-"указываться не будет (Б)."
+"указываться не будет."
 msgstr ""
 "If the field |icon_option| **Statistics** is not checked, then such "
 "information will not be indicated (B)."
@@ -18256,7 +18538,7 @@ msgid ""
 "параметру **Image interval**, указываемому при настройке симуляции "
 "модели."
 msgstr ""
-"The default field value is |icon_option| **Time step** will be equal to "
+"The default value of the |icon_option| **Time step** field is equal to "
 "the **Image interval** parameter specified when setting up the model "
 "simulation."
 
@@ -18280,6 +18562,7 @@ msgstr "Let us explain this with the example below."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Time_step.rst:25
 #: ed6a4a52192a43d6bd3d65adc1df2daf
+#, fuzzy
 msgid ""
 "Max Time = 100 (симуляция длится 100 модельных временных единиц).\n"
 "Image interval = 10 (изображения модели сохранялись каждые 10 модельных "
@@ -18317,6 +18600,34 @@ msgid ""
 " 0, 10, 20, 30 и 40);\n"
 "и т.д."
 msgstr ""
+"Max Time = 100 (simulation lasts for 100 model time units).\n"
+"Image interval = 10 (model images were saved every 10 model time units).\n"
+"\n"
+"Thus, model images are available for the following time points:\n"
+"\n"
+"0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 (let's call this sequence x).\n"
+"\n"
+"Assume Time step = 5 is set. In this case, the image display logic will "
+"be as follows:\n"
+"\n"
+"First step: 5 ⭢ image at time 0 is displayed, since in sequence x only 0 "
+"does not exceed 5;\n"
+"Second step: 10 ⭢ image at time 10 is displayed, since in sequence x 10 "
+"is the largest number not exceeding 10 (from 0 and 10);\n"
+"Third step: 15 ⭢ image at time 10 is displayed, since in sequence x 10 is"
+" the largest number not exceeding 15 (from 0 and 10);\n"
+"and so on.\n"
+"\n"
+"Assume Time step = 15 is set. In this case, the image display logic will "
+"be as follows:\n"
+"\n"
+"First step: 15 ⭢ image at time 10 is displayed, since in sequence x 10 is"
+" the largest number not exceeding 15 (from 0 and 10);\n"
+"Second step: 30 ⭢ image at time 30 is displayed, since in sequence x 30 "
+"is the largest number not exceeding 30 (from 0, 10, 20, and 30);\n"
+"Third step: 45 ⭢ image at time 40 is displayed, since in sequence x 40 is"
+" the largest number not exceeding 45 (from 0, 10, 20, 30, and 40);\n"
+"and so on."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:4
 #: 354100d65a714aa1a23f376ab204ebda
@@ -18373,9 +18684,8 @@ msgid ""
 "значение справа от поля |icon_option| **Frame per second**."
 msgstr ""
 ":raw-html:`<br>` You also need to select the number of frames shown per 1"
-" second (FPS, frame per second) in the video. To do this, specify the "
-"value you need to the right of the |icon_option| field. **Frame per "
-"second**."
+" second (FPS) in the video. To do this, specify the value you need to the"
+" right of the field |icon_option| **Frame per second**."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:29
 #: 9ed100679e89448a94df0dc629228f71
@@ -18391,7 +18701,7 @@ msgid ""
 "запись видео началась."
 msgstr ""
 "To start recording video, you need to click LMB on the "
-"|icon_record_button| on the button panel. After this, the button "
+"|icon_record_button| button on the panel. After this, the button "
 "|icon_record_button| will become |icon_recorded_button|, which means that"
 " video recording has started."
 
@@ -18428,8 +18738,8 @@ msgid ""
 "Теперь в выбранной директории появится файл |icon_video| "
 "**[ваше_название].mp4**, в котором записано ваше видео."
 msgstr ""
-"Now the file |icon_video| will appear in the selected directory. "
-"**[your_name].mp4**, which contains your video."
+"Now the file |icon_video| **[your_name].mp4**, which contains your video,"
+" will appear in the selected directory."
 
 #: ../../source/PhysiCell/PhysiCell_simulation_result/PhysiCell_simulation_result_Settings/PhysiCell_simulation_result_Settings_Video.rst:12
 #: 89bdfdfd8524478dbf68ab5ec0bcd567
@@ -18716,4 +19026,38 @@ msgstr "In the drop-down list, click LMB |icon_delete| **Remove database**."
 #: d1664be0b16249a59e0a4dd450fbe905
 msgid "Delete_project"
 msgstr "Delete_project"
+
+#~ msgid ""
+#~ "**Initial condition**: исходное количество "
+#~ "субстрата в каждой :ref:`ячейке среды "
+#~ "<Physicell_microenvironment_Domain>`,"
+#~ msgstr ""
+#~ "**Initial condition**: initial amount of "
+#~ "substrate in each :ref:`cell of the "
+#~ "environment <Physicell_microenvironment_Domain>`,"
+
+#~ msgid ""
+#~ "static int MyMethod(int variable1, int variable2)\n"
+#~ "\n"
+#~ "где:\n"
+#~ "\n"
+#~ "• static - указание на то, что "
+#~ "метод статический (применяется к классу). "
+#~ "Если не указано, то считается, что "
+#~ "метод нестатический (применяется к объекту "
+#~ "класса).\n"
+#~ "• int - тип данных, который "
+#~ "возращает метод. Если не указано, то "
+#~ "считается, что метод ничего не "
+#~ "возвращает (\"void\").\n"
+#~ "• MyMethod - название метода.\n"
+#~ "• int variable1 - название аргумента,"
+#~ " который принимает метод (variable1), и "
+#~ "его тип данных/класс (int). Если не "
+#~ "указано, то считается, что метод ничего"
+#~ " не принимает на вход."
+#~ msgstr ""
+
+#~ msgid "**Cell type**: тип клеток,"
+#~ msgstr "**Cell type**: cell type,"
 

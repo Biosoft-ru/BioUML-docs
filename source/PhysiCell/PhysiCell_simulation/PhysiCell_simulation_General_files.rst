@@ -7,8 +7,8 @@
 
 После симуляции модели в директории с результатами всегда имеется 3 файла:
 
-- |icon_Java_code| info.txt,
-- |icon_Java_code| log.txt,
+- |icon_Java_code| info.txt.
+- |icon_Java_code| log.txt.
 - |icon_Java_code| model.txt.
 
 Далее мы рассмотрим каждый из этих файлов подробно.
