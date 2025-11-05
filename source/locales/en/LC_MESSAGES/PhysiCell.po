@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  BioUML\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-05 15:30+0300\n"
+"POT-Creation-Date: 2025-11-05 16:11+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -13646,18 +13646,21 @@ msgstr "\\*Possible direction values:"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
 #: 7b6eb4fff8d1437486ca3e8e75ade967
-msgid "1) \"n (N)\" - нейтральный,"
-msgstr "1) \"n (N)\" - neutral,"
+#, fuzzy
+msgid "1. \"n (N)\" - нейтральный,"
+msgstr "1. \"n (N)\" - neutral,"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
 #: f8e320ab359a4dc98a5ae38dcd1dd26d
-msgid "2) \"i (I)\" - ингибитор,"
-msgstr "2) \"i (I)\" - inhibitor,"
+#, fuzzy
+msgid "2. \"i (I)\" - ингибитор,"
+msgstr "2. \"i (I)\" - inhibitor,"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
 #: f51d59a2c69342afb6d234ad40f5ac0d
-msgid "3) \"p (P)\" - промотор."
-msgstr "3) \"p (P)\" - promoter."
+#, fuzzy
+msgid "3. \"p (P)\" - промотор."
+msgstr "3. \"p (P)\" - promoter."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
 #: 6b3fcbd2fd3944a2a77d26bf35893636
