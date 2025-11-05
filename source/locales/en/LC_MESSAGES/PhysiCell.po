@@ -3432,7 +3432,6 @@ msgstr "Chemotaxis"
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Chemotaxis.rst:38
 #: e6b561b8163b48c0a59b2a1088ad857e
-#, fuzzy
 msgid ""
 ":raw-html:`<br>` После этого в появившемся окне необходимо задать "
 "параметры изменяемого хемотаксиса:"
