@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  BioUML\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-31 13:05+0300\n"
+"POT-Creation-Date: 2025-11-05 15:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -2568,8 +2568,10 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_cell_properties/PhysiCell_cell_properties_Rules.rst:51
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:66
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_BasicSignaling.rst:117
-#: 2398b1a897904dd9a59a7202c0687bf5 2bb859eb171142aaa822881a475e3a90
-#: 4e0a48c216fd4d9ea9cd83be0d64b9ea 584d28c3a7a64565bf566504dfa876a9
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:74
+#: 2398b1a897904dd9a59a7202c0687bf5 2b4fa66f4f7746c8a2ec757ae91e9897
+#: 2bb859eb171142aaa822881a475e3a90 4e0a48c216fd4d9ea9cd83be0d64b9ea
+#: 584d28c3a7a64565bf566504dfa876a9
 msgid "где:"
 msgstr "Where:"
 
@@ -4741,20 +4743,22 @@ msgstr "Y = \\frac{L^h}{L_{0.5}^h + L^h},"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_BasicSignaling.rst:119
 #: de0388b5048045379aadca5c14ed5015
-msgid "Y - значение выходящего сигнала,"
+#, fuzzy
+msgid "Y - значение выходящего сигнала."
 msgstr "Y - output signal value,"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_BasicSignaling.rst:120
 #: e06baf76d196430289e147da4ee018d6
-msgid "L - значение входящего сигнала,"
+#, fuzzy
+msgid "L - значение входящего сигнала."
 msgstr "L - value of the input signal,"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_BasicSignaling.rst:121
 #: 06e5d00aa03c4399a1da4a4930dfa18b
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid ""
 ":math:`L_{0,5}` - значение входящего сигнала, при котором значение "
-"выходящего сигнала равно половине от максимального возможного,"
+"выходящего сигнала равно половине от максимального возможного."
 msgstr ""
 ":math:`L_{0,5}` - the value of the input signal at which the value of the"
 " output signal is equal to half of the maximum possible,"
@@ -5796,8 +5800,8 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_PredatorPhenotype_java>` "
 "использования."
 msgstr ""
-":ref:`Example "
-"<PhysiCell_java_PredatorPreyFarmer_PredatorPhenotype_java>` of usage."
+":ref:`Example <PhysiCell_java_PredatorPreyFarmer_PredatorPhenotype_java>`"
+" of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:336
 #: 3e716621f470403b81efef0daead4dcb
@@ -5826,8 +5830,8 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` "
 "использования."
 msgstr ""
-":ref:`Example "
-"<PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` of usage."
+":ref:`Example <PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` "
+"of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:342
 #: e7312a9044564c96a84b3500095d4175
@@ -5906,8 +5910,8 @@ msgid ""
 "\\*Под соседством подразумевается, что клетка может взаимодействовать с "
 "клетками в этих ячейках."
 msgstr ""
-"\\*By adjacent we mean that a cell can interact with cells in those "
-"grid cells."
+"\\*By adjacent we mean that a cell can interact with cells in those grid "
+"cells."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:365
 #: a7028d00af7746768a4592de44ef98d8
@@ -5979,8 +5983,8 @@ msgid ""
 "Содержит объект, хранящий расположение всех клеток в ячейках внешней "
 "среды."
 msgstr ""
-"Contains an object that stores the location of all cells in the grid cells of "
-"the external environment."
+"Contains an object that stores the location of all cells in the grid "
+"cells of the external environment."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_CellContainer.rst:85
 #: 1315edb00d7a4b4db85b03c7cd06700f
@@ -7092,15 +7096,15 @@ msgstr ""
 "\n"
 "where:\n"
 "\n"
-"• static - indicates that the method is static (applies to the class). "
-"If not specified, the method is considered non-static (applies to "
-"an object of the class).\n"
-"• double - the data type returned by the method. If not specified, "
-"the method is considered to return nothing (\"void\").\n"
+"• static - indicates that the method is static (applies to the class). If"
+" not specified, the method is considered non-static (applies to an object"
+" of the class).\n"
+"• double - the data type returned by the method. If not specified, the "
+"method is considered to return nothing (\"void\").\n"
 "• norm - the method name.\n"
-"• double[] vector - the name of the argument accepted by the method (vector),"
-" and its data type/class (double[]). If not specified, the method is considered "
-"to accept no input parameters."
+"• double[] vector - the name of the argument accepted by the method "
+"(vector), and its data type/class (double[]). If not specified, the "
+"method is considered to accept no input parameters."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:35
 #: 820382db9b5e40f9a28b3dab7ad169ad
@@ -7231,8 +7235,8 @@ msgstr ""
 "   // radius - circle radius (double data type)\n"
 "   private double radius;\n"
 "\n"
-"   // Method that returns nothing. It simply prints information about"
-" the circle area\n"
+"   // Method that returns nothing. It simply prints information about the"
+" circle area\n"
 "   public void printArea() {\n"
 "\n"
 "      double area = Math.PI * square(radius);\n"
@@ -11138,8 +11142,9 @@ msgstr "double[] options.X_range"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst
 #: 26df04b5ed8b4785a9e6ed868acacfeb
+#, fuzzy
 msgid ""
-"Содержит массив [x_min, x_max], в котором первый элемент - минимальное "
+"Содержит массив [Xmin, Xmax], в котором первый элемент - минимальное "
 "значение координаты x внешней среды, а второй - максимальное."
 msgstr ""
 "Contains an array [x_min, x_max], in which the first element is the "
@@ -11163,8 +11168,9 @@ msgstr "double[] options.Y_range"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst
 #: 346a481dbec44da28a8e901608544eb8
+#, fuzzy
 msgid ""
-"Содержит массив [y_min, y_max], в котором первый элемент - минимальное "
+"Содержит массив [Ymin, Ymax], в котором первый элемент - минимальное "
 "значение координаты y внешней среды, а второй - максимальное."
 msgstr ""
 "Contains an array [y_min, y_max], in which the first element is the "
@@ -12210,8 +12216,8 @@ msgid ""
 "Содержит долю внутренних веществ, которая выбрасывается из клетки в "
 "момент ее гибели."
 msgstr ""
-"Contains a fraction of internal substances that are released from the cell"
-" at the time of its death."
+"Contains a fraction of internal substances that are released from the "
+"cell at the time of its death."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
 #: 6991ed3ea1094bd4ac099ef7795102c0
@@ -12421,8 +12427,8 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_Interactions_DifferentiatedPhenotype_java>` "
 "использования."
 msgstr ""
-":ref:`Example "
-"<PhysiCell_java_Interactions_DifferentiatedPhenotype_java>` of usage."
+":ref:`Example <PhysiCell_java_Interactions_DifferentiatedPhenotype_java>`"
+" of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:4
 #: 04ffa0f75db54993b30a779d0bbf298d
@@ -12684,8 +12690,8 @@ msgid ""
 "Возвращает численное значение сигнала signal, описывающего тот или иной "
 "аспект жизни клетки cell."
 msgstr ""
-"Returns the numerical value of signal signal, which describes one or another "
-"aspect of the life of a cell cell."
+"Returns the numerical value of signal signal, which describes one or "
+"another aspect of the life of a cell cell."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:84
 #: 2f2186ef8e4b43a59c327aef834fd7df
@@ -12994,8 +13000,8 @@ msgstr ""
 " Exception\n"
 "   {\n"
 "\n"
-"      // Code describing a custom rule for changing the internal "
-"state of pCell over time dt\n"
+"      // Code describing a custom rule for changing the internal state of"
+" pCell over time dt\n"
 "      // For example:\n"
 "      // signals.setSingleBehavior( pCell, \"chemotactic response to "
 "oxygen\", -1 );\n"
@@ -13128,8 +13134,8 @@ msgstr ""
 "   public void arrange(Model model) throws Exception\n"
 "   {\n"
 "\n"
-"      // Code that creates the initial arrangement of agents (cells) in the "
-"model\n"
+"      // Code that creates the initial arrangement of agents (cells) in "
+"the model\n"
 "      // For example:\n"
 "      // Cell.createCell( cd, m, position )\n"
 "\n"
@@ -13197,8 +13203,8 @@ msgstr ""
 "   public Cell execute(CellDefinition cd, Model model) throws Exception\n"
 "   {\n"
 "\n"
-"      // Code describing events that occur in the model when "
-"a new cell of type cd appears in it.\n"
+"      // Code describing events that occur in the model when a new cell "
+"of type cd appears in it.\n"
 "      // For example:\n"
 "      // Cell cell = new Cell( cd, model );\n"
 "      // cell.phenotype.mechanics.attachmentElasticConstant = "
@@ -13337,8 +13343,8 @@ msgstr ""
 "   public String[] getReportHeaderElements()\n"
 "   {\n"
 "\n"
-"      // Code that creates and returns an array of strings. Each string is a "
-"column name in the report table\n"
+"      // Code that creates and returns an array of strings. Each string "
+"is a column name in the report table\n"
 "      // For example:\n"
 "      // return new String[] {\"ID\", \"X\", \"Y\", \"Z\", "
 "\"Oncoprotein\"};\n"
@@ -13348,8 +13354,8 @@ msgstr ""
 "   public Object[] getReportElements(Cell cell) throws Exception\n"
 "   {\n"
 "\n"
-"      // Code that creates and returns an array of cell components. "
-"The order of components must match the column order\n"
+"      // Code that creates and returns an array of cell components. The "
+"order of components must match the column order\n"
 "      // For example:\n"
 "      // return new Object[] {cell.ID, cell.position[0], "
 "cell.position[1], cell.position[2], "
@@ -13531,12 +13537,14 @@ msgstr "result[1] - cell border color."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:54
 #: e3c1b2d791634f59895b5154a6ba59ba
-msgid "result[3] - цвет ядра клетки."
+#, fuzzy
+msgid "result[2] - цвет ядра клетки."
 msgstr "result[3] - color of the cell nucleus."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:55
 #: f23e31d1e51e43828f85edcf337962ff
-msgid "result[4] - цвет контура ядра."
+#, fuzzy
+msgid "result[3] - цвет контура ядра."
 msgstr "result[4] - nucleus border color."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:57
@@ -13843,7 +13851,8 @@ msgstr "vector[i] = vector1[i] + const*vector2[i],"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst
 #: a5187cd445c34f2fb4240ab903927ff9
-msgid "где i - каждая координата векторов vector1 и vector2."
+#, fuzzy
+msgid "где i - каждая координата векторов vector, vector1 и vector2."
 msgstr "where i is each coordinate of the vectors vector1 and vector2."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:145
@@ -13981,13 +13990,15 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:202
 #: 8698075b6a214d14ad15c07527a67f1f
-msgid "Расстояние между точками"
+#, fuzzy
+msgid "Расстояние между векторами"
 msgstr "Distance between points"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:204
 #: b00045a3f2734df5a68d00c86f1948e9
+#, fuzzy
 msgid ""
-"В двумерной системе координат расстояние (d) между точками :raw-"
+"В двумерной системе координат расстояние (d) между векторами :raw-"
 "html:`A(x<sub>1</sub>, y<sub>1</sub>) и B(x<sub>2</sub>, y<sub>2</sub>)` "
 "вычисляется следующим образом:"
 msgstr ""
@@ -14003,8 +14014,9 @@ msgstr "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:210
 #: 210acaac7dae474fa199aa2b7187ea90
+#, fuzzy
 msgid ""
-"В трехмерной системе координат расстояние (d) между точками :raw-"
+"В трехмерной системе координат расстояние (d) между векторами :raw-"
 "html:`A(x<sub>1</sub>, y<sub>1</sub>, z<sub>1</sub>) и B(x<sub>2</sub>, "
 "y<sub>2</sub>, z<sub>2</sub>)` вычисляется следующим образом:"
 msgstr ""
@@ -14594,10 +14606,13 @@ msgid "Initial_condition_parameters"
 msgstr "Initial_condition_parameters"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:32
-#: 84d961af029f43a5b29586f4cb749148
+#: 708302e39e1d458d86e91934202321ba
+#, fuzzy
 msgid ""
 "|icon_option| **Custom Java code**: путь до Java-кода в репозитории, "
-"описывающего начальное расположение клеток в модели."
+"описывающего начальное расположение клеток в модели. Шаблон такого файла "
+"можно посмотреть :ref:`здесь "
+"<PhysiCell_java_Templates_InitialCellsArranger>`."
 msgstr ""
 "|icon_option| **Custom Java code**: path to the Java code in the "
 "repository that describes the initial location of cells in the model."
@@ -14612,6 +14627,217 @@ msgstr ""
 "describes the initial location of cells in the model."
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:35
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:89
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:88
+#: 1d00a449350348a4996875f2acd50234 36f63f812d19403a933586e7de0e9a44
+#: 6a1c679ffa114fd2bb4f11f684e837cc
+msgid "Пример такой таблицы представлен ниже:"
+msgstr "An example of such a table is presented below:"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:40
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:94
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:93
+#: 4fa6e4c3e15c449395d25c4b38ac2553 508feec79819413bb08e7a2e6a23d745
+#: a7fbe1dd464e45ad845915bac81b81ca
+msgid "ID"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:41
+#: 023ea15b705d47f4b6085c7df44fd1c2
+msgid "x"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:42
+#: df2ed5a894754be08c31dc38d599aad7
+msgid "y"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:43
+#: 4a2d8f20ae0c4395a9c9fb5af57ee64b
+msgid "z"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:44
+#: a7d1922bc9704cc789e345bae0dd0855
+#, fuzzy
+msgid "type"
+msgstr "int type"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:46
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:100
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:105
+#: 08a991899e0448f49dcf40d267b3b447 25f1c37584254d3f8ca6c1a8edf8ec05
+#: 4ac0b29f48c94e26a632674a4e2a6fa0
+msgid "1"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:47
+#: f3aaf6d1ee3342139bacf8b850b25b01
+msgid "1163"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:48
+#: 4b37bb88ff4446389929dff5aef0273c
+msgid "-15.49167"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:49
+#: bb7e0b7d415b41d099ec5cfb44a57b2c
+msgid "-344.40643"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:50
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:55
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:60
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:65
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:70
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:104
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:110
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:116
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:122
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:128
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:134
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:140
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:146
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:152
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:158
+#: 3c6c3e67097e430ea054fbe3bfbd266d 512a7a0f0fa14ba7b1e0cefeb007fe97
+#: 6cad682afd204ddfa34735ab89594194 6e8c3af1cbef47f590842220bb67315b
+#: 6e902381e1ab424886780d3164740a5b a3839c2207ad46b3b17769feadb07261
+msgid "0.0"
+msgstr "0.0"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:51
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:106
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:111
+#: cb0b04f74e714197b78cfbbd5259d4a6 f70064ad488a4e20b96507ec57cd4ca1
+#: f778bbf4f911449da5dc5a6e1e762e15
+msgid "2"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:52
+#: d36825697ca34210a19d45a8ec269f08
+msgid "58"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:53
+#: 2a14f27f9cb04f1a9cdaf7d5bde7daaa
+msgid "-75.16966"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:54
+#: 76275428abe74b529db0f7281faea9e1
+msgid "-341.14908"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:56
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:112
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:117
+#: 042f8a8e158a420a8e8dd2d3442335ca 0d1bfcf33b5f4c0d911c83490b9d4f0d
+#: 2ed949abb30d4d4f82de251333c5af95
+msgid "3"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:57
+#: ad29a6c4fe044240ac10fc22bbfbc3f6
+msgid "1271"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:58
+#: 656104e17a534e36adbac5cea428e391
+msgid "17.53487"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:59
+#: ecbadc600a9542f884abf5119212d862
+#, fuzzy
+msgid "-340.547"
+msgstr "-41.584"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:61
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:118
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:123
+#: 01d24a6f099c47b59a37fd342b4fe830 33fb156911214ecb9bcb7534bc5b349a
+#: 6651410479544b9d80de4dd0a887acee
+msgid "4"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:62
+#: 47ff0811c2814abeb651c9f7cf68ce4b
+msgid "146"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:63
+#: 3e2720bfbaa6405881918c015894522b
+msgid "-26.52981"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:64
+#: d2b5f6ed9d2b4867a1a24f4f21fb2be6
+msgid "-339.61637"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:66
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:124
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:129
+#: 06074f98a3114feabda8adef596b5b50 2799ad38538d47cda5b68d6aabbf5eb9
+#: f0e2274081944c85baa29e35725d001f
+msgid "5"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:67
+#: d8f81d4e2d044a3a964a5659e97cdee9
+msgid "79"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:68
+#: 6f7eb0f7b4d84d89a08b350076f98993
+#, fuzzy
+msgid "-12.17254"
+msgstr "-16.753"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:69
+#: 07e4687e97314e90b01ca542ea3d11bc
+msgid "-338.07241"
+msgstr ""
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:72
+#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:137
+#: bc60bc65f11c47afba3670edd21d6efe f8156a266e45401cb79b12f2aefca199
+msgid "▼ таблица продолжается ▼"
+msgstr "▼ table continues ▼"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:76
+#: ca86f9c71bef4f49bfc3d8b450a28fe6
+#, fuzzy
+msgid "**ID**: уникальный идентификатор клетки."
+msgstr "**ID**: unique identifier for each cell,"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:77
+#: cf3b8e0a636c44949eec5be1260440d6
+#, fuzzy
+msgid "**x**: координата клетки по оси x."
+msgstr "**X**: cell coordinate along the X axis,"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:78
+#: c4b82e8e60c94fc4a8b8db5df0f88b4b
+#, fuzzy
+msgid "**y**: координата клетки по оси y."
+msgstr "**Y**: cell coordinate along the Y axis,"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:79
+#: 4ec4e1e255b347c090a12faf43578fc2
+#, fuzzy
+msgid "**z**: координата клетки по оси z."
+msgstr "**Z**: cell coordinate along the Z axis,"
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:80
+#: 5ea7b1eeb8cf49df9fe5cc32e4eb6554
+#, fuzzy
+msgid "**type**: код типа, к которому относится данная клетка."
+msgstr "Contains the name of the cell type to which the cell belongs."
+
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:82
 #: eef00e4c6b2e4aa7b729cb4f3c932819
 msgid ""
 "Чтобы указать путь до Java-кода или таблицы, нужно нажать ЛКМ на "
@@ -14638,7 +14864,7 @@ msgstr "icon_java_code"
 msgid "icon_table"
 msgstr ""
 
-#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:38
+#: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Initial_condition.rst:85
 #: 209fb9ba6b404cd5bea8a8e99f0c3597
 msgid ""
 "Нельзя одновременно указать и Java-код и таблицу, нужно выбрать что-то "
@@ -14803,10 +15029,12 @@ msgstr "Model_report_menu"
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:21
 #: 5ef0797f7ced49dba48811c466f5b441
+#, fuzzy
 msgid ""
 "|icon_option| **Custom report**: поставьте ☑, если хотите задать "
 "Java-код, по которому будет создаваться отчет по модели в табличной "
-"форме."
+"форме. Шаблон такого файла можно посмотреть :ref:`здесь "
+"<PhysiCell_java_Templates_Report>`."
 msgstr ""
 "|icon_option| **Custom report**: put ☑ if you want to specify the Java "
 "code that will be used to create a report on the model in tabular form."
@@ -14824,10 +15052,12 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_microenvironment/PhysiCell_microenvironment_Model_report.rst:23
 #: b3dc566312e8403391369b8c52a30260
+#, fuzzy
 msgid ""
 "|icon_option| **Custom visualizer**: поставьте ☑, если хотите задать "
 "Java-код, по которому будет изменяться расцветка клеток при симуляции "
-"модели."
+"модели. Шаблон такого файла можно посмотреть :ref:`здесь "
+"<PhysiCell_java_Templates_Visualizer>`."
 msgstr ""
 "|icon_option| **Custom visualizer**: check ☑ if you want to specify the "
 "Java code that will change the colors of the cells when simulating the "
@@ -16623,18 +16853,6 @@ msgstr ""
 " will indicate the amount of this particular substrate in a given space "
 "cell."
 
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:89
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:88
-#: 36f63f812d19403a933586e7de0e9a44 6a1c679ffa114fd2bb4f11f684e837cc
-msgid "Пример такой таблицы представлен ниже:"
-msgstr "An example of such a table is presented below:"
-
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:94
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:93
-#: 508feec79819413bb08e7a2e6a23d745 a7fbe1dd464e45ad845915bac81b81ca
-msgid "ID"
-msgstr ""
-
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:95
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:94
 #: 7ee933cd2376463baa6ee85d23788526 d26141cdecde48b8bc063f89ba0abe8f
@@ -16662,12 +16880,6 @@ msgstr "Substrate"
 #: 62f22936a271498aad800177ad0d1f34
 msgid "Substrate_1"
 msgstr "Substrate_1"
-
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:100
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:105
-#: 08a991899e0448f49dcf40d267b3b447 4ac0b29f48c94e26a632674a4e2a6fa0
-msgid "1"
-msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:101
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:102
@@ -16706,54 +16918,25 @@ msgstr "0.005"
 msgid "100,0"
 msgstr "100.0"
 
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:106
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:111
-#: f70064ad488a4e20b96507ec57cd4ca1 f778bbf4f911449da5dc5a6e1e762e15
-msgid "2"
-msgstr ""
-
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:107
 #: bfafe31ff9314706ba74bf45c51b3581
 msgid "-470,0"
 msgstr "-470.0"
-
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:112
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:117
-#: 042f8a8e158a420a8e8dd2d3442335ca 2ed949abb30d4d4f82de251333c5af95
-msgid "3"
-msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:113
 #: e45fd6812f314e11beebb101833a7351
 msgid "-450,0"
 msgstr "-450.0"
 
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:118
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:123
-#: 33fb156911214ecb9bcb7534bc5b349a 6651410479544b9d80de4dd0a887acee
-msgid "4"
-msgstr ""
-
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:119
 #: d5b1dde536194ef0ab7f3fc10f7ceb4b
 msgid "-430,0"
 msgstr "-430.0"
 
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:124
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:129
-#: 06074f98a3114feabda8adef596b5b50 f0e2274081944c85baa29e35725d001f
-msgid "5"
-msgstr ""
-
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:125
 #: 833335bb4f62445db72f01ae4b663f69
 msgid "-410,0"
 msgstr "-410.0"
-
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_density.rst:137
-#: f8156a266e45401cb79b12f2aefca199
-msgid "▼ таблица продолжается ▼"
-msgstr "▼ table continues ▼"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_images.rst:4
 #: a64017297aac42ee81209ae9f11899f3
@@ -17037,20 +17220,6 @@ msgstr "0.000"
 #: b7952b2bab4d44fcb30b85980b346b29
 msgid "Live"
 msgstr "Live"
-
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:104
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:110
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:116
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:122
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:128
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:134
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:140
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:146
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:152
-#: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:158
-#: 6e8c3af1cbef47f590842220bb67315b
-msgid "0.0"
-msgstr "0.0"
 
 #: ../../source/PhysiCell/PhysiCell_simulation/PhysiCell_simulation_Engine/PhysiCell_simulation_Engine_Save_report.rst:106
 #: f8baf1eb0a69405b970b16c32839044f
@@ -18424,7 +18593,7 @@ msgstr "Image of the model in two dimensions (2D)"
 #, fuzzy
 msgid ""
 "Если поле |icon_option| **2D** отмечено, то изображение модели выводится "
-"в 2-ух измерениях, если нет - в 3-ех."
+"в 2-ух измерениях (левая картинка), если нет - в 3-ех (правая картинка)."
 msgstr ""
 "If the field |icon_option| **2D** is checked, then the model image is "
 "displayed in 2 dimensions (A), if not - in 3 dimensions (B)."
@@ -18480,7 +18649,7 @@ msgstr "Image of axes (Axes)"
 #, fuzzy
 msgid ""
 "Если поле |icon_option| **Axes** отмечено, то на изображении модели будут"
-" отрисовываться оси системы координат модели."
+" отрисовываться оси системы координат модели (левая картинка)."
 msgstr ""
 "If the field |icon_option| **Axes** is checked, then the axes of the "
 "model coordinate system (A) will be drawn on the model image."
@@ -18490,7 +18659,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Если поле |icon_option| **Axes** не отмечено, то оси отображаться не "
-"будут."
+"будут (правая картинка)."
 msgstr ""
 "If the field |icon_option| **Axes** is not checked, then the axes will "
 "not be displayed (B)."
@@ -18510,7 +18679,7 @@ msgstr "Image of cells (Cells)"
 #, fuzzy
 msgid ""
 "Если поле |icon_option| **Cells** отмечено, то на изображении модели "
-"будут отрисовываться клетки."
+"будут отрисовываться клетки (левая картинка)."
 msgstr ""
 "If the field |icon_option| **Cells** is checked, cells (A) will be drawn "
 "on the model image."
@@ -18520,7 +18689,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Если поле |icon_option| **Cells** не отмечено, то клетки отображаться не "
-"будут."
+"будут. (правая картинка)"
 msgstr ""
 "If the field |icon_option| **Cells** is not checked, then the cells will "
 "not be displayed (B)."
@@ -18540,7 +18709,7 @@ msgstr "Image of nuclei in cells (Draw nuclei)"
 #, fuzzy
 msgid ""
 "Если поле |icon_option| **Draw nuclei** отмечено, то на изображении "
-"модели в клетках будут отрисовываться ядра."
+"модели в клетках будут отрисовываться ядра (левая картинка)."
 msgstr ""
 "If the field |icon_option| **Draw nuclei** is checked, then nuclei (A) "
 "will be drawn in the cells in the model image."
@@ -18550,7 +18719,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Если поле |icon_option| **Draw nuclei** не отмечено, то ядра в клетках "
-"отображаться не будут."
+"отображаться не будут (правая картинка)."
 msgstr ""
 "If the field |icon_option| **Draw nuclei** is not checked, then the "
 "nuclei in the cells will not be displayed (B)."
@@ -18621,7 +18790,7 @@ msgstr "Additional information about the model (Statistics)"
 msgid ""
 "Если поле |icon_option| **Statistics** отмечено, то на изображении модели"
 " выводятся значения модельного времени, количества клеток и среза по оси "
-"Z в случае двумерной модели."
+"Z в случае двумерной модели (левая картинка)."
 msgstr ""
 "If the field |icon_option| **Statistics** is marked, then the model image"
 " displays the values ​​of model time, number of cells, and slice along "
@@ -18632,7 +18801,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "Если поле |icon_option| **Statistics** не отмечено, то такая информация "
-"указываться не будет."
+"указываться не будет (правая картинка)."
 msgstr ""
 "If the field |icon_option| **Statistics** is not checked, then such "
 "information will not be indicated (B)."
