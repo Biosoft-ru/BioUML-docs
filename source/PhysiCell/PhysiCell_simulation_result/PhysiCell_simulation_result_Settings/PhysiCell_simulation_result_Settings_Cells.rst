@@ -8,9 +8,9 @@
 
 .. |icon_option| image:: /images/icons/option.png
 
-Если поле |icon_option| **Cells** отмечено, то на изображении модели будут отрисовываться клетки.
+Если поле |icon_option| **Cells** отмечено, то на изображении модели будут отрисовываться клетки (левая картинка).
 
-Если поле |icon_option| **Cells** не отмечено, то клетки отображаться не будут.
+Если поле |icon_option| **Cells** не отмечено, то клетки отображаться не будут. (правая картинка)
 
 .. figure:: /images/Physicell/Physicell_simulation_result/Cells_yes_no.png
    :width: 100%

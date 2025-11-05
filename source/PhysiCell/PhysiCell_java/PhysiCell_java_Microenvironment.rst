@@ -91,11 +91,11 @@ Microenvironment
        |
        | :ref:`Пример <PhysiCell_java_CancerImmune_Initial_java>` использования.
    * - double[] options.X_range
-     - | Содержит массив [x_min, x_max], в котором первый элемент - минимальное значение координаты x внешней среды, а второй - максимальное.
+     - | Содержит массив [Xmin, Xmax], в котором первый элемент - минимальное значение координаты x внешней среды, а второй - максимальное.
        |
        | :ref:`Пример <PhysiCell_java_CancerBiorobots_TherapyEvent_java>` использования.
    * - double[] options.Y_range
-     - | Содержит массив [y_min, y_max], в котором первый элемент - минимальное значение координаты y внешней среды, а второй - максимальное.
+     - | Содержит массив [Ymin, Ymax], в котором первый элемент - минимальное значение координаты y внешней среды, а второй - максимальное.
        |
        | :ref:`Пример <PhysiCell_java_CancerBiorobots_TherapyEvent_java>` использования.
    * - RandomGenerator getRNG()

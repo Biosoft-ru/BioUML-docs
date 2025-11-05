@@ -4661,7 +4661,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_Interactions_BacterialPhenotype_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_Interactions_BacterialPhenotype_java>` "
+":ref:`Example <PhysiCell_java_Interactions_BacterialPhenotype_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_BasicSignaling.rst:87
@@ -4828,7 +4828,7 @@ msgstr ""
 msgid ""
 ":ref:`Пример <PhysiCell_java_VirusMacrophage_Macrophage_java>` "
 "использования."
-msgstr ":ref:`Example of <PhysiCell_java_VirusMacrophage_Macrophage_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_VirusMacrophage_Macrophage_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_CartesianMesh.rst:81
 #: bd9d35c943934a63b5093b57ddebfb7e
@@ -5061,7 +5061,7 @@ msgstr "Examples: Chemotaxis, Advanced Chemotaxis."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
 #: 621112d64cb24ad28fdafbd7abdd5a90 fd4be78131b74108addaa34d1602b2c8
 msgid ":ref:`Пример <PhysiCell_java_Worm_WormRule_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_Worm_WormRule_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_Worm_WormRule_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:116
 #: 495d15f69b184c9c91993d69c626f366
@@ -5089,7 +5089,7 @@ msgstr ""
 msgid ""
 ":ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellRule_java>` "
 "использования."
-msgstr ":ref:`Example of <PhysiCell_java_CancerImmune_ImmuneCellRule_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_CancerImmune_ImmuneCellRule_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:120
 #: 0782a8e7afe04ae5a8f01c1c52509e72
@@ -5123,7 +5123,7 @@ msgstr ""
 msgid ""
 ":ref:`Пример <PhysiCell_java_CancerImmune_TumorPhenotype_java>` "
 "использования."
-msgstr ":ref:`Example of <PhysiCell_java_CancerImmune_TumorPhenotype_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_CancerImmune_TumorPhenotype_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:126
 #: d3d269152ed64902ba1af90af72915de
@@ -5321,7 +5321,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerImmune_CancerInstantiator_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_CancerImmune_CancerInstantiator_java>` "
+":ref:`Example <PhysiCell_java_CancerImmune_CancerInstantiator_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:175
@@ -5366,7 +5366,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerBiorobots_TumorPhenotype_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_CancerBiorobots_TumorPhenotype_java>` "
+":ref:`Example <PhysiCell_java_CancerBiorobots_TumorPhenotype_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:196
@@ -5385,7 +5385,7 @@ msgstr "Contains the value of the pressure exerted on the cell from the outside.
 #: ae30d7bab5e04610adbb27bd855ff45c ba9bb5b30b1642d48b6afaa9cbc5f2e4
 #: ff95fc96a5e046afbd8ec00cc13aa818
 msgid ":ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeA_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_CellTypes3_PhenotypeA_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_CellTypes3_PhenotypeA_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:200
 #: 7c9de082be914d729fb5c9b1bb8321b5
@@ -5403,7 +5403,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_Interactions_MacrophagePhenotype_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_Interactions_MacrophagePhenotype_java>` "
+":ref:`Example <PhysiCell_java_Interactions_MacrophagePhenotype_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
@@ -5436,8 +5436,8 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerImmune_CancerImmunityVisualizer_java>`"
 " использования."
 msgstr ""
-":ref:`Example of "
-"<PhysiCell_java_CancerImmune_CancerImmunityVisualizer_java>` usage."
+":ref:`Example "
+"<PhysiCell_java_CancerImmune_CancerImmunityVisualizer_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:215
 #: 120eb000977c43ceaadf60c6df4c88e5
@@ -5506,7 +5506,7 @@ msgstr "Sets the value of the user parameter name."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst
 #: 99307c83d34b4900ba12a2ba630cc201 f42b223d674e4f9185ab08bd3dbcb9c8
 msgid ":ref:`Пример <PhysiCell_java_CancerImmune_Initial_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_CancerImmune_Initial_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_CancerImmune_Initial_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:243
 #: 61e82c19c07143afacc1a671f8f6f870
@@ -5555,7 +5555,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerImmune_AdhesionContact_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_CancerImmune_AdhesionContact_java>` "
+":ref:`Example <PhysiCell_java_CancerImmune_AdhesionContact_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:260
@@ -5592,7 +5592,7 @@ msgstr "Contains the automatically generated cell identifier."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
 #: 3b92cf8092a24915b02dc19c8cc2ee71
 msgid ":ref:`Пример <PhysiCell_java_Heterogeneity_Report_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_Heterogeneity_Report_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_Heterogeneity_Report_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:272
 #: acd39ef2bb82464f86f20922795c7e69
@@ -5658,7 +5658,7 @@ msgstr "Creates a cell of type cd in the model at position."
 msgid ""
 ":ref:`Пример <PhysiCell_java_CancerImmune_ImmunityEvent_java>` "
 "использования."
-msgstr ":ref:`Example of <PhysiCell_java_CancerImmune_ImmunityEvent_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_CancerImmune_ImmunityEvent_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:298
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Model.rst:95
@@ -5680,7 +5680,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerImmune_ImmuneCellMotility_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_CancerImmune_ImmuneCellMotility_java>` "
+":ref:`Example <PhysiCell_java_CancerImmune_ImmuneCellMotility_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:302
@@ -5716,7 +5716,7 @@ msgstr "index - index of the type of cell death."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
 #: ac88495f7bbb4e72ae97e572e26dcc40
 msgid "Запускает клеточную смерть с индексом index."
-msgstr "Triggers cell death at index."
+msgstr "Triggers cell death with index index."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:314
 #: 4448d6aef66648ba80a50dfcf2afc593
@@ -5726,7 +5726,7 @@ msgstr "List<Cell> cells_in_my_container()"
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
 #: 4bd21d7dc095429ba641af05fa19cb43
 msgid "Возвращает список клеток в ячейке данной клетки."
-msgstr "Returns a list of cells in the cell of a given cell."
+msgstr "Returns a list of cells in the space cell of a given cell."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:318
 #: de2f784930cd4899a7721b11f36fd81e
@@ -5744,7 +5744,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerBiorobots_CargoPhenotype_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_CancerBiorobots_CargoPhenotype_java>` "
+":ref:`Example <PhysiCell_java_CancerBiorobots_CargoPhenotype_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:322
@@ -5796,8 +5796,8 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_PredatorPhenotype_java>` "
 "использования."
 msgstr ""
-":ref:`Example of "
-"<PhysiCell_java_PredatorPreyFarmer_PredatorPhenotype_java>` usage."
+":ref:`Example "
+"<PhysiCell_java_PredatorPreyFarmer_PredatorPhenotype_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:336
 #: 3e716621f470403b81efef0daead4dcb
@@ -5826,8 +5826,8 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` "
 "использования."
 msgstr ""
-":ref:`Example of "
-"<PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` usage."
+":ref:`Example "
+"<PhysiCell_java_PredatorPreyFarmer_WeightedMotility_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:342
 #: e7312a9044564c96a84b3500095d4175
@@ -5844,7 +5844,7 @@ msgstr "Activates lysis of a given cell."
 msgid ""
 ":ref:`Пример <PhysiCell_java_VirusMacrophage_Epithelial_java>` "
 "использования."
-msgstr ":ref:`Example of <PhysiCell_java_VirusMacrophage_Epithelial_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_VirusMacrophage_Epithelial_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:346
 #: 489e93af2c704c78a57665a5d8613fa1
@@ -5854,7 +5854,7 @@ msgstr "int get_current_mechanics_voxel_index()"
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst
 #: ee03334542114cf6a2a399d0093eabde
 msgid "Возвращает номер ячейки, в которой находится данная клетка."
-msgstr "Returns the number of the cell in which the given cell is located."
+msgstr "Returns the number of the grid cell in which the given cell is located."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:350
 #: 081a587e6ae24acb9636c4d48b35ca38
@@ -5906,8 +5906,8 @@ msgid ""
 "\\*Под соседством подразумевается, что клетка может взаимодействовать с "
 "клетками в этих ячейках."
 msgstr ""
-"\\*By neighborhood we mean that a cell can interact with cells in those "
-"cells."
+"\\*By adjacent we mean that a cell can interact with cells in those "
+"grid cells."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Cell.rst:365
 #: a7028d00af7746768a4592de44ef98d8
@@ -5979,7 +5979,7 @@ msgid ""
 "Содержит объект, хранящий расположение всех клеток в ячейках внешней "
 "среды."
 msgstr ""
-"Contains an object that stores the location of all cells in the cells of "
+"Contains an object that stores the location of all cells in the grid cells of "
 "the external environment."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_CellContainer.rst:85
@@ -5995,7 +5995,7 @@ msgstr "number - number of the grid cell in the model."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_CellContainer.rst
 #: 31b72b85671242eebedf84f9be74e0e5
 msgid "Возвращает массив из клеток в ячейке с номером number."
-msgstr "Returns an array of cells in cell number number."
+msgstr "Returns an array of cells in grid cell with number number."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_CellDefinition.rst:4
 #: bca90573c6db435b93c96bebeba024da
@@ -6036,7 +6036,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_Biorobots_BiorobotsVisualizer_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_Biorobots_BiorobotsVisualizer_java>` "
+":ref:`Example <PhysiCell_java_Biorobots_BiorobotsVisualizer_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_CellDefinition.rst:81
@@ -6081,7 +6081,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_RandomGenerator.rst
 #: 2d9f90c9efb24f65854f637e6cc62317 4e9997230b6f44d69827d005e3d79754
 msgid ":ref:`Пример <PhysiCell_java_Heterogeneity_Initial_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_Heterogeneity_Initial_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_Heterogeneity_Initial_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_CellDefinition.rst:95
 #: 39ae1ecc6bc0479e853206ebb87dc12a
@@ -6791,7 +6791,7 @@ msgstr "The class is created as follows:"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Class.rst:28
 #: 24db46de377e4a3fa8921e238d9a2006
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid ""
 "public class Cell {\n"
 "\n"
@@ -6804,7 +6804,7 @@ msgid ""
 "• class - указание на то, что создается класс.\n"
 "• Cell - название класса"
 msgstr ""
-"public class MyClass {\n"
+"public class Cell {\n"
 "\n"
 " // fields, methods, constructors of this class\n"
 "\n"
@@ -6813,7 +6813,7 @@ msgstr ""
 "• public - access modifier indicating that this class is accessible from "
 "any other class in any package.\n"
 "• class - indicates that a class is being created.\n"
-"• MyClass - the class name"
+"• Cell - the class name"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Class.rst:41
 #: 62d659fe3af6419c9f3d49b0b127c7e7
@@ -6949,7 +6949,6 @@ msgstr "The field is created as follows:"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Field.rst:24
 #: d41732dafd4e45e8881d584167b2be99
-#, fuzzy
 msgid ""
 "static int apoptotic\n"
 "\n"
@@ -6961,7 +6960,7 @@ msgid ""
 "• int - тип данных, которые содержит поле.\n"
 "• apoptotic - название поля."
 msgstr ""
-"static int MyField\n"
+"static int apoptotic\n"
 "\n"
 "where:\n"
 "\n"
@@ -6969,7 +6968,7 @@ msgstr ""
 "not specified, the field is considered non-static (applies to an object "
 "of the class).\n"
 "• int - the data type contained in the field.\n"
-"• MyField - the field name."
+"• apoptotic - the field name."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Field.rst:34
 #: d9230d6a76294f4b965cf500e0a75623
@@ -7089,6 +7088,19 @@ msgid ""
 " и его тип данных/класс (double[]). Если не указано, то считается, что "
 "метод ничего не принимает на вход."
 msgstr ""
+"static double norm(double[] vector)\n"
+"\n"
+"where:\n"
+"\n"
+"• static - indicates that the method is static (applies to the class). "
+"If not specified, the method is considered non-static (applies to "
+"an object of the class).\n"
+"• double - the data type returned by the method. If not specified, "
+"the method is considered to return nothing (\"void\").\n"
+"• norm - the method name.\n"
+"• double[] vector - the name of the argument accepted by the method (vector),"
+" and its data type/class (double[]). If not specified, the method is considered "
+"to accept no input parameters."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:35
 #: 820382db9b5e40f9a28b3dab7ad169ad
@@ -7170,6 +7182,20 @@ msgid ""
 "   }\n"
 "}"
 msgstr ""
+"// Circle class\n"
+"public class Circle {\n"
+"\n"
+"   // Class fields:\n"
+"   // radius - circle radius (double data type)\n"
+"   private double radius;\n"
+"\n"
+"   // Method that returns the circle area\n"
+"   public double getArea() {\n"
+"\n"
+"      double area = Math.PI * square(radius);\n"
+"      return area;\n"
+"   }\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:62
 #: 317c8d81e29a456a8da082f9fa850465
@@ -7198,6 +7224,21 @@ msgid ""
 "   }\n"
 "}"
 msgstr ""
+"// Circle class\n"
+"public class Circle {\n"
+"\n"
+"   // Class fields:\n"
+"   // radius - circle radius (double data type)\n"
+"   private double radius;\n"
+"\n"
+"   // Method that returns nothing. It simply prints information about"
+" the circle area\n"
+"   public void printArea() {\n"
+"\n"
+"      double area = Math.PI * square(radius);\n"
+"      System.out.println(\"Circle area: \" + area);\n"
+"   }\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:81
 #: 3062db4229594bec923d2f2a5dfe66d0
@@ -7223,12 +7264,14 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:85
 #: 64e6831ecd29456fac309254cfc39632
-#, fuzzy
 msgid ""
 "Cell.createCell(CellDefinition cd, Model model, double[] position);\n"
 "\n"
 "• Cell - название класса."
-msgstr "static void createCell(CellDefinition cd, Model model, double[] position)"
+msgstr ""
+"Cell.createCell(CellDefinition cd, Model model, double[] position);\n"
+"\n"
+"• Cell - the class name."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Description/PhysiCell_java_Description_Method.rst:91
 #: 6773e1307cfd401abbc707e3f3fe7ca2
@@ -11101,7 +11144,7 @@ msgid ""
 msgstr ""
 "Contains an array [x_min, x_max], in which the first element is the "
 "minimum value of the x coordinate of the external environment, and the "
-"second is the maximum."
+"second is the maximum one."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_RandomGenerator.rst
@@ -11110,7 +11153,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerBiorobots_TherapyEvent_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_CancerBiorobots_TherapyEvent_java>` "
+":ref:`Example <PhysiCell_java_CancerBiorobots_TherapyEvent_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst:97
@@ -11126,7 +11169,7 @@ msgid ""
 msgstr ""
 "Contains an array [y_min, y_max], in which the first element is the "
 "minimum value of the y coordinate of the external environment, and the "
-"second is the maximum."
+"second is the maximum one."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst:101
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Model.rst:85
@@ -11137,7 +11180,7 @@ msgstr "RandomGenerator getRNG()"
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst
 #: 1de65e3f88904b86a4cf17f3047fec60
 msgid "Возвращает генератор случайных чисел данной среды."
-msgstr "Returns the random number generator of the given environment."
+msgstr "Returns the random number generator of the given microenvironment."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
@@ -11145,7 +11188,7 @@ msgstr "Returns the random number generator of the given environment."
 #: 17e3b0265097405eba6b56ba72e7e256 221374fdf5704d2a8028a12773b35efe
 #: 34e3d660332d4da1b2ae4325826357bf
 msgid ":ref:`Пример <PhysiCell_java_CellTypes3_Initial_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_CellTypes3_Initial_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_CellTypes3_Initial_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Microenvironment.rst:105
 #: 0754bd111ca4467bbd7063f9f2cb57f7
@@ -11231,7 +11274,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerBiorobots_CargoCellRule_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_CancerBiorobots_CargoCellRule_java>` "
+":ref:`Example <PhysiCell_java_CancerBiorobots_CargoCellRule_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Model.rst
@@ -11261,7 +11304,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_CancerImmune_ImmuneInstantiator_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_CancerImmune_ImmuneInstantiator_java>` "
+":ref:`Example <PhysiCell_java_CancerImmune_ImmuneInstantiator_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Model.rst
@@ -11354,7 +11397,7 @@ msgstr "static Color readColor(String color)"
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst
 #: 5099f39a6bf742df8dbf947751cd6097
 msgid "color - цвет, например \"green\", \"red\" или \"rgb(100,100,255)\"."
-msgstr "color - color, for example \"green\", \"red\" or \"rgb(100,100,255)\"."
+msgstr "color - color, for example \"green\", \"red\", or \"rgb(100,100,255)\"."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_ModelReader.rst
 #: 6e0775118930445db38166486b9a2cdc
@@ -11631,7 +11674,7 @@ msgstr "Contains a numerical code for the cell's life cycle."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
 #: 93a7422524124b69840fc512690144d6
 msgid ":ref:`Пример <PhysiCell_java_ODEEnergy_Report_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_ODEEnergy_Report_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_ODEEnergy_Report_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:137
 #: 9fd2d06c24fa4cf79d393cacf1df75d6
@@ -11709,7 +11752,7 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_PredatorPreyFarmer_PPFReport_java>` "
 "использования."
 msgstr ""
-":ref:`Example of <PhysiCell_java_PredatorPreyFarmer_PPFReport_java>` "
+":ref:`Example <PhysiCell_java_PredatorPreyFarmer_PPFReport_java>` of "
 "usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:155
@@ -11724,7 +11767,7 @@ msgid ""
 "цикла данной конкретной клети."
 msgstr ""
 "Contains an object of the CycleData class that stores numerical data of "
-"the life cycle of this particular cage."
+"the life cycle of this particular cell."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:159
 #: 589c5d09c3844ac986b9ab6a7069719b
@@ -11848,7 +11891,7 @@ msgstr "Contains an array of probabilities of all types of cell deaths."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
 #: 5f933afc22e94249a42f55f993d0adaa
 msgid ":ref:`Пример <PhysiCell_java_CellTypes3_PhenotypeB_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_CellTypes3_PhenotypeB_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_CellTypes3_PhenotypeB_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:210
 #: 1165e6dda7f8425083956b42eb484993
@@ -11991,7 +12034,7 @@ msgstr "boolean isMotile"
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
 #: 6e60126473e54dea96d39d63b10afdf7
 msgid "Содержит true, если клетка подвижна."
-msgstr "Contains true if the cell is mobile."
+msgstr "Contains true if the cell is motile."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:297
 #: 6e8fe55963254a3fa5ed1442e962e6ca
@@ -12154,7 +12197,7 @@ msgstr ""
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
 #: 6a1dade4fefe4e88bbbcb9da03606d52
 msgid ":ref:`Пример <PhysiCell_java_ODEEnergy_Initial_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_ODEEnergy_Initial_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_ODEEnergy_Initial_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:359
 #: 66b9ec51fc9b42ab8fffbbdf7e32b045
@@ -12167,7 +12210,7 @@ msgid ""
 "Содержит долю внутренних веществ, которая выбрасывается из клетки в "
 "момент ее гибели."
 msgstr ""
-"Contains a portion of internal substances that are released from the cell"
+"Contains a fraction of internal substances that are released from the cell"
 " at the time of its death."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
@@ -12177,8 +12220,8 @@ msgid ""
 "<PhysiCell_java_VirusMacrophage_EpithelialInstantiator_java>` "
 "использования."
 msgstr ""
-":ref:`Example of "
-"<PhysiCell_java_VirusMacrophage_EpithelialInstantiator_java>` usage."
+":ref:`Example "
+"<PhysiCell_java_VirusMacrophage_EpithelialInstantiator_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:363
 #: 6f9d796b00a54ba080580d3f1af07349
@@ -12191,7 +12234,7 @@ msgid ""
 "Содержит долю внутренних веществ, которую получает клетка, поглотившая "
 "клетку данного типа."
 msgstr ""
-"Contains the proportion of internal substances that a cell receives that "
+"Contains the fraction of internal substances that a cell receives that "
 "has absorbed a cell of a given type."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:370
@@ -12218,7 +12261,7 @@ msgstr ""
 msgid ""
 ":ref:`Пример <PhysiCell_java_Interactions_StemPhenotype_java>` "
 "использования."
-msgstr ":ref:`Example of <PhysiCell_java_Interactions_StemPhenotype_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_Interactions_StemPhenotype_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst:383
 #: 5d6b6280ec584ccd8426c03f4418343c
@@ -12267,7 +12310,7 @@ msgstr "Returns the value of the name parameter in the intracellular model."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Phenotype.rst
 #: e64087cfef674521a5828324b8d3b610
 msgid ":ref:`Пример <PhysiCell_java_ODEEnergy_ODEVisualizer_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_ODEEnergy_ODEVisualizer_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_ODEEnergy_ODEVisualizer_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellConstants.rst:4
 #: 7c72bfa7389e4c93a8a55029e65008cd
@@ -12378,8 +12421,8 @@ msgid ""
 ":ref:`Пример <PhysiCell_java_Interactions_DifferentiatedPhenotype_java>` "
 "использования."
 msgstr ""
-":ref:`Example of "
-"<PhysiCell_java_Interactions_DifferentiatedPhenotype_java>` usage."
+":ref:`Example "
+"<PhysiCell_java_Interactions_DifferentiatedPhenotype_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:4
 #: 04ffa0f75db54993b30a779d0bbf298d
@@ -12430,12 +12473,12 @@ msgid ""
 "всей среде, в количестве number."
 msgstr ""
 "Adds cells of type type to the model model, randomly distributed "
-"throughout the environment, in number number."
+"throughout the microenvironment, in number number."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
 #: ab9d44073fc54dc3b095617be62bfdc9
 msgid ":ref:`Пример <PhysiCell_java_Interactions_Initial_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_Interactions_Initial_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_Interactions_Initial_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:85
 #: b2633069e02243bf9fdd152c90779810
@@ -12448,13 +12491,13 @@ msgid ""
 "Добавляет в модель model клетки типа type, случайно распределенные по "
 "всей среде в плоскости z = 0, в количестве number."
 msgstr ""
-"Adds number cells to the model model, randomly distributed throughout the"
-" environment in the z = 0 plane."
+"Adds cells of type type to the model model, randomly distributed "
+"throughout the microenvironment in the z = 0 plane, in number number."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst
 #: 65abb7946ae44e7b94078ae0bde05d60
 msgid ":ref:`Пример <PhysiCell_java_VirusMacrophage_Initial_java>` использования."
-msgstr ":ref:`Example of <PhysiCell_java_VirusMacrophage_Initial_java>` usage."
+msgstr ":ref:`Example <PhysiCell_java_VirusMacrophage_Initial_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_PhysiCellUtilities.rst:93
 #: a4ed11562e034fde8b75b357afaffc12
@@ -12468,7 +12511,7 @@ msgid ""
 "ячейке решетки и соседних ячейках."
 msgstr ""
 "Returns an array consisting of the neighbors of a given cell - cells in "
-"the same grid cell and neighboring cells."
+"the same grid cell and neighboring grid cells."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_RandomGenerator.rst:4
 #: 4e480e27dbd04f40bbb5349a3a8a2403
@@ -12571,7 +12614,7 @@ msgid ""
 "Возвращает случайное число с нормальным распределением со средним "
 "значением mean и стандартным отклонением SD."
 msgstr ""
-"Returns a normally distributed random number with mean and standard "
+"Returns a normally distributed random number with mean mean and standard "
 "deviation SD."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_RandomGenerator.rst:101
@@ -12641,7 +12684,7 @@ msgid ""
 "Возвращает численное значение сигнала signal, описывающего тот или иной "
 "аспект жизни клетки cell."
 msgstr ""
-"Returns the numerical value of signal, which describes one or another "
+"Returns the numerical value of signal signal, which describes one or another "
 "aspect of the life of a cell cell."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_SignalBehavior.rst:84
@@ -12860,6 +12903,29 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.core.CellFunctions.Contact;\n"
+"import ru.biosoft.physicell.core.Cell;\n"
+"import ru.biosoft.physicell.core.Phenotype;\n"
+"\n"
+"public class MyContact extends Contact\n"
+"{\n"
+"\n"
+"   // Class fields if needed\n"
+"\n"
+"   public void execute(Cell pActingOn, Phenotype pao, Cell pAttachedTo, "
+"Phenotype pat, double dt)\n"
+"   {\n"
+"\n"
+"      // Code describing contact between cells pActingOn and pAttachedTo "
+"over time dt\n"
+"      // For example:\n"
+"      // Cell.detachCells( pActingOn, pAttachedTo );\n"
+"\n"
+"   }\n"
+"\n"
+"   // Additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_CustomCellRule.rst:4
 #: f8968d7f66e442c0a10e52048e7f2c93
@@ -12909,6 +12975,36 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.core.CellFunctions.CustomCellRule;\n"
+"import ru.biosoft.physicell.core.Cell;\n"
+"import ru.biosoft.physicell.core.Model;\n"
+"import ru.biosoft.physicell.core.Phenotype;\n"
+"\n"
+"public class MyCellRule extends CustomCellRule\n"
+"{\n"
+"\n"
+"   // Class fields if needed\n"
+"\n"
+"   public MyCellRule(Model model)\n"
+"   {\n"
+"      // Code that initializes the class\n"
+"   }\n"
+"\n"
+"   public void execute(Cell pCell, Phenotype phenotype, double dt) throws"
+" Exception\n"
+"   {\n"
+"\n"
+"      // Code describing a custom rule for changing the internal "
+"state of pCell over time dt\n"
+"      // For example:\n"
+"      // signals.setSingleBehavior( pCell, \"chemotactic response to "
+"oxygen\", -1 );\n"
+"\n"
+"   }\n"
+"\n"
+"   // Additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Event.rst:20
 #: b7c8970d4fb3444db192856910c1eb66
@@ -12952,11 +13048,38 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.core.Model.Event;\n"
+"import ru.biosoft.physicell.core.Model;\n"
+"\n"
+"public class MyEvent extends Event\n"
+"{\n"
+"\n"
+"   // Class fields if needed\n"
+"\n"
+"   public MyEvent(Model model)\n"
+"   {\n"
+"\n"
+"      super( model );\n"
+"      // Code that initializes event properties in the model\n"
+"\n"
+"   }\n"
+"\n"
+"   @Override\n"
+"   public void execute() throws Exception\n"
+"   {\n"
+"\n"
+"      // Code that executes the event\n"
+"\n"
+"   }\n"
+"\n"
+"   // Additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_InitialCellsArranger.rst:4
 #: 38c0a05a394d49a098a82e6a956cc03b
 msgid "Начальная расстановка клеток"
-msgstr "Initial arrangement of cells"
+msgstr "Initial cell arrangement"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_InitialCellsArranger.rst:20
 #: 8fe63c0ccb4a4928b236a69c43be03eb
@@ -12993,6 +13116,28 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.core.InitialCellsArranger;\n"
+"import ru.biosoft.physicell.core.Model;\n"
+"\n"
+"public class MyInitial extends InitialCellsArranger\n"
+"{\n"
+"\n"
+"   // Class fields if needed\n"
+"\n"
+"   @Override\n"
+"   public void arrange(Model model) throws Exception\n"
+"   {\n"
+"\n"
+"      // Code that creates the initial arrangement of agents (cells) in the "
+"model\n"
+"      // For example:\n"
+"      // Cell.createCell( cd, m, position )\n"
+"\n"
+"   }\n"
+"\n"
+"   // Additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Instantiator.rst:4
 #: 2752622a6acf4331ae8e47836cbc5517
@@ -13038,11 +13183,37 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.core.CellFunctions.Instantiator;\n"
+"import ru.biosoft.physicell.core.Cell;\n"
+"import ru.biosoft.physicell.core.CellDefinition;\n"
+"import ru.biosoft.physicell.core.Model;\n"
+"\n"
+"public class MyInstantiator extends Instantiator\n"
+"{\n"
+"\n"
+"   // Class fields if needed\n"
+"\n"
+"   @Override\n"
+"   public Cell execute(CellDefinition cd, Model model) throws Exception\n"
+"   {\n"
+"\n"
+"      // Code describing events that occur in the model when "
+"a new cell of type cd appears in it.\n"
+"      // For example:\n"
+"      // Cell cell = new Cell( cd, model );\n"
+"      // cell.phenotype.mechanics.attachmentElasticConstant = "
+"cd.custom_data.get( \"elastic_coefficient\" );\n"
+"\n"
+"   }\n"
+"\n"
+"   // Additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Motility.rst:4
 #: 7ea4dbc1b4b54a3888c39256dd9b6049
 msgid "Подвижность"
-msgstr "Mobility"
+msgstr "Motility"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Motility.rst:20
 #: bf0d41ba191a4a2084da4b73c2700ec7
@@ -13079,6 +13250,28 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.core.CellFunctions.UpdateMigrationBias;\n"
+"import ru.biosoft.physicell.core.Cell;\n"
+"import ru.biosoft.physicell.core.Phenotype;\n"
+"\n"
+"public class MyMotility extends UpdateMigrationBias\n"
+"{\n"
+"\n"
+"   // Class fields if needed\n"
+"\n"
+"   @Override\n"
+"   public void execute(Cell pCell, Phenotype phenotype, double dt)\n"
+"   {\n"
+"\n"
+"      // Code describing changes in motility of pCell over time dt\n"
+"      // For example:\n"
+"      // phenotype.motility.isMotile = true;\n"
+"\n"
+"   }\n"
+"\n"
+"   // Additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Report.rst:4
 #: e9d624d2902c490190068eea7fdddd19
@@ -13133,6 +13326,41 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.core.ReportGenerator;\n"
+"import ru.biosoft.physicell.core.Cell;\n"
+"\n"
+"public class MyReport extends ReportGenerator\n"
+"{\n"
+"\n"
+"   // Class fields if needed\n"
+"\n"
+"   public String[] getReportHeaderElements()\n"
+"   {\n"
+"\n"
+"      // Code that creates and returns an array of strings. Each string is a "
+"column name in the report table\n"
+"      // For example:\n"
+"      // return new String[] {\"ID\", \"X\", \"Y\", \"Z\", "
+"\"Oncoprotein\"};\n"
+"\n"
+"   }\n"
+"\n"
+"   public Object[] getReportElements(Cell cell) throws Exception\n"
+"   {\n"
+"\n"
+"      // Code that creates and returns an array of cell components. "
+"The order of components must match the column order\n"
+"      // For example:\n"
+"      // return new Object[] {cell.ID, cell.position[0], "
+"cell.position[1], cell.position[2], "
+"cell.getModel().signals.getSingleSignal( cell, \"custom:oncoprotein\" )};"
+"\n"
+"\n"
+"   }\n"
+"\n"
+"   // Additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_UpdatePhenotype.rst:4
 #: 13a42e6b335048459973ee9fb8aec81e
@@ -13181,11 +13409,40 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.core.CellFunctions.UpdatePhenotype;\n"
+"import ru.biosoft.physicell.core.Cell;\n"
+"import ru.biosoft.physicell.core.Model;\n"
+"import ru.biosoft.physicell.core.Phenotype;\n"
+"\n"
+"public class MyPhenotype extends UpdatePhenotype\n"
+"{\n"
+"\n"
+"   // Class fields if needed\n"
+"\n"
+"   public MyPhenotype(Model model)\n"
+"   {\n"
+"      // Code that initializes the class\n"
+"   }\n"
+"\n"
+"   public void execute(Cell pCell, Phenotype phenotype, double dt) throws"
+" Exception\n"
+"   {\n"
+"\n"
+"      // Code describing internal changes of pCell over time dt\n"
+"      // For example:\n"
+"      // signals.setSingleBehavior( pCell, \"chemotactic response to "
+"oxygen\", -1 );\n"
+"\n"
+"   }\n"
+"\n"
+"   // Additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:4
 #: f519983c2e9c444a822a51bd61978166
 msgid "Визуализация клеток"
-msgstr "Cell Imaging"
+msgstr "Visualization of cells"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:20
 #: 6cf6ec79e6274386964286a70e9ae7b1
@@ -13225,6 +13482,31 @@ msgid ""
 "\n"
 "}"
 msgstr ""
+"import ru.biosoft.physicell.ui.AgentColorer;\n"
+"import java.awt.Color;\n"
+"\n"
+"public class Visualizer implements AgentColorer\n"
+"{\n"
+"\n"
+"   // class fields if needed\n"
+"\n"
+"   @Override\n"
+"   public Color[] findColors(Cell cell)\n"
+"   {\n"
+"\n"
+"      // Code that creates and returns an array where each element is a "
+"color. The array can contain 4, 2, or 1 element.\n"
+"      // For example:\n"
+"      // Color[] result = new Color[2];\n"
+"      // result[0] = Color.cyan;\n"
+"      // result[1] = new Color( 250, 138, 38 );\n"
+"      // return result;\n"
+"\n"
+"   }\n"
+"\n"
+"   // additional methods if needed\n"
+"\n"
+"}"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:50
 #: e66f1cd303234bfb8d416168f3319f0e
@@ -13255,7 +13537,7 @@ msgstr "result[3] - color of the cell nucleus."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:55
 #: f23e31d1e51e43828f85edcf337962ff
 msgid "result[4] - цвет контура ядра."
-msgstr "result[4] - core border color."
+msgstr "result[4] - nucleus border color."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Templates/PhysiCell_java_Templates_Visualizer.rst:57
 #: 101620aff38849f4b94ad595a9ffe003
@@ -13292,7 +13574,7 @@ msgstr ""
 "The UpDownSignal class is used to calculate the effect of an output "
 "signal according to multivariate Hill's law based on multiple input "
 "effect signals. Methods in this class are used to calculate the influence"
-" of :ref:`<PhysiCell_cell_properties_Rules>` rules."
+" of :ref:`rules <PhysiCell_cell_properties_Rules>`."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst:66
 #: 4199bd0c8cc9434795e5c3fea39072e6
@@ -13352,7 +13634,7 @@ msgstr "direction - direction*."
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
 #: 26494fb3917742d5a27b777059d8c447
 msgid "\\*Возможные значения направленности:"
-msgstr "\\*Possible directivity values:"
+msgstr "\\*Possible direction values:"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_UpDownSignal.rst
 #: 7b6eb4fff8d1437486ca3e8e75ade967
@@ -13541,8 +13823,8 @@ msgid ""
 "<PhysiCell_java_PredatorPreyFarmer_AvoidBoundariesRule_java>` "
 "использования."
 msgstr ""
-":ref:`Example of "
-"<PhysiCell_java_PredatorPreyFarmer_AvoidBoundariesRule_java>` usage."
+":ref:`Example "
+"<PhysiCell_java_PredatorPreyFarmer_AvoidBoundariesRule_java>` of usage."
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:135
 #: e68fe0df0b1b423d83f3d6dece79d47f
@@ -13621,6 +13903,12 @@ msgid ""
 "// Покоординатная разница\n"
 "Vector3D difference = a.subtract(b); // Результат: (4, 1, 3)"
 msgstr ""
+"// Given\n"
+"Vector3D a = new Vector3D(5, 3, 7);\n"
+"Vector3D b = new Vector3D(1, 2, 4);\n"
+"\n"
+"// Component-wise difference\n"
+"Vector3D difference = a.subtract(b); // Result: (4, 1, 3)"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_VectorUtil.rst:175
 #: eb916b55de134d588f2fbfd149faf6e5

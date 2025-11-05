@@ -8,7 +8,7 @@
 
 .. |icon_option| image:: /images/icons/option.png
 
-Если поле |icon_option| **2D** отмечено, то изображение модели выводится в 2-ух измерениях, если нет - в 3-ех.
+Если поле |icon_option| **2D** отмечено, то изображение модели выводится в 2-ух измерениях (левая картинка), если нет - в 3-ех (правая картинка).
 
 .. figure:: /images/Physicell/Physicell_simulation_result/2D_3D_model.png
    :width: 100%

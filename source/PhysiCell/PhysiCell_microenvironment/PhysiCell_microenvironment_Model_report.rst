@@ -18,9 +18,9 @@
 
 :raw-html:`<br>`
 
-- |icon_option| **Custom report**: поставьте ☑, если хотите задать Java-код, по которому будет создаваться отчет по модели в табличной форме.
+- |icon_option| **Custom report**: поставьте ☑, если хотите задать Java-код, по которому будет создаваться отчет по модели в табличной форме. Шаблон такого файла можно посмотреть :ref:`здесь <PhysiCell_java_Templates_Report>`.
 - |icon_option| **Custom global report**: поставьте ☑, если хотите задать Java-код, который будет определять вывод логов в консль во время симуляции модели.
-- |icon_option| **Custom visualizer**: поставьте ☑, если хотите задать Java-код, по которому будет изменяться расцветка клеток при симуляции модели.
+- |icon_option| **Custom visualizer**: поставьте ☑, если хотите задать Java-код, по которому будет изменяться расцветка клеток при симуляции модели. Шаблон такого файла можно посмотреть :ref:`здесь <PhysiCell_java_Templates_Visualizer>`.
 
 При указании ☑ напротив |icon_option| **Custom report**, |icon_option| **Custom global report** или |icon_option| **Custom visualizer** ниже выбранного поля появится новое поле |icon_option| **Report**, |icon_option| **Global report** или |icon_option| **Visualizer**, соответственно. Напротив этих полей можно нажать ЛКМ на |icon_Java_code| **(select element)**, а затем в появившемся окне указать путь до нужного Java-кода в репозитории.
 
