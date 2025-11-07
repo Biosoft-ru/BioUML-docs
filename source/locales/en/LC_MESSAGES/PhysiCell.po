@@ -6278,7 +6278,7 @@ msgstr "An example of creating a variable of this type:"
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Boolean.rst:24
 #: 240e8411f20d4d358815ff58f9c58041
 msgid "boolean isDone = true;"
-msgstr "boolean isMotile"
+msgstr "boolean isDone = true;"
 
 #: ../../source/PhysiCell/PhysiCell_java/PhysiCell_java_Data_types/PhysiCell_java_Data_types_Double.rst:4
 #: bde2c9c275e1450aaed28fb341007acc
