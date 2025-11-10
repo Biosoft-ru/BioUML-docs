@@ -17,6 +17,14 @@
    :align: center
 
 :raw-html:`<br>`
+Если вы работаете в веб-версии BioUML, то на главной странице нужно нажать **Create project**:
+
+.. figure:: /images/Physicell/Physicell_model_creation/New_project_button_web.png
+   :width: 60%
+   :alt: New_project_button_web
+   :align: center
+
+:raw-html:`<br>`
 После этого в появившемся окне вы можете настроить свой проект:
 
 .. figure:: /images/Physicell/Physicell_model_creation/Project_creation.png
