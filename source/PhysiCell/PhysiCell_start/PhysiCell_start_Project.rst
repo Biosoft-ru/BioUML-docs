@@ -20,7 +20,7 @@
 Если вы работаете в веб-версии BioUML, то на главной странице нужно нажать **Create project**:
 
 .. figure:: /images/Physicell/Physicell_model_creation/New_project_button_web.png
-   :width: 60%
+   :width: 100%
    :alt: New_project_button_web
    :align: center
 

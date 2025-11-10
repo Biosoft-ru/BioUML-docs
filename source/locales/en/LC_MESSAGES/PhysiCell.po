@@ -3568,7 +3568,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Chemotaxis.rst:65
 #: 21592745da894e2cb53a1aa603ed1fb5
-#, fuzzy
 msgid "Нажать на обозначение хемотаксиса ПКМ."
 msgstr "Right-click on the chemotaxis designation."
 
@@ -3719,7 +3718,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Event.rst:59
 #: 2f89910b967b48f9a1f17003eebdd99f
-#, fuzzy
 msgid "Нажать на обозначение события ПКМ."
 msgstr "Right-click on the event designation."
 
@@ -3851,7 +3849,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Interaction.rst:64
 #: 4beed1e7ad834e81adab7793ae74708b
-#, fuzzy
 msgid "Нажать на обозначение взаимодействия ПКМ."
 msgstr "Right-click on the interaction designation."
 
@@ -4307,7 +4304,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Secretion.rst:87
 #: 9ecf85f9218b4432adfd5d5f57cd756e
-#, fuzzy
 msgid "Нажать на обозначение секреции/потребления ПКМ."
 msgstr "Right-click on the secretion/consumption designation."
 
@@ -4486,7 +4482,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Substrate.rst:60
 #: b8435aefd08542b2a820d87e8668c845
-#, fuzzy
 msgid "Нажать на обозначение субстрата ПКМ."
 msgstr "Right-click on the substrate designation."
 
@@ -4612,7 +4607,6 @@ msgstr "**Transformation rate**: transformation speed."
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:55
 #: 6fe104bdef1e43d7901e63c91af3d412
-#, fuzzy
 msgid ""
 "Чтобы удалить трансформацию из модели, необходимо нажать на нее ЛКМ и "
 "нажать клавишу **Delete**."
@@ -4622,7 +4616,6 @@ msgstr ""
 
 #: ../../source/PhysiCell/PhysiCell_development/PhysiCell_development_Transformation.rst:59
 #: d73f038a5bdb4e21b136d0dab300c2f6
-#, fuzzy
 msgid "Нажать на обозначение трансформации ПКМ."
 msgstr "Right-click on the transformation designation."
 
@@ -19534,6 +19527,8 @@ msgid ""
 ":raw-html:`<br>` Если вы работаете в веб-версии BioUML, то на главной "
 "странице нужно нажать **Create project**:"
 msgstr ""
+":raw-html:`<br>` If you are working in the web version of BioUML, then on the main "
+"page you need to click **Create project**:"
 
 #: ../../source/PhysiCell/PhysiCell_start/PhysiCell_start_Project.rst:22
 #: 9ef05fb53a534cc7bf55b3f5ffb02665
